@@ -1,0 +1,11 @@
+atributions:
+
+theme: https://github.com/gdg-x/zeppelin
+
+background hero: Christian Haugen https://www.flickr.com/photos/christianhaugen/3682346545/in/photolist-cuA2Eh-pSPcX3-cg5MnY-5hT5Kx-pT38rx-emaLin-6BoZkx-qPJvty-4bigN9-6iHiQ1-cEGwxQ-6BtaWs-75AdhC-9ZYRVj-8gZEHQ-3JJHmj-6uYkBJ-5aRuDz-aAAi9s-5NuGpM-7uukYD-6BtgqA-6Zt7zK-4NHvTw-99yKVr
+
+background hero2: https://www.flickr.com/photos/jmpznz/1762152357/in/photolist-3FHuvc-mKcBae-cHT3tu-aS2rax-o7MLHb-8Tgr9X-eV1sXd-92nUTi-jhxgSW-59jUFn-GM7knY-4BddHs-Rqxy8Q-Tx8p63-6h7eJ8-391uiC-u9bCts-uokFCG-eJSsku-4DQjiw-AzAxnx-ogwdWA-trP8ah-qdi29h-M2i7tS-D6L4MC-sa4ZVM-TFvf6S-woScwU-Jf4ojt-7M1eh4-8rjCSa-vqxnQX-aZwttP-fnhngZ-h35oPA-FWJTdz-f8TFGZ-tNz6Tq-2avNWT-9gfr9t-nSAisN-ocg5z5-xJVRj-Guj5ux-zBJx2z-GifkUb-DRpnE-voXYrd-92BZCK
+
+banner poster: banner by Gan Khoon Lay from the Noun Project
+
+star: Star by Landan Lloyd from the Noun Project

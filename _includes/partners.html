@@ -2,27 +2,32 @@
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.organizersTitle }}</h3>
+            {% assign lang = page.lang %}
+            <!--
+            <h3>{{ site.data.messages.[lang].organizersTitle }}</h3>
             {% for organizer in site.data.organizers %}
-            <h5>{{ organizer.group }}</h5>
+            <h5>{{ organizer.group.[lang] }}</h5>
             <ul class="list-inline">
                 {% for element in organizer.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                    </a>
+                        <img  class="img-circle" src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.name }}" alt="{{ element.name }}">
+                    </a> <br>
+                    <h5>{{ element.name }}</h5> 
                 </li>
                 {% endfor %}
-            </ul>
+            </ul> 
             {% endfor %}
-            <h3>{{ site.partnersTitle }}</h3>
+        -->
+            <h3>{{ site.data.messages.[lang].partnersTitle }}</h3>
             {% for partner in site.data.partners %}
-            <h5>{{ partner.group }}</h5>
+            <h5>{{ partner.group.[lang] }}</h5>
             <ul class="list-inline">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
                         <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <h5> {{ element.name }} </h5>
                     </a>
                 </li>
                 {% endfor %}

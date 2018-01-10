@@ -1,0 +1,103 @@
+# Messages for localization
+# see description here: https://tuananh.org/2014/08/13/localization-with-jekyll/
+footerBlocks:
+ -
+  title: {en: "Links", es: "Links"}
+  links:
+   - {link: "http://47jaiio.sadio.org.ar/index.php?q=node/125", text: {en: "Web JAIIO", es: "Web JAIIO"}}
+ -
+  title: {en: "Contact", es: "Contacto"}
+  links:
+   - {link: "mailto:latinr@47jaiio.sadio.org.ar", text: {en: "latinr@47jaiio.sadio.org.ar", es: "latinr@47jaiio.sadio.org.ar" }}
+ -
+  title: {en: "FAQ", es: "FAQ"}
+  links:
+   - {permalink: {en: "/cod/", es: "/cdc/"}, text: {en: "Code of Conduct", es: "Código de Conducta"}}
+
+en: 
+     about: About
+     home: Home
+     schedule: Schedule
+     speakers: Speakers
+     team: Team
+     logistics: Logistics
+     inscribite: Register
+     eventDate: September 4th & 5th 2018
+     description: Latinamerican Conference About the Use of R in R&D
+     tweetsFeedTitle: What's up?
+     blogTitle: "Blog"
+     latestNewsTitle: "Latest News"
+     locationBlockTitle: Location
+     eventLocationName: Engineering School - University of Palermo
+     partnersTitle: "With support from"
+     links: "Links"
+     contact: "Contact"
+     # Navigation
+     navigationLinks:
+       - {permalink: "/en", text: "Home" }
+       - {permalink: "/schedule/", text: "Schedule"}
+       - {permalink: "/speakers/", text: "Speakers"}
+       - {permalink: "/team/", text: "Team"}
+       - {permalink: "/logistics/", text: "Logistics"}
+     bottomNavigationLinks:
+       - {link: "", text: "Register"}
+     rightNavigationButtons:
+       - {link: "", text: "Register"}
+     heroButtons:
+       - {link: "", text: "Call for papers"}
+       - {link: "", text: "Register"}
+
+     aboutBlock:
+       - {title: "Oral presentations", image: "presentation.png", text: "Presentations of research results and demonstrations of applications created with R." }
+       - {title: "Conferences", image: "conference.png", text: "Talks by leaders of the use in R in various areas." }
+       - {title: "Posters", image: "posters.png", text: "Discuss ideas, ongoing research, experiences and challenges in the use of R." }
+
+     subscribeTitle: "Subscribe"
+
+es: 
+    about: Acerca de 
+    home: Principal
+    schedule: Cronograma
+    speakers: Oradores
+    team: Equipo
+    logistics: Logística
+    inscribite: Inscribite
+    eventDate: 4 y 5 de septiembre 2018
+    desceription: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
+    latestNewsTitle: "Novedades"
+    blog: Blog
+    tweetsFeedTitle: "Twitter"
+    locationBlockTitle: "Lugar"
+    eventLocationName: "Facultad de Ingeniería - Universidad de Palermo"
+
+    
+    # Navigation
+    navigationLinks:
+     - {permalink: "/", text: "Principal" }
+     - {permalink: "/cronograma/", text: "Cronograma"}
+     - {permalink: "/oradores/", text: "Oradores"}
+     - {permalink: "/equipo/", text: "Equipo"}
+     - {permalink: "/logistica/", text: "Logística"}
+    bottomNavigationLinks:
+     - {link: "", text: "Registrate"}
+    rightNavigationButtons:
+     - {link: "", text: "Registrate"}
+    heroButtons:
+     - {link: "", text: "Envío de trabajos"}
+     - {link: "", text: "Registrate"}
+    
+    # about
+    aboutBlock:
+     - {title: "Presentaciones orales", image: "presentation.png", text: "Presentación de resultados de trabajos de investigación y demostración de aplicaciones creadas en R." }
+     - {title: "Conferencias", image: "conference.png", text: "Charlas de referentes en el uso de R en distintas áreas." }
+     - {title: "Posters", image: "posters.png", text: "Discusión sobre ideas, investigaciones en curso, experiencias y desafíos en el uso de R." }
+
+
+    # Partners Block
+    organizersTitle: "Organizadores"
+    partnersTitle: "Con apoyo de"
+    partnersC4sponsorsButton: "Se un sponsor"
+    subscribeTitle: "Subscribirse a novedades"
+
+    # footers
+

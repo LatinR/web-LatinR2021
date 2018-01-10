@@ -3,7 +3,8 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+{% assign lang = page.lang %}
+<html lang={{ lang }}>
 
 {% include head.html %}
 
@@ -18,7 +19,7 @@ layout: compress
 
                 {{ content }} 
 
-                {% include footer.html %}
+                {% include footer.html %} 
 
             </div>
         </div>

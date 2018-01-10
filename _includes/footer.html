@@ -7,13 +7,14 @@
 		<div class="logo logo-footer logo-gray pull-right"></div>
 	</div>
 	<div class="row">
-		{% for block in site.footerBlocks %}
+		{% assign lang = page.lang %}
+		{% for block in site.data.messages.footerBlocks %}
         {% assign colWidth = 12 | divided_by: forloop.length %}
 		<div class="col-md-{{ colWidth }} col-xs-6">
-			<h5>{{ block.title }}</h5>
+			<h5>{{ block.title.[lang] }}</h5>
 			<ul>
 				{% for linkElement in block.links %}
-				<li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
+				<li><a href="{% if linkElement.permalink.[lang] != null %} {{ linkElement.permalink.[lang] | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text.[lang] }}</a></li>
 				{% endfor %}
 			</ul>
 		</div>

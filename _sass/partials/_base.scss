@@ -54,4 +54,11 @@ $image-dir: "../img";
 $sprites-dir: $image-dir + "/sprites";
 $logos-sprite: $sprites-dir + "/logos.svg";
 
+
+
+.en:lang(en), .es:lang(es){
+    font-weight: bold;
+}
+
 @import "modules/all";
+
