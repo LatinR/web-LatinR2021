@@ -15,89 +15,158 @@ footerBlocks:
    - {permalink: {en: "/cod/", es: "/cdc/"}, text: {en: "Code of Conduct", es: "Código de Conducta"}}
 
 en: 
-     about: About
-     home: Home
-     schedule: Schedule
-     speakers: Speakers
-     team: Team
-     logistics: Logistics
-     inscribite: Register
-     eventDate: September 4th & 5th 2018
-     description: Latinamerican Conference About the Use of R in R&D
-     tweetsFeedTitle: What's up?
-     blogTitle: "Blog"
-     latestNewsTitle: "Latest News"
-     locationBlockTitle: Location
-     eventLocationName: Engineering School - University of Palermo
-     partnersTitle: "With support from"
-     links: "Links"
-     contact: "Contact"
-     # Navigation
-     navigationLinks:
-       - {permalink: "/en", text: "Home" }
-       - {permalink: "/schedule/", text: "Schedule"}
-       - {permalink: "/speakers/", text: "Speakers"}
-       - {permalink: "/team/", text: "Team"}
-       - {permalink: "/logistics/", text: "Logistics"}
-     bottomNavigationLinks:
-       - {link: "", text: "Register"}
-     rightNavigationButtons:
-       - {link: "", text: "Register"}
-     heroButtons:
-       - {link: "", text: "Call for papers"}
-       - {link: "", text: "Register"}
+  about: About
+  home: Home
+  schedule: Schedule
+  speakers: Speakers
+  team: Team
+  logistics: Logistics
+  inscribite: Register
+  eventDate: September 4th & 5th 2018
+  description: Latinamerican Conference About the Use of R in R&D
+  tweetsFeedTitle: What's up?
+  blogTitle: "Blog"
+  latestNewsTitle: "Latest News"
+  locationBlockTitle: Location
+  eventLocationName: Engineering School - University of Palermo
+  partnersTitle: "With support from"
+  links: "Links"
+  contact: "Contact"
+  # Navigation
+  navigationLinks:
+   - {permalink: "/en", text: "Home" }
+  # - {permalink: "/schedule/", text: "Schedule"}
+  # - {permalink: "/speakers/", text: "Speakers"}
+   - {permalink: "/team/", text: "Team"}
+   - {permalink: "/logistics/", text: "Logistics"}
+  bottomNavigationLinks:
+   - {link: "", text: "Register"}
+  rightNavigationButtons:
+   - {link: "", text: "Register"}
+  heroButtons:
+   - {link: "", text: "Call for papers"}
+   - {link: "", text: "Register"}
 
-     aboutBlock:
-       - {title: "Oral presentations", image: "presentation.png", text: "Presentations of research results and demonstrations of applications created with R." }
-       - {title: "Conferences", image: "conference.png", text: "Talks by leaders of the use in R in various areas." }
-       - {title: "Posters", image: "posters.png", text: "Discuss ideas, ongoing research, experiences and challenges in the use of R." }
+  aboutBlock:
+   - {title: "Oral presentations", image: "presentation.png", text: "Presentations of research results and demonstrations of applications created with R." }
+   - {title: "Conferences", image: "conference.png", text: "Talks by leaders of the use in R in various areas." }
+   - {title: "Posters", image: "posters.png", text: "Discuss ideas, ongoing research, experiences and challenges in the use of R." }
 
-     subscribeTitle: "Subscribe"
+  subscribeTitle: "Subscribe"
+
+
+  # Logistics Direction Details Block
+  directionDetailsTitle: "Getting around in Buenos Aires"
+  directionDetailsCards:
+   - {title: "Choose your airport", information: '<a href="http://www.aa2000.com.ar/aeroparque">Jorge Newbery Airfield</a> is located on the cost of the La Plata River whithin the city, and the <a href="http://www.aa2000.com.ar/ezeiza" >Ministro Pistrani Airport</a> is in the Ezeiza partido, 35km (22mi) to the city.'}
+   - {title: "Public transport", information: 'Buenos Aires has a  tiene una extensive public tansport network. You can see how to get to your desintation using an <a href="http://mapa.buenosaires.gov.ar" >Interactive Map of Buenos Aires</a> or with Google Maps. There are also cabs and Uber/Cabify services and a bike lane network.'}
+   - {title: "Lodging", information: 'There are several hotels and hostels <a href="https://www.google.com.ar/maps/search/hostel%2Bhotel/@-34.5954308,-58.418691,15z">just a few blocks</a> from the venue.'}
+  # directionDetailsWideCards:
+  # -
+  #  title: "Questions?"
+  #  subCards:
+  #   -
+  #    title: "Hotels"
+  #    links:
+  #     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+
+  # Logistics Find Way Block
+  findWayTitle: "Find your way here"
+  findWayDistance: "Distance"
+  findWayDriving: "DRIVING"
+  findWayWalking: "WALKING"
+  findWayBicycling: "BICYCLING"
+  findWayTransit: "TRANSIT"
+  findWayFindFlight: "Find Flight"
+  viewOnMap: "View on Google Maps"
+  yourLocation: "Your location"
+  toLatinR: "to LatinR"
+
+  # team
+  teamBlockTitle: "About us"
+  aboutUs: " blanlabal latinr"
+  chairs: "Chairs"
+  organizerCommittee: "Organizer committee"
+  scientificCommittee: "Scientific committee"
+
+
+
 
 es: 
-    about: Acerca de 
-    home: Principal
-    schedule: Cronograma
-    speakers: Oradores
-    team: Equipo
-    logistics: Logística
-    inscribite: Inscribite
-    eventDate: 4 y 5 de septiembre 2018
-    desceription: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
-    latestNewsTitle: "Novedades"
-    blog: Blog
-    tweetsFeedTitle: "Twitter"
-    locationBlockTitle: "Lugar"
-    eventLocationName: "Facultad de Ingeniería - Universidad de Palermo"
-
-    
-    # Navigation
-    navigationLinks:
-     - {permalink: "/", text: "Principal" }
-     - {permalink: "/cronograma/", text: "Cronograma"}
-     - {permalink: "/oradores/", text: "Oradores"}
-     - {permalink: "/equipo/", text: "Equipo"}
-     - {permalink: "/logistica/", text: "Logística"}
-    bottomNavigationLinks:
-     - {link: "", text: "Registrate"}
-    rightNavigationButtons:
-     - {link: "", text: "Registrate"}
-    heroButtons:
-     - {link: "", text: "Envío de trabajos"}
-     - {link: "", text: "Registrate"}
-    
-    # about
-    aboutBlock:
-     - {title: "Presentaciones orales", image: "presentation.png", text: "Presentación de resultados de trabajos de investigación y demostración de aplicaciones creadas en R." }
-     - {title: "Conferencias", image: "conference.png", text: "Charlas de referentes en el uso de R en distintas áreas." }
-     - {title: "Posters", image: "posters.png", text: "Discusión sobre ideas, investigaciones en curso, experiencias y desafíos en el uso de R." }
+  about: Acerca de 
+  home: Principal
+  schedule: Cronograma
+  speakers: Oradores
+  team: Equipo
+  logistics: Logística
+  inscribite: Inscribite
+  eventDate: 4 y 5 de septiembre 2018
+  desceription: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
+  latestNewsTitle: "Novedades"
+  blog: Blog
+  tweetsFeedTitle: "Twitter"
+  locationBlockTitle: "Lugar"
+  eventLocationName: "Facultad de Ingeniería - Universidad de Palermo"
 
 
-    # Partners Block
-    organizersTitle: "Organizadores"
-    partnersTitle: "Con apoyo de"
-    partnersC4sponsorsButton: "Se un sponsor"
-    subscribeTitle: "Subscribirse a novedades"
+  # Navigation
+  navigationLinks:
+   - {permalink: "/", text: "Principal" }
+  # - {permalink: "/cronograma/", text: "Cronograma"}
+  # - {permalink: "/oradores/", text: "Oradores"}
+   - {permalink: "/equipo/", text: "Equipo"}
+   - {permalink: "/logistica/", text: "Logística"}
+  bottomNavigationLinks:
+   - {link: "", text: "Registrate"}
+  rightNavigationButtons:
+   - {link: "", text: "Registrate"}
+  heroButtons:
+   - {link: "", text: "Envío de trabajos"}
+   - {link: "", text: "Registrate"}
 
-    # footers
+  # about
+  aboutBlock:
+   - {title: "Presentaciones orales", image: "presentation.png", text: "Presentación de resultados de trabajos de investigación y demostración de aplicaciones creadas en R." }
+   - {title: "Conferencias", image: "conference.png", text: "Charlas de referentes en el uso de R en distintas áreas." }
+   - {title: "Posters", image: "posters.png", text: "Discusión sobre ideas, investigaciones en curso, experiencias y desafíos en el uso de R." }
 
+
+  # Partners Block
+  organizersTitle: "Organizadores"
+  partnersTitle: "Con apoyo de"
+  partnersC4sponsorsButton: "Se un sponsor"
+  subscribeTitle: "Subscribirse a novedades"
+
+
+  # Logistics Direction Details Block
+  directionDetailsTitle: "Movete por Buenos Aires"
+  directionDetailsCards:
+   - {title: "Elegí tu aeropuerto", information: 'El <a href="http://www.aa2000.com.ar/aeroparque">Aeroparque Jorge Newbery</a> está ubicado en la costanera de la ciudad, mientras que el <a href="http://www.aa2000.com.ar/ezeiza" >Aeropuerto Ministro Pistrani</a> está ubicado en el partido de Ezeiza, a 35km de la ciudad.'}
+   - {title: "Transporte público", information: 'Buenos Aires tiene una extensa red de tranpsorte público que puede consultarse desde el <a href="http://mapa.buenosaires.gov.ar" >Mapa Interactivo de Buenos Aires</a> o con Google Maps. Además, hay taxis y Uber/Cabify y una red de ciclovías para andar en bicicleta.'}
+   - {title: "Alojamiento", information: 'Hay muchos hoteles y hostels <a href="https://www.google.com.ar/maps/search/hostel%2Bhotel/@-34.5954308,-58.418691,15z">a pocas cuadras</a> del congreso.'}
+  # directionDetailsWideCards:
+  # -
+  #  title: "Questions?"
+  #  subCards:
+  #   -
+  #    title: "Hotels"
+  #    links:
+  #     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+
+  # Logistics Find Way Block
+  findWayTitle: "Cómo llegar"
+  findWayDistance: "Distancia"
+  findWayDriving: "EN AUTO"
+  findWayWalking: "CAMINANDO"
+  findWayBicycling: "BICICLETA"
+  findWayTransit: "TRANSPORTE PÚBLICO"
+  findWayFindFlight: "Encontrá un vuelo"
+  viewOnMap: "Ver on Google Maps"
+  yourLocation: "Tu ubicación"
+
+  # team
+  teamBlockTitle: "Quienes somos"
+  aboutUs: " blanlabal latinr"
+  chairs: "Presidentes"
+  organizerCommittee: "Comité organizador"
+  scientificCommittee: "Comité científico"

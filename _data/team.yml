@@ -1,60 +1,385 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
+  capcolor: "#b0b0f8"
+  name: "Laura"
+  surname: "Ación"
+  titles: 
+    - "Instituto Universitario del Hospital Italiano de Buenos Aires"
+    - University of Iowa (USA)
+    - Baylor College of Medicine (USA)
+    - R-Ladies Buenos Aires, Argentina
   thumbnailUrl: VitaliyZasadnyy.jpg
+  color: "#0f0f9e"
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  level: chair
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "https://twitter.com/_lacion_"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
+  capcolor: "#b0b0f8"
+  name: "Natalia"
+  surname: "da Silva"
+  titles: 
+    - Instituto de Estadística, Facultad de Ciencias Económicas y de Administración, Universidad de la República
+    - R-Ladies Montevideo, Uruguay
   thumbnailUrl: OlehZasadnyy.jpg
+  color: "#0f0f9e"
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  level: chair
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"} 
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
+  capcolor: "#b0b0f8"
+  name: "Riva"
+  surname: "Quiroga"
+  titles: 
+    - Facultad de Letras, Universidad Católica de Chile
+    - R-Ladies Santiago, Chile
   thumbnailUrl: OstapAndrusiv.jpg
+  color: "#0f0f9e"
   team: true
+  level: chair
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
     - {name: "twitter", link: "https://twitter.com/p1f"}
     - {name: "site", link: "http://andrusiv.com/"}
-- 
+
+
+-
+  id: 3
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#0f0f9e"
+  capcolor: "#b0b0f8"
+  name: Mónica
+  surname: Alonso
+  titles: 
+   - Banco Ciudad
+   - R-Ladies Buenos Aires, Argentina
+-
+  id: 3
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#0f0f9e"
+  capcolor: "#b0b0f8"
+  name: Yanina
+  surname: Bellini Saibene 
+  titles: 
+   - INTA
+   - R-Ladies Santa Rosa, Argentina
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#9e762a"
+  capcolor: "#b0b0f8"
+  name: Elio
+  surname: Campitelli 
+  titles: 
+   - Universidad de Buenos Aires, Argentina
+-
+  id: 5
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#34943b"
+  capcolor: "#b0b0f8"
+  name: Paola
+  surname: Corrales 
+  titles: 
+   - Universidad de Buenos Aires, Argentina
+   - R-Ladies Buenos Aires, Argentina
+-
+  id: 6
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#0f0f9e"
+  capcolor: "#b0b0f8"
+  name: Maria Florencia 
+  surname: D’Andrea
+  titles: 
+   - CONICET-INTA
+   - R-Ladies Buenos Aires, Argentina
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#0f0f9e"
+  capcolor: "#b0b0f8"
+  name: Gabriela
+  surname: de Queiroz 
+  titles: 
+   - SelfScore
+   - R-Ladies Global y San Francisco, EEUU
+-
+  id: 8
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#0f0f9e"
+  capcolor: "#b0b0f8"
+  name: Flavia
+  surname: Fernández 
+  titles: 
+   - ""
+  social:
+    - {name: "site", link: "https://www.behance.net/flaviafernandez"}
+-
+  id: 9
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#0f0f9e"
+  capcolor: "#b0b0f8"
+  name: Fabiana
+  surname: Flores 
+  titles: 
+   - INTI
+   - R-Ladies Buenos Aires, Argentina
+-
+  id: 10
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#0f0f9e"
+  capcolor: "#b0b0f8"
+  name: Lourdes Milagros
+  surname: Mendoza Villavicencio 
+  titles: 
+   - UFRN
+   - R-Ladies Natal, Brasil
+-
+  id: 11
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#0f0f9e"
+  capcolor: "#b0b0f8"
+  name: Iara
+  surname: Passos 
+  titles: 
+   - UFRGS
+   - R-Ladies Porto Alegre, Brasil
+-
+  id: 12
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#0f0f9e"
+  capcolor: "#b0b0f8"
+  name: Celina
+  surname: Rebello 
+  titles: 
+   - R-Ladies Rio de Janeiro, Brasil)
+-
+  id: 13
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#0f0f9e"
+  capcolor: "#b0b0f8"
+  name: Gabriela
+  surname: Sandoval 
+  titles: 
+   - Pontificia Universidad Católica de Chile
+   - R-Ladies Santiago, Chile
+-
+  id: 14
+  level: organizer 
+  thumbnailUrl: default.jpg
+  color: "#0f0f9e"
+  capcolor: "#b0b0f8"
+  name: Daniela
+  surname: Vázquez 
+  titles: 
+   - R-Ladies Montevideo, Uruguay
+
+
+
+- 
+  id: 15
+  name: Marcela
+  surname: Alfaro Córdoba 
+  level: cientifico
+  titles: 
+    - Universidad de Costa Rica, Costa Rica
+
+- 
+  id: 16
+  name: Ignacio
+  surname: Álvarez-Castro 
+  level: cientifico
+  titles: 
+    - Universidad de la República-IESTA, Uruguay
+
+- 
+  id: 17
+  name: Luis
+  surname: Argerich 
+  level: cientifico
+  titles: 
+    - Universidad de Buenos Aires, Argentina
+
+- 
+  id: 18
+  name: Lucas
+  surname: Bali 
+  level: cientifico
+  titles: 
+    - Universidad de Buenos Aires, Argentina
+
+- 
+  id: 19
+  name: Ana
+  surname: Bianco 
+  level: cientifico
+  titles: 
+    - CONICET-Universidad de Buenos Aires, Argentina
+
+- 
+  id: 20
+  name: Mathias
+  surname: Bourel  
+  level: cientifico
+  titles: 
+    - Universidad de la República-IESTA-FING, Uruguay
+
+- 
+  id: 21
+  name: Inés
+  surname: Caridi 
+  level: cientifico
+  titles: 
+    - CONICET-Universidad de Buenos Aires, Argentina
+
+- 
+  id: 22
+  name: Ariel
+  surname: Chernomoretz 
+  level: cientifico
+  titles: 
+    - CONICET-Fundación Instituto Leloir, Argentina
+
+- 
+  id: 23
+  name: Marina
+  surname: Cock 
+  level: cientifico
+  titles: 
+    - CONICET-La Pampa, Argentina
+
+- 
+  id: 24
+  name: Gustavo
+  surname: Denicolay 
+  level: cientifico
+  titles: 
+    - Universidad Austral, Argentina
+
+- 
+  id: 25
+  name: Carlos
+  surname: Diuk 
+  level: cientifico
+  titles: 
+    - Facebook, USA
+
+- 
+  id: 26
+  name: Andrés
+  surname: Farall 
+  level: cientifico
+  titles: 
+    - Universidad de Buenos Aires, EcoClimaSol, Argentina
+
+- 
+  id: 27
+  name: María Inés
+  surname: Fariello 
+  level: cientifico
+  titles: 
+    - Universidad de la República-FING & Instituto Pasteur de Montevideo, Uruguay
+
+- 
+  id: 28
+  name: Ileana
+  surname: Frasier 
+  level: cientifico
+  titles: 
+    - CONICET-INTA - La Pampa, Argentina
+
+- 
+  id: 29
+  name: Juan José
+  surname: Goyeneche 
+  level: cientifico
+  titles: 
+    - Universidad de la República-IESTA, Uruguay
+
+- 
+  id: 30
+  name: Leandro
+  surname: Lombardi 
+  level: cientifico
+  titles: 
+    - CONICET-Universidad de Buenos Aires, Fundación Sadosky, Argentina
+
+- 
+  id: 31
+  name: Diana
+  surname: Kelmansky 
+  level: cientifico
+  titles: 
+    - Universidad de Buenos Aires, Argentina
+
+- 
+  id: 32
+  name: Estefanía
+  surname: Mancini 
+  level: cientifico
+  titles: 
+    - Centre for Genomic Regulation, España
+
+- 
+  id: 33
+  name: Priscilla
+  surname: Minotti 
+  level: cientifico
+  titles: 
+    - 3iA-UNSAM, Argentina
+
+- 
+  id: 34
+  name: Adriana
+  surname: Pérez 
+  level: cientifico
+  titles: 
+    - Universidad de Buenos Aires, Argentina
+
+- 
+  id: 35
+  name: Marcelo
+  surname: Risk 
+  level: cientifico
+  titles: 
+    - CONICET-Universidad de Buenos Aires, Argentina
+
+- 
+  id: 36
+  name: Marcelo
+  surname: Soria 
+  level: cientifico
+  titles: 
+    - CONICET-Universidad de Buenos Aires, Argentina
+
+- 
+  id: 37
+  name: Walter
+  surname: Sosa Escudero 
+  level: cientifico
+  titles: 
+    - CONICET-Universidad de San Andrés, Argentina
+
+- 
+  id: 38
+  name: Daniel
+  surname: Yankelevich 
+  level: cientifico
+  titles: 
+    - Practia, Argentina
