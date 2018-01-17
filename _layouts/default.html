@@ -29,7 +29,7 @@ layout: compress
     	{% include speakers-modals.html %} 
     {% endif %} 
 
-    {% if page.permalink == '/schedule/' %}
+    {% if page.ref == 'schedule' %}
         {% include sessions-modals.html %} 
     {% endif %} 
 
@@ -114,7 +114,7 @@ layout: compress
                 centerMap = new google.maps.LatLng({{ site.logisticsMapCenterCoordinates }}),
                 mobileCenterMap = new google.maps.LatLng({{ site.logisticsMapMobileCenterCoordinates }}),
                 icon = '{{ site.baseurl }}/img/other/map-marker.svg';
-        {% elsif page.permalink == '/hackathon/' %}
+        {% elsif page.permalink   == '/hackathon/' %}
             if ($(window).width() > 767) {
                 var googleMaps = 'hackathon',
                     eventPlace = new google.maps.LatLng({{ site.hackathonPlaceCoordinates }}),
@@ -132,7 +132,7 @@ layout: compress
         {% endif %} 
     </script>
     <script src="{{ "/js/scripts.min.js" | prepend: site.baseurl }}"></script>
-    {% if page.permalink == '/schedule/' %}
+    {% if page.ref == 'schedule' %}
         <script type="text/javascript">
             $(document).ready(function () {
                 var navHeight = $('#top-header').height();
