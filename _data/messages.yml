@@ -44,12 +44,12 @@ en:
    - {permalink: "/team/", text: "Team"}
    - {permalink: "/logistics/", text: "Logistics"}
   bottomNavigationLinks:
-   - {link: "", text: "Register"}
+   - {permalink: "", text: "Register"}
   rightNavigationButtons:
-   - {link: "", text: "Register"}
+   - {permalink: "", text: "Register"}
   heroButtons:
-   - {link: "blog/call-for-papers", text: "Call for papers"}
-   - {link: "", text: "Register"}
+   - {permalink: "blog/call-for-papers", text: "Call for papers"}
+   - {permalink: "", text: "Register"}
 
   aboutBlock:
    - {title: "Oral presentations", image: "presentation.png", text: "Presentations of research results and demonstrations of applications created with R." }
@@ -121,12 +121,12 @@ es:
    - {permalink: "/equipo/", text: "Equipo"}
    - {permalink: "/logistica/", text: "Logística"}
   bottomNavigationLinks:
-   - {link: "", text: "Registrate"}
+   - {permalink: "", text: "Registrate"}
   rightNavigationButtons:
-   - {link: "", text: "Registrate"}
+   - {permalink: "", text: "Registrate"}
   heroButtons:
-   - {link: "blog/presentacion-trabajos", text: "Envío de trabajos"}
-   - {link: "", text: "Registrate"}
+   - {permalink: "blog/presentacion-trabajos", text: "Envío de trabajos"}
+   - {permalink: "", text: "Registrate"}
 
   # about
   aboutBlock:
@@ -204,12 +204,12 @@ br:
    - {permalink: "/equipo/", text: "Equipo"}
    - {permalink: "/logistica/", text: "Logística"}
   bottomNavigationLinks:
-   - {link: "", text: "Registrate"}
+   - {permalink: "", text: "Registrate"}
   rightNavigationButtons:
-   - {link: "", text: "Registrate"}
+   - {permalink: "", text: "Registrate"}
   heroButtons:
-   - {link: "blog/presentacion-trabajos", text: "Envío de trabajos"}
-   - {link: "", text: "Registrate"}
+   - {permalink: "blog/presentacion-trabajos", text: "Envío de trabajos"}
+   - {permalink: "", text: "Registrate"}
 
   # about
   aboutBlock:
