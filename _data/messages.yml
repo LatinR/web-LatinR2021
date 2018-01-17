@@ -198,7 +198,7 @@ br:
 
   # Navigation
   navigationLinks:
-   - {permalink: "/", text: "Principal" }
+   - {permalink: "/br", text: "Principal" }
   # - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
    - {permalink: "/equipo/", text: "Equipo"}
