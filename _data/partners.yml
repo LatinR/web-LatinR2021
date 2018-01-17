@@ -7,4 +7,5 @@
   group: {es: "Sponsors", en: "Sponsors"}
   elements: 
     - {name: "RStudio", description: "RStudio", link: "https://www.rstudio.com/", imageUrl: "RStudio.png"}
+    - {name: "DataCamp", description: "DataCamp", link: "https://www.datacamp.com", imageUrl: "DataCamp.png"}
    

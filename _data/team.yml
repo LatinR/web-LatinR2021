@@ -1,6 +1,5 @@
 - 
   id: 0
-  capcolor: "#b0b0f8"
   name: "Laura"
   surname: "Ación"
   titles: 
@@ -9,35 +8,33 @@
     - Baylor College of Medicine (USA)
     - R-Ladies Buenos Aires, Argentina
   thumbnailUrl: VitaliyZasadnyy.jpg
-  color: "#0f0f9e"
+  color: "#BF5B17"
   team: true
   level: chair
   social: 
     - {name: "twitter", link: "https://twitter.com/_lacion_"}
 - 
   id: 1
-  capcolor: "#b0b0f8"
   name: "Natalia"
   surname: "da Silva"
   titles: 
     - Instituto de Estadística, Facultad de Ciencias Económicas y de Administración, Universidad de la República
     - R-Ladies Montevideo, Uruguay
   thumbnailUrl: OlehZasadnyy.jpg
-  color: "#0f0f9e"
+  color: "#F0027F"
   team: true
   level: chair
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"} 
 - 
   id: 2
-  capcolor: "#b0b0f8"
   name: "Riva"
   surname: "Quiroga"
   titles: 
     - Facultad de Letras, Universidad Católica de Chile
     - R-Ladies Santiago, Chile
   thumbnailUrl: OstapAndrusiv.jpg
-  color: "#0f0f9e"
+  color: "#FDC086"
   team: true
   level: chair
   ribbon: 
@@ -52,8 +49,7 @@
   id: 3
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#0f0f9e"
-  capcolor: "#b0b0f8"
+  color: "#666666"
   name: Mónica
   surname: Alonso
   titles: 
@@ -63,8 +59,7 @@
   id: 3
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#0f0f9e"
-  capcolor: "#b0b0f8"
+  color: "#386CB0"
   name: Yanina
   surname: Bellini Saibene 
   titles: 
@@ -74,8 +69,7 @@
   id: 4
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#9e762a"
-  capcolor: "#b0b0f8"
+  color: "#7FC97F"
   name: Elio
   surname: Campitelli 
   titles: 
@@ -84,8 +78,7 @@
   id: 5
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#34943b"
-  capcolor: "#b0b0f8"
+  color: "#F0027F"
   name: Paola
   surname: Corrales 
   titles: 
@@ -95,8 +88,7 @@
   id: 6
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#0f0f9e"
-  capcolor: "#b0b0f8"
+  color: "#BF5B17"
   name: Maria Florencia 
   surname: D’Andrea
   titles: 
@@ -106,8 +98,7 @@
   id: 7
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#0f0f9e"
-  capcolor: "#b0b0f8"
+  color: "#FDC086"
   name: Gabriela
   surname: de Queiroz 
   titles: 
@@ -117,8 +108,7 @@
   id: 8
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#0f0f9e"
-  capcolor: "#b0b0f8"
+  color: "#386CB0"
   name: Flavia
   surname: Fernández 
   titles: 
@@ -129,8 +119,7 @@
   id: 9
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#0f0f9e"
-  capcolor: "#b0b0f8"
+  color: "#7FC97F"
   name: Fabiana
   surname: Flores 
   titles: 
@@ -140,8 +129,7 @@
   id: 10
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#0f0f9e"
-  capcolor: "#b0b0f8"
+  color: "#BEAED4"
   name: Lourdes Milagros
   surname: Mendoza Villavicencio 
   titles: 
@@ -151,8 +139,7 @@
   id: 11
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#0f0f9e"
-  capcolor: "#b0b0f8"
+  color: "#BEAED4"
   name: Iara
   surname: Passos 
   titles: 
@@ -162,8 +149,7 @@
   id: 12
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#0f0f9e"
-  capcolor: "#b0b0f8"
+  color: "#FFFF99"
   name: Celina
   surname: Rebello 
   titles: 
@@ -172,8 +158,7 @@
   id: 13
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#0f0f9e"
-  capcolor: "#b0b0f8"
+  color: "#666666"
   name: Gabriela
   surname: Sandoval 
   titles: 
@@ -183,8 +168,7 @@
   id: 14
   level: organizer 
   thumbnailUrl: default.jpg
-  color: "#0f0f9e"
-  capcolor: "#b0b0f8"
+  color: "#BF5B17"
   name: Daniela
   surname: Vázquez 
   titles: 

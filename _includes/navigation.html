@@ -16,22 +16,19 @@
     </a>
     <nav class="st-menu st-effect" id="menu">
         <div class="logo-navbar logo logo-dark visible-xs"></div>
-        <ul>
-        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-        {% for post in posts %}
-          <li>
-            <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-          </li>
-        {% endfor %}
+        
+        <ul>  
+           <li>
+            {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+            {% for post in posts %}
+                <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a> 
+            {% endfor %}
 
-        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-        {% for page in pages %}
-          <li>
-            <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-          </li>
-        {% endfor %}
-        </ul>
-        <ul>            
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+            {% for page in pages %}
+                <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+            {% endfor %}
+           </li>           
             {% for navigationLink in site.data.messages.[lang].navigationLinks %}
             <li>
                 <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text }}</a>
