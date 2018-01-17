@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Llamado a Presentación de Trabajos"
-date:   2014-07-21 09:00:00
 isStaticPost: false
 lang: es
 ref: call-for-papers
