@@ -19,6 +19,8 @@ googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
 siteVerification: ""
 
+defaultColor: "#3C3888"
+
 # Organizer Info
 organizerName: "Latin-R"
 organizerAlternateName: ""
