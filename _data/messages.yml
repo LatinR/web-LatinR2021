@@ -26,6 +26,7 @@ en:
   inscribite: Register
   eventDate: September 4th & 5th 2018
   description: Latinamerican Conference About the Use of R in R&D
+  metaKeywords: "event, R, conference, statistics, dataviz"
   tweetsFeedTitle: What's up?
   blogTitle: "Blog"
   latestNewsTitle: "Latest News"
@@ -93,6 +94,8 @@ en:
   organizerCommittee: "Organizer committee"
   scientificCommittee: "Scientific committee"
 
+  posted: "Posted:"
+
 
 
 ## Español
@@ -106,6 +109,7 @@ es:
   inscribite: Inscribite
   eventDate: 4 y 5 de septiembre 2018
   desceription: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
+  metaKeywords: "evento, R, conferencia, estadística, dataviz"
   latestNewsTitle: "Novedades"
   blog: Blog
   tweetsFeedTitle: "Twitter"
@@ -176,10 +180,12 @@ es:
   organizerCommittee: "Comité organizador"
   scientificCommittee: "Comité científico"
 
+  posted: "Publicado:"
+
 
 
 ## Portugués
-br: 
+pt: 
   about: Acerca de 
   home: Principal
   schedule: Cronograma
@@ -258,3 +264,5 @@ br:
   chairs: "Presidentes"
   organizerCommittee: "Comité organizador"
   scientificCommittee: "Comité científico"
+
+  posted: "Publicado:"

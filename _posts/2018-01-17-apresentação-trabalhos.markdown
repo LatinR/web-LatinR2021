@@ -2,7 +2,7 @@
 layout: post
 title:  "Chamada para Apresentação de Trabalhos"
 isStaticPost: false
-lang: br
+lang: pt
 ref: call-for-papers
 ---
 

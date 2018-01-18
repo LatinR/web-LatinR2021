@@ -1,12 +1,20 @@
 
 <head>
     {% assign lang = page.lang %}
+    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+    {% for post in posts %}
+      <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />
+    {% endfor %}
+    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for page in pages %}
+      <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
+    {% endfor %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
-    <meta name="author" content="Oleh Zasadnyy, GDG Lviv">
+    <meta name="author" content="Elio Campitelli">
     <meta name="description" content="{{ site.data.messages.[lang].description }}">
-    <meta name="keywords" content="{{ site.metaKeywords }}">
+    <meta name="keywords" content="{{ site.data.messages.[lang].metaKeywords }}">
     <meta name="google-site-verification" content="{{ site.siteVerification }}" />
     <link rel="canonical" href="{{ site.url }}">
     <!-- Social: Twitter -->
