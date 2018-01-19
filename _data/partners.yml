@@ -1,5 +1,5 @@
 -
- group: {es: "Anfitrión", en: "Host"}
+ group: {es: "Anfitriones", en: "Host"}
  elements: 
    - {name: "JAIIO", description: "JAIIO<br/>", link: "http://47jaiio.sadio.org.ar", imageUrl: "jaiio.png", width: 300px}
    - {name: "SADIO", description: "SADIO<br/>", link: "http://www.sadio.org.ar/", imageUrl: "sadio.png", width: 300px}
