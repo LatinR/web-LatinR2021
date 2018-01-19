@@ -12,7 +12,7 @@ footerBlocks:
  -
   title: {en: "FAQ", es: "FAQ"}
   links:
-   - {permalink: {en: "coc/", es: "cdc/"}, text: {en: "Code of Conduct", es: "Código de Conducta"}}
+   - {permalink: {en: "/coc/", es: "/cdc/"}, text: {en: "Code of Conduct", es: "Código de Conducta"}}
 
 
 ## Inglés
