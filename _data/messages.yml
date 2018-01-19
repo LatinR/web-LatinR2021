@@ -142,7 +142,7 @@ es:
   # Partners Block
   organizersTitle: "Organizadores"
   partnersTitle: "Con apoyo de"
-  partnersC4sponsorsButton: "Se un sponsor"
+  partnersC4sponsorsButton: "Sé un sponsor"
   c4sponsorsUrl: blog/patrocinar-latinr
   subscribeTitle: "Subscribirse a novedades"
 
@@ -174,7 +174,7 @@ es:
   yourLocation: "Tu ubicación"
 
   # team
-  teamBlockTitle: "Quienes somos"
+  teamBlockTitle: "Quiénes somos"
   aboutUs: " blanlabal latinr"
   chairs: "Presidentes"
   organizerCommittee: "Comité organizador"

@@ -1,7 +1,9 @@
 -
  group: {es: "Anfitrión", en: "Host"}
  elements: 
-   - {name: "JAIIO", description: "JAIIO", link: "http://47jaiio.sadio.org.ar", imageUrl: "jaiio.png"}
+   - {name: "JAIIO", description: "JAIIO<br/>", link: "http://47jaiio.sadio.org.ar", imageUrl: "jaiio.png", width: 300px}
+   - {name: "SADIO", description: "SADIO<br/>", link: "http://www.sadio.org.ar/", imageUrl: "sadio.png", width: 300px}
+   - {name: "UP", description: "UP", link: "http://www.palermo.edu/", imageUrl: "up.jpg", width: 200px}
 
 - 
   group: {es: "Sponsors", en: "Sponsors"}
