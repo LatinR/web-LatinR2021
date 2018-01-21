@@ -2,17 +2,17 @@
 # see description here: https://tuananh.org/2014/08/13/localization-with-jekyll/
 footerBlocks:
  -
-  title: {en: "Links", es: "Links"}
+  title: {en: "Links", es: "Links", pt: "Links"}
   links:
-   - {link: "http://47jaiio.sadio.org.ar/index.php?q=node/125", text: {en: "Web JAIIO", es: "Web JAIIO"}}
+   - {link: "http://47jaiio.sadio.org.ar/index.php?q=node/125", text: {en: "Web JAIIO", es: "Web JAIIO", pt: "Web JAIIO"}}
  -
-  title: {en: "Contact", es: "Contacto"}
+  title: {en: "Contact", es: "Contacto", pt: "Contato"}
   links:
-   - {link: "mailto:latinr@47jaiio.sadio.org.ar", text: {en: "latinr@47jaiio.sadio.org.ar", es: "latinr@47jaiio.sadio.org.ar" }}
+   - {link: "mailto:latinr@47jaiio.sadio.org.ar", text: {en: "latinr@47jaiio.sadio.org.ar", es: "latinr@47jaiio.sadio.org.ar", pt: "latinr@47jaiio.sadio.org.ar" }}
  -
-  title: {en: "FAQ", es: "FAQ"}
+  title: {en: "FAQ", es: "FAQ", pt: "FAQ"}
   links:
-   - {permalink: {en: "/coc/", es: "/cdc/"}, text: {en: "Code of Conduct", es: "Código de Conducta"}}
+   - {permalink: {en: "/coc/", es: "/cdc/", pt: "/cdc-pt/"}, text: {en: "Code of Conduct", es: "Código de Conducta", pt: "Código de conduta"}}
 
 
 ## Inglés
