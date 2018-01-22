@@ -214,7 +214,7 @@ pt:
   rightNavigationButtons:
    - {permalink: "", text: "Registrate"}
   heroButtons:
-   - {permalink: "blog/presentacion-trabajos", text: "Envío de trabajos"}
+   - {permalink: "blog/apresentação-trabalhos", text: "Apresentação de Trabalhos"}
    - {permalink: "", text: "Registrate"}
 
   # about
