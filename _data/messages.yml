@@ -186,19 +186,19 @@ es:
 
 ## Portugués
 pt: 
-  about: Acerca de 
+  about: Sobre 
   home: Principal
   schedule: Cronograma
   speakers: Oradores
-  team: Equipo
+  team: Equipe
   logistics: Logística
-  inscribite: Inscribite
-  eventDate: 4 y 5 de septiembre 2018
-  desceription: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
-  latestNewsTitle: "Novedades"
+  inscribite: Inscreva-se
+  eventDate: 4 e 5 de setembro 2018
+  desceription: Conferência Latino-Americana sobre Uso de R em  Pesquisa + Desenvolvimento
+  latestNewsTitle: "Notícias"
   blog: Blog
   tweetsFeedTitle: "Twitter"
-  locationBlockTitle: "Lugar"
+  locationBlockTitle: "Local"
   eventLocationName: "Facultad de Ingeniería - Universidad de Palermo"
 
 
@@ -207,62 +207,62 @@ pt:
    - {permalink: "/br", text: "Principal" }
   # - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
-   - {permalink: "/equipo/", text: "Equipo"}
+   - {permalink: "/equipo/", text: "Equipe"}
    - {permalink: "/logistica/", text: "Logística"}
   bottomNavigationLinks:
-   - {permalink: "", text: "Registrate"}
+   - {permalink: "", text: "Registre-se"}
   rightNavigationButtons:
-   - {permalink: "", text: "Registrate"}
+   - {permalink: "", text: "Registre-se"}
   heroButtons:
    - {permalink: "blog/apresentação-trabalhos", text: "Apresentação de Trabalhos"}
-   - {permalink: "", text: "Registrate"}
+   - {permalink: "", text: "Registre-se"}
 
   # about
   aboutBlock:
-   - {title: "Presentaciones orales", image: "presentation.png", text: "Presentación de resultados de trabajos de investigación y demostración de aplicaciones creadas en R." }
-   - {title: "Conferencias", image: "conference.png", text: "Charlas de referentes en el uso de R en distintas áreas." }
-   - {title: "Posters", image: "posters.png", text: "Discusión sobre ideas, investigaciones en curso, experiencias y desafíos en el uso de R." }
+   - {title: "Apresentações orais", image: "presentation.png", text: "Apresentação de resultados de trabalhos de pesquisa e demonstração de aplicativos criados em R." }
+   - {title: "Conferências", image: "conference.png", text: "Palestras de referência no uso de R em distintas áreas." }
+   - {title: "Pôsters", image: "posters.png", text: "Discussão sobre ideias, investigações em curso, experiências e desafíos no uso de R." }
 
 
   # Partners Block
   organizersTitle: "Organizadores"
-  partnersTitle: "Con apoyo de"
-  partnersC4sponsorsButton: "Se un sponsor"
+  partnersTitle: "Com apoio de"
+  partnersC4sponsorsButton: "Seja um patrocinador"
   c4sponsorsUrl: blog/patrocinar-latinr
-  subscribeTitle: "Subscribirse a novedades"
+  subscribeTitle: "Assine para notícias"
 
 
   # Logistics Direction Details Block
-  directionDetailsTitle: "Movete por Buenos Aires"
+  directionDetailsTitle: "Mova-se por Buenos Aires"
   directionDetailsCards:
-   - {title: "Elegí tu aeropuerto", information: 'El <a href="http://www.aa2000.com.ar/aeroparque">Aeroparque Jorge Newbery</a> está ubicado en la costanera de la ciudad, mientras que el <a href="http://www.aa2000.com.ar/ezeiza" >Aeropuerto Ministro Pistrani</a> está ubicado en el partido de Ezeiza, a 35km de la ciudad.'}
-   - {title: "Transporte público", information: 'Buenos Aires tiene una extensa red de tranpsorte público que puede consultarse desde el <a href="http://mapa.buenosaires.gov.ar" >Mapa Interactivo de Buenos Aires</a> o con Google Maps. Además, hay taxis y Uber/Cabify y una red de ciclovías para andar en bicicleta.'}
-   - {title: "Alojamiento", information: 'Hay muchos hoteles y hostels <a href="https://www.google.com.ar/maps/search/hostel%2Bhotel/@-34.5954308,-58.418691,15z">a pocas cuadras</a> del congreso.'}
+   - {title: "Escolha seu aeroporto", information: 'O <a href="http://www.aa2000.com.ar/aeroparque">Aeroparque Jorge Newbery</a> está localizado na orla da cidade, enquanto o <a href="http://www.aa2000.com.ar/ezeiza" >Aeropuerto Ministro Pistrani</a> está localizado no partido de Ezeiza, a 35km da cidade.'}
+   - {title: "Transporte público", information: 'Buenos Aires tem uma extensa rede de transporte público que pode consultar em <a href="http://mapa.buenosaires.gov.ar" >Mapa Interativo de Buenos Aires</a> ou com Google Maps. Também, há táxis e Uber/Cabify e uma rede de ciclovías para andar de bicicleta.'}
+   - {title: "Alojamento", information: 'Há muitos hotéis e hostels <a href="https://www.google.com.ar/maps/search/hostel%2Bhotel/@-34.5954308,-58.418691,15z">a pocas cuadras</a> do congresso.'}
   # directionDetailsWideCards:
   # -
-  #  title: "Questions?"
+  #  title: "Questões?"
   #  subCards:
   #   -
-  #    title: "Hotels"
+  #    title: "Hotéis"
   #    links:
   #     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
 
   # Logistics Find Way Block
-  findWayTitle: "Cómo llegar"
-  findWayDistance: "Distancia"
-  findWayDriving: "EN AUTO"
-  findWayWalking: "CAMINANDO"
+  findWayTitle: "Como chegar"
+  findWayDistance: "Distância"
+  findWayDriving: "DE CARRO"
+  findWayWalking: "CAMINHANDO"
   findWayBicycling: "BICICLETA"
   findWayTransit: "TRANSPORTE PÚBLICO"
-  findWayFindFlight: "Encontrá un vuelo"
-  viewOnMap: "Ver on Google Maps"
-  yourLocation: "Tu ubicación"
+  findWayFindFlight: "Encontre um vôo"
+  viewOnMap: "Ver no Google Maps"
+  yourLocation: "Sua localização"
 
   # team
-  teamBlockTitle: "Quienes somos"
+  teamBlockTitle: "Quem somos"
   aboutUs: " blanlabal latinr"
   chairs: "Presidentes"
-  organizerCommittee: "Comité organizador"
-  scientificCommittee: "Comité científico"
+  organizerCommittee: "Comitê organizador"
+  scientificCommittee: "Comitê científico"
 
   posted: "Publicado:"
