@@ -204,11 +204,11 @@ pt:
 
   # Navigation
   navigationLinks:
-   - {permalink: "/br", text: "Principal" }
+   - {permalink: "/pt", text: "Principal" }
   # - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
-   - {permalink: "/equipo/", text: "Equipe"}
-   - {permalink: "/logistica/", text: "Logística"}
+   - {permalink: "/equipe/", text: "Equipe"}
+   - {permalink: "/logistica-pt/", text: "Logística"}
   bottomNavigationLinks:
    - {permalink: "", text: "Registre-se"}
   rightNavigationButtons:
