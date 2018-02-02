@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Latin-R 2018"
+title: "LatinR 2018"
 email: ""
 baseurl: ""
 url: "https://latinr.github.io/"
@@ -22,7 +22,7 @@ siteVerification: ""
 defaultColor: "#3C3888"
 
 # Organizer Info
-organizerName: "Latin-R"
+organizerName: "LatinR"
 organizerAlternateName: ""
 organizerDescription: ""
 organizerEmail: "latinr@47jaiio.sadio.org.ar"
@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Latin-R 2018"
+heroTitle: "LatinR 2018"
 typeoutTextValues: '""'
 typeoutFallback: ""
 
@@ -117,9 +117,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/LatinR2018", icon: "twitter"}
+ - {link: "https://www.facebook.com/LatinR2018", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 
 # Blog

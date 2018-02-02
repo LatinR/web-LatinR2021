@@ -3,7 +3,7 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             {% assign lang = page.lang %}
-            <h3>{{ site.data.messages.[lang].about }} Latin-R</h3>
+            <h3>{{ site.data.messages.[lang].about }} LatinR</h3>
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for about in site.data.messages.[lang].aboutBlock %}
@@ -19,6 +19,14 @@
                 {% assign check = forloop.index | modulo:2 %}
                 {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
                 {% endfor %}
+                <div class="col-md-12 col-xs-6">  
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <p align="center"> {{ site.data.messages.[lang].scientificComittee2 }} </p>
+                    </div>
+                </div>
+                
+                
+                
             </div>
         </div>
     </div>

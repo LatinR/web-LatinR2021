@@ -7,7 +7,8 @@ ref: call-for-papers
 ---
 
 #### LatinR <- Conferência Latino-Americana sobre Uso de R em  Pesquisa + Desenvolvimento
-
+<br>
+<br>
 SADIO organiza este evento que reúne a comunidade latino-americana em geral e a argentina em particular, e propõe uma abordagem interdisciplinar às problemáticas e práticas sociotécnicas que emergem do rápido avanço das tecnologias da informação e a comunicação na sociedade. 
 
 LatinR convoca a pesquisadores, tecnólogos, desenvolvedores, educadores e empresas relacionadas a análise de dados e a ciência de dados a enviar trabalhos relativos ao uso da linguagem de programação R, englobando desde instâncias experimentais a comerciais.

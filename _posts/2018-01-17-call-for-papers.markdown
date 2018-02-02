@@ -7,7 +7,8 @@ ref: call-for-papers
 ---
 
 #### LatinR <- Latin American Conference about the Use of R in Research + Development
-
+<br>
+<br>
 The Argentinian Informatics Society (Sociedad Argentina de Informática, 
 SADIO) is organizing the inaugural LatinR symposium within the 47th Argentinian Meeting of Informatics and Operational Research (Jornadas Argentinas de Informática e Investigación Operativa, JAIIO) that will take place between September 4 and 5, 2018 in Buenos Aires.
 

@@ -1,14 +1,11 @@
 ---
-title: Cómo participar en las 47 JAIIO
+title: Cómo Patrocinar las 47 JAIIO
 isStaticPost: false
 layout: post
 lang: es
 ref: become-sponsor
 ---
 
-<p align="right">
-<a href="mailto:latinr@47jaiio.sadio.org.ar?subject=Patrocinar LarinR" class="btn btn-primary waves-effect waves-button waves-light waves-float"> Contactanos </a>
-</p>
 
 Las formas de participación comercial en las 47 JAIIO, Jornadas Argentinas de
 Informática, que tendrán lugar en la Facultad de Ingeniería de la Universidad de Palermo del 3 al 7 de Septiembre de 2018, pueden ser las siguientes:
@@ -52,3 +49,5 @@ Valor en pesos argentinos: $19.000,-
 IMPORTANTE: En todos los casos, se incluyen los logos de las empresas o instituciones en los entregables a distribuir, acorde a la posición de sponsoreo, así como la inclusión de su logo y/o link en el sitio web de las Jornadas.
 
 Para más información visitar [www.47jaiio.sadio.org.ar](www.47jaiio.sadio.org.ar).
+
+¿Tiene preguntas o interés en participar comercialmente en las 47 JAIIO? Por favor escríbanos a [latinr@47jaiio.sadio.org.ar]("mailto:latinr@47jaiio.sadio.org.ar?subject=Patrocinar LarinR).

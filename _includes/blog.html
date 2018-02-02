@@ -2,6 +2,7 @@
 <section id="blog" class="blog">
     <div class="content-wrapper text-left">
         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
+            {{ asign lang = page.lang }}
             <h3>{{ site.blogTitle }}</h3>
             <div class="col-lg-8 col-md-10 col-xs-12">
                 {% for post in site.posts %}
@@ -39,7 +40,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <p class="post-body">{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: post.url }}">continue reading</a></p>
+                        <p class="post-body">{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: post.url }}"> {{ site.data.messages.[lang].continueReading }}</a></p>
                     </article>
                 {% endfor %} 
 

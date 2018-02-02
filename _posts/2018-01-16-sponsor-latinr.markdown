@@ -6,9 +6,6 @@ lang: en
 ref: become-sponsor
 ---
 
-<p align="right">
-<a href="mailto:latinr@47jaiio.sadio.org.ar?subject=Sponsoring LarinR" class="btn btn-primary waves-effect waves-button waves-light waves-float"> Contact us </a>
-</p>
 
 47 JAIIO, 47th Jornadas Argentinas de Informática, will take place at Palermo
 University, in Buenos Aires, Argentina, from September 3rd to September 7th, 2018.
@@ -53,4 +50,6 @@ Value in US Dollars: $1.200,-
 
 IMPORTANT: In all cases, logos will be included in JAIIO deliverables and in the web site, according to the position acquired.
 
-For more information visit [www.47jaiio.sadio.org.ar](www.47jaiio.sadio.org.ar).
+For more information visit [www.47jaiio.sadio.org.ar](www.47jaiio.sadio.org.ar)
+
+If you are interested in sponsoring 47 JAIIO, please write us at [latinr@47jaiio.sadio.org.ar]("mailto:latinr@47jaiio.sadio.org.ar?subject=Patrocinar LarinR).
