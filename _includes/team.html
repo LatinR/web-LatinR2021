@@ -42,7 +42,7 @@
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">{{ site.data.messages.[lang].scientificCommittee }}</h4>
 
             {% for teamMember in site.data.team %} {% if teamMember.level == 'cientifico' %}
-            <div class="effect-wrapper col-md-3 col-sm-5 col-xs-11 cols-centered appear-animation">
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect team-member" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-color: #00BCD4">
                         <div class="overlay solid-overlay"></div>
@@ -74,7 +74,7 @@
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">{{ site.data.messages.[lang].organizerCommittee }}</h4>
 
             {% for teamMember in site.data.team %} {% if teamMember.level == 'organizer' %}
-            <div class="effect-wrapper col-md-3 col-sm-5 col-xs-11 cols-centered appear-animation">
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect team-member" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-color: {{ teamMember.color }}">
                         <div class="overlay solid-overlay"></div>
