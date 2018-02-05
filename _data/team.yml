@@ -24,8 +24,7 @@
   color: "#F0027F"
   team: true
   level: chair
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"} 
+
 - 
   id: 2
   name: "Riva"
@@ -37,12 +36,6 @@
   color: "#FDC086"
   team: true
   level: chair
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
 
 
 -
