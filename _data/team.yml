@@ -1,11 +1,12 @@
 - level: coord-gral
-  name: {es: "Coordinación General", en: "General Coordination", pt: "Coordenação Geral"}
+  name: {es: "Coordinación General y Ejecutiva", en: "General and Executive Coordination", pt: "Coordenação Geral e Executiva"}
   color: "#F0027F"
   people:  
     - id: 0
       name: "Alejandra"
       surname: "Garrido"
       titles: 
+        - Coordinación General
         - LIFIA-UNLP, CONICET
       thumbnailUrl: VitaliyZasadnyy.jpg
       color: "#BF5B17"
@@ -16,20 +17,17 @@
       name: "Claudio"
       surname: "Zamoszczyk"
       titles: 
+        - Coordinación General
         - Universidad de Palermo
       thumbnailUrl: VitaliyZasadnyy.jpg
       color: "#BF5B17"
       team: true
       level: coord-gral
-
-- level: coord-ejecutiva
-  name: {es: "Coordinación Ejecutiva", en: "Executive  Coordination", pt: "Coordenação Executiva"}
-  color: "#BF5B17"
-  people:
     - id: 0
       name: "Alejandra"
       surname: "Villa"
       titles: 
+        - Coordinación Ejecutiva
         - SADIO
       thumbnailUrl: VitaliyZasadnyy.jpg
       color: "#BF5B17"
