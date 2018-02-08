@@ -89,7 +89,7 @@ en:
 
   # team
   teamBlockTitle: "About us"
-  aboutUs: "On October 25, 2017, an announcement was made by Heather Turner on the R User Group (RUG) Organizers Slack: the R Foundation Conference Committee would like to see academic-focused R events in regions not currently covered by useR! In less than a week, we organized our first conference-call to start thinking about to achieve this goal. This quick response was not the result of mere chance, but the consequence of a year in which the R community — through its local RUGs— grew stronger in South America. By mid November everything was set up: a name, a place, a date, and a motivated international organizing committee."
+  aboutUs: "On October 25, 2017, an announcement was made by Heather Turner on the R User Group (RUG) Organizers Slack: the R Foundation Conference Committee was interested in the emergence of academic-focused R events in regions not currently covered by useR! In less than a week, we had organized our first videoconference to start thinking about how to face the challenge. This quick response was not the result of mere luck, but the consequence of a year in which the R community — through its local RUGs and social media precense— grew stronger in South America. By mid November everything was set up: a name, a place, a date, and a motivated international organizing committee. Key in this process was the trust in the part of SADIO of welcoming a new proposal in the programming of an event with the trajectory of the JAIIO."
   chairs: "Chairs"
   organizerCommittee: "Organizer committee"
   scientificCommittee: "Scientific committee"
@@ -176,8 +176,7 @@ es:
 
   # team
   teamBlockTitle: "Quiénes somos"
-  aboutUs: "El 25 de ocbubre de 2017, Heather Turner anunció en el Slack de Organizadores de los Grupos de Usuarios de R (RUG) que al Comité de Conferencias de la Foundation le gustaría ver eventos de R enfocados en la academia en regiones no cubiertas por useR!. En menos de una semana, organizamos nuestra primera videoconferencia para pensar cómo conseguirlo. Esta rápida respuesta no fue el resultado de la mera suerte, sino la consecuencia de un año en el que la comunidad de R --a través de los RUGs locales-- creció significativamente en Sudamérica. Para mediados de noviembre, estaba todo definido: un nombre, un lugar, una fecha y un motivado comité organizador internacional."
-    
+  aboutUs: "El 25 de octubre de 2017, Heather Turner anunció en el Slack de Organizadores de Grupos de Usuarios de R (RUG) que el Comité de Conferencias de la R Foundation estaba interesado en la aparición de eventos sobre R con un enfoque académico en regiones que no se encuentran actualmente cubiertas por useR!. En menos de una semana ya teníamos organizada nuestra primera videoconferencia para pensar cómo enfrentar el desafío. Esta rápida respuesta no fue solo suerte, sino la consecuencia de un año en el que la comunidad de R --a través de los RUGs locales y la presencia en redes sociales-- creció significativamente en Sudamérica. Para mediados de noviembre ya estaba todo definido: un nombre, un lugar, una fecha y un comité organizador internacional motivado. Fue clave en este proceso la confianza por parte de SADIO de acoger una propuesta nueva en la programación de un evento con la trayectoria de las JAIIO."    
   chairs: "Chairs"
   organizerCommittee: "Comité organizador"
   scientificCommittee: "Comité científico"
