@@ -107,6 +107,13 @@
     titles: 
       - Universidad de Buenos Aires, Argentina
 
+  - id: 17
+    name: Stephan
+    surname: Arndt 
+    level: cientifico
+    titles: 
+      - University of Iowa, Estados Unidos
+
   - id: 18
     name: Lucas
     surname: Bali 
@@ -128,6 +135,14 @@
     titles: 
       - Universidad de la República-IESTA-FING, Uruguay
 
+
+  - id: 20
+    name: Xavier
+    surname: Buenaño  
+    level: cientifico
+    titles: 
+      - Universidad Politécnica de Madrid, ETSI Ingenieros de Minas y Energía, España
+
   - id: 21
     name: Inés
     surname: Caridi 
@@ -143,11 +158,25 @@
       - CONICET-Fundación Instituto Leloir, Argentina
 
   - id: 23
+    name: Elena
+    surname: Chicaiza 
+    level: cientifico
+    titles: 
+      - Instituto Panamericano de Geografía e Historia, Ecuador
+
+  - id: 23
     name: Marina
     surname: Cock 
     level: cientifico
     titles: 
       - CONICET-La Pampa, Argentina
+
+  - id: 23
+    name: Mario
+    surname: Cortina Borja
+    level: cientifico
+    titles: 
+      - University College London, Reino Unido     
 
   - id: 24
     name: Gustavo
@@ -191,6 +220,13 @@
     titles: 
       - Universidad de la República-IESTA, Uruguay
 
+  - id: 29
+    name: Erin
+    surname: LeDell 
+    level: cientifico
+    titles: 
+      - H2O.ai, Estados Unidos
+
   - id: 30
     name: Leandro
     surname: Lombardi 
@@ -219,6 +255,20 @@
     titles: 
       - 3iA-UNSAM, Argentina
 
+  - id: 33
+    name: Leonardo
+    surname: Moreno 
+    level: cientifico
+    titles: 
+      - Universidad de la República-IESTA, Uruguay
+
+  - id: 33
+    name: Ricardo
+    surname: Olea 
+    level: cientifico
+    titles: 
+      - Pontificia Universidad Católica de Chile, Chile
+
   - id: 34
     name: Adriana
     surname: Pérez 
@@ -233,6 +283,13 @@
     titles: 
       - CONICET-Universidad de Buenos Aires, Argentina
 
+  - id: 35
+    name: Cecilia
+    surname: Ruz 
+    level: cientifico
+    titles: 
+      - Universidad de Buenos Aires, Argentina
+
   - id: 36
     name: Marcelo
     surname: Soria 
@@ -246,6 +303,20 @@
     level: cientifico
     titles: 
       - CONICET-Universidad de San Andrés, Argentina
+
+  - id: 37
+    name: Lucía
+    surname: Spangenberg
+    level: cientifico
+    titles: 
+      - Instituto Pasteur Montevideo, Uruguay
+
+  - id: 37
+    name: Nicolás
+    surname: Stier Moses
+    level: cientifico
+    titles: 
+      - Facebook, Estados Unidos; Universidad Torcuato Di Tella, Argentina
 
   - id: 38
     name: Daniel
