@@ -211,6 +211,13 @@
     titles: 
       - CONICET-INTA - La Pampa, Argentina
 
+  - id: 28
+    name: María José
+    surname: García Zattera  
+    level: cientifico
+    titles: 
+      - Pontificia Universidad Católica de Chile, Chile
+
   - id: 29
     name: Juan José
     surname: Goyeneche 
