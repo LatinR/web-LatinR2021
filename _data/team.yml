@@ -261,6 +261,13 @@
       - 3iA-UNSAM, Argentina
 
   - id: 33
+    name: Monica
+    surname: Mendes 
+    level: cientifico
+    titles: 
+      - Universidade Federal de Campina Grande, Brasil
+
+  - id: 33
     name: Leonardo
     surname: Moreno 
     level: cientifico
