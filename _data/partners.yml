@@ -14,7 +14,7 @@
   elements: 
     - {name: "RStudio", description: "RStudio", link: "https://www.rstudio.com/", imageUrl: "RStudio.png"}
     - {name: "DataCamp", description: "DataCamp", link: "https://www.datacamp.com", imageUrl: "DataCamp.png"}
-   
+    - {name: "Fundación Sadosky", description: "Sadosky", link: "http://www.fundacionsadosky.org.ar/", imageUrl: "sadosky.png"}
 - 
   group: {es: "Auspicios", en: "Endorsements"}
   elements: 
