@@ -7,7 +7,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     position: fixed;
     z-index: 500;
     width: 100%;
-    padding: 0 45px;
+    padding: 0 10px;
     @media (min-width: 768px) and (max-width: 991px) {
         padding: 13px 0 0 34px;
     }
@@ -39,9 +39,9 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     .logo {
         display: inline-block;
         float: left;
-        width: 440px;
+        /* width: 440px; */
         height: 60px;
-        margin-right: 20px;
+        margin-right: 2px;
         transform: scale(.7);
         vertical-align: middle;
          @media (max-width: 767px) {
@@ -50,9 +50,9 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     }
 }
 .logo-navbar {
-    width: 440px;
+    /* width: 440px; */
     height: 60px;
-    margin: 8px 20px 0 -10px;
+    margin: 8px 2px 0 -10px;
     transform: scale(.6);
     vertical-align: middle;
 }

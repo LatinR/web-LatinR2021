@@ -52,10 +52,12 @@ en:
    - {permalink: "blog/call-for-papers", text: "Call for papers"}
    - {permalink: "/registration", text: "Register"}
 
+  aboutJAIIO: 'We are part of <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organised by <a href = "http://www.sadio.org.ar/">SADIO</a> and <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
    - {title: "Conferences", image: "conference.png", text: "Talks by leaders of the use in R in various areas." }
    - {title: "Oral presentations", image: "presentation.png", text: "Presentations of research results and demonstrations of applications created with R." }
    - {title: "Posters", image: "posters.png", text: "Discuss ideas, ongoing research, experiences and challenges in the use of R." }
+
 
   subscribeTitle: "Subscribe"
 
@@ -134,6 +136,7 @@ es:
    - {permalink: "/registro", text: "Registrate"}
 
   # about
+  aboutJAIIO: 'Somos parte de las <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizadas por <a href = "http://www.sadio.org.ar/">SADIO</a> y co-organizadas por <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
    - {title: "Presentaciones Orales", image: "presentation.png", text: "Presentación de resultados de trabajos de investigación y demostración de aplicaciones creadas en R." }
    - {title: "Conferencias", image: "conference.png", text: "Charlas de referentes en el uso de R en distintas áreas." }
@@ -219,6 +222,7 @@ pt:
    - {permalink: "/registro-pt", text: "Registre-se"}
 
   # about
+  aboutJAIIO: 'Somos parte do <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizado pela <a href = "http://www.sadio.org.ar/">SADIO</a> e co-organizado pela <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
    - {title: "Apresentações orais", image: "presentation.png", text: "Apresentação de resultados de trabalhos de pesquisa e demonstração de aplicativos criados em R." }
    - {title: "Conferências", image: "conference.png", text: "Palestras de referência no uso de R em distintas áreas." }

@@ -6,6 +6,9 @@
             <h3>{{ site.data.messages.[lang].about }} LatinR</h3>
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
+                <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <p align="center"> {{ site.data.messages.[lang].aboutJAIIO }} </p>
+                </div>
                 {% for about in site.data.messages.[lang].aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
                 <div class="col-md-{{ colWidth }} col-xs-6">  

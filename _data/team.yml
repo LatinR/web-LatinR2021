@@ -1,12 +1,12 @@
 - level: coord-gral
-  name: {es: "Coordinación General y Ejecutiva", en: "General and Executive Coordination", pt: "Coordenação Geral e Executiva"}
+  name: {es: "Coordinación General y Ejecutiva de las 47 JAIIO", en: "47 JAIIO General and Executive Coordination", pt: "Coordenação Geral e Executiva dos 47 JAIIO"}
   color: "#F0027F"
   people:  
     - id: 0
       name: "Alejandra"
       surname: "Garrido"
       titles: 
-        - Coordinación General
+        - Coordinación General de las 47 JAIIO
         - LIFIA-UNLP, CONICET
       thumbnailUrl: VitaliyZasadnyy.jpg
       color: "#BF5B17"
@@ -17,7 +17,7 @@
       name: "Claudio"
       surname: "Zamoszczyk"
       titles: 
-        - Coordinación General
+        - Coordinación General de las 47 JAIIO
         - Universidad de Palermo
       thumbnailUrl: VitaliyZasadnyy.jpg
       color: "#BF5B17"
@@ -27,7 +27,7 @@
       name: "Alejandra"
       surname: "Villa"
       titles: 
-        - Coordinación Ejecutiva
+        - Coordinación Ejecutiva de las 47 JAIIO
         - SADIO
       thumbnailUrl: VitaliyZasadnyy.jpg
       color: "#BF5B17"

@@ -1,5 +1,4 @@
 .logo {
-    background-image: url($logos-sprite);
     background-repeat: no-repeat;
     &.logo-dark {
     	background-position: 0 -1px;
@@ -11,6 +10,22 @@
 	    background-position: 0 -137px;
 	}
 }
+
+.logo-latinr {
+    background-image: url($logos-latinr);
+    width: 185px;
+}
+
+.logo-sadio {
+    background-image: url($logos-sadio);
+    width: 160px;
+}
+
+.logo-jaiio {
+    background-image: url($logos-jaiio);
+    width: 80px;
+}
+
 .icon {
     display: inline-block;
     width: 16px;
