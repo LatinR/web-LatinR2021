@@ -1,6 +1,6 @@
 ---
 title: One month free subscription on DataCamp
-lang: es
+lang: en
 isStaticPost: false
 ref: datacamp
 layout: post
