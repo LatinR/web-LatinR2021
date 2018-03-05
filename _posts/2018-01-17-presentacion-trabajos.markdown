@@ -56,7 +56,12 @@ Los posters proporcionan una oportunidad para que investigadores y profesionales
 
 ##### Formato común para todos los resúmenes:
 
-Los trabajos deberán estar escritos en castellano, portugués o inglés y deben cumplir con el formato LNCS (Lecture Notes in Computer Science), con tamaño de hoja A4 y tipografía de 10 puntos. Se deberá utilizar la plantilla provista por Springer, la misma puede descargarse en [http://47jaiio.sadio.org.ar/formatos](http://47jaiio.sadio.org.ar/formatos).
+Los trabajos deberán estar escritos en castellano, portugués o inglés y deben cumplir con el formato LNCS (Lecture Notes in Computer Science), con tamaño de hoja A4 y tipografía de 10 puntos. Se deberán utilizar las siguientes plantillas provistas por Springer (que también puede descargarse [aquí](http://47jaiio.sadio.org.ar/formatos)):
+
+* [Abstracts para Demos](/assets/Ejemplo_Word_Demostracion_LatinR.doc)
+* [Abstract para Posters](/assets/Ejemplo_Word_Poster_LatinR.doc)
+* [Abstract Extendido para comunicaciones orales no publicadas](/assets/Ejemplo_Word_ExtendedAbstract_LatinR.doc)
+* [Abstract Corto Comunicacion Oral de trabajo previamente publicado](/assets/Ejemplo_Word_ComunicacionOral_LatinR_2018.doc)
 
 Todos los trabajos deberán enviarse en formato PDF, sin autores ni filiación hasta tanto finalice el proceso de revisión. Los resúmenes deberán tener espacio suficiente para incluir, en su versión final, los autores y su filiación. 
 

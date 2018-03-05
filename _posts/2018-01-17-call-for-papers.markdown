@@ -56,7 +56,12 @@ Posters allow researchers and professionals to present and discuss their latest 
 
 ##### Common format for all abstracts
 
-Abstracts must be written in Spanish, Portuguese, or English and must comply with the LNCS (Lecture Notes in Computer Science) format, with A4 sheet size and 10 point typography. The following template provided by Springer should be used: [http://47jaiio.sadio.org.ar/formatos](http://47jaiio.sadio.org.ar/formatos)
+Abstracts must be written in Spanish, Portuguese, or English and must comply with the LNCS (Lecture Notes in Computer Science) format, with A4 sheet size and 10 point typography. The following templates provided by Springer should be used (also downloadable from [here](http://47jaiio.sadio.org.ar/formatos)
+
+* [Abstracts for Demos](/assets/Ejemplo_Word_Demostracion_LatinR.doc)
+* [Abstract for Posters](/assets/Ejemplo_Word_Poster_LatinR.doc)
+* [Extended abstract for unpublished oral communication](/assets/Ejemplo_Word_ExtendedAbstract_LatinR.doc)
+* [Short abstract for previously published oral communication](/assets/Ejemplo_Word_ComunicacionOral_LatinR_2018.doc)
 
 All abstracts must be submitted in PDF format, without authors or affiliation until the review process is completed. Abstracts must have enough space to include, in its final version, all authors and affiliations.
 
