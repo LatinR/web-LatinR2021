@@ -44,6 +44,7 @@ en:
   # - {permalink: "/speakers/", text: "Speakers"}
    - {permalink: "/team/", text: "Team"}
    - {permalink: "/logistics/", text: "Logistics"}
+   - {permalink: "/blog-en/", text: "News"}
   bottomNavigationLinks:
    - {permalink: "/registration", text: "Register"}
   rightNavigationButtons:
@@ -127,6 +128,7 @@ es:
   # - {permalink: "/oradores/", text: "Oradores"}
    - {permalink: "/equipo/", text: "Equipo"}
    - {permalink: "/logistica/", text: "Logística"}
+   - {permalink: "/blog/", text: "Novedades"}
   bottomNavigationLinks:
    - {permalink: "/registro", text: "Registrate"}
   rightNavigationButtons:
@@ -213,6 +215,7 @@ pt:
   # - {permalink: "/oradores/", text: "Oradores"}
    - {permalink: "/equipe/", text: "Equipe"}
    - {permalink: "/logistica-pt/", text: "Logística"}
+   - {permalink: "/blog-pt/", text: "Notícias"}
   bottomNavigationLinks:
    - {permalink: "/registro-pt", text: "Registre-se"}
   rightNavigationButtons:

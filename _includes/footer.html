@@ -30,6 +30,19 @@
 					</a>
 				</li>
 				{% endfor %}
+				{% assign feed = "/feed.xml" %}
+                {% if lang == "en" %}
+                    {% assign feed = "/feed-en.xml" %} 
+                {% elsif lang == "pt" %}
+                    {% assign feed = "/feed-pt.xml" %}
+                {% endif %}
+				<li>
+					<a href="{{ feed | prepend: site.baseurl }}" target="_blank">
+						<svg class="icon icon-rss" viewBox="0 0 30 32">
+							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-rss"></use>
+						</svg>
+					</a>
+				</li>
 			</ul>
 		</div>
 	</div>

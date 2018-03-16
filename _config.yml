@@ -119,7 +119,6 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/LatinR2018", icon: "twitter"}
  - {link: "https://www.facebook.com/LatinR2018", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
 
 # Blog
 blogTitle: "Latest news"

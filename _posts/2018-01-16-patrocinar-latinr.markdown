@@ -40,6 +40,6 @@ La empresa o institución tiene derecho a 10 inscripciones para todas las Jornad
 
 IMPORTANTE: En todos los casos, se incluyen los logos de las empresas o instituciones en los entregables a distribuir, acorde a la posición de sponsoreo, así como la inclusión de su logo y/o link en el sitio web de las Jornadas.
 
-Para más información visitar [www.47jaiio.sadio.org.ar](www.47jaiio.sadio.org.ar).
+Para más información visitar [www.47jaiio.sadio.org.ar](http://www.47jaiio.sadio.org.ar.).
 
 ¿Tiene preguntas o interés en participar comercialmente en las 47 JAIIO? Por favor escríbanos a [latinr@47jaiio.sadio.org.ar]("mailto:latinr@47jaiio.sadio.org.ar?subject=Patrocinar LarinR).

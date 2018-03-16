@@ -3,14 +3,15 @@
     <div class="content-wrapper text-left">
         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
             {{ asign lang = page.lang }}
-            <h3>{{ site.blogTitle }}</h3>
+            <h3>{{ site.data.messages.[lang].latestNewsTitle }}</h3>
             <div class="col-lg-8 col-md-10 col-xs-12">
-                {% for post in site.posts %}
+                {% assign posts = site.posts | where:"lang", page.lang %}
+                {% for post in posts %}
                     <article class="row post">
                         <a href="{{ site.baseurl | append: post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
                         <div class="post-header">
                             <div class="published col-md-6 col-xs-6 pull-left">
-                                <span class="caption">Posted:</span>
+                                <!--<span class="caption">Posted:</span>-->
                                 <span class="publish-date" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
                             </div>
                             <div class="share col-md-6 col-xs-6 pull-right">
@@ -62,8 +63,14 @@
                 </div>
                 {% endif %}
 
+                {% assign feed = "/feed.xml" %}
+                {% if lang == "en" %}
+                    {% assign feed = "/feed-en.xml" %} 
+                {% elsif lang == "pt" %}
+                    {% assign feed = "/feed-pt.xml" %}
+                {% endif %}
                 <div class="row text-center">
-                    <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
+                    <p class="rss-subscribe"><a href="{{ feed | prepend: site.baseurl }}" target="_blank">{{ site.data.messages.[lang].subscribeTitle }}</a>
                     </p>
                 </div>
 
