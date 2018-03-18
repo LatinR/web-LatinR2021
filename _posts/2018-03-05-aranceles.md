@@ -22,7 +22,7 @@ Los valores de los aranceles están en pesos argentinos (ARS). El valor entre pa
 
 <br>
 
-Todos los artículos presentados en JAIIO deben tener asociada una inscripción de la categoría autor. El pago por artículo adicional será aplicado al 2do y 3er artículo a ser registrado por el mismo autor. La inscripción debe ser abonada antes del 9 de julio de 2018 para que el trabajo sea publicado.
+Todos los artículos presentados en JAIIO deben tener asociada una inscripción de la categoría autor. El pago por artículo adicional será aplicado únicamente al 2do y 3er artículo a ser registrado por el mismo autor. La inscripción debe ser abonada antes del 9 de julio de 2018 para que el trabajo sea publicado.
 
 (1) Socios de SADIO, IEEE, AADECA o EPIO. Debe adjuntar constancia que pruebe su filiación a esa institución y tener las cuotas al día.
 
