@@ -101,6 +101,7 @@ en:
   scientificComittee2: 'Every submited work will be evaluated by our renowned <a href = "/team/">Scientific Comitee.</a>'
   continueReading: Continue Reading
 
+  rockstarSpeakersTitle: "Keynote Speakers"
 
 ## Español
 es: 
@@ -190,6 +191,8 @@ es:
   scientificComittee2: 'Todos los trabajos serán evaluados por los integrantes de nuestro reconocido <a href = "/equipo/">Comité Científico</a>.'
   continueReading: Leer más
 
+  rockstarSpeakersTitle: "Oradores principales"
+
 ## Portugués
 pt: 
   about: Sobre 
@@ -276,3 +279,5 @@ pt:
   posted: "Publicado:"
   scientificComittee2: 'Todos los trabajos serán evaluados por los integrantes de nuestro reconocido <a href = "/equipo/">Comité Científico</a>.'
   continueReading: Ler mais
+
+  rockstarSpeakersTitle: "Conferencista Principal"

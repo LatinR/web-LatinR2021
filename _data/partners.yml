@@ -5,6 +5,7 @@
     - {name: "DataCamp", description: "DataCamp", link: "https://www.datacamp.com", imageUrl: "DataCamp.png"}
     - {name: "Fundación Sadosky", description: "Sadosky", link: "http://www.fundacionsadosky.org.ar/", imageUrl: "sadosky.png"}
     - {name: "EANT", description: "EANT", link: "https://eant.tech/", imageUrl: "eant.png"}
+    - {name: "R Consortium", description: "R Consortium", link: "https://www.r-consortium.org/", imageUrl: "RConsortium_Icon.png"}
 - 
   group: {es: "Auspicios", en: "Endorsements"}
   elements: 
