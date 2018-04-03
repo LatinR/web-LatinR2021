@@ -458,5 +458,13 @@
     titles: 
       - Idatha
       - R-Ladies Montevideo, Uruguay
-
+  - id: 14
+    level: organizer 
+    thumbnailUrl: default.jpg
+    color: "#BF5B17"
+    name: Luis Darcy
+    surname: Verde Arregoitia 
+    titles: 
+      - UNAM, México 
+      - Universidad Austral de Chile, Chile
 
