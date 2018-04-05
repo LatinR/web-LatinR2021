@@ -4,7 +4,18 @@
   id: 1
   name: "Jenny"
   surname: "Bryan"
-  company: "RStudio"
+  company: {en: "Associated Professor of Statistics - University of British Columbia </br>  
+                Software Engineer at RStudio </br>
+                rstudio::conf </br>
+                useR!2018 Keynote Speaker", 
+            es: "Profesora Asociada de Estadísticas - University of British Columbia </br>  
+                Ingeniera de Software en RStudio</br>
+                rstudio::conf </br>
+                Oradora Principal en useR!2018",
+            pt: "Professora Associada de Estatística - University of British Columbia </br>
+                 Engenheira de Software na RStudio </br>
+                 rstudio::conf </br>
+                 Palestrante principal na useR!2018"}
   title: "University of British Columbia"
   bio: ""
   thumbnailUrl: jennybryan.jpg
@@ -15,7 +26,18 @@
   id: 2
   name: "Walter"
   surname: "Sosa Escudero"
-  company: "CONICET"
+  company: {en: "CONICET Principal Investigator </br> 
+                 Professor and Director of the Economics department - Universidad de San Andrés </br>
+                 TEDxRiodelaPlata </br>
+                 Author of What is (and what is not) statistics? and The dark side of economics </br>",
+            es: 'Investigador Principal de CONICET </br>
+                 Profersor y Director del departamento de Economía - Universidad de San Andrés </br>
+                 TEDxRiodelaPlata </br>
+                 Autor de ¿Qué es (y qué no es) la estadística? y El lado oscuro de la economía',
+            pt: "Pesquisador principal de CONICET </br>
+                 Professor e Diretor do Departamento de Economia - Universidade de San Andrés </br>
+                 TEDxRiodelaPlata</br>
+                 Autor de O que é (e o que não é) a Estatística? e O lado obscuro da Economia"}
   title: "Universidad de San Andrés"
   bio: ''
   thumbnailUrl: waltersosaescudero.jpg

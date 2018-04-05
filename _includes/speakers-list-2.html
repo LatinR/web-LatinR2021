@@ -1,4 +1,5 @@
 <!-- Begin Speakers List 2-->
+{% assign lang = page.lang %}
 <section id="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
@@ -31,13 +32,15 @@
                             </a>
                             {% endfor %}
                         </figcaption>
-                        <p class="bio">{{ speaker.bio | strip_html }}</p>
+                        <p class="bio">{{ speaker.bio.[lang] | strip_html }}</p>
                     </figure>
                 </div>
             </div>
             {% endfor %}
         </div>
+        <!--
         <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>         
+        -->
     </div>
 </section>
 <!-- End Speakers List 2 -->
