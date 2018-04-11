@@ -31,7 +31,7 @@ R packages development
 * Open data analysis with R
 
 ##### Important dates
-Abstract submission deadline: **April 13, 2018**   
+Abstract submission deadline: ~~**April 13, 2018**~~ **April 30, 2018**   
 Abstract acceptance notification: **June 22, 2018**   
 Abstract final version submission and author registration deadlines: **July 9, 2018**   
 LatinR: **September 4-5, 2018**   

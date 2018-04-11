@@ -30,7 +30,7 @@ Os temas sugeridos são os seguintes:
 
 ##### Datas importantes
 
-Data limite para aceitação de trabalhos: **13 de abril de 2018**    
+Data limite para aceitação de trabalhos: ~~**13 de abril de 2018**~~ **30 de abril de 2018**        
 Notificação de aceitação: **22 de junho de 2018**    
 Envio de versões finais e inscrição de autores: **9 de julho de 2018**    
 Realização da conferência: **4 a 5 de setembro de 2018**    

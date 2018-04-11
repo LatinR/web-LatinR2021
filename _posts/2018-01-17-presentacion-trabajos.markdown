@@ -29,7 +29,7 @@ Los temas sugeridos son los siguientes:
 
 ##### Fechas importantes
 
-Fecha límite para la recepción de trabajos: **13 de abril de 2018**   
+Fecha límite para la recepción de trabajos: ~~**13 de abril de 2018**~~ **30 de abril de 2018**      
 Notificación aceptación: **22 de junio de 2018**   
 Recepción de versiones finales e inscripción de autores: **9 de julio de 2018**   
 Realización de LatinR: **4 y 5 de septiembre de 2018**
