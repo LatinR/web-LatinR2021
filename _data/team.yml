@@ -467,4 +467,13 @@
     titles: 
       - UNAM, México 
       - Universidad Austral de Chile, Chile
-
+  - id: 14
+    level: organizer 
+    thumbnailUrl: default.jpg
+    color: "#BF5B17"
+    name: Melina
+    surname: Vidoni
+    titles: 
+      - INGAR CONICET-UTN, Santa Fe, Argentina
+      - R-Ladies Buenos Aires
+      
