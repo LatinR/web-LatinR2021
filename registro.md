@@ -24,6 +24,8 @@ Quienes sólo presenten trabajos en el "“"Concurso de Trabajos Estudiantiles",
 
 ### Formas de pago
 
+La información sobre los aranceles se encuentra [acá](/blog/aranceles).
+
 - Efectivo, a abonar en SADIO (Uruguay 252 - 2º "D" - CABA - Argentina) de lunes a viernes de 12 a 18hs.
 
 - Transferencia/depósito bancario (solo para residentes en Argentina)   

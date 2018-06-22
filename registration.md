@@ -24,6 +24,8 @@ Only those who only submit papers in the "Student Work Contest" can register in 
 
 ### Payment methods
 
+Information about prices can be found [here](/blog/prices)
+
 - By cash at SADIO (Uruguay 252 - 2º "D" - CABA - Argentina) Monday to Friday from 12pm to 6pm.
 
 - Bank transfer or deposit (only for residents in Argentina)
