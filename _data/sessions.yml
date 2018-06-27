@@ -4,21 +4,28 @@
   language: es
   complexity: {en: "Basic", es: "Básico", pt: "Básico"}
   speakers: [3]
-  description: 'La visualization tiene un rol fundamental en todas las etapas del análisis estadístico de datos, exploración, modelado y diagnóstico. Permite descubrir patrones escondidos en los datos así como dar luz a modelos o algoritmos complejos. En este taller vamos a recorrer los conceptos básicos para hacer visualización estática de datos con R usando el paquete ggplot2. Veremos las ideas fundamentales de la gramática gráfica que está detrás de ggplot2. Los participantes aprenderán a crear distintos tipos de gráficos en pocos pasos de calidad publicable. A su vez Introduciremos el concepto de gráficos interactivos y su potencial para el descubrimiento de patrones y el análisis estadístico de datos. Existen diversas opciones para hacer visualización interactiva en R pero en este taller usaremos plotly.'
+  description: 'La visualization tiene un rol fundamental en todas las etapas del análisis estadístico de datos, exploración, modelado y diagnóstico. Permite descubrir patrones escondidos en los datos así como dar luz a modelos o algoritmos complejos. En este taller vamos a recorrer los conceptos básicos para hacer visualización estática de datos con R usando el paquete ggplot2. Veremos las ideas fundamentales de la gramática gráfica que está detrás de ggplot2. Los participantes aprenderán a crear distintos tipos de gráficos en pocos pasos de calidad publicable. A su vez Introduciremos el concepto de gráficos interactivos y su potencial para el descubrimiento de patrones y el análisis estadístico de datos. Existen diversas opciones para hacer visualización interactiva en R pero en este taller usaremos plotly. 
+  <br> <br>Todos los tutoriales requieren traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse.'
   
 - id: 002
   title: {en: 'Inteligencia Artificial con R: Introducción al “Deep Learning”', es: 'Inteligencia Artificial con R: Introducción al “Deep Learning”', pt: 'Inteligencia Artificial con R: Introducción al “Deep Learning”'}
   complexity: {en: "Basic/Intermediate", es: "Básico/Intermedio", pt: "Básico/Médio"}
   language: es
   speakers: [4]
-  description: 'El taller mostrará herramientas de “Deep Learning” aplicadas a problemas de Regresión, Clasificación y “Novelty Detection”. Se utilizará la interfaz KERAS basada en TensorFlow, tecnología de código abierto creada por Google para el desarrollo del aprendizaje automático. Se enseñarán a lo largo del taller los conceptos fundamentales de los métodos tratados, y se darán ejemplos de caso mediante el uso del entorno de desarrollo integrado Rstudio.'
+  description: 'El taller mostrará herramientas de “Deep Learning” aplicadas a problemas de Regresión, Clasificación y “Novelty Detection”. Se utilizará la interfaz KERAS basada en TensorFlow, tecnología de código abierto creada por Google para el desarrollo del aprendizaje automático. Se enseñarán a lo largo del taller los conceptos fundamentales de los métodos tratados, y se darán ejemplos de caso mediante el uso del entorno de desarrollo integrado Rstudio. <br> <br>Todos los tutoriales requieren traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse.'
 
 - id: 003
   title: {en: 'purrr: Functional Programming Mindset', es:  'purrr: Functional Programming Mindset', pt: 'purrr: Functional Programming Mindset'}
   complexity: {en: "Basic", es: "Básico", pt: "Básico"}
   language: en
   speakers: [1]
-  description: 'TBA'
+  description: "Iterative tasks come up often in data analysis: do X for every Z, where Z could be 'column', 'row', 'treatment group', etc. In base R, the nicest way to attack these tasks is with the 'apply' functions. The 'apply' functions are very powerful, but also have some downsides: they do not present a consistent interface and they often return data in an awkward form. The tidyverse is an opinionated collection of R pckages designed for data science and the purrr package, specifically, is extremely useful for doing repetitive tasks. purrr's 'map' functions have an extremely consistent interface and return data in a form that is ready for the next step in your analysis. <br> This tutorial includes:
+  <ul>
+  <li>Brief orientation to the tidyverse.</li>
+  <li>Brief review of how write a basic function. If you've never written a function before, see the three parts of this to prepare.</li>
+  <li>In-depth coverage, both conceptual and hands-on, of the purrr package.</li>
+  <li>Case studies, such as how to do work on each row in a data frame or how to turn data in a nested list (e.g. from JSON or XML) into a nice rectangle.</li>
+  <br> <br>Todos los tutoriales requieren traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse."
 
 - id: 004
   title: {en: "Poster session", es: "Sessión de pósters", pt: "Sessão de pôsteres"} 
@@ -84,11 +91,11 @@ entre otras. </br>
 También habrá paneles dedicados al fuerte concepto de Comunidad dentro del mundo de la programación con R. Además de The Carpentries y rOpenSci, estarán representados distintos grupos de usuarios de distintos países de América Latina y del resto del mundo. "}
 
 - id: 006
-  title: {en: 'Keynote speech', es:  'Keynote speech', pt:  'Keynote speech'}
+  title: {en: 'Teaching R (and more) in the Era of Data Science', es:  'Teaching R (and more) in the Era of Data Science', pt:  'Teaching R (and more) in the Era of Data Science'}
   place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
   language: en
   speakers: [1]
-  description: 'TBA'
+  description: "My talk deals with two related themes: the ongoing discussion of 'data science vs. statistics' and the importance of developing your own data analysis workflow. These topics are related in my mind because I believe, as academic statisticians, we often take an unnecessarily narrow view of our discipline. The 'data science vs statistics' debate brings this to a head, because the desire to join and even lead data science initiatives provides an incentive to broaden our mandate. What if we embraced the development and teaching of tools -- both mental and digital -- that address the entire data analysis process? I'll draw on my experience developing and delivering STAT 545 at the University of British Columbia. I conclude with an overview of semi-recent developments in the R ecosystem, aimed at people who want to make their workflow more productive and less aggravating. I'll explain what the tidyverse is and why so many people are incorporating new tools, like Git and GitHub, into their workflow."
 
 - id: 007
   title: {en: 'Aprendiendo a computar vs computar para aprender: hacia una nueva forma de enseñar y aprender estadística', es: 'Aprendiendo a computar vs computar para aprender: hacia una nueva forma de enseñar y aprender estadística', pt: 'Aprendiendo a computar vs computar para aprender: hacia una nueva forma de enseñar y aprender estadística'}
