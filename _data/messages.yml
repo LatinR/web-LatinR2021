@@ -50,7 +50,7 @@ en:
   rightNavigationButtons:
    - {permalink: "/registration", text: "Register"}
   heroButtons:
-   - {permalink: "blog/call-for-papers", text: "Call for papers"}
+   - {permalink: "/schedule", text: "Schedule"}
    - {permalink: "/registration", text: "Register"}
 
   aboutJAIIO: 'We are part of <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organised by <a href = "http://www.sadio.org.ar/">SADIO</a> and <a href = "http://www.palermo.edu/">UP</a>.'
@@ -138,7 +138,7 @@ es:
   rightNavigationButtons:
    - {permalink: "/registro", text: "Registrate"}
   heroButtons:
-   - {permalink: "blog/presentacion-trabajos", text: "Envío de trabajos"}
+   - {permalink: "/cronograma", text: "Cronograma"}
    - {permalink: "/registro", text: "Registrate"}
 
   # about
