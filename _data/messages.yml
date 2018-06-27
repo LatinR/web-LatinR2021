@@ -40,7 +40,7 @@ en:
   # Navigation
   navigationLinks:
    - {permalink: "/en", text: "Home" }
-  # - {permalink: "/schedule/", text: "Schedule"}
+   - {permalink: "/schedule/", text: "Schedule"}
   # - {permalink: "/speakers/", text: "Speakers"}
    - {permalink: "/team/", text: "Team"}
    - {permalink: "/logistics/", text: "Logistics"}
@@ -102,6 +102,9 @@ en:
   continueReading: Continue Reading
 
   rockstarSpeakersTitle: "Keynote Speakers"
+  complexity: "Complexity"
+  language: "Language"
+  day: "Day"
 
 ## Español
 es: 
@@ -125,7 +128,7 @@ es:
   # Navigation
   navigationLinks:
    - {permalink: "/", text: "Principal" }
-  # - {permalink: "/cronograma/", text: "Cronograma"}
+   - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
    - {permalink: "/equipo/", text: "Equipo"}
    - {permalink: "/logistica/", text: "Logística"}
@@ -192,6 +195,9 @@ es:
   continueReading: Leer más
 
   rockstarSpeakersTitle: "Oradores principales"
+  complexity: "Nivel"
+  language: "Idioma"
+  day: "Día"
 
 ## Portugués
 pt: 
@@ -281,3 +287,6 @@ pt:
   continueReading: Ler mais
 
   rockstarSpeakersTitle: "Palestrantes Principais"
+  complexity: "Nível"
+  language: "Idioma"
+  day: "Dia"

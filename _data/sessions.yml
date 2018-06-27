@@ -1,61 +1,98 @@
-# NO se usa (por ahora)
-
--
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
+- id: 001
+  title: {en: 'Visualización estática e interactiva de datos usando ggplot2 y plotly', es: 'Visualización estática e interactiva de datos usando ggplot2 y plotly', pt: 'Visualización estática e interactiva de datos usando ggplot2 y plotly'}
+  cupo: 50
+  language: es
+  complexity: {en: "Basic", es: "Básico", pt: "Básico"}
+  speakers: [3]
+  description: 'La visualization tiene un rol fundamental en todas las etapas del análisis estadístico de datos, exploración, modelado y diagnóstico. Permite descubrir patrones escondidos en los datos así como dar luz a modelos o algoritmos complejos. En este taller vamos a recorrer los conceptos básicos para hacer visualización estática de datos con R usando el paquete ggplot2. Veremos las ideas fundamentales de la gramática gráfica que está detrás de ggplot2. Los participantes aprenderán a crear distintos tipos de gráficos en pocos pasos de calidad publicable. A su vez Introduciremos el concepto de gráficos interactivos y su potencial para el descubrimiento de patrones y el análisis estadístico de datos. Existen diversas opciones para hacer visualización interactiva en R pero en este taller usaremos plotly.'
+  
+- id: 002
+  title: {en: 'Inteligencia Artificial con R: Introducción al “Deep Learning”', es: 'Inteligencia Artificial con R: Introducción al “Deep Learning”', pt: 'Inteligencia Artificial con R: Introducción al “Deep Learning”'}
+  complexity: {en: "Basic/Intermediate", es: "Básico/Intermedio", pt: "Básico/Médio"}
+  language: es
   speakers: [4]
+  description: 'El taller mostrará herramientas de “Deep Learning” aplicadas a problemas de Regresión, Clasificación y “Novelty Detection”. Se utilizará la interfaz KERAS basada en TensorFlow, tecnología de código abierto creada por Google para el desarrollo del aprendizaje automático. Se enseñarán a lo largo del taller los conceptos fundamentales de los métodos tratados, y se darán ejemplos de caso mediante el uso del entorno de desarrollo integrado Rstudio.'
+
+- id: 003
+  title: {en: 'purrr: Functional Programming Mindset', es:  'purrr: Functional Programming Mindset', pt: 'purrr: Functional Programming Mindset'}
+  complexity: {en: "Basic", es: "Básico", pt: "Básico"}
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  speakers: [1]
+  description: 'TBA'
+
+- id: 004
+  title: {en: "Poster session", es: "Sessión de pósters", pt: "Sessão de pôsteres"} 
+  place: {en: "Ground floor", es: "Planta Baja", pt: "Planta baixa"}
+  description: ''
+
+- id: 005
+  title: {en: 'Oral Presentations', es: 'Presentaciones orales', pt: 'Apresentações orais'}
+  place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
+  description: {es: "Las charlas cortas incluirán presentaciones contribuidas por los autores y cuidadosamente seleccionadas por nuestro comité científico. También habrá presentaciones invitadas y de patrocinadores. Los temas de las charlas contribuidas y los pósters incluyen el uso transversal de R en: </br> 
+   <ul>
+  <li>Estadística</li>
+  <li>Ciencias sociales</li>
+  <li>Ciencias biológicas</li>
+<li>Ciencias de la salud</li>
+<li>Economía</li>
+</ul>
+entre otras. </br>
+Las presentaciones abarcan temas como: </br>
+<ul>
+<li>Paquetes nuevos</li>
+<li>Enseñanza con R</li>
+<li>Análisis innovador de datos públicos</li>
+<li>Desarrollo de visualizaciones interactivas</li>
+<li>Diversas aplicaciones de R</li>
+entre otras. </br>
+También habrá paneles dedicados al fuerte concepto de Comunidad dentro del mundo de la programación con R. Además de The Carpentries y rOpenSci, estarán representados distintos grupos de usuarios de distintos países de América Latina y del resto del mundo. ",
+en: "The short talks will include presentations contributed by the authors and carefully selected by our scientific committee. There will also be invited and sponsor presentations. The topics of the contributed talks and the posters include the transversal use of R in: </br>
+    <ul>
+   <li> Statistics </li>
+   <li> Social Sciences </li>
+   <li> Biological Sciences </li>
+<li> Health Sciences </li>
+<li> Economy </li>
+</ul>
+and others. </br>
+The presentations cover topics such as: </br>
+<ul>
+<li> New packages </li>
+<li> Teaching with R </li>
+<li> Innovative analysis of public data </li>
+<li> Development of interactive visualizations </li>
+<li> Various applications of R </li>
+among other. </br>
+There will also be panels dedicated to the strong concept of Community within the world of programming with R. In addition to The Carpentries and rOpenSci, different usergroups from different countries of Latin America and the rest of the world will be represented.", 
+pt: "Las charlas cortas incluirán presentaciones contribuidas por los autores y cuidadosamente seleccionadas por nuestro comité científico. También habrá presentaciones invitadas y de patrocinadores. Los temas de las charlas contribuidas y los pósters incluyen el uso transversal de R en: </br> 
+   <ul>
+  <li>Estadística</li>
+  <li>Ciencias sociales</li>
+  <li>Ciencias biológicas</li>
+<li>Ciencias de la salud</li>
+<li>Economía</li>
+</ul>
+entre otras. </br>
+Las presentaciones abarcan temas como: </br>
+<ul>
+<li>Paquetes nuevos</li>
+<li>Enseñanza con R</li>
+<li>Análisis innovador de datos públicos</li>
+<li>Desarrollo de visualizaciones interactivas</li>
+<li>Diversas aplicaciones de R</li>
+entre otras. </br>
+También habrá paneles dedicados al fuerte concepto de Comunidad dentro del mundo de la programación con R. Además de The Carpentries y rOpenSci, estarán representados distintos grupos de usuarios de distintos países de América Latina y del resto del mundo. "}
+
+- id: 006
+  title: {en: 'Keynote speech', es:  'Keynote speech', pt:  'Keynote speech'}
+  place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [1]
+  description: 'TBA'
+
+- id: 007
+  title: {en: 'Aprendiendo a computar vs computar para aprender: hacia una nueva forma de enseñar y aprender estadística', es: 'Aprendiendo a computar vs computar para aprender: hacia una nueva forma de enseñar y aprender estadística', pt: 'Aprendiendo a computar vs computar para aprender: hacia una nueva forma de enseñar y aprender estadística'}
+  place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
+  language: es
+  speakers: [2]
+  description: 'La revolución de datos y algoritmos ofrece una excelente oportunidad para renovar la forma en la que se motiva y enseña la estadística. Lejos de funcionar como una mera ilustración de los métodos formales, la charla sugiere que entornos computacionales flexibles como R pueden cumplir un rol fundamental en explicar el funcionamiento de ideas complejas en el campo del análisis moderno de datos.'

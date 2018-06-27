@@ -44,3 +44,21 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/wsosaescudero"}
+
+
+- id: 3
+  name: "Natalia"
+  surname: "da Silva"
+  thumbnailUrl: nataliadasilva.jpg
+  company: {en: 'Natalia da Silva (PhD, Iowa State University) es Profesora Asistente en el Departamento de Estadística de la Universidad de la República en Montevideo (UDELAR-IESTA). Colabora con Di Cook y Heike Hofmann. Trabaja en investigación en métodos de aprendizaje supervisado, predicción, análisis de datos exploratorios, gráficos estadísticos, investigación reproducible y metanálisis. Es cofundador de R-Ladies Ames y R-Ladies Montevideo. Trabaja en diferentes iniciativas para obtener una comunidad R más fuerte y grande en América Latina, tales como la organización de LatinR2018, donde es una de las Chairs.',
+            es: 'Natalia da Silva (PhD, Iowa State University) es Profesora Asistente en el Departamento de Estadística de la Universidad de la República en Montevideo (UDELAR-IESTA). Colabora con Di Cook y Heike Hofmann. Trabaja en investigación en métodos de aprendizaje supervisado, predicción, análisis de datos exploratorios, gráficos estadísticos, investigación reproducible y metanálisis. Es cofundador de R-Ladies Ames y R-Ladies Montevideo. Trabaja en diferentes iniciativas para obtener una comunidad R más fuerte y grande en América Latina, tales como la organización de LatinR2018, donde es una de las Chairs.',
+            pt: 'Natalia da Silva (PhD, Iowa State University) es Profesora Asistente en el Departamento de Estadística de la Universidad de la República en Montevideo (UDELAR-IESTA). Colabora con Di Cook y Heike Hofmann. Trabaja en investigación en métodos de aprendizaje supervisado, predicción, análisis de datos exploratorios, gráficos estadísticos, investigación reproducible y metanálisis. Es cofundador de R-Ladies Ames y R-Ladies Montevideo. Trabaja en diferentes iniciativas para obtener una comunidad R más fuerte y grande en América Latina, tales como la organización de LatinR2018, donde es una de las Chairs.'}
+  
+- id: 4
+  name: Andrés 
+  surname: Farral
+  company: {es: 'Especialista en temas relacionados a la Ciencia de Datos. Actualmente es el Responsable del Área Metodológica de Ecoclimasol y Profesor de Postgrado en la Facultad de Cs. Exactas y Naturales (UBA).',
+            pt: 'Especialista en temas relacionados a la Ciencia de Datos. Actualmente es el Responsable del Área Metodológica de Ecoclimasol y Profesor de Postgrado en la Facultad de Cs. Exactas y Naturales (UBA).',
+            en: 'Especialista en temas relacionados a la Ciencia de Datos. Actualmente es el Responsable del Área Metodológica de Ecoclimasol y Profesor de Postgrado en la Facultad de Cs. Exactas y Naturales (UBA).'}
+
+            

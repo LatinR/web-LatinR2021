@@ -89,7 +89,7 @@
             "jobTitle" : "{{ speaker.title }}",
             "worksFor" : {
                 "@type" : "Organization",
-                "name" : "{{ speaker.company }}"
+                "name" : "{{ speaker.company.[lang] }}"
             },
             "sameAs" : "{{ speaker.social[0].link }}"
         }{% if forloop.index != forloop.length %},{% endif %}
