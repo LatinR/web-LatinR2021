@@ -38,7 +38,7 @@
 
 -
   date: "2018-09-05"
-  dateReadable: "September 5th"
+  dateReadable: {en: "September 5th", es: "5 de septiembre", pt: "5 de septiember"}
   tracks: 
     - {title: {es: "Presentaciones orales", en: "Oral presentations", pt: "Presentaciones Orales"}
        , color: "#90be4e"}

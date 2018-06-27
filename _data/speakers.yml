@@ -4,19 +4,19 @@
   id: 1
   name: "Jenny"
   surname: "Bryan"
-  company: {en: "Associated Professor of Statistics - University of British Columbia </br>  
-                Software Engineer at RStudio </br>
+  company: {en: "Software Engineer at RStudio </br>
+                Associate Professor of Statistics - University of British Columbia </br>  
                 rstudio::conf </br>
                 useR!2018 Keynote Speaker", 
-            es: "Profesora Asociada de Estadísticas - University of British Columbia </br>  
-                Ingeniera de Software en RStudio</br>
+            es: "Ingeniera de Software en RStudio</br>  
+                Profesora Asociada de Estadísticas - University of British Columbia </br>
                 rstudio::conf </br>
                 Oradora Principal en useR!2018",
-            pt: "Professora Associada de Estatística - University of British Columbia </br>
-                 Engenheira de Software na RStudio </br>
+            pt: "Engenheira de Software na RStudio </br>
+                 Professora Associada de Estatística - University of British Columbia </br>
                  rstudio::conf </br>
                  Palestrante principal na useR!2018"}
-  title: "University of British Columbia"
+  title: ""
   bio: ""
   thumbnailUrl: jennybryan.jpg
   rockstar: true
@@ -38,7 +38,7 @@
                  Professor e Diretor do Departamento de Economia - Universidade de San Andrés </br>
                  TEDxRiodelaPlata</br>
                  Autor de O que é (e o que não é) a Estatística? e O lado obscuro da Economia"}
-  title: "Universidad de San Andrés"
+  title: ""
   bio: ''
   thumbnailUrl: waltersosaescudero.jpg
   rockstar: true
