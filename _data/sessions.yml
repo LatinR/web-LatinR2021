@@ -5,7 +5,7 @@
   complexity: {en: "Basic", es: "Básico", pt: "Básico"}
   speakers: [3]
   description: 'La visualization tiene un rol fundamental en todas las etapas del análisis estadístico de datos, exploración, modelado y diagnóstico. Permite descubrir patrones escondidos en los datos así como dar luz a modelos o algoritmos complejos. En este taller vamos a recorrer los conceptos básicos para hacer visualización estática de datos con R usando el paquete ggplot2. Veremos las ideas fundamentales de la gramática gráfica que está detrás de ggplot2. Los participantes aprenderán a crear distintos tipos de gráficos en pocos pasos de calidad publicable. A su vez Introduciremos el concepto de gráficos interactivos y su potencial para el descubrimiento de patrones y el análisis estadístico de datos. Existen diversas opciones para hacer visualización interactiva en R pero en este taller usaremos plotly. 
-  <br> <br>Todos los tutoriales requieren traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse.'
+  <br> <br>Todos los tutoriales requieren traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse y plotly.'
   
 - id: 002
   title: {en: 'Inteligencia Artificial con R: Introducción al “Deep Learning”', es: 'Inteligencia Artificial con R: Introducción al “Deep Learning”', pt: 'Inteligencia Artificial con R: Introducción al “Deep Learning”'}
