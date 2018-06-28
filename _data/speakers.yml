@@ -4,14 +4,8 @@
   id: 1
   name: "Jenny"
   surname: "Bryan"
-  company: {en: "Software Engineer at RStudio </br>
-                Associate Professor of Statistics - University of British Columbia </br>  
-                rstudio::conf </br>
-                useR!2018 Keynote Speaker", 
-            es: "Ingeniera de Software en RStudio</br>  
-                Profesora Asociada de Estadísticas - University of British Columbia </br>
-                rstudio::conf </br>
-                Oradora Principal en useR!2018",
+  company: {en: "Jennifer Bryan (PhD, UC Berkeley) is a Software Engineer at RStudio and Associate Professor at the University of British Columbia. She is an internationally recognized reference of the R community and an Ordinary Member of the R Foundation and part of the rOpenSci Leadership Committee.",
+            es: "Jennifer Bryan (PhD, UC Berkeley) es Ingeniera de Software en RStudio y Profesora Asociada de la University of British Columbia. Es una referente internacionalmente reconocida de la comunidad R dentro de la cual es integrante ordinaria de la R Foundation y parte del Comité de Liderazgo de rOpenSci.",
             pt: "Engenheira de Software na RStudio </br>
                  Professora Associada de Estatística - University of British Columbia </br>
                  rstudio::conf </br>
