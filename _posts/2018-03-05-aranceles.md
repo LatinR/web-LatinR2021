@@ -45,7 +45,7 @@ Los tutoriales previos a la conferencia tienen un costo adicional. El valor entr
 <tbody>
  <tr><td>T1</td><td>Visualización estática e interactiva de datos usando ggplot2 y plotly por Natalia da Silva</td><td>Lunes 3 Sep <br> 10 a 13hs</td><td>$400 ($1000)</td>
  </tr>
- <tr><td>T2</td><td>Inteligencia artificial con R: Introducción al "Deep Learning" por Andrés Farral</td><td>Lunes 3 Sep <br> 10 a 13hs</td><td>$400 ($1000)</td>
+ <tr><td>T2</td><td>Inteligencia artificial con R: Introducción al "Deep Learning" por Andrés Farrall</td><td>Lunes 3 Sep <br> 10 a 13hs</td><td>$400 ($1000)</td>
  </tr>
 <tr><td>T3</td><td>purrr: Functional Programming Mindset por Jennifer Bryan</td><td>Lunes 3 Sep <br> 14 a 18hs</td><td>$400 ($1000)</td>
  </tr>

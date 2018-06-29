@@ -50,8 +50,8 @@
   
 - id: 4
   name: Andrés 
-  surname: Farral
-  thumbnailUrl: andresfarral.jpg
+  surname: Farrall
+  thumbnailUrl: andresFarrall.jpg
   company: {es: 'Especialista en temas relacionados a la Ciencia de Datos. Actualmente es el Responsable del Área Metodológica de Ecoclimasol y Profesor de Postgrado en la Facultad de Cs. Exactas y Naturales (UBA).',
             pt: 'Especialista en temas relacionados a la Ciencia de Datos. Actualmente es el Responsable del Área Metodológica de Ecoclimasol y Profesor de Postgrado en la Facultad de Cs. Exactas y Naturales (UBA).',
             en: 'Specialist in topics related to Data Science. He is currently responsible for the Ecoclimasol Methodological Area and Postgraduate Professor at the Faculty of Exact and Natural Sciences (UBA).'}
