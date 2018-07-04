@@ -6,7 +6,7 @@ lang: es
 ref: rates
 ---
 
-Los valores de los aranceles están en pesos argentinos (ARS). El valor entre paréntesis es para inscripciones realizadas a partir del 10 de julio de 2018. Más información en la [página de la JAIIO](http://47jaiio.sadio.org.ar/index.php?q=instrucciones_inscripcion).
+Los valores de los aranceles están en pesos argentinos (ARS). El valor entre paréntesis es para inscripciones realizadas a partir del 10 de julio de 2018. Más información en la [página de la JAIIO](http://47jaiio.sadio.org.ar/index.php?q=como_inscribirse).
 
 <table class="table-price">
 <thead><tr class="tableizer-firstrow"><th>Categoría</th><th>1er artículo / <br> Asistencia</th><th>Artículo adicional</th></tr></thead><tbody>
