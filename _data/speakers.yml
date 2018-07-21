@@ -51,9 +51,32 @@
 - id: 4
   name: Andrés 
   surname: Farrall
-  thumbnailUrl: andresFarrall.jpg
+  thumbnailUrl: andresfarrall.jpg
   company: {es: 'Especialista en temas relacionados a la Ciencia de Datos. Actualmente es el Responsable del Área Metodológica de Ecoclimasol y Profesor de Postgrado en la Facultad de Cs. Exactas y Naturales (UBA).',
             pt: 'Especialista en temas relacionados a la Ciencia de Datos. Actualmente es el Responsable del Área Metodológica de Ecoclimasol y Profesor de Postgrado en la Facultad de Cs. Exactas y Naturales (UBA).',
             en: 'Specialist in topics related to Data Science. He is currently responsible for the Ecoclimasol Methodological Area and Postgraduate Professor at the Faculty of Exact and Natural Sciences (UBA).'}
 
-            
+
+- id: 5
+  name: Lucas 
+  surname: Pogorelsky
+  company: {es: Coordinador de la Escuela de Ciencia de Datos, Escuela Argentina de Nuevas Tecnologías (EANT),
+            en: Coordinator of the Data Science School at Escuela Argentina de Nuevas Tecnologías (EANT),
+            pt: Coordinador de la Escuela de Ciencia de Datos, Escuela Argentina de Nuevas Tecnologías (EANT)}
+
+
+- id: 6
+  name: Guzmán
+  surname: López Orrego
+
+- id: 7
+  name: Pablo Nicolás 
+  surname: Alfaro Piñeyro
+
+- id: 8
+  name: Leonardo 
+  surname: Moreno
+
+- id: 9 
+  name: Marco
+  surname: Scavino

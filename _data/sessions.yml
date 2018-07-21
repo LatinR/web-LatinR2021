@@ -1,3 +1,7 @@
+
+- id: 999
+  title: 'Coffee break'
+
 - id: 001
   title: {en: 'Visualización estática e interactiva de datos usando ggplot2 y plotly', es: 'Visualización estática e interactiva de datos usando ggplot2 y plotly', pt: 'Visualización estática e interactiva de datos usando ggplot2 y plotly'}
   cupo: 50
@@ -103,3 +107,35 @@ También habrá paneles dedicados al fuerte concepto de Comunidad dentro del mun
   language: es
   speakers: [2]
   description: 'La revolución de datos y algoritmos ofrece una excelente oportunidad para renovar la forma en la que se motiva y enseña la estadística. Lejos de funcionar como una mera ilustración de los métodos formales, la charla sugiere que entornos computacionales flexibles como R pueden cumplir un rol fundamental en explicar el funcionamiento de ideas complejas en el campo del análisis moderno de datos.'
+
+
+- id: 008
+  title: {en: 'Opening of LatinR 2018', es: "Apertura de LatinR2018"}
+  place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
+
+- id: 009
+  title: {en: "RUG Presentation 1: R-Ladies", es: "Panel de Grupos de Usuarios de R 1: R-Ladies"}
+  place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
+
+- id: 010
+  title: {en: "Impresión 3D por medio de R", es: "EANT - Impresión 3D por medio de R"}
+  language: es
+  speakers: [5]
+  description: 'Esta charla tiene como objetivo presentar cómo utilizar R para generar una representación de datos en 3 dimensiones y generar el archivo necesario para impresión 3D y de este modo generar un gráfico “físico”.
+Utilizaremos datos de los subtes de Buenos Aires provenientes del portal de Datos Abierto de la Ciudad de Buenos Aires y nos valdremos de las librerías tidyverse para manipulación de datos estructurados, sf para la manipulación de datos georreferenciales y r2stl para la generación del archivo stl necesario para la impresión en 3D.
+En la charla se podrá ver el mapa de la Ciudad de Buenos Aires con la cantidad de pasajeros que se suben en cada estación de subtes impreso en 3 dimensiones. 
+<br>
+Presentación Sponsor'
+
+- id: 011
+  title: 'Visualización y análisis del Tráfico Marítimo a partir de millones de datos del Sistema de Identificación Automática de barcos mediante una aplicación web de R con Shiny'
+  speakers: [6]
+  language: es
+
+
+- id: 012
+  title: 'Incorporación de Información Satelital Grillada para la Producción de una Base de Datos de Temperaturas Mínimas de Alta Resolución'
+  speakers: [7, 8, 9]
+  language: es
+
+
