@@ -36,7 +36,7 @@
   <br> <br>Todos los tutoriales requieren traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse."
 
 - id: 4
-  title: {en: "Poster session", es: "Sessión de pósters", pt: "Sessão de pôsteres"} 
+  title: {en: "Poster session", es: "Sesión de pósters", pt: "Sessão de pôsteres"} 
   place: {en: "Ground floor", es: "Planta Baja", pt: "Planta baixa"}
   description: ''
   service: true
