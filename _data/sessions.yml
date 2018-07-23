@@ -1,6 +1,10 @@
-
 - id: 999
   title: 'Coffee break'
+  service: true
+
+- id: 998
+  title: {en: "Lunch", es: "Almuerzo", pt: "Almoço"}
+  service: true
 
 - id: 001
   title: {en: 'Visualización estática e interactiva de datos usando ggplot2 y plotly', es: 'Visualización estática e interactiva de datos usando ggplot2 y plotly', pt: 'Visualización estática e interactiva de datos usando ggplot2 y plotly'}
@@ -31,12 +35,13 @@
   <li>Case studies, such as how to do work on each row in a data frame or how to turn data in a nested list (e.g. from JSON or XML) into a nice rectangle.</li>
   <br> <br>Todos los tutoriales requieren traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse."
 
-- id: 004
+- id: 4
   title: {en: "Poster session", es: "Sessión de pósters", pt: "Sessão de pôsteres"} 
   place: {en: "Ground floor", es: "Planta Baja", pt: "Planta baixa"}
   description: ''
+  service: true
 
-- id: 005
+- id: 5
   title: {en: 'Oral Presentations', es: 'Presentaciones orales', pt: 'Apresentações orais'}
   place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
   description: {es: "Las charlas cortas incluirán presentaciones contribuidas por los autores y cuidadosamente seleccionadas por nuestro comité científico. También habrá presentaciones invitadas y de patrocinadores. Los temas de las charlas contribuidas y los pósters incluyen el uso transversal de R en: </br> 
@@ -94,14 +99,14 @@ Las presentaciones abarcan temas como: </br>
 entre otras. </br>
 También habrá paneles dedicados al fuerte concepto de Comunidad dentro del mundo de la programación con R. Además de The Carpentries y rOpenSci, estarán representados distintos grupos de usuarios de distintos países de América Latina y del resto del mundo. "}
 
-- id: 006
+- id: 6
   title: {en: 'Teaching R (and more) in the Era of Data Science', es:  'Teaching R (and more) in the Era of Data Science', pt:  'Teaching R (and more) in the Era of Data Science'}
   place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
   language: en
   speakers: [1]
   description: "My talk deals with two related themes: the ongoing discussion of 'data science vs. statistics' and the importance of developing your own data analysis workflow. These topics are related in my mind because I believe, as academic statisticians, we often take an unnecessarily narrow view of our discipline. The 'data science vs statistics' debate brings this to a head, because the desire to join and even lead data science initiatives provides an incentive to broaden our mandate. What if we embraced the development and teaching of tools -- both mental and digital -- that address the entire data analysis process? I'll draw on my experience developing and delivering <a href='http://stat545.com/'>STAT 545</a> at the University of British Columbia. I conclude with an overview of semi-recent developments in the R ecosystem, aimed at people who want to make their workflow more productive and less aggravating. I'll explain what the tidyverse is and why so many people are incorporating new tools, like Git and GitHub, into their workflow."
 
-- id: 007
+- id: 7
   title: {en: 'Aprendiendo a computar vs computar para aprender: hacia una nueva forma de enseñar y aprender estadística', es: 'Aprendiendo a computar vs computar para aprender: hacia una nueva forma de enseñar y aprender estadística', pt: 'Aprendiendo a computar vs computar para aprender: hacia una nueva forma de enseñar y aprender estadística'}
   place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
   language: es
@@ -109,15 +114,15 @@ También habrá paneles dedicados al fuerte concepto de Comunidad dentro del mun
   description: 'La revolución de datos y algoritmos ofrece una excelente oportunidad para renovar la forma en la que se motiva y enseña la estadística. Lejos de funcionar como una mera ilustración de los métodos formales, la charla sugiere que entornos computacionales flexibles como R pueden cumplir un rol fundamental en explicar el funcionamiento de ideas complejas en el campo del análisis moderno de datos.'
 
 
-- id: 008
+- id: 8
   title: {en: 'Opening of LatinR 2018', es: "Apertura de LatinR2018"}
   place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
 
-- id: 009
+- id: 9
   title: {en: "RUG Presentation 1: R-Ladies", es: "Panel de Grupos de Usuarios de R 1: R-Ladies"}
   place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
 
-- id: 010
+- id: 10
   title: {en: "Impresión 3D por medio de R", es: "EANT - Impresión 3D por medio de R"}
   language: es
   speakers: [5]
@@ -127,15 +132,216 @@ En la charla se podrá ver el mapa de la Ciudad de Buenos Aires con la cantidad 
 <br>
 Presentación Sponsor'
 
-- id: 011
+- id: 11
   title: 'Visualización y análisis del Tráfico Marítimo a partir de millones de datos del Sistema de Identificación Automática de barcos mediante una aplicación web de R con Shiny'
   speakers: [6]
   language: es
 
 
-- id: 012
+- id: 12
   title: 'Incorporación de Información Satelital Grillada para la Producción de una Base de Datos de Temperaturas Mínimas de Alta Resolución'
   speakers: [7, 8, 9]
   language: es
 
+- id: 13
+  title: 'EPP v.0.2: Evaluation of Proximity Programs with OSRM routing'
+  speakers: [10, 11, 12]
+  language: en
+  
+- id: 14
+  title: 'Análisis de imágenes satelitales con R: Patrones espaciales de la correlación cruzada de series temporales de imágenes Modis de temperatura y productividad vegetal'
+  speakers: [13, 14]
+  language: es
 
+- id: 15
+  title: 'Visualización y análisis mediante series temporales de la siniestralidad vial del Uruguay en el período 2013-2017'
+  speakers: [15, 16, 17]
+  language: es
+
+- id: 16
+  title: 'IBM'
+
+- id: 17
+  title: 'shinyWYSIWYG: a shiny What You See Is What You Get editor'
+  speakers: [18, 19, 20]
+  language: en
+
+- id: 18
+  title: 'Indicadores Economicos basados en la Evolución Sectorial y Provincial del Empleo Formal'
+  speakers: [21, 22]
+  language: es
+
+- id: 19
+  title: 'Aplicación Shiny: Mujeres en política en el mundo 2000-2018'
+  speakers: [23]
+  language: es
+
+- id: 20
+  title: 'LibreSense: Software para análisis sensorial de alimentos'
+  speakers: [24, 25, 26, 27]
+  language: es
+
+- id: 21
+  title: 'DATAUNIRIO Transparência: Uso do Shiny para aumentar a transparência orçamentária'
+  speakers: [28, 29, 30, 31, 32, 33]
+  language: pt
+
+- id: 22
+  title: 'Ressignificando o Resultado do Tesouro Nacional: uma aplicação em transparência fiscal e dados abertos'
+  speakers: [34]
+  language: pt
+
+- id: 23
+  title: 'Demostración de creative coding con R para LatinR 2018'
+  speakers: [35]
+  language: es
+
+- id: 24
+  title: 'Geofaceting Argentina'
+  speakers: [36]
+  language: es
+
+- id: 25
+  title: 'Carpentries teaching practices for R users'
+  speakers: [37, 38]
+  description: 'Researchers have discovered an enormous amount about how people learn and how best to teach them. Unfortunately, much of that knowledge has not yet been translated into common classroom practice at the university level. In addition to teaching foundational coding and data science skills to researchers worldwide, The Carpentries organizations lead an instructor training program focuses on evidence-based best-practices of teaching. This LatinR workshop will focus on the highlights of the two-day Carpentry instructor training program. Attendees will learn how to create a positive environment for learners at workshops, have opportunities to practice and build your teaching skills, become integrated into the Carpentry community, and prepare you to use these teaching skills in teaching Carpentry workshops. 
+    </br> 
+    <a href = "https://raynamharris.github.io/2018-09-05-LatinR/">Registrarion</a> required'
+  language: en
+
+- id: 925
+  title: 'Carpentries teaching practices for R users (cont)'
+  speakers: [null]
+  language: en
+
+- id: 26
+  title: {en: "RUG Presentation 2: RUGs / ¡MejoR ciencia con rOpenSci", 
+          es: "Panel de Grupos de Usuarios de R 2: ¡MejoR ciencia con rOpenSci"}
+  description: {en: "rOpenSci es una comunidad científica y de desarrollo de software R cuyo objetivo es apoyar a la ciencia con R. En rOpenSci se desarrollan, revisan y documentan paquetes y buenas prácticas para acceso a datos abiertos, manipulación y extracción de datos de todo tipo y formato, análisis reproducible, etc. En esta charla, descubrí cómo te pueden ayudar las herramientas y los recursos de rOpenSci y cómo unirte a nuestra comunidad ¡sin importar cuál es tu nivel de R actual! ¡MejoRemos la ciencia juntes! </br> Teleconference", 
+                es: "rOpenSci es una comunidad científica y de desarrollo de software R cuyo objetivo es apoyar a la ciencia con R. En rOpenSci se desarrollan, revisan y documentan paquetes y buenas prácticas para acceso a datos abiertos, manipulación y extracción de datos de todo tipo y formato, análisis reproducible, etc. En esta charla, descubrí cómo te pueden ayudar las herramientas y los recursos de rOpenSci y cómo unirte a nuestra comunidad ¡sin importar cuál es tu nivel de R actual! ¡MejoRemos la ciencia juntes! </br> Teleconferencia", 
+                pt: 'rOpenSci es una comunidad científica y de desarrollo de software R cuyo objetivo es apoyar a la ciencia con R. En rOpenSci se desarrollan, revisan y documentan paquetes y buenas prácticas para acceso a datos abiertos, manipulación y extracción de datos de todo tipo y formato, análisis reproducible, etc. En esta charla, descubrí cómo te pueden ayudar las herramientas y los recursos de rOpenSci y cómo unirte a nuestra comunidad ¡sin importar cuál es tu nivel de R actual! ¡MejoRemos la ciencia juntes! </br> Teleconferência'}
+  speakers: [39]
+  language: es
+
+- id: 27
+  title: 'Newspaper Analysis'
+  speakers: [40, 41]
+  language: en
+
+- id: 28
+  title: 'Abriendo y analizando los Diarios de Sesiones del Parlamento uruguayo con R'
+  speakers: [42]
+  language: es
+
+- id: 29
+  title: 'Sentiments and Opinions From Twitter About Peruvian Touristic Places Using Correspondence Analysis'
+  speakers: [null]
+  language: en
+
+- id: 30
+  title: 'Utilización de R para análisis bibliométrico'
+  speakers: [43, 44, 45, 46]
+  language: es
+
+- id: 31
+  title: 'Uso de R en bibliometría. Exploración de técnicas para la detección de temas locales de investigación'
+  speakers: [47]
+  language: es
+
+- id: 32
+  title: 'Descripción del comercio internacional utilizando un modelo de redes complejas'
+  speakers: [48]
+  language: es
+
+- id: 33
+  title: 'Red de paquetes de R: CRAN, estructura y evolución temporal'
+  speakers: [49, 50]
+  language: es
+
+- id: 34
+  title: 'Asistiendo al usuario de R en la recomendación de nuevos paquetes'
+  speakers: [51, 52, 4]
+  language: es
+
+- id: 35
+  title: {en: "RUG Presentation 3: RUGs / RConsortium funds for RUGs", 
+          es: "Panel de Grupos de Usuarios de R 3: RUGs / Fondos del RConsortium para RUGs"}
+  language: es
+
+
+- id: 36
+  title: 'Towards an R Package for the Shortest Path Problem with Forbidden Paths'
+  speakers: [53, 54]
+  language: en
+
+- id: 37
+  title: 'Modelo DINA aplicado a la evaluación de Matemática en estudiantes de segundo grado de secundaria'
+  speakers: [55]
+  language: es
+
+- id: 38
+  title: 'priorcovmatrix: Explorar, visualizar y estimar matrices de covarianzas'
+  speakers: [56]
+  language: es
+
+- id: 39
+  title: 'Ordenando, “tidy”, la información sobre educación: una aplicación al Plan Ceibal en Uruguay'
+  speakers: [57, 58, 59, 60]
+  language: es
+
+- id: 40
+  title: 'Paquetes con procedimientos robustos para la estimación de las componentes de un modelo aditivo'
+  speakers: [61]
+  language: es
+
+- id: 41
+  title: 'A Utilização do R nas Aulas de Matemática no Ensino Médio'
+  speakers: [62]
+  language: pt
+
+- id: 42
+  title: 'Uso de R y minería de datos para la predicción del estado de cultivos cítricos'
+  speakers: [63, 64, 65, 66, 67, 68]
+  language: es
+
+- id: 43
+  title: 'Cálculo Numérico de la Solución del Problema de Poisson Mediante la Simulación del Proceso de Wiener'
+  speakers: [69, 70, 71, 72]
+  language: es
+
+- id: 44
+  title: 'metR - Visualización y manejo de datos meteorológicos'
+  speakers: [73]
+  language: es
+
+- id: 45
+  title: 'Topological Sensitivity Analysis Using R' 
+  speakers: [74, 75, 76]
+  language: en
+
+- id: 46
+  title: 'frost: prediction of minimum temperature for frost forecasting in agriculture'
+  speakers: [77, 78, 79]
+  language: en
+
+- id: 47
+  title: 'Indicators of Electoral Systems and Party Systems: R-package:esaps'
+  speakers: [80]
+  language: en
+
+- id: 48
+  title: 'RStudio - Productividad en R con RStudio'
+  speakers: [81]
+  description: 'Los creadores de R proporcionaron una plataforma para procesar informática estadística de forma libre y abierta, la cual ha habilitado colaboración y ha extendido sus beneficios con todo mundo; porque, es mejor para todos si las herramientas que usamos en la investigación científica son gratuitas y abiertas. Hacer que el software científico sea libre tiene muchos beneficios: es reproducible, promueve mayor intercambio de conocimientos y técnicas, y elimina las barreras de costos para que todos puedan participar. RStudio tiene la misión de proporcionar el mejor software profesional de código abierto con soporte empresarial para aplicaciones informáticas y estadísticas usando R. El principal producto de RStudio es un ambiente de desarrollo integrado (IDE) que le facilita, a cualquier persona, el análisis estadístico de información con R. RStudio también  ha desarrollado varios paquetes para R, como Shiny y R Markdown, los cuales proporcionan una plataforma para compartir aplicaciones interactivas y reportes reproducibles. Esta sesión presentará las herramientas y paquetes desarrollados por RStudio.'
+  language: es
+
+- id: 49
+  title: {en: "RUG Presentation 4: The Carpentries + R4DS-es", 
+          es: "Panel de Grupos de Usuarios de R 2: The Carpentries + R4DS-es"} 
+  language: es
+
+- id: 50
+  title: {en: "LatinR closing", es: "Cierre de LatinR"}
+
+- id: 51
+  title: {en: "Panel about gender", es: "Panel de género"}

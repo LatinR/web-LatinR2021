@@ -126,6 +126,11 @@
 .flexbox-item-height {
     @include flex(1);
 }
+
+.flexbox-item-height2 {
+    @include flex(2);
+}
+
 .reset-padding {
     padding: 0;
 }

@@ -51,7 +51,7 @@
 - id: 4
   name: Andrés 
   surname: Farrall
-  thumbnailUrl: andresfarrall.jpg
+  thumbnailUrl: andresfarral.jpg
   company: {es: 'Especialista en temas relacionados a la Ciencia de Datos. Actualmente es el Responsable del Área Metodológica de Ecoclimasol y Profesor de Postgrado en la Facultad de Cs. Exactas y Naturales (UBA).',
             pt: 'Especialista en temas relacionados a la Ciencia de Datos. Actualmente es el Responsable del Área Metodológica de Ecoclimasol y Profesor de Postgrado en la Facultad de Cs. Exactas y Naturales (UBA).',
             en: 'Specialist in topics related to Data Science. He is currently responsible for the Ecoclimasol Methodological Area and Postgraduate Professor at the Faculty of Exact and Natural Sciences (UBA).'}
@@ -80,3 +80,291 @@
 - id: 9 
   name: Marco
   surname: Scavino
+
+- id: 10
+  name: Richard
+  surname: Detomasi Araujo
+
+- id: 11
+  name: Gabriela
+  surname: Mathieu
+
+- id: 12
+  name: Germán
+  surname: Botto Núñez
+
+- id: 13
+  name: Matias Alejandro
+  surname: Catillo Moine
+
+- id: 14
+  name: Priscilla 
+  surname: Gail Minotti
+
+- id: 15
+  name: Matías
+  surname: Muñoz Wolf
+
+- id: 16
+  name: Bruno Fernando
+  surname: Bellagamba De Leon
+
+- id: 17
+  name: Claudia Lorena
+  surname: Vila Bordoli
+
+- id: 18
+  name: Juan Cruz
+  surname: Rodriguez
+
+- id: 19
+  name: Jorge Claudio
+  surname: Vargas Rojas
+
+- id: 20
+  name: Elmer Andrés
+  surname: Fernández
+
+- id: 21
+  name: Ignacio Martin 
+  surname: Sarmiento-Barbieri
+
+- id: 22
+  name: Pedro
+  surname: Elosegui
+
+- id: 23
+  name: Gabriela
+  surname: Mathieu
+
+- id: 24
+  name:  Aníbal
+  surname: Catania
+
+- id: 25
+  name: Carlos
+  surname: Catania
+
+- id: 26
+  name: Martín
+  surname: Fanzone
+
+- id: 27
+  name: Santiago
+  surname: Sari
+
+- id: 28
+  name: Steven Dutt
+  surname: Ross
+
+- id: 29
+  name: Alexandre 
+  surname: Sousa da Silva
+
+- id: 30
+  name: Maria Tereza
+  surname: Serrano Barbosa
+
+- id: 31
+  name: Luciane 
+  surname: de Souza Velasque
+
+- id: 32
+  name: Luciane 
+  surname: Ferreira Alcoforado
+
+- id: 33
+  name: Orlando Celso
+  surname: Longo
+
+- id: 34
+  name: Fernando
+  surname: Almeida Barbalho
+
+- id: 35
+  name: Bea 
+  surname: Hernández
+
+- id: 36
+  name:  Juan Pablo
+  surname: Ruiz Nicolini
+
+- id: 37
+  name: Rayna
+  surname: Harris
+
+- id: 38
+  name: Florencia
+  surname: D'Andrea
+
+- id: 39
+  name: Maëlle 
+  surname: Salmon
+
+- id: 40
+  name: Aleksander
+  surname: Dietrichson
+
+- id: 41
+  name: Pablo Daniel
+  surname: Pagnone
+
+- id: 42
+  name: Daniela
+  surname: Vázquez
+
+- id: 43
+  name: Natalia Daniela
+  surname: Rapesta
+
+- id: 44
+  name: Lautaro Martin 
+  surname: Miguel Ramos
+
+- id: 45
+  name: Anabella Cecilia 
+  surname: De Battista
+
+- id: 46
+  name: Leandro
+  surname: Lepratte
+
+- id: 47
+  name: Sebastian
+  surname: Varela
+
+- id: 48 
+  name: Diego
+  surname: Kozlowski
+
+- id: 49
+  name: Ariel Olaf
+  surname: Salgado Corrado 
+
+- id: 50
+  name: Inés 
+  surname: Caridi
+
+- id: 51
+  name: Ariel
+  surname: Salgado
+
+- id: 52
+  name: Ines
+  surname: Caridi
+
+- id: 53
+  name: Melina
+  surname: Vidoni
+
+- id: 54
+  name: Aldo
+  surname: Vecchietti
+
+- id: 55
+  name: Yuriko 
+  surname: Sosa Paredes
+
+- id: 56
+  name: Ignacio
+  surname: Alvarez-Castro
+
+- id: 57
+  name: Juan José 
+  surname: Goyeneche Capeluto
+
+- id: 58
+  name: Cecilia 
+  surname: Marconi Ferrari
+
+- id: 59
+  name: Ana 
+  surname: Coimbra Marfetán
+
+- id: 60
+  name: Guillermina
+  surname: Costabel Artus
+
+- id: 61
+  name: Alejandra Mercedes 
+  surname: Martínez
+
+- id: 62
+  name: Luiz Paulo
+  surname: Santos
+
+- id: 63
+  name: Martin
+  surname: Ehman
+
+- id: 64
+  name: Gabriel
+  surname: Surraco
+
+- id: 65
+  name: Karina
+  surname: Eckert
+
+- id: 66
+  name: Sergio
+  surname: Garrán
+
+- id: 67
+  name: Vanesa
+  surname: Hochmaier
+
+- id: 68
+  name: Armando
+  surname: Taie
+
+- id: 69
+  name: Cecilia 
+  surname: Paciel López
+
+- id: 70
+  name: Gonzalo Federico
+  surname: Hornos Pascale
+
+- id: 71
+  name: Fernando Rafael
+  surname: Binaghi Fernández
+
+- id: 72
+  name: Agustín Ignacio
+  surname: Estramil Dinello
+
+- id: 73
+  name: Elio
+  surname: Campitelli
+
+- id: 74
+  name: Maikol
+  surname: Solís
+
+- id: 75
+  name: Alberto
+  surname: Hernández
+
+- id: 76
+  name: Ronal
+  surname: Zúñiga
+
+- id: 77
+  name: Ana Laura
+  surname: Diedrichs
+
+- id: 78
+  name: Facundo
+  surname: Bromberg
+
+- id: 79
+  name: Diego
+  surname: Dujovne
+
+- id: 80
+  name: Nicolás
+  surname: Schmidt
+
+- id: 81
+  name: Javier 
+  surname: Luraschi

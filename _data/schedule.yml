@@ -1,4 +1,3 @@
-
 - 
   date: "2018-09-03"
   dateReadable: {en: "September 3rd", es: "3 de septiembre", pt: "3 de septiembre"}
@@ -6,38 +5,38 @@
     - {title: {en: "Tutorials", es: "Tutoriales", pt: "Tutoriales"} , color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "13:00",
-    	sessionIds: [001, 002]
+      startTime: "10:00",
+      endTime: "13:00",
+      sessionIds: [1, 2]
     }
     - {
         startTime: "14:00",
         endTime: "18:00",
-        sessionIds: [003]
+        sessionIds: [3]
     }
 
 - 
   date: "2018-09-04"
   dateReadable: {en: "September 4th", es: "4 de septiembre", pt: "4 de septiember"}
   tracks: 
-    - {title: {es: "Presentaciones orales", en: "Oral presentations", pt: "Presentaciones Orales"} 
+    - {title: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
     , color: "#90be4e"}
-    - {title: {en: "Posters", es: "Pósters", pt: "Posters"}  , color: "#90be4e"}
+    - {title: {en: "Ground floor", es: "Planta Baja", pt: "Planta baixa"} , color: "#90be4e"}
   timeslots:
     - { 
         startTime: "09:00",
         endTime: "09:40",
-        sessionIds: [008]
+        sessionIds: [8]
         }
     - {
         startTime: "09:40",
         endTime: "10:00",
-        sessionIds: [009]
+        sessionIds: [9]
     }
     - {
         startTime: "10:00",
         endTime: "10:30",
-        sessionIds: [010]
+        sessionIds: [10]
     }
     - {
         startTime: "10:30",
@@ -47,43 +46,220 @@
     - {
         startTime: "11:00",
         endTime: "11:20",
-        sessionIds: [011, 004]
+        sessionIds: [11, 4]
     }
     - {
         startTime: "11:20",
         endTime: "11:40",
-        sessionIds: [012, ]
+        sessionIds: [12, 4]
     }
     - {
         startTime: "11:40",
         endTime: "12:00",
-        sessionIds: [013, ]
+        sessionIds: [13, 4]
     }
     - {
         startTime: "12:00",
         endTime: "12:20",
-        sessionIds: [014, ]
+        sessionIds: [14, 4]
     }
     - {
         startTime: "12:20",
         endTime: "12:40",
-        sessionIds: [015, ]
+        sessionIds: [15, 4]
+    }
+    - {
+        startTime: "12:40",
+        endTime: "13:00",
+        sessionIds: [16, 404]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [998]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "14:20",
+        sessionIds: [17, 4]      
+    }
+    - {
+        startTime: "14:20",
+        endTime: "14:40",
+        sessionIds: [18, 4]      
+    }
+    - {
+        startTime: "14:40",
+        endTime: "15:00",
+        sessionIds: [19, 4]      
+    }
+
+    - {
+        startTime: "15:00",
+        endTime: "15:20",
+        sessionIds: [20, 4]      
+    }
+    - {
+        startTime: "15:20",
+        endTime: "15:40",
+        sessionIds: [21, 4],
+    }
+    - {
+        startTime: "15:40",
+        endTime: "16:00",
+        sessionIds: [22, 4]      
+    } 
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [999]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "16:50",
+        sessionIds: [23, 4]
+    }
+    - {
+        startTime: "16:50",
+        endTime: "17:10",
+        sessionIds: [24, 4]
+    }
+    - {
+        startTime: "17:10",
+        endTime: "17:50",
+        sessionIds: [404, 4]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "19:00",
+        sessionIds: [6, 404]
     }
 
 -
   date: "2018-09-05"
   dateReadable: {en: "September 5th", es: "5 de septiembre", pt: "5 de septiember"}
   tracks: 
-    - {title: {es: "Presentaciones orales", en: "Oral presentations", pt: "Presentaciones Orales"}
+    - {title: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
        , color: "#90be4e"}
+    - {title: {es: "Aula 30", en: "Room 30", pt: "Aula 30" }}
   timeslots:
     - {
         startTime: "09:00",
+        endTime: "09:30",
+        sessionIds: [26, 25]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "09:50",
+        sessionIds: [27, 925]
+    }
+    - {
+        startTime: "09:50",
+        endTime: "10:10",
+        sessionIds: [28, 925]
+    }
+    - {
+        startTime: "10:10",
+        endTime: "10:30",
+        sessionIds: [29, 925]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [999]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:20",
+        sessionIds: [30, 925]
+    }
+    - {
+        startTime: "11:20",
+        endTime: "11:40",
+        sessionIds: [31, 925]
+    }
+    - {
+        startTime: "11:40",
+        endTime: "12:00",
+        sessionIds: [32, 925]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:20",
+        sessionIds: [33, 925]
+    }
+    - {
+        startTime: "12:20",
+        endTime: "12:30",
+        sessionIds: [34, 925]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [35, 925]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [998]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "14:20",
+        sessionIds: [36, 37]
+    }
+    - {
+        startTime: "14:20",
+        endTime: "14:40",
+        sessionIds: [38, 39]
+    }
+    - {
+        startTime: "14:40",
+        endTime: "15:00",
+        sessionIds: [40, 41]
+    }    
+    - {
+        startTime: "15:00",
+        endTime: "15:20",
+        sessionIds: [42, 43]
+    }    
+    - {
+        startTime: "15:20",
+        endTime: "15:40",
+        sessionIds: [44, 45]
+    }    
+    - {
+        startTime: "15:40",
+        endTime: "16:00",
+        sessionIds: [46, 47]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [999]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [48, 404]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "17:30",
+        sessionIds: [49, 404]
+    }
+    - {
+        startTime: "17:30",
         endTime: "18:00",
-        sessionIds: [005]
+        sessionIds: [50, 404]
     }
     - {
         startTime: "18:00",
         endTime: "19:00",
-        sessionIds: [007]
+        sessionIds: [7, 404]
+    }
+    - {
+        startTime: "19:00",
+        endTime: "21:00",
+        sessionIds: [51, 404]
     }
