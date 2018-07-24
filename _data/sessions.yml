@@ -119,7 +119,7 @@ También habrá paneles dedicados al fuerte concepto de Comunidad dentro del mun
   place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
 
 - id: 9
-  title: {en: "RUG Presentation 1: R-Ladies", es: "Panel de Grupos de Usuarios de R 1: R-Ladies"}
+  title: {en: "Community panel 1: RUGs - R-Ladies", es: "Panel de comunidades 1: Grupos de Usuarios de R - R-Ladies"}
   place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
 
 - id: 10
@@ -215,8 +215,7 @@ Presentación Sponsor'
   language: en
 
 - id: 26
-  title: {en: "RUG Presentation 2: RUGs / ¡MejoR ciencia con rOpenSci", 
-          es: "Panel de Grupos de Usuarios de R 2: ¡MejoR ciencia con rOpenSci"}
+  title: {en: "Community panel 2: Open science - ¡MejoR ciencia con rOpenSci", es: "Panel de comunidades 2: Ciencia abierta - ¡MejoR ciencia con rOpenSci"}
   description: {en: "rOpenSci es una comunidad científica y de desarrollo de software R cuyo objetivo es apoyar a la ciencia con R. En rOpenSci se desarrollan, revisan y documentan paquetes y buenas prácticas para acceso a datos abiertos, manipulación y extracción de datos de todo tipo y formato, análisis reproducible, etc. En esta charla, descubrí cómo te pueden ayudar las herramientas y los recursos de rOpenSci y cómo unirte a nuestra comunidad ¡sin importar cuál es tu nivel de R actual! ¡MejoRemos la ciencia juntes! </br> Teleconference", 
                 es: "rOpenSci es una comunidad científica y de desarrollo de software R cuyo objetivo es apoyar a la ciencia con R. En rOpenSci se desarrollan, revisan y documentan paquetes y buenas prácticas para acceso a datos abiertos, manipulación y extracción de datos de todo tipo y formato, análisis reproducible, etc. En esta charla, descubrí cómo te pueden ayudar las herramientas y los recursos de rOpenSci y cómo unirte a nuestra comunidad ¡sin importar cuál es tu nivel de R actual! ¡MejoRemos la ciencia juntes! </br> Teleconferencia", 
                 pt: 'rOpenSci es una comunidad científica y de desarrollo de software R cuyo objetivo es apoyar a la ciencia con R. En rOpenSci se desarrollan, revisan y documentan paquetes y buenas prácticas para acceso a datos abiertos, manipulación y extracción de datos de todo tipo y formato, análisis reproducible, etc. En esta charla, descubrí cómo te pueden ayudar las herramientas y los recursos de rOpenSci y cómo unirte a nuestra comunidad ¡sin importar cuál es tu nivel de R actual! ¡MejoRemos la ciencia juntes! </br> Teleconferência'}
@@ -264,8 +263,7 @@ Presentación Sponsor'
   language: es
 
 - id: 35
-  title: {en: "RUG Presentation 3: RUGs / RConsortium funds for RUGs", 
-          es: "Panel de Grupos de Usuarios de R 3: RUGs / Fondos del RConsortium para RUGs"}
+  title: {en: "Community panel 3: RUGs - RConsortium funds for RUGs", es: "Panel de comunidades 3: Grupos de Usuarios de R - Fondos del RConsortium para RUGs"}
   language: es
 
 
@@ -336,8 +334,7 @@ Presentación Sponsor'
   language: es
 
 - id: 49
-  title: {en: "RUG Presentation 4: The Carpentries + R4DS-es", 
-          es: "Panel de Grupos de Usuarios de R 2: The Carpentries + R4DS-es"} 
+  title: {en: "Community panel 4: Resources developement - The Carpentries + R4DS-es", es: "Panel de comunidades 4: Desarrollo de recursos - The Carpentries + R4DS-es"}
   language: es
 
 - id: 50
