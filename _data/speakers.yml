@@ -4,14 +4,14 @@
   id: 1
   name: "Jenny"
   surname: "Bryan"
-  company: {en: "Jennifer Bryan (PhD, UC Berkeley) is a Software Engineer at RStudio and Associate Professor at the University of British Columbia. She is an internationally recognized reference of the R community and an Ordinary Member of the R Foundation and part of the rOpenSci Leadership Committee.",
+  title: {en: "Software Engineer", es: "Ingeniera de Software", pt: "Engenheira de Software"}
+  company: "RStudio"
+  bio: {en: "Jennifer Bryan (PhD, UC Berkeley) is a Software Engineer at RStudio and Associate Professor at the University of British Columbia. She is an internationally recognized reference of the R community and an Ordinary Member of the R Foundation and part of the rOpenSci Leadership Committee.",
             es: "Jennifer Bryan (PhD, UC Berkeley) es Ingeniera de Software en RStudio y Profesora Asociada de la University of British Columbia. Es una referente internacionalmente reconocida de la comunidad R dentro de la cual es integrante ordinaria de la R Foundation y parte del Comité de Liderazgo de rOpenSci.",
             pt: "Engenheira de Software na RStudio </br>
                  Professora Associada de Estatística - University of British Columbia </br>
                  rstudio::conf </br>
                  Palestrante principal na useR!2018"}
-  title: ""
-  bio: ""
   thumbnailUrl: jennybryan.jpg
   rockstar: true
   social: 
@@ -20,7 +20,9 @@
   id: 2
   name: "Walter"
   surname: "Sosa Escudero"
-  company: {en: "CONICET Principal Investigator </br> 
+  title: {en: "Principal Investigator", es: "Investigador Principal", pt: "Pesquisador principal"}
+  company: "CONICET"
+  bio: {en: "CONICET Principal Investigator </br> 
                  Professor and Director of the Economics department - Universidad de San Andrés </br>
                  TEDxRiodelaPlata </br>
                  Author of What is (and what is not) statistics? and The dark side of econometrics </br>",
@@ -32,8 +34,6 @@
                  Professor e Diretor do Departamento de Economia - Universidade de San Andrés </br>
                  TEDxRiodelaPlata</br>
                  Autor de O que é (e o que não é) a Estatística? e O lado obscuro da econometria"}
-  title: ""
-  bio: ''
   thumbnailUrl: waltersosaescudero.jpg
   rockstar: true
   social: 
@@ -44,7 +44,9 @@
   name: "Natalia"
   surname: "da Silva"
   thumbnailUrl: nataliadasilva.jpg
-  company: {en: 'Natalia da Silva (PhD, Iowa State University) is an Assistant Professor in the Department of Statistics of the University of the Republic in Montevideo (UDELAR-IESTA). She works in research on supervised learning methods, prediction, analysis of exploratory data and statistical graphs in collaboration with Di Cook and Heike Hofmann. She is co-founder of R-Ladies Ames and R-Ladies Montevideo and Chair of LatinR2018.',
+  title: {en: "Assistant Professor", es: "Profesora Adjunta", pt: "Profesora Adjunta"}
+  company: " Instituto de Estadística de la Universidad de la República en Montevideo"
+  bio: {en: 'Natalia da Silva (PhD, Iowa State University) is an Assistant Professor in the Department of Statistics of the University of the Republic in Montevideo (UDELAR-IESTA). She works in research on supervised learning methods, prediction, analysis of exploratory data and statistical graphs in collaboration with Di Cook and Heike Hofmann. She is co-founder of R-Ladies Ames and R-Ladies Montevideo and Chair of LatinR2018.',
             es: 'Natalia da Silva (PhD, Iowa State University) es Profesora Adjunta en el Instituto de Estadística de la Universidad de la República en Montevideo (UDELAR-IESTA). Trabaja en investigación en métodos de aprendizaje supervisado, predicción, análisis de datos exploratorios y gráficos estadísticos en colaboración con Di Cook y Heike Hofmann. Es cofundadora de R-Ladies Ames y R-Ladies Montevideo y Chair de LatinR2018.',
             pt: 'Natalia da Silva (PhD, Iowa State University) es Profesora Adjunta en el Instituto de Estadística de la Universidad de la República en Montevideo (UDELAR-IESTA). Trabaja en investigación en métodos de aprendizaje supervisado, predicción, análisis de datos exploratorios y gráficos estadísticos en colaboración con Di Cook y Heike Hofmann. Es cofundadora de R-Ladies Ames y R-Ladies Montevideo y Chair de LatinR2018.'}
   
@@ -52,7 +54,9 @@
   name: Andrés 
   surname: Farall
   thumbnailUrl: andresfarral.jpg
-  company: {es: 'Especialista en temas relacionados a la Ciencia de Datos. Actualmente es el Responsable del Área Metodológica de Ecoclimasol y Profesor de Postgrado en la Facultad de Cs. Exactas y Naturales (UBA).',
+  title: {en: "Postgraduate Proefessor", es: "Profesor de Postgrado", pt: "Profesor de Postgrado "}
+  company: "Facultad de Cs. Exactas y Naturales - Universidad de Buenos Aires"
+  bio: {es: 'Especialista en temas relacionados a la Ciencia de Datos. Actualmente es el Responsable del Área Metodológica de Ecoclimasol y Profesor de Postgrado en la Facultad de Cs. Exactas y Naturales (UBA).',
             pt: 'Especialista en temas relacionados a la Ciencia de Datos. Actualmente es el Responsable del Área Metodológica de Ecoclimasol y Profesor de Postgrado en la Facultad de Cs. Exactas y Naturales (UBA).',
             en: 'Specialist in topics related to Data Science. He is currently responsible for the Ecoclimasol Methodological Area and Postgraduate Professor at the Faculty of Exact and Natural Sciences (UBA).'}
 
@@ -60,9 +64,8 @@
 - id: 5
   name: Lucas 
   surname: Pogorelsky
-  company: {es: Coordinador de la Escuela de Ciencia de Datos, Escuela Argentina de Nuevas Tecnologías (EANT),
-            en: Coordinator of the Data Science School at Escuela Argentina de Nuevas Tecnologías (EANT),
-            pt: Coordinador de la Escuela de Ciencia de Datos, Escuela Argentina de Nuevas Tecnologías (EANT)}
+  title: {es: "Coordinador de la Escuela de Ciencia de Datos", en: "Data Science School Coordinator", pt: "Coordinador de la Escuela de Ciencia de Datos"}
+  company: Escuela Argentina de Nuevas Tecnologías 
 
 
 - id: 6

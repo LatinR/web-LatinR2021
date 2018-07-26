@@ -86,10 +86,10 @@
             "@type" : "Person",
             "name" : "{{ speaker.name }} {{ speaker.surname }}",
             "image" : "{{ site.url | append: site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}",
-            "jobTitle" : "{{ speaker.title }}",
+            "jobTitle" : "{{ speaker.title.[lang] }}",
             "worksFor" : {
                 "@type" : "Organization",
-                "name" : "{{ speaker.company.[lang] }}"
+                "name" : "{{ speaker.company }}"
             },
             "sameAs" : "{{ speaker.social[0].link }}"
         }{% if forloop.index != forloop.length %},{% endif %}

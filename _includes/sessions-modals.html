@@ -54,7 +54,7 @@
 										</div>
 										<div class="col-md-10 col-sm-10 details">
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}
-												<span class="position">{{ speaker.title }}, {{ speaker.company.[lang] }}</span>
+												<span class="position">{{ speaker.title.[lang] }}, {{ speaker.company }}</span>
 											</p>
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">
@@ -63,7 +63,7 @@
 					                            {% endfor %}
 					                        </div>
 					                        {% endif %}
-											<p class="about">{{ speaker.bio }}</p>
+											<p class="about">{{ speaker.bio.[lang] }}</p>
 											<ul class="social">
 												{% for social in speaker.social %}
 													<li>

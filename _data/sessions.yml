@@ -50,7 +50,7 @@
 10 - Uso de gmnl para la estimación de la DAP por atributos de carnicerías en contextos de información diferentes</br>
 11 - Paquete ZOIP de R para modelo de regresión mixto con datos proporcionales inflados con ceros y/o unos </br>
 12 - Detección de rachas de frío a través de modelos DLM y su implementación en R</br>
-13 -  Visualización de modelos lineales con el paquete sjPlot </br>
+13 - Visualización de modelos lineales con el paquete sjPlot </br>
 14 - Estudio por simulación del desempeño de distintos métodos para el análisis de diseños experimentales bifactoriales con tamaños muestrales pequeños </br>
 15 - Longitudinal Multidimensional Item Response Modelling in Preschool Children's Mental State Understanding </br>
 16 - R-Medic: Un programa de análisis estadísticos, sencillo e intuitivo </br>
@@ -62,7 +62,7 @@
 22 - Clasificación de sistemas ganaderos para estimación de gases de efecto invernadero </br>
 23 - Análisis del recurso eólico usando R en zonas no interconectadas (ZNI) del departamento de Nariño (Colombia) </br>
 24 - Métodos de clasificación supervisada en series temporales </br>
-25 -  Funciones en R para calcular un periodograma móvil </br>
+25 - Funciones en R para calcular un periodograma móvil </br>
 26 - Estudio de valores extremos con R: Una aplicación a temperaturas mínimas. </br>
 27 - Mostrando el código en R para reforzar la explicación de un método: el test de aleatorización y el bootstrap </br>
 28 - Creación de un plug-in de Rcmdr para el análisis de experimentos con diferentes arreglos de dos factores </br>
