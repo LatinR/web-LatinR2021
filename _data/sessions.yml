@@ -369,4 +369,5 @@ Presentación Sponsor'
   title: {en: "LatinR closing", es: "Cierre de LatinR"}
 
 - id: 51
-  title: {en: "Panel about gender", es: "Panel de género"}
+  title: {en: "Woman in informatics (panel)", es: "La mujer en la informática (panel)"}
+  speakers: [82, 35, 83, 84, 85, 86]
