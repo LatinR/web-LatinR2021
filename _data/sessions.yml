@@ -38,8 +38,36 @@
 - id: 4
   title: {en: "Poster session", es: "Sesión de pósters", pt: "Sessão de pôsteres"} 
   place: {en: "Ground floor", es: "Planta Baja", pt: "Planta baixa"}
-  description: ''
-  service: true
+  description: "1 - Modelos gráficos para la visualización del comportamiento de votación de legisladores </br>
+2 - Diseño e Implementación de una herramienta para análisis de redes de coautoría </br>
+3 - News, macroeconomic expectations and disagreement </br>
+4 - Visualizando narrativas en economía </br>
+5 - Topic modeling en datos de Twitter: Una aplicación en el contexto político peruano </br>
+6 - Medición de la reputación corporativa en los medios de comunicación. Un caso de migración de RapidMiner a R </br>
+7 - Análisis de datos del Sistema de Integración Comunal (SINCO) venezolano con R </br>
+8 - Estimación paralela de parámetros texturales </br>
+9 - Comparación de propuestas para el análisis de componentes principales en matrices con datos faltantes </br>
+10 - Uso de gmnl para la estimación de la DAP por atributos de carnicerías en contextos de información diferentes</br>
+11 - Paquete ZOIP de R para modelo de regresión mixto con datos proporcionales inflados con ceros y/o unos </br>
+12 - Detección de rachas de frío a través de modelos DLM y su implementación en R</br>
+13 -  Visualización de modelos lineales con el paquete sjPlot </br>
+14 - Estudio por simulación del desempeño de distintos métodos para el análisis de diseños experimentales bifactoriales con tamaños muestrales pequeños </br>
+15 - Longitudinal Multidimensional Item Response Modelling in Preschool Children's Mental State Understanding </br>
+16 - R-Medic: Un programa de análisis estadísticos, sencillo e intuitivo </br>
+17 - Análisis gráfico de metanálisis en red usando 'netmeta'</br>
+18 - Grafos en R: Un Análisis de redes en Salud </br>
+19 - Análisis de datos de expresión con R como herramienta para el estudio de familias génicas.</br>
+20 - Desarrollo de una función en R para agilizar y automatizar la limpieza de secuencias obtenidas por la técnica de cDNA-AFLP. </br>
+21 - Species Sensitivity Distributions for Ecotoxicological Risk Assessment: elaboration of a shiny app to facilitate data analysis </br>
+22 - Clasificación de sistemas ganaderos para estimación de gases de efecto invernadero </br>
+23 - Análisis del recurso eólico usando R en zonas no interconectadas (ZNI) del departamento de Nariño (Colombia) </br>
+24 - Métodos de clasificación supervisada en series temporales </br>
+25 -  Funciones en R para calcular un periodograma móvil </br>
+26 - Estudio de valores extremos con R: Una aplicación a temperaturas mínimas. </br>
+27 - Mostrando el código en R para reforzar la explicación de un método: el test de aleatorización y el bootstrap </br>
+28 - Creación de un plug-in de Rcmdr para el análisis de experimentos con diferentes arreglos de dos factores </br>
+29 - Using SQL for data consolidation in R </br>
+30 - De Excel a R: ¿cambio de una herramienta o apertura a nuevas posibilidades?"
 
 - id: 5
   title: {en: 'Oral Presentations', es: 'Presentaciones orales', pt: 'Apresentações orais'}
