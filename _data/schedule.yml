@@ -145,23 +145,23 @@
   timeslots:
     - {
         startTime: "09:00",
-        endTime: "09:30",
-        sessionIds: [26, 25]
+        endTime: "09:20",
+        sessionIds: [27, 25]
     }
     - {
-        startTime: "09:30",
-        endTime: "09:50",
-        sessionIds: [27, 925]
-    }
-    - {
-        startTime: "09:50",
-        endTime: "10:10",
+        startTime: "09:20",
+        endTime: "09:40",
         sessionIds: [28, 925]
     }
     - {
-        startTime: "10:10",
-        endTime: "10:30",
+        startTime: "09:40",
+        endTime: "10:00",
         sessionIds: [29, 925]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:30",
+        sessionIds: [26, 925]
     }
     - {
         startTime: "10:30",
@@ -206,12 +206,12 @@
     - {
         startTime: "14:00",
         endTime: "14:20",
-        sessionIds: [36, 37]
+        sessionIds: [38, 37]
     }
     - {
         startTime: "14:20",
         endTime: "14:40",
-        sessionIds: [38, 39]
+        sessionIds: [36, 39]
     }
     - {
         startTime: "14:40",
