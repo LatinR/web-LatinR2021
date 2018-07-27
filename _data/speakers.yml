@@ -66,6 +66,7 @@
   surname: Pogorelsky
   title: {es: "Coordinador de la Escuela de Ciencia de Datos", en: "Data Science School Coordinator", pt: "Coordinador de la Escuela de Ciencia de Datos"}
   company: Escuela Argentina de Nuevas Tecnologías 
+  thumbnailUrl: lucaspogorelsky.jpg
 
 
 - id: 6
@@ -189,6 +190,7 @@
   surname: Hernández
   thumbnailUrl: beahernandez.jpg
   company: "R-Ladies"
+  title: {en: "Head data scientists", es: "Head data scientists", pt: "Head data scientists"}
   bio: {es: "Data Scientist en @DatMean donde trabaja con tecnologías Deep Learning y visualización de datos aplicado a la publicidad online. En su tiempo libre co-organiza R-Ladies Madrid, una rama local de la comunidad global de R en la que se fomenta la diversidad de género en los campos STEM y en concreto en la comunidad de R. Parte de la comunidad NASA Datanauts, un grupo que se mueve en un entorno de datos enfocados en el espacio",
         en: "Data Scientist at @DatMean where she works with Deep Learning technologies and data visualization applied to online advertising. In her spare time, she co-organizes R-Ladies Madrid, a local branch of the global R community that fosters gender diversity in STEM fields and specifically in the R community. Part of the NASA Datanauts community, a group that moves in a space-focused data environment",
         pt: "Data Scientist @DatMean donde trabaja con tecnologías Deep Learning y visualización de datos aplicado a la publicidad online. En su tiempo libre co-organiza R-Ladies Madrid, una rama local de la comunidad global de R en la que se fomenta la diversidad de género en los campos STEM y en concreto en la comunidad de R. Parte de la comunidad NASA Datanauts, un grupo que se mueve en un entorno de datos enfocados en el espacio"}
@@ -203,14 +205,17 @@
 - id: 37
   name: Rayna
   surname: Harris
+  thumbnailUrl: raynaharris.jpg
 
 - id: 38
   name: Florencia
   surname: D'Andrea
+  thumbnailUrl: florenciadandrea.jpg
 
 - id: 39
   name: Maëlle 
   surname: Salmon
+  thumbnailUrl: maellesalmon.jpg
 
 - id: 40
   name: Aleksander
@@ -379,6 +384,7 @@
 - id: 81
   name: Javier 
   surname: Luraschi
+  thumbnailUrl: javierluraschi.jpg
 
 - id: 82
   name: Carolina 
@@ -412,12 +418,13 @@
   name: Consuelo  
   surname: López
   thumbnailUrl: consuelolopez.jpg
-  #title: {es: "NN", en: "NN", pt: "NN"}
+  title: {es: "Coordinadora", en: "Coordinator", pt: "Coordenador"}
   company: "Chicas en Tecnología"
-  # bio: {es: "xx", en: "xx", pt: "xx"}
-  #social: 
-  #  - {name: "twitter", link: "https://twitter.com/CarolGolia"}
-  #  - {name: "linkedin", link: "linkedin.com/in/carolina-golia-7955b88"}
+  bio: {es: "Consuelo forma parte del equipo de Programas y Tecnología de Chicas en Tecnología, una organización sin fines de lucro que busca incentivar, motivar y formar a la nueva generación de mujeres innovadoras y emprendedoras. Es Ingeniera en Sistemas de Información, egresada de la UTN Córdoba, y M.S. en Software Engineering por de la Universidad de California (USA). Tiene más de 10 años en el rubro tecnológico, habiendo trabajado dentro y fuera del país tanto en la industria del desarrollo de software (ocupando roles técnicos y de liderazgo) como en la academia (ambos en el docencia y en la investigación).", en: "Consuelo is part of the Technology and Programs team of Chicas en Tecnología, a non-profit organization that seeks to encourage, motivate and train the new generation of innovative and enterprising women. She is an Information Systems Engineer, graduated from UTN Córdoba, and M.S. in Software Engineering from the University of California (USA). She has more than 10 years in the technology field, having worked inside and outside the country both in the software development industry (occupying technical and leadership roles) and in academia (both in teaching and research).", 
+    pt: "Consuelo forma parte del equipo de Programas y Tecnología de Chicas en Tecnología, una organización sin fines de lucro que busca incentivar, motivar y formar a la nueva generación de mujeres innovadoras y emprendedoras. Es Ingeniera en Sistemas de Información, egresada de la UTN Córdoba, y M.S. en Software Engineering por de la Universidad de California (USA). Tiene más de 10 años en el rubro tecnológico, habiendo trabajado dentro y fuera del país tanto en la industria del desarrollo de software (ocupando roles técnicos y de liderazgo) como en la academia (ambos en el docencia y en la investigación)."}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/consu_L"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lopezconsuelo/"}
 
 - id: 85
   name: Celeste   
