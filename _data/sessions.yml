@@ -149,6 +149,7 @@ También habrá paneles dedicados al fuerte concepto de Comunidad dentro del mun
 - id: 9
   title: {en: "Community panel 1: RUGs - R-Ladies", es: "Panel de comunidades 1: Grupos de Usuarios de R - R-Ladies"}
   place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
+  speakers: [35, 89]
 
 - id: 10
   title: {en: "Impresión 3D por medio de R", es: "EANT - Impresión 3D por medio de R"}
@@ -293,7 +294,7 @@ Presentación Sponsor'
 - id: 35
   title: {en: "Community panel 3: RUGs - RConsortium funds for RUGs", es: "Panel de comunidades 3: Grupos de Usuarios de R - Fondos del RConsortium para RUGs"}
   language: es
-
+  speakers: [90]
 
 - id: 36
   title: 'Towards an R Package for the Shortest Path Problem with Forbidden Paths'
@@ -364,6 +365,7 @@ Presentación Sponsor'
 - id: 49
   title: {en: "Community panel 4: Resources developement - The Carpentries + R4DS-es", es: "Panel de comunidades 4: Desarrollo de recursos - The Carpentries + R4DS-es"}
   language: es
+  speakers: [37, 38, 91]
 
 - id: 50
   title: {en: "LatinR closing", es: "Cierre de LatinR"}
