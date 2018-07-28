@@ -352,6 +352,7 @@
 - id: 73
   name: Elio
   surname: Campitelli
+  #thumbnailUrl: eliocampitelli.jpg
 
 - id: 74
   name: Maikol
@@ -463,6 +464,7 @@
 - id: 89
   name: Yanina
   surname: Bellini
+  thumbnailUrl: yaninabellini.jpg
 
 - id: 90
   name: Joshua
