@@ -254,7 +254,7 @@ Presentación Sponsor'
 - id: 27
   title: 'Newspaper Analysis'
   speakers: [40, 41]
-  language: en
+  language: es
 
 - id: 28
   title: 'Abriendo y analizando los Diarios de Sesiones del Parlamento uruguayo con R'
