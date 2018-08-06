@@ -13,14 +13,14 @@
   complexity: {en: "Basic", es: "Básico", pt: "Básico"}
   speakers: [3]
   description: 'La visualization tiene un rol fundamental en todas las etapas del análisis estadístico de datos, exploración, modelado y diagnóstico. Permite descubrir patrones escondidos en los datos así como dar luz a modelos o algoritmos complejos. En este taller vamos a recorrer los conceptos básicos para hacer visualización estática de datos con R usando el paquete ggplot2. Veremos las ideas fundamentales de la gramática gráfica que está detrás de ggplot2. Los participantes aprenderán a crear distintos tipos de gráficos en pocos pasos de calidad publicable. A su vez Introduciremos el concepto de gráficos interactivos y su potencial para el descubrimiento de patrones y el análisis estadístico de datos. Existen diversas opciones para hacer visualización interactiva en R pero en este taller usaremos plotly. 
-  <br> <br>Todos los tutoriales requieren traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse y plotly.'
+  <br> <br>Se requiere traer traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse y plotly.'
   
 - id: 002
   title: {en: 'Inteligencia Artificial con R: Introducción al “Deep Learning”', es: 'Inteligencia Artificial con R: Introducción al “Deep Learning”', pt: 'Inteligencia Artificial con R: Introducción al “Deep Learning”'}
   complexity: {en: "Basic/Intermediate", es: "Básico/Intermedio", pt: "Básico/Médio"}
   language: es
   speakers: [4]
-  description: 'El taller mostrará herramientas de “Deep Learning” aplicadas a problemas de Regresión, Clasificación y “Novelty Detection”. Se utilizará la interfaz KERAS basada en TensorFlow, tecnología de código abierto creada por Google para el desarrollo del aprendizaje automático. Se enseñarán a lo largo del taller los conceptos fundamentales de los métodos tratados, y se darán ejemplos de caso mediante el uso del entorno de desarrollo integrado Rstudio. <br> <br>Todos los tutoriales requieren traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse.'
+  description: 'El taller mostrará herramientas de “Deep Learning” aplicadas a problemas de Regresión, Clasificación y “Novelty Detection”. Se utilizará la interfaz KERAS basada en TensorFlow, tecnología de código abierto creada por Google para el desarrollo del aprendizaje automático. Se enseñarán a lo largo del taller los conceptos fundamentales de los métodos tratados, y se darán ejemplos de caso mediante el uso del entorno de desarrollo integrado Rstudio. <br> <br>No es obligatorio traer notebook.'
 
 - id: 003
   title: {en: 'How to repeat yourself with purrr', es:  'How to repeat yourself with purrr', pt: 'How to repeat yourself with purrr'}
@@ -33,7 +33,7 @@
   <li>Brief review of how write a basic function. If you've never written a function before, see the three parts of <a href='http://stat545.com/block011_write-your-own-function-01.html'>this</a> to prepare.</li>
   <li>In-depth coverage, both conceptual and hands-on, of the purrr package.</li>
   <li>Case studies, such as how to do work on each row in a data frame or how to turn data in a nested list (e.g. from JSON or XML) into a nice rectangle.</li>
-  <br> <br>Todos los tutoriales requieren traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse."
+  <br> <br>Se requiere traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse."
 
 - id: 4
   title: {en: "Poster session", es: "Sesión de pósters", pt: "Sessão de pôsteres"} 
