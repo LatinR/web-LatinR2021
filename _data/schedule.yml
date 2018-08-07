@@ -71,7 +71,7 @@
     - {
         startTime: "12:40",
         endTime: "13:00",
-        sessionIds: [16, 404]
+        sessionIds: [49, 404]
     }
     - {
         startTime: "13:00",
@@ -141,7 +141,7 @@
   tracks: 
     - {title: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
        , color: "#90be4e"}
-    - {title: {es: "Aula 30", en: "Room 30", pt: "Aula 30" }}
+    - {title: {es: "Aula 04-05", en: "Room 04-05", pt: "Aula 04-05" }}
   timeslots:
     - {
         startTime: "09:00",
@@ -245,8 +245,13 @@
     }
     - {
         startTime: "17:00",
+        endTime: "17:10",
+        sessionIds: [52, 404]
+    }
+    - {
+        startTime: "17:10",
         endTime: "17:30",
-        sessionIds: [49, 404]
+        sessionIds: [16, 404]
     }
     - {
         startTime: "17:30",

@@ -62,9 +62,7 @@
 22 - Clasificación de sistemas ganaderos para estimación de gases de efecto invernadero </br>
 23 - Análisis del recurso eólico usando R en zonas no interconectadas (ZNI) del departamento de Nariño (Colombia) </br>
 24 - Métodos de clasificación supervisada en series temporales </br>
-25 - Funciones en R para calcular un periodograma móvil </br>
 26 - Estudio de valores extremos con R: Una aplicación a temperaturas mínimas. </br>
-27 - Mostrando el código en R para reforzar la explicación de un método: el test de aleatorización y el bootstrap </br>
 28 - Creación de un plug-in de Rcmdr para el análisis de experimentos con diferentes arreglos de dos factores </br>
 29 - Using SQL for data consolidation in R </br>
 30 - De Excel a R: ¿cambio de una herramienta o apertura a nuevas posibilidades?"
@@ -149,7 +147,7 @@ También habrá paneles dedicados al fuerte concepto de Comunidad dentro del mun
 - id: 9
   title: {en: "Community panel 1: RUGs - R-Ladies", es: "Panel de comunidades 1: Grupos de Usuarios de R - R-Ladies"}
   place: {en: "Auditorium", es: "Auditorio", pt: "Auditório"}
-  speakers: [35, 89]
+  speakers: [35, 89, 92]
 
 - id: 10
   title: {en: "Impresión 3D por medio de R", es: "EANT - Impresión 3D por medio de R"}
@@ -248,7 +246,7 @@ Presentación Sponsor'
   description: {en: "rOpenSci es una comunidad científica y de desarrollo de software R cuyo objetivo es apoyar a la ciencia con R. En rOpenSci se desarrollan, revisan y documentan paquetes y buenas prácticas para acceso a datos abiertos, manipulación y extracción de datos de todo tipo y formato, análisis reproducible, etc. En esta charla, descubrí cómo te pueden ayudar las herramientas y los recursos de rOpenSci y cómo unirte a nuestra comunidad ¡sin importar cuál es tu nivel de R actual! ¡MejoRemos la ciencia juntes! </br> Teleconference", 
                 es: "rOpenSci es una comunidad científica y de desarrollo de software R cuyo objetivo es apoyar a la ciencia con R. En rOpenSci se desarrollan, revisan y documentan paquetes y buenas prácticas para acceso a datos abiertos, manipulación y extracción de datos de todo tipo y formato, análisis reproducible, etc. En esta charla, descubrí cómo te pueden ayudar las herramientas y los recursos de rOpenSci y cómo unirte a nuestra comunidad ¡sin importar cuál es tu nivel de R actual! ¡MejoRemos la ciencia juntes! </br> Teleconferencia", 
                 pt: 'rOpenSci es una comunidad científica y de desarrollo de software R cuyo objetivo es apoyar a la ciencia con R. En rOpenSci se desarrollan, revisan y documentan paquetes y buenas prácticas para acceso a datos abiertos, manipulación y extracción de datos de todo tipo y formato, análisis reproducible, etc. En esta charla, descubrí cómo te pueden ayudar las herramientas y los recursos de rOpenSci y cómo unirte a nuestra comunidad ¡sin importar cuál es tu nivel de R actual! ¡MejoRemos la ciencia juntes! </br> Teleconferência'}
-  speakers: [39]
+  speakers: [39, 1, 93, 94]
   language: es
 
 - id: 27
@@ -363,7 +361,7 @@ Presentación Sponsor'
   language: es
 
 - id: 49
-  title: {en: "Community panel 4: Resources developement - The Carpentries + R4DS-es", es: "Panel de comunidades 4: Desarrollo de recursos - The Carpentries + R4DS-es"}
+  title: {en: "Community panel 4: Resources developement - The Carpentries", es: "Panel de comunidades 4: Desarrollo de recursos - The Carpentries"}
   language: es
   speakers: [37, 38, 91]
 
@@ -373,3 +371,8 @@ Presentación Sponsor'
 - id: 51
   title: {en: "The participation of women in STEM (panel)", es: "Participación de la Mujer en STEM (panel)"}
   speakers: [82, 35, 83, 84, 85, 86]
+
+- id: 52
+  title: {es: "Panel de comunidades 5: Desarrollo de Recursos - R4DS-es", 
+          en: "Community panel 4: Resources developement - R3DS-es"}
+  language: es

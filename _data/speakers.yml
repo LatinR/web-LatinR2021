@@ -72,10 +72,12 @@
 - id: 6
   name: Guzmán
   surname: López Orrego
+  thumbnailUrl: guzmánlópez.jpg
 
 - id: 7
   name: Pablo Nicolás 
   surname: Alfaro Piñeyro
+  thumbnailUrl: pabloalfaro.jpg
 
 - id: 8
   name: Leonardo 
@@ -112,6 +114,7 @@
 - id: 16
   name: Bruno Fernando
   surname: Bellagamba De Leon
+
 
 - id: 17
   name: Claudia Lorena
@@ -160,6 +163,7 @@
 - id: 28
   name: Steven Dutt
   surname: Ross
+  thumbnailUrl: stevenross.png
 
 - id: 29
   name: Alexandre 
@@ -184,6 +188,7 @@
 - id: 34
   name: Fernando
   surname: Almeida Barbalho
+  thumbnailUrl: fernandoalmeidabarbalho.jpg
 
 - id: 35
   name: Bea 
@@ -201,6 +206,7 @@
 - id: 36
   name:  Juan Pablo
   surname: Ruiz Nicolini
+  thumbnailUrl: juanpabloruiznicolini.jpg
 
 - id: 37
   name: Rayna
@@ -252,10 +258,12 @@
 - id: 48 
   name: Diego
   surname: Kozlowski
+  thumbnailUrl: diegokozlowski.jpg
 
 - id: 49
   name: Ariel Olaf
   surname: Salgado Corrado 
+  thumbnailUrl: arielsalgado.jpg
 
 - id: 50
   name: Inés 
@@ -272,14 +280,17 @@
 - id: 53
   name: Melina
   surname: Vidoni
+  thumbnailUrl: melinavidoni.jpg
 
 - id: 54
   name: Aldo
   surname: Vecchietti
+  thumbnailUrl: aldovecchietti.jpg
 
 - id: 55
   name: Yuriko 
   surname: Sosa Paredes
+  thumbnailUrl: yurikososa.jpg
 
 - id: 56
   name: Ignacio
@@ -304,14 +315,17 @@
 - id: 61
   name: Alejandra Mercedes 
   surname: Martínez
+  thumbnailUrl: alejandramartinez.jpg
 
 - id: 62
   name: Luiz Paulo
   surname: Santos
+  thumbnailUrl: luizpaulosantos.jpg
 
 - id: 63
   name: Martin
   surname: Ehman
+  thumbnailUrl: martinehman.jpg
 
 - id: 64
   name: Gabriel
@@ -352,11 +366,12 @@
 - id: 73
   name: Elio
   surname: Campitelli
-  #thumbnailUrl: eliocampitelli.jpg
+  thumbnailUrl: eliocampitelli.jpg
 
 - id: 74
   name: Maikol
   surname: Solís
+  thumbnailUrl: maikolsolís.jpg
 
 - id: 75
   name: Alberto
@@ -381,6 +396,7 @@
 - id: 80
   name: Nicolás
   surname: Schmidt
+  thumbnailUrl: nicolasschmidt.jpg
 
 - id: 81
   name: Javier 
@@ -473,3 +489,17 @@
 - id: 91
   name: Riva
   surname: Quiroga
+  thumbnailUrl: rivaquiroga.jpg
+
+- id: 92
+  name: Daniela
+  surname: Vazquez
+  thumbnailUrl: danielavazquez.jpg
+
+- id: 93
+  name: Laura
+  surname: Ación
+
+- id: 94
+  name: Mauro
+  surname: Lepore
