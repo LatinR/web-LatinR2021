@@ -286,7 +286,7 @@ Presentación Sponsor'
 
 - id: 34
   title: 'Asistiendo al usuario de R en la recomendación de nuevos paquetes'
-  speakers: [51, 52, 4]
+  speakers: [49, 50, 4]
   language: es
 
 - id: 35
@@ -363,7 +363,7 @@ Presentación Sponsor'
 - id: 49
   title: {en: "Community panel 4: Resources developement - The Carpentries", es: "Panel de comunidades 4: Desarrollo de recursos - The Carpentries"}
   language: es
-  speakers: [37, 38, 91]
+  speakers: [37, 38]
 
 - id: 50
   title: {en: "LatinR closing", es: "Cierre de LatinR"}
@@ -376,3 +376,4 @@ Presentación Sponsor'
   title: {es: "Panel de comunidades 5: Desarrollo de Recursos - R4DS-es", 
           en: "Community panel 4: Resources developement - R3DS-es"}
   language: es
+  speakers: [91]

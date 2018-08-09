@@ -269,14 +269,6 @@
   name: Inés 
   surname: Caridi
 
-- id: 51
-  name: Ariel
-  surname: Salgado
-
-- id: 52
-  name: Ines
-  surname: Caridi
-
 - id: 53
   name: Melina
   surname: Vidoni
@@ -499,7 +491,9 @@
 - id: 93
   name: Laura
   surname: Ación
+  thumbnailUrl: lauraacion.jpg
 
 - id: 94
   name: Mauro
   surname: Lepore
+  thumbnailUrl: maurolepore.jpg
