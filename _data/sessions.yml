@@ -373,7 +373,7 @@ Presentación Sponsor'
   speakers: [82, 35, 83, 84, 85, 86]
 
 - id: 52
-  title: {es: "Panel de comunidades 5: Desarrollo de Recursos - R4DS-es", 
-          en: "Community panel 4: Resources developement - R3DS-es"}
+  title: {es: "Panel de comunidades 5: Desarrollo de Recursos - R4DS en español", 
+          en: "Community panel 4: Resources developement - R3DS en español"}
   language: es
   speakers: [91]
