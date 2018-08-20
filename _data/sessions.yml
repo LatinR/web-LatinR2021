@@ -369,6 +369,9 @@ Presentación Sponsor'
 
 - id: 51
   title: {en: "The participation of women in STEM (panel)", es: "Participación de la Mujer en STEM (panel)"}
+  description: "Espacio de intercambio y debáte sobre el rol de las mujeres en STEM. Moderado por Andrea Lagomarsino. 
+  <br/>
+  Actividad organizada en conjunto por LatinR y el Congreso de Agroinformática."
   speakers: [82, 35, 83, 84, 85, 86, 95]
 
 - id: 52
