@@ -478,3 +478,11 @@
       - R-Ladies Buenos Aires
       - Organizadora de R-Ladies Santa Fe
       
+  - id: 15
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: "#BF5B17"
+    name: Andrea María
+    surname: Lagomarsino
+    titles: 
+      - INTA

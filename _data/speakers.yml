@@ -230,7 +230,7 @@
 - id: 41
   name: Pablo Daniel
   surname: Pagnone
-  
+
 - id: 43
   name: Natalia Daniela
   surname: Rapesta
@@ -493,3 +493,15 @@
   name: Mauro
   surname: Lepore
   thumbnailUrl: maurolepore.jpg
+
+- id: 95
+  name: Andrea María
+  surname: Lagomarsino
+  thumbnailUrl: andrealagomarsino.jpg
+  title: {es: "Equipo de Comunicación e Informática", en: "Communications and informatics team", pt: ""}
+  company: "INTA"
+  bio: {es: 'Nació en Santa Rosa, La Pampa, en 1990. Obtuvo sus títulos de Licenciada en Ciencias de la Comunicación y Profesora en Enseñanza Media y Superior en Ciencias de la Comunicación Social en 2015, en la Universidad de Buenos Aires (UBA). Se incorporó al INTA en 2017 como agente del programa ProHuerta en la provincia de La Pampa. Participó de investigaciones relativas a las áreas de salud y educación. Asimismo, cuenta con experiencia laboral en medios de comunicación y sectores de prensa de organismos públicos. En la actualidad se encarga de realizar tareas y proyectos de comunicación para el programa ProHuerta La Pampa, y colabora con las acciones del Área de Comunicación de la Estación Experimental Agropecuaria (EEA) INTA de Anguil. Se encuentra realizando una Maestría en Ciencias Sociales y Humanidades en la Universidad Nacional de Quilmes, y una Especialización en Políticas Socioeducativas brindada por el Ministerio de Educación de la Nación.',
+      en: "Born in Santa Rosa, La Pampa, in 1990. She obtained her Bachelor's degree in Communication Sciences and Professor of Secondary and Higher Education in Social Communication Sciences in 2015 at the University of Buenos Aires (UBA). She joined INTA in 2017 as an agent of the ProHuerta program in La Pampa. She participated in research in the areas of health and education. She also has experience working in the media and press sectors of public bodies. She is currently in charge of carrying out communication tasks and projects for the ProHuerta La Pampa programme, and collaborates with the Communication Area of the INTA Agricultural Experimental Station (EEA) in Anguil. She is currently completing a Master's Degree in Social Sciences and Humanities at the National University of Quilmes, and a Specialization in Socio-Educational Policies offered by the National Ministry of Education.",
+      pt: ''}
+  social: 
+    - {name: "site", link: "https://inta.gob.ar/personas/lagomarsino.andrea"}
