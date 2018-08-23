@@ -185,7 +185,10 @@ Presentación Sponsor'
   language: es
 
 - id: 16
-  title: 'IBM'
+  title: '¿Qué peli miro hoy? Lo mejor del OpenSource adaptado a los requerimientos de hoy y el futuro'
+  description: "Los especialistas presentarán las posibilidades de IBM Watson Studio, un entorno integrado diseñado para facilitar el desarrollo, gestión de modelos e implementación de aplicaciones IA y machine learning.
+  <br> Presentación Sponsor"
+  speakers: [96, 97]
 
 - id: 17
   title: 'shinyWYSIWYG: a shiny What You See Is What You Get editor'

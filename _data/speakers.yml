@@ -505,3 +505,14 @@
       pt: ''}
   social: 
     - {name: "site", link: "https://inta.gob.ar/personas/lagomarsino.andrea"}
+
+- id: 96
+  name: Paula
+  surname: Horita
+  company: "IBM Argentina"
+  title: {en: "Software Client Leader", es: "Software Client Leader"}
+
+- id: 97
+  name: Matías
+  surname: Orrico
+  company: "IBM Argentina"
