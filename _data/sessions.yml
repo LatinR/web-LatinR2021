@@ -172,7 +172,7 @@ Presentación Sponsor'
 - id: 13
   title: 'EPP v.0.2: Evaluation of Proximity Programs with OSRM routing'
   speakers: [10, 11, 12]
-  language: en
+  language: es
   
 - id: 14
   title: 'Análisis de imágenes satelitales con R: Patrones espaciales de la correlación cruzada de series temporales de imágenes Modis de temperatura y productividad vegetal'
@@ -354,7 +354,7 @@ Presentación Sponsor'
 - id: 47
   title: 'Indicators of Electoral Systems and Party Systems: R-package:esaps'
   speakers: [80]
-  language: en
+  language: es
 
 - id: 48
   title: 'RStudio - Productividad en R con RStudio'
