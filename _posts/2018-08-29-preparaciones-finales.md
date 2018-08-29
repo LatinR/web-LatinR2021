@@ -24,6 +24,8 @@ Quedan pocos días para que empiece la conferencia y estamos en proceso de ajust
 
 * El proceso de acreditación a LatinR2018 estará abierto desde las 9:00 hs el lunes 3 de septiembre. **Cuida tu credencial**: es la única forma de acceder a las actividades. 
 
+* Te recomendamos cuidar tus efectos personales ya que no nos podemos hacer responsables de pérdidas, daños o hurtos.
+
 * Podrás reconocer al equipo organizador porque tendrán un pin/chapa con el logo de la conferencia. 
 
 

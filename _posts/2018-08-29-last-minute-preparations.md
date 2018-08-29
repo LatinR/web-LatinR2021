@@ -24,6 +24,8 @@ LatinR is just a few days from now and we are in the final preparations. We ask 
 
 * Accreditation will start at 9 am on Monday September 3rd. Please **take care of your credential** since it is the only way to access the activities.
 
+* We recommend taking care of your personal belongings since we can't be held responsible for loss, damaged or stolen property. 
+
 * The organising team will have a pin with the LatinR logo so you can identify us easily. 
 
 
