@@ -12,7 +12,7 @@ Quedan pocos días para que empiece la conferencia y estamos en proceso de ajust
 
 * Te recordamos que LatinR adhiere a este [código de conducta](http://latin-r.com/cdc/)
 
-* Hemos creado un [Slack](https://join.slack.com/t/latin-r/shared_invite/enQtNDA3MjM3MTQwOTM1LTRiZGM2Mjc0ZDU2YzE5OTBmYWRhNDRiYzMzY2M1MDk3MzNjOTUzZTdlZWMyZmJiZjYzMWE4Y2VkNTk0MWFmNDA) para mantenernos en contacto. Si no lo has hecho aún, te sugerimos unirte. Es un buen espacio para resolver dudas sobre el viaje, en caso de que vengas de fuera de Buenos Aires, y es donde estaremos organizando las actividades sociales.
+* Hemos creado un [Slack](https://join.slack.com/t/latin-r/shared_invite/enQtNDA3MjM3MTQwOTM1LTRiZGM2Mjc0ZDU2YzE5OTBmYWRhNDRiYzMzY2M1MDk3MzNjOTUzZTdlZWMyZmJiZjYzMWE4Y2VkNTk0MWFmNDA) para mantenernos en contacto. Si no lo has hecho aún, te sugerimos unirte. Es un buen espacio para resolver dudas sobre el viaje, en caso de que vengas de fuera de Buenos Aires, y es donde estaremos organizando las actividades sociales. Para leer un poco más sobre qué es Slack y cómo se usa, te recomendamos [este link](https://get.slack.help/hc/es/articles/115004071768).
 
 * Durante la conferencia estaremos tuiteando desde [@LatinR2018](https://twitter.com/LatinR2018) con el hashtag [#LatinR2018](https://twitter.com/search?q=%23latinr2018).
 

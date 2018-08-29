@@ -12,7 +12,7 @@ LatinR is just a few days from now and we are in the final preparations. We ask 
 
 * We remind you that LatinR adheres to this [code of conduct](http://latin-r.com/coc/).
 
-* We will use [Slack](https://join.slack.com/t/latin-r/shared_invite/enQtNDA3MjM3MTQwOTM1LTRiZGM2Mjc0ZDU2YzE5OTBmYWRhNDRiYzMzY2M1MDk3MzNjOTUzZTdlZWMyZmJiZjYzMWE4Y2VkNTk0MWFmNDA) to keep in touch. If haven't yet, we suggest you to join. It is a great space to resolve any issues about travel if you are coming to Buenos Aires. We will also be organising social activities there. 
+* We will use [Slack](https://join.slack.com/t/latin-r/shared_invite/enQtNDA3MjM3MTQwOTM1LTRiZGM2Mjc0ZDU2YzE5OTBmYWRhNDRiYzMzY2M1MDk3MzNjOTUzZTdlZWMyZmJiZjYzMWE4Y2VkNTk0MWFmNDA) to keep in touch. If haven't yet, we suggest you to join. It is a great space to resolve any issues about travel if you are coming to Buenos Aires. We will also be organising social activities there. To learn more about what Slack is and how it's used we recommend [this link](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-).
 
 * During the conference we will be tweeting from [@LatinR2018](https://twitter.com/LatinR2018) with hashtag [#LatinR2018](https://twitter.com/search?q=%23latinr2018).
 
