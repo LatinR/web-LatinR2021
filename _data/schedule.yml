@@ -240,16 +240,16 @@
     }
     - {
         startTime: "16:30",
-        endTime: "17:00",
-        sessionIds: [48, 53]
+        endTime: "16:50",
+        sessionIds: [16, 53]
     }
     - {
-        startTime: "17:00",
-        endTime: "17:10",
+        startTime: "16:50",
+        endTime: "17:20",
         sessionIds: [52, 404]
     }
     - {
-        startTime: "17:10",
+        startTime: "17:20",
         endTime: "17:30",
         sessionIds: [16, 404]
     }
