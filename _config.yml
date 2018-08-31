@@ -63,9 +63,9 @@ eventAddressCountry: "Argentina"
 eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "-34.5973063, -58.4181837"
-mapCenterCoordinates: "-34.5973063, -58.4181837"
-mapMobileCenterCoordinates: "-34.5973063, -58.4181837"
+eventPlaceCoordinates: "-34.5972383,-58.416132000000005"
+mapCenterCoordinates: "-34.5972383,-58.416132000000005"
+mapMobileCenterCoordinates: "-34.5972383,-58.416132000000005"
 
 
 # Tweets Feed Block
