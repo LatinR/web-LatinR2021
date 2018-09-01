@@ -33,7 +33,7 @@
   <li>Brief review of how write a basic function. If you've never written a function before, see the three parts of <a href='http://stat545.com/block011_write-your-own-function-01.html'>this</a> to prepare.</li>
   <li>In-depth coverage, both conceptual and hands-on, of the purrr package.</li>
   <li>Case studies, such as how to do work on each row in a data frame or how to turn data in a nested list (e.g. from JSON or XML) into a nice rectangle.</li>
-  <br> <br>Se requiere traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse."
+  <br> <br>Se requiere traer una notebook con la batería cargada y que tenga instalados la última versión de R y RStudio al 1 de Junio de 2018. También necesitará tener instalado el paquete tidyverse y repurrrsive."
 
 - id: 4
   title: {en: "Poster session", es: "Sesión de pósters", pt: "Sessão de pôsteres"} 
