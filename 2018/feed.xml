@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LatinR 2018</title>
+    <description></description>
+    <link>https://latinr.github.io//</link>
+    <atom:link href="https://latinr.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Lugares para almorzar</title>
+        <description>&lt;p&gt;Les dejamos una lista de lugares cercanos a la Universidad de Palermo para ir a almorzar o tomar un café en los breaks. Es importante que sepan que no tenemos convenios con ninguno de estos lugares pero nos pareció bueno hacer esta lista para los que no conocen la zona.&lt;/p&gt;
+
+&lt;p&gt;¡Pueden organizar para ir almorzar en grupos a través de Slack!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/place/La+Tolva/@-34.5976601,-58.4162985,19.42z/data=!4m5!3m4!1s0x95bcca880cde8405:0xa1c6e2f5c683d32b!8m2!3d-34.5978049!4d-58.4159569&quot;&gt;La Tolva&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/place/Cuyagua+Bar-Caf%C3%A9/@-34.5970784,-58.415678,20.42z/data=!4m5!3m4!1s0x95bcca87d8c630e1:0xa028239087960489!8m2!3d-34.597163!4d-58.4155042&quot;&gt;Cuyagua Bar Café&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/place/Caf%C3%A9+Cort%C3%A1zar/@-34.596259,-58.4200987,18z/data=!4m5!3m4!1s0x95bcca7d11bfaf99:0xb9aabb9b59028870!8m2!3d-34.5964045!4d-58.41984&quot;&gt;Café Cortazar&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/place/Morillo/@-34.5975875,-58.4180104,19.42z/data=!4m5!3m4!1s0x95bcca880011cdaf:0xf5672f8a1a8a745b!8m2!3d-34.5976895!4d-58.4173583&quot;&gt;Morillo&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/place/Nazca,+Sabores+del+Per%C3%BA/@-34.5976601,-58.417004,19.42z/data=!4m5!3m4!1s0x95bcca8800d3ee09:0x4cd90d1ec89d2d73!8m2!3d-34.5977011!4d-58.4169392&quot;&gt;Nazca, Sabores del Perú&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/place/Rinc%C3%B3n+Norte%C3%B1o/@-34.5970279,-58.4156166,19.18z/data=!4m5!3m4!1s0x95bcca87dba07cf9:0x7aa18730f5a558b6!8m2!3d-34.5967722!4d-58.4154526&quot;&gt;Rincón Norteño&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/place/Bellagamba+Bodeg%C3%B3n/@-34.5967506,-58.4214943,20.01z/data=!4m5!3m4!1s0x95bcca7cf5428aaf:0xd66a446b75855bff!8m2!3d-34.5966242!4d-58.4214447&quot;&gt;Bellagamba Bodegón&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/place/Le+Bl%C3%A9/@-34.5991268,-58.4183905,17z/data=!3m1!4b1!4m5!3m4!1s0x95bccb72bb032a9d:0x207006fb017af38d!8m2!3d-34.5991312!4d-58.4161965&quot;&gt;Le Blé&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/place/Bonafide/@-34.5959071,-58.4173874,17z/data=!4m8!1m2!2m1!1sbonafide!3m4!1s0x0:0xe93df5ff1d49318d!8m2!3d-34.5945272!4d-58.4140163&quot;&gt;Bonafide&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 02 Sep 2018 00:00:00 -0300</pubDate>
+        <link>https://latinr.github.io//blog/lugares-almuerzo</link>
+        <guid isPermaLink="true">https://latinr.github.io//blog/lugares-almuerzo</guid>
+      </item>
+    
+      <item>
+        <title>Indicaciones y preparativos finales</title>
+        <description>&lt;p&gt;Quedan pocos días para que empiece la conferencia y estamos en proceso de ajustar los detalles finales. Para ello, te pedimos que leas con detención la información que sigue.&lt;/p&gt;
+
+&lt;h4 id=&quot;preparativos&quot;&gt;Preparativos&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Te recordamos que LatinR adhiere a este &lt;a href=&quot;http://latin-r.com/cdc/&quot;&gt;código de conducta&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hemos creado un &lt;a href=&quot;https://join.slack.com/t/latin-r/shared_invite/enQtNDA3MjM3MTQwOTM1LTRiZGM2Mjc0ZDU2YzE5OTBmYWRhNDRiYzMzY2M1MDk3MzNjOTUzZTdlZWMyZmJiZjYzMWE4Y2VkNTk0MWFmNDA&quot;&gt;Slack&lt;/a&gt; para mantenernos en contacto. Si no lo has hecho aún, te sugerimos unirte. Es un buen espacio para resolver dudas sobre el viaje, en caso de que vengas de fuera de Buenos Aires, y es donde estaremos organizando las actividades sociales. Para leer un poco más sobre qué es Slack y cómo se usa, te recomendamos &lt;a href=&quot;https://get.slack.help/hc/es/articles/115004071768&quot;&gt;este link&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Durante la conferencia estaremos tuiteando desde &lt;a href=&quot;https://twitter.com/LatinR2018&quot;&gt;@LatinR2018&lt;/a&gt; con el hashtag &lt;a href=&quot;https://twitter.com/search?q=%23latinr2018&quot;&gt;#LatinR2018&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Durante el evento se sacarán fotos que se publicarán en distintos medios, como por ejemplo, redes sociales. En caso de que no quieras aparecer en fotos, por favor avísanos &lt;strong&gt;antes del evento&lt;/strong&gt;, para poder informar a quienes estarán a cargo de ese trabajo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;El día miércoles 5 de septiembre, entre 9:00 y 13:00 horas, la conferencia tendrá dos tracks: uno con presentaciones orales y otro con un workshop de The Carpentries. El workshop se dictará en español y tiene un cupo limitado, por lo que si tienes interés en inscribirte, puedes hacerlo a través del siguiente &lt;a href=&quot;https://ti.to/carpentries/LatinR&quot;&gt;enlace&lt;/a&gt;. Es una excelente oportunidad para conocer más sobre esta comunidad, sobre su programa de instructores y para mejorar tus habilidades de enseñanza.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;durante-latinr&quot;&gt;Durante LatinR&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;El proceso de acreditación a LatinR2018 estará abierto desde las 9:00 hs el lunes 3 de septiembre. &lt;strong&gt;Cuida tu credencial&lt;/strong&gt;: es la única forma de acceder a las actividades.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Te recomendamos cuidar tus efectos personales ya que no nos podemos hacer responsables de pérdidas, daños o hurtos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Podrás reconocer al equipo organizador porque tendrán un pin/chapa con el logo de la conferencia.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;¡Muchas gracias por ser parte de esta primera versión de LatinR!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Aug 2018 00:00:00 -0300</pubDate>
+        <link>https://latinr.github.io//blog/preparaciones-finales</link>
+        <guid isPermaLink="true">https://latinr.github.io//blog/preparaciones-finales</guid>
+      </item>
+    
+      <item>
+        <title>Código de Conducta del Slack LatinR</title>
+        <description>&lt;h4 id=&quot;hola&quot;&gt;¡Hola!&lt;/h4&gt;
+
+&lt;p&gt;El Slack de LatinR es un espacio virtual para conocer y compartir experiencias con asistentes, autores y organizadores de LatinR antes y durante la conferencia.&lt;/p&gt;
+
+&lt;p&gt;Todos en este espacio deben estar de acuerdo con el siguiente código de conducta. Los organizadores haremos cumplir este código durante todo el evento y en los meses previos. Esperamos la cooperación de todos los participantes para ayudar a garantizar un entorno seguro para todos. Por favor se amable, respetuoso y paciente con otros.&lt;/p&gt;
+
+&lt;p&gt;Queremos que este sea un espacio divertido, amigable y una experiencia libre de acoso para todos, independientemente del sexo, identidad, género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas. No toleramos el acoso de los participantes de la conferencia de ninguna forma. Bromas discriminatorias y el lenguaje sexual y las imágenes no son apropiados en ningún canal o mensaje directo.&lt;/p&gt;
+
+&lt;p&gt;Esperamos que aquellos participantes a quienes se les solicite detener cualquier comportamiento de acoso cumplan inmediatamente. Si un participante se involucra en un comportamiento de acoso, los organizadores de la conferencia pueden tomar las medidas que consideren apropiadas, tales como una advertencia o la expulsión del Slack y/o la conferencia sin reembolso.&lt;/p&gt;
+
+&lt;p&gt;Además esperamos que los participantes sigan estas reglas tanto durante las JAIIO como en eventos sociales relacionados con las mismas.&lt;/p&gt;
+
+&lt;h4 id=&quot;necesitás-ayuda&quot;&gt;¿Necesitás ayuda?&lt;/h4&gt;
+
+&lt;p&gt;Si necesitas ayuda sobre el uso de Slack, por favor comentá en el canal #dudas para que todos puedan ayudarte. Si lo hostigan, observa que alguien más está siendo hostigado o tiene comentarios al respecto, comuníquese de inmediato con personal de la conferencia. El personal de la conferencia ayudará a quienes sufren acoso a sentirse seguros durante la conferencia.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;a href=&quot;http://latin-r.com/cdc/&quot; class=&quot;btn btn-primary waves-effect waves-button waves-light waves-float&quot; target=&quot;_blank&quot;&gt;Código de Conducta de las 47 JAIIO y LatinR&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Adaptado de &lt;a href=&quot;http://confcodeofconduct.com&quot;&gt;http://confcodeofconduct.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Jul 2018 00:00:00 -0300</pubDate>
+        <link>https://latinr.github.io//blog/cdc-slack</link>
+        <guid isPermaLink="true">https://latinr.github.io//blog/cdc-slack</guid>
+      </item>
+    
+      <item>
+        <title>Becas de asistencia a las 47 JAIIO / LatinR2018</title>
+        <description>&lt;p&gt;La Sociedad Argentina de Informática (SADIO) tiene el agrado de invitar a la postulación para becas de ayuda económica para estudiantes de posgrado para asistir a las 47 JAIIO.&lt;/p&gt;
+
+&lt;p&gt;Para solicitar esta beca cada postulante deberá completar &lt;a href=&quot;http://www.sadio.org.ar/lists/lt.php?id=Y00KCAsGDgAOBUVVVldKB1MFUFc%3D&quot;&gt;este formulario&lt;/a&gt;. El otorgamiento de la beca no lo exime de inscribirse en las 47 JAIIO. Las instrucciones para registrarse en las 47 JAIIO están disponibles &lt;a href=&quot;http://127.0.0.1:4000/registro&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;características-de-las-becas&quot;&gt;Características de las becas&lt;/h4&gt;
+
+&lt;p&gt;Las becas proveerán ayuda económica a estudiantes de Carreras de Posgrado en Ciencias de Computación/Informática/Ingeniería de Sistemas/Ingeniería en Computación o carreras estrechamente afines.&lt;/p&gt;
+
+&lt;p&gt;Estarán destinadas a estudiantes que residan a más de 200 Km de la Ciudad de Buenos Aires, y que tengan interés en asistir al menos dos días a las 47 JAIIO. Los postulantes seleccionados recibirán una ayuda económica de hasta $2000.&lt;/p&gt;
+
+&lt;h4 id=&quot;destinatarios&quot;&gt;Destinatarios&lt;/h4&gt;
+
+&lt;p&gt;Las becas estarán principalmente orientadas a alumnos de Posgrado que cursen Carreras de Doctorado fuera de la Ciudad de Buenos Aires. No obstante, también podrán otorgarse becas a alumnos de carreras de Maestría o a alumnos avanzados de grado. Se dará prioridad a aquellas personas que presenten trabajos en las 47 JAIIO. El otorgamiento de una beca de ayuda no exime al destinatario de su
+inscripción a las 47 JAIIO.&lt;/p&gt;
+
+&lt;h4 id=&quot;solicitud-y-otorgamiento-de-las-becas&quot;&gt;Solicitud y otorgamiento de las becas&lt;/h4&gt;
+
+&lt;p&gt;Los postulantes deberán completar la solicitud antes del 06/08/18. Los alumnos seleccionados serán informados el 16/08/18. A efectos de recibir el estipendio, lo cual tendrá lugar en la Secretaría de las 47 JAIIO, los beneficiarios deberán entregar fotocopias de sus pasajes de ida y vuelta, emitidos a su nombre, como así también la documentación que respalde lo declarado en este formulario y firmar un comprobante que acredite haber recibido el monto de la beca. Las fotocopias de pasajes NO podrán ser reemplazadas por otro tipo de comprobantes.&lt;/p&gt;
+
+&lt;p&gt;Para solicitar esta beca cada postulante deberá completar el siguiente formulario&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;a href=&quot;http://www.sadio.org.ar/lists/lt.php?id=Y00KCAsGDgAOBUVVVldKB1MFUFc%3D&quot; class=&quot;btn btn-primary waves-effect waves-button waves-light waves-float&quot; target=&quot;_blank&quot;&gt;Formulario&lt;/a&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Jul 2018 00:00:00 -0300</pubDate>
+        <link>https://latinr.github.io//blog/becas</link>
+        <guid isPermaLink="true">https://latinr.github.io//blog/becas</guid>
+      </item>
+    
+      <item>
+        <title>Charlas contribuidas por nuestros patrocinadores</title>
+        <description>&lt;h4 id=&quot;productividad-en-r-con-rstudio&quot;&gt;Productividad en R con RStudio&lt;/h4&gt;
+
+&lt;p&gt;Javier Luraschi, Ingeniero de Software en RStudio&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Resumen&lt;/strong&gt;: Los creadores de R proporcionaron una plataforma para procesar informática estadística de forma libre y abierta, la cual ha habilitado colaboración y ha extendido sus beneficios con todo mundo; porque, es mejor para todos si las herramientas que usamos en la investigación científica son gratuitas y abiertas. Hacer que el software científico sea libre tiene muchos beneficios: es reproducible, promueve mayor intercambio de conocimientos y técnicas, y elimina las barreras de costos para que todos puedan participar.
+RStudio tiene la misión de proporcionar el mejor software profesional de código abierto con soporte empresarial para aplicaciones informáticas y estadísticas usando R. El principal producto de RStudio es un ambiente de desarrollo integrado (IDE) que le facilita, a cualquier persona, el análisis estadístico de información con R. RStudio también  ha desarrollado varios paquetes para R, como Shiny y R Markdown, los cuales proporcionan una plataforma para compartir aplicaciones interactivas y reportes reproducibles.
+Esta sesión presentará las herramientas y paquetes desarrollados por RStudio.&lt;/p&gt;
+
+&lt;h4 id=&quot;impresión-3d-por-medio-de-r&quot;&gt;Impresión 3D por medio de R&lt;/h4&gt;
+
+&lt;p&gt;Lucas Pogorelsky, Coordinador de la Escuela de Ciencia de Datos, Escuela Argentina de Nuevas Tecnologías (EANT)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Resumen&lt;/strong&gt;: Esta charla tiene como objetivo presentar cómo utilizar R para generar una representación de datos en 3 dimensiones y generar el archivo necesario para impresión 3D y de este modo generar un gráfico “físico”.
+Utilizaremos datos de los subtes de Buenos Aires provenientes del portal de Datos Abierto de la Ciudad de Buenos Aires y nos valdremos de las librerías tidyverse para manipulación de datos estructurados, sf para la manipulación de datos georreferenciales y r2stl para la generación del archivo stl necesario para la impresión en 3D.
+En la charla se podrá ver el mapa de la Ciudad de Buenos Aires con la cantidad de pasajeros que se suben en cada estación de subtes impreso en 3 dimensiones.&lt;/p&gt;
+
+&lt;p&gt;Las 50 primeras personas en inscribirse hasta el 9 de Julio de 2018 a alguno de los aspectos de LatinR2018 (tutoriales y/o simposio) recibirán acceso a un mes gratuito al contenido completo de los más de 100 cursos de &lt;a href=&quot;https://www.datacamp.com/&quot;&gt;DataCamp.com&lt;/a&gt; (esta suscripción es equivalente a 25 dólares estadounidenses).&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jun 2018 00:00:00 -0300</pubDate>
+        <link>https://latinr.github.io//blog/charlas-sponsors</link>
+        <guid isPermaLink="true">https://latinr.github.io//blog/charlas-sponsors</guid>
+      </item>
+    
+      <item>
+        <title>Un mes de suscripción gratis en DataCamp</title>
+        <description>&lt;p&gt;Los primeros trabajos enviados a LatinR que sean aceptados recibirán al momento de inscribirse en las JAIIO un mes gratis de suscripción en &lt;a href=&quot;https://www.datacamp.com/&quot;&gt;DataCamp&lt;/a&gt;, la plataforma que actualmente lidera el aprendizaje online de lenguajes de programación como R y Python.&lt;/p&gt;
+
+&lt;p&gt;Una de las características más destacables de DataCamp es que, además de poder completar cursos aislados, es posible seguir tracks con orientación profesional (Data Scientist, Data Analyst, entre otros) o con orientación en habilidades (por ejemplo, Visualización de Datos, Machine Learning, Series de Tiempo, etc.).&lt;/p&gt;
+
+&lt;p&gt;Gracias a que existen cursos tanto para principiantes como para usuarios más avanzados, este beneficio entregado por nuestro sponsor permitirá a los participantes en LatinR seguir desarrollando sus conocimientos una vez finalizada la conferencia.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Mar 2018 00:00:00 -0300</pubDate>
+        <link>https://latinr.github.io//blog/subscripcion-datacamp</link>
+        <guid isPermaLink="true">https://latinr.github.io//blog/subscripcion-datacamp</guid>
+      </item>
+    
+      <item>
+        <title>Aranceles</title>
+        <description>&lt;p&gt;Los valores de los aranceles están en pesos argentinos (ARS). El valor entre paréntesis es para inscripciones realizadas a partir del 10 de julio de 2018. Más información en la &lt;a href=&quot;http://47jaiio.sadio.org.ar/index.php?q=como_inscribirse&quot;&gt;página de la JAIIO&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table class=&quot;table-price&quot;&gt;
+&lt;thead&gt;&lt;tr class=&quot;tableizer-firstrow&quot;&gt;&lt;th&gt;Categoría&lt;/th&gt;&lt;th&gt;1er artículo / &lt;br /&gt; Asistencia&lt;/th&gt;&lt;th&gt;Artículo adicional&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+ &lt;tr&gt;&lt;td&gt;General&lt;/td&gt;&lt;td&gt;$2.000 ($2600)&lt;/td&gt;&lt;td&gt;$1.000 ($1.300)&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Socio (2)&lt;/td&gt;&lt;td&gt;$1.000 ($1.300)&lt;/td&gt;&lt;td&gt;$500 ($600)&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Docente (3)&lt;/td&gt;&lt;td&gt;$1.200 ($1560)&lt;/td&gt;&lt;td&gt;$600 ($780)&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Estudiante de Posgrado (3)&lt;/td&gt;&lt;td&gt;$1.200 ($1560)&lt;/td&gt;&lt;td&gt;$600 ($780)&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Estudiante de grado autor Simposio JAIIO&lt;/td&gt;&lt;td&gt;$1.200 ($1560)&lt;/td&gt;&lt;td&gt;$600 ($780)&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Estudiante de grado autor Concurso EST (4) (5)&lt;/td&gt;&lt;td&gt;$600 ($780)&lt;/td&gt;&lt;td&gt;$300 ($390)&lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Estudiante de grado asistente No Socio (4)&lt;/td&gt;&lt;td&gt;$600 ($780)&lt;/td&gt;&lt;td&gt;- &lt;/td&gt;&lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;Estudiante de grado asistente Socio (4)&lt;/td&gt;&lt;td&gt;$300 ($390)&lt;/td&gt;&lt;td&gt;- &lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Todos los artículos presentados en JAIIO deben tener asociada una inscripción de la categoría autor. El pago por artículo adicional será aplicado únicamente al 2do y 3er artículo a ser registrado por el mismo autor. La inscripción debe ser abonada antes del 9 de julio de 2018 para que el trabajo sea publicado.&lt;/p&gt;
+
+&lt;p&gt;(1) Socios de SADIO, IEEE, AADECA o EPIO. Debe adjuntar constancia que pruebe su filiación a esa institución y tener las cuotas al día.&lt;/p&gt;
+
+&lt;p&gt;(2) Los docentes y estudiantes de posgrado deberán acreditar dicha condición.&lt;/p&gt;
+
+&lt;p&gt;(3) Los estudiantes necesitan presentar al momento de la inscripción constancia de alumno regular. El beneficio es para estudiantes de grado de primera carrera.&lt;/p&gt;
+
+&lt;p&gt;(4) Los estudiantes de grado autores del Concurso EST sólo podrán presentar sus trabajos en dicho concurso.&lt;/p&gt;
+
+&lt;p&gt;Consultar por paquetes estudiantiles y para inscripciones de grupos de 10 o más participantes en &lt;a href=&quot;mailto:información@sadio.org.ar&quot;&gt;información@sadio.org.ar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;aranceles-para-tutoriales&quot;&gt;Aranceles para tutoriales&lt;/h3&gt;
+
+&lt;p&gt;Los tutoriales previos a la conferencia tienen un costo adicional. El valor entre paréntesis es para no inscriptos en JAIIO.&lt;/p&gt;
+
+&lt;table class=&quot;table-price&quot;&gt;
+&lt;thead&gt;&lt;tr class=&quot;tableizer-firstrow&quot;&gt;&lt;th&gt;Código&lt;/th&gt;&lt;th style=&quot;padding:0 15px 0 15px;&quot;&gt;Título&lt;/th&gt;&lt;th&gt;Día y hora&lt;/th&gt;&lt;th&gt;Arancel&lt;/th&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+ &lt;tr&gt;&lt;td&gt;T1&lt;/td&gt;&lt;td&gt;Visualización estática e interactiva de datos usando ggplot2 y plotly por Natalia da Silva&lt;/td&gt;&lt;td&gt;Lunes 3 Sep &lt;br /&gt; 10 a 13hs&lt;/td&gt;&lt;td&gt;$400 ($1000)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;T2&lt;/td&gt;&lt;td&gt;Inteligencia artificial con R: Introducción al &quot;Deep Learning&quot; por Andrés Farrall&lt;/td&gt;&lt;td&gt;Lunes 3 Sep &lt;br /&gt; 10 a 13hs&lt;/td&gt;&lt;td&gt;$400 ($1000)&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;T3&lt;/td&gt;&lt;td&gt;purrr: Functional Programming Mindset por Jennifer Bryan&lt;/td&gt;&lt;td&gt;Lunes 3 Sep &lt;br /&gt; 14 a 18hs&lt;/td&gt;&lt;td&gt;$400 ($1000)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;&lt;td&gt;T4&lt;/td&gt;&lt;td&gt;Aspectos de seguridad en el desarrollo de aplicaciones Cloud por Pablo Frías y Eduardo Sánchez&lt;/td&gt;&lt;td&gt;Martes 4 Sep &lt;br /&gt; 9 a 13hs&lt;/td&gt;&lt;td&gt;$400 ($1000)&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Mar 2018 00:00:00 -0300</pubDate>
+        <link>https://latinr.github.io//blog/aranceles</link>
+        <guid isPermaLink="true">https://latinr.github.io//blog/aranceles</guid>
+      </item>
+    
+      <item>
+        <title>Llamado a Presentación de Trabajos</title>
+        <description>&lt;h4 id=&quot;latinr---conferencia-latinoamericana-sobre-uso-de-r-en-investigación--desarrollo&quot;&gt;LatinR &amp;lt;- Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+SADIO organiza este evento que reúne a la comunidad latinoamericana en general y a la argentina en particular, y propone un abordaje interdisciplinario a las problemáticas y prácticas socio-técnicas que emergen del rápido avance de las tecnologías de la información y la comunicación en la sociedad. LatinR es un simposio dentro de las 47 JAIIO que se desarrollará entre el 4 y el 5 de septiembre de 2018.&lt;/p&gt;
+
+&lt;p&gt;Convocamos a investigadores, tecnólogos, desarrolladores, educadores y empresas a enviar trabajos relativos al uso del lenguaje de programación R, abarcando desde instancias de investigación y experimentales hasta aplicaciones, demostraciones de aplicaciones y usos comerciales.&lt;/p&gt;
+
+&lt;h5 id=&quot;tópicos-de-interés&quot;&gt;Tópicos de interés&lt;/h5&gt;
+
+&lt;p&gt;Los temas sugeridos son los siguientes:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aplicaciones de R en distintas disciplinas de la academia y la industria. Todos los campos del conocimiento y sus combinaciones son de interés (por ejemplo, Ciencia de Datos, Estadística, Informática, Ciencias Biológicas y de la Salud, Bioinformática, Geología, Ciencias de la Atmósfera, Ciencias Sociales, Humanidades, Economía, Finanzas, Negocios, y Periodismo, entre otras)&lt;/li&gt;
+  &lt;li&gt;Uso de R en conjunto con otros lenguajes de programación&lt;/li&gt;
+  &lt;li&gt;Uso innovador de paquetes R existentes&lt;/li&gt;
+  &lt;li&gt;Desarrollo de nuevos paquetes R&lt;/li&gt;
+  &lt;li&gt;Uso de R en la enseñanza&lt;/li&gt;
+  &lt;li&gt;Investigación  reproducible usando R&lt;/li&gt;
+  &lt;li&gt;Análisis de grandes datos con R&lt;/li&gt;
+  &lt;li&gt;Aprendizaje automático con R&lt;/li&gt;
+  &lt;li&gt;Visualización de datos con R&lt;/li&gt;
+  &lt;li&gt;Uso de R para análisis de datos abiertos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;fechas-importantes&quot;&gt;Fechas importantes&lt;/h5&gt;
+
+&lt;p&gt;Fecha límite para la recepción de trabajos: &lt;del&gt;&lt;strong&gt;13 de abril de 2018&lt;/strong&gt;&lt;/del&gt; &lt;strong&gt;30 de abril de 2018&lt;/strong&gt;    &lt;br /&gt;
+Notificación aceptación: &lt;strong&gt;22 de junio de 2018&lt;/strong&gt; &lt;br /&gt;
+Recepción de versiones finales e inscripción de autores: &lt;strong&gt;9 de julio de 2018&lt;/strong&gt; &lt;br /&gt;
+Realización de LatinR: &lt;strong&gt;4 y 5 de septiembre de 2018&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;envío-de-trabajos&quot;&gt;Envío de trabajos&lt;/h5&gt;
+
+&lt;p&gt;Todos los trabajos enviados deberán estar relacionados con los tópicos de interés de LatinR. Se aceptarán los siguientes tipos de trabajos:&lt;/p&gt;
+
+&lt;h6 id=&quot;comunicaciones-orales&quot;&gt;Comunicaciones Orales&lt;/h6&gt;
+
+&lt;p&gt;Hay tres formatos posibles para las comunicaciones orales:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Comunicaciones sobre resultados de trabajos de investigación, estados de avance o desarrollos específicos que por su originalidad o potencial aplicación e impacto en el uso o desarrollo de R en la academia o la industria resulten de interés a la comunidad regional de usuarios de R. Si el trabajo no ha sido previamente publicado o presentado en algún otro evento, el envío deberá incluir un resumen extendido, con una extensión máxima de 2 páginas, incluyendo palabras claves, textos y figuras.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Trabajos ya presentados en un evento internacional (no latinoamericano) o publicado en una revista internacional (no latinoamericana) de relevancia en el área durante los años 2016 a 2018. Esto tiene como objetivo que investigadores activos difundan en el ámbito latinoamericano trabajos previamente difundidos fuera de la región. El envío de estas comunicaciones orales requerirá un resumen incluyendo los datos de la publicación original (evento/revista, fecha, acceso URL o DOI) cuya extensión no exceda 1 página.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Demostración de una aplicación (demo) donde se podrán presentar resultados de proyectos desarrollados usando R (tales como aplicaciones de Shiny u otras plataformas que incluyan el uso de R). Este formato contará con la posibilidad de obtener retroalimentación de potenciales usuarios, así como de desarrollo de aplicaciones o procesos particularmente innovadores en empresas privadas o por profesionales independientes con el objetivo de intercambiar experiencias adquiridas en la práctica. Son bienvenidos los casos de éxito y también los casos de problemas encontrados con la aplicación de una metodología o tecnología determinada. El envío de comunicaciones orales que incluyan una demo deberá incluir (i) un resumen de no más de 1 página que informe acerca de una aplicación o proceso usando una descripción sintética, sus objetivos, problemas que resuelve, audiencia de usuarios a los que está destinada, y tecnología utilizada y (ii) una URL de una versión de la demo si corresponde, si ésta se puede ejecutar en línea o, alternativamente, una dirección URL con un video breve que muestre las principales características de la misma.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Todas las comunicaciones orales aceptadas tendrán un espacio para su exposición en el programa de LatinR. Los resúmenes de las comunicaciones orales se incluirán en los Anales de LatinR.&lt;/p&gt;
+
+&lt;h6 id=&quot;posters&quot;&gt;Posters&lt;/h6&gt;
+
+&lt;p&gt;Los posters proporcionan una oportunidad para que investigadores y profesionales presenten y discutan sus más recientes avances, ideas, investigaciones en curso, experiencias y desafíos relacionados a los ejes temáticos de LatinR. El envío debe incluir un resumen con una extensión máxima de 1 página, incluyendo texto, tablas y figuras. Los resúmenes aceptados se incluirán en los Anales de LatinR.&lt;/p&gt;
+
+&lt;h5 id=&quot;formato-común-para-todos-los-resúmenes&quot;&gt;Formato común para todos los resúmenes:&lt;/h5&gt;
+
+&lt;p&gt;Los trabajos deberán estar escritos en castellano, portugués o inglés y deben cumplir con el formato LNCS (Lecture Notes in Computer Science), con tamaño de hoja A4 y tipografía de 10 puntos. Se deberán utilizar las siguientes plantillas provistas por Springer (que también puede descargarse &lt;a href=&quot;http://47jaiio.sadio.org.ar/formatos&quot;&gt;aquí&lt;/a&gt;):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/Ejemplo_Word_Demostracion_LatinR.doc&quot;&gt;Abstracts para Demos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/Ejemplo_Word_Poster_LatinR.doc&quot;&gt;Abstract para Posters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/Ejemplo_Word_ExtendedAbstract_LatinR.doc&quot;&gt;Abstract Extendido para comunicaciones orales no publicadas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/Ejemplo_Word_ComunicacionOral_LatinR_2018.doc&quot;&gt;Abstract Corto Comunicacion Oral de trabajo previamente publicado&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Todos los trabajos deberán enviarse en formato PDF, sin autores ni filiación hasta tanto finalice el proceso de revisión. Los resúmenes deberán tener espacio suficiente para incluir, en su versión final, los autores y su filiación.&lt;/p&gt;
+
+&lt;p&gt;El envío de trabajos a cualquiera de los simposios de las 47 JAIIO se hace por medio del &lt;a href=&quot;http://sgc.sadio.org.ar/sgc/index.php&quot;&gt;sistema de gestión de conferencias de SADIO&lt;/a&gt;. Para enviar su trabajo necesita estar registrado (o &lt;a href=&quot;http://sgc.sadio.org.ar/sgc/index.php/index/index/user/account&quot;&gt;registrarse&lt;/a&gt;) y &lt;a href=&quot;http://sgc.sadio.org.ar/sgc/index.php/index/index/login&quot;&gt;acceder al sistema&lt;/a&gt;. Para resolver cualquier duda, tiene a su disposición las &lt;a href=&quot;http://47jaiio.sadio.org.ar/index.php?q=envio-trabajos&quot;&gt;instrucciones para obtención de credenciales y acceso al sistema de envío de trabajos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Todos los trabajos serán revisados cuidadosamente por los miembros del Comité Científico, teniendo en cuenta su originalidad, aporte, calidad técnica y claridad.&lt;/p&gt;
+
+&lt;p&gt;Al menos uno de los autores de los trabajos aceptados deberá estar registrado en las JAIIO con anterioridad a la fecha límite para la presentación definitiva de trabajos (camera ready) a fin de que el mismo sea incorporado en los Anales de LatinR.&lt;/p&gt;
+
+&lt;p&gt;Además es requisito presentarse al simposio en la fecha y horario indicados para la exposición del trabajo. Tenga en cuenta que el trabajo cuyo autor no asista a  exponerlo será retirado de los proceedings. En caso de fuerza mayor el autor podrá enviar a un representante (debidamente autorizado) para que lo exponga en su nombre.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 17 Jan 2018 00:00:00 -0300</pubDate>
+        <link>https://latinr.github.io//blog/presentacion-trabajos</link>
+        <guid isPermaLink="true">https://latinr.github.io//blog/presentacion-trabajos</guid>
+      </item>
+    
+      <item>
+        <title>Cómo Patrocinar las 47 JAIIO</title>
+        <description>&lt;p&gt;Las formas de participación comercial en las 47 JAIIO, Jornadas Argentinas de
+Informática, que tendrán lugar en la Facultad de Ingeniería de la Universidad de Palermo del 3 al 7 de Septiembre de 2018, pueden ser las siguientes:&lt;/p&gt;
+
+&lt;h5 id=&quot;1-protector-principal-de-las-jornadas-completas&quot;&gt;1° Protector Principal de las Jornadas Completas&lt;/h5&gt;
+
+&lt;p&gt;La empresa o institución dispone de 3 horas para hacer presentaciones o charlas, tiene derecho a 50 inscripciones para todas las Jornadas, exhibición de sus carteles en los salones del evento durante la totalidad de los días de las Jornadas y la posibilidad de instalar un stand. Se colocará el logo de la empresa en el cartel exterior y en el del salón principal.&lt;/p&gt;
+
+&lt;h5 id=&quot;2-protector-de-un-simposio-en-particular&quot;&gt;2° Protector de un Simposio en particular&lt;/h5&gt;
+
+&lt;p&gt;La empresa o institución dispone de 2 horas para hacer presentaciones o charlas, tiene derecho a 40 inscripciones para todas las Jornadas, exhibición de sus carteles en los salones del evento durante la totalidad de los días que esté el Simposio y la posibilidad de instalar un stand.&lt;/p&gt;
+
+&lt;h5 id=&quot;3-patrocinantes&quot;&gt;3° Patrocinantes&lt;/h5&gt;
+
+&lt;p&gt;La empresa o institución dispone de 1 hora para hacer presentaciones o charlas, tiene derecho a 30 inscripciones para todas las Jornadas y la posibilidad de instalar un stand.&lt;/p&gt;
+
+&lt;h5 id=&quot;4-auspiciantes&quot;&gt;4° Auspiciantes&lt;/h5&gt;
+
+&lt;p&gt;La empresa o institución dispone de 30 minutos para hacer presentaciones o charlas y tiene derecho a 15 inscripciones para todas las Jornadas.&lt;/p&gt;
+
+&lt;h5 id=&quot;5-adherentes&quot;&gt;5° Adherentes&lt;/h5&gt;
+
+&lt;p&gt;La empresa o institución tiene derecho a 10 inscripciones para todas las Jornadas.&lt;/p&gt;
+
+&lt;h5 id=&quot;adicionales&quot;&gt;Adicionales&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Presentación o charla de 30 minutos.&lt;/li&gt;
+  &lt;li&gt;Instalación de stand por día.&lt;/li&gt;
+  &lt;li&gt;Consultar por otras actividades promocionales.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;IMPORTANTE: En todos los casos, se incluyen los logos de las empresas o instituciones en los entregables a distribuir, acorde a la posición de sponsoreo, así como la inclusión de su logo y/o link en el sitio web de las Jornadas.&lt;/p&gt;
+
+&lt;p&gt;Para más información visitar &lt;a href=&quot;http://www.47jaiio.sadio.org.ar.&quot;&gt;www.47jaiio.sadio.org.ar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;¿Tiene preguntas o interés en participar comercialmente en las 47 JAIIO? Por favor escríbanos a &lt;a href=&quot;&amp;quot;mailto:latinr@47jaiio.sadio.org.ar?subject=Patrocinar LarinR&quot;&gt;latinr@47jaiio.sadio.org.ar&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Jan 2018 00:00:00 -0300</pubDate>
+        <link>https://latinr.github.io//blog/patrocinar-latinr</link>
+        <guid isPermaLink="true">https://latinr.github.io//blog/patrocinar-latinr</guid>
+      </item>
+    
+      <item>
+        <title>Código de Conducta de JAIIO</title>
+        <description>&lt;p&gt;Todos en nuestra conferencia deben estar de acuerdo con el siguiente código de conducta. Los organizadores haremos cumplir este código durante todo el evento. Esperamos la cooperación de todos los participantes para ayudar a garantizar un entorno seguro para todos.&lt;/p&gt;
+
+&lt;h4 id=&quot;necesita-ayuda&quot;&gt;¿Necesita ayuda?&lt;/h4&gt;
+
+&lt;p&gt;Tiene nuestros datos de contacto en la parte inferior de la página web de cada Simposio en &lt;a href=&quot;http://47jaiio.sadio.org.ar/simposios&quot;&gt;http://47jaiio.sadio.org.ar/simposios&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;versión-corta&quot;&gt;Versión corta&lt;/h4&gt;
+
+&lt;p&gt;Esperamos que JAIIO sea una conferencia libre de acoso para todos, independientemente del sexo, identidad, género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas. No toleramos el acoso de los participantes de la conferencia de ninguna forma. El lenguaje sexual y las imágenes no son apropiados para ningún lugar de la conferencia, incluídas charlas, talleres, fiestas, redes sociales y otros medios en línea. Los participantes de la conferencia que violen estas reglas pueden ser sancionados o expulsados ​​de la conferencia sin un reembolso a discreción de los organizadores de la conferencia.&lt;/p&gt;
+
+&lt;h4 id=&quot;versión-menos-corta&quot;&gt;Versión menos corta&lt;/h4&gt;
+
+&lt;p&gt;El acoso incluye comentarios verbales ofensivos relacionados con el género, identidad y expresión de género, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, origen étnico, religión, ideología, elección de tecnología, imágenes sexuales en espacios públicos, intimidación deliberada, acoso, seguimiento, acoso fotográfico o grabación, interrupción sostenida de las conversaciones u eventos, contacto físico inapropiado y atención sexual no deseada.&lt;/p&gt;
+
+&lt;p&gt;Esperamos que aquellos participantes a quienes se les solicite detener cualquier comportamiento de acoso cumplan inmediatamente.
+Si un participante se involucra en un comportamiento de acoso, los organizadores de la conferencia pueden tomar las medidas que consideren apropiadas, tales como una advertencia o la expulsión de la conferencia sin reembolso.&lt;/p&gt;
+
+&lt;p&gt;Si lo hostigan, observa que alguien más está siendo hostigado o tiene comentarios al respecto, comuníquese de inmediato con personal de la conferencia. El personal de la conferencia puede ser identificado a través de su credencial.&lt;/p&gt;
+
+&lt;p&gt;El personal de la conferencia ayudará a los participantes a ponerse en contacto con la seguridad del lugar, proporcionar escoltas o ayudar a quienes sufren acoso a sentirse seguros durante la conferencia. Valoramos su asistencia a las JAIIO.&lt;/p&gt;
+
+&lt;p&gt;Esperamos que los participantes sigan estas reglas tanto durante las JAIIO como en eventos sociales relacionados con las mismas.&lt;/p&gt;
+
+&lt;p&gt;Adaptado de &lt;a href=&quot;http://confcodeofconduct.com&quot;&gt;http://confcodeofconduct.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Jan 2018 00:00:00 -0300</pubDate>
+        <link>https://latinr.github.io//cdc/</link>
+        <guid isPermaLink="true">https://latinr.github.io//cdc/</guid>
+      </item>
+    
+  </channel>
+</rss>
