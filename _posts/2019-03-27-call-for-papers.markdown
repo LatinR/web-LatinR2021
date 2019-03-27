@@ -61,9 +61,13 @@ Submissions must include:
 ##### Important dates
 
 **Abstract submission start:** March 15 2019
+
 **Abstract submission deadline:** April 15 2019
+
 **Abstract acceptance notification:** June 2019
+
 **Abstract final version submission and author registration deadlines:** June 2019
+
 **LatinR 2019:** September 25 to 27 2019
 
 ##### Submission guidelines

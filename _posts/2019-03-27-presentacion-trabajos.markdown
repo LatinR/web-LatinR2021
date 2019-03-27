@@ -71,9 +71,13 @@ El envío de propuestas para mesas temáticas debe incluir:
 ##### Fechas importantes
 
 **Inicio recepción de trabajos:** 15 de marzo de 2019
+
 **Fecha límite para la recepción de trabajos:** 15 de abril de 2019
+
 **Notificación aceptación:** junio de 2019
+
 **Recepción de versiones finales e inscripción de autores:** junio de 2019
+
 **LatinR 2019:** 25-27 de septiembre de 2019
 
 

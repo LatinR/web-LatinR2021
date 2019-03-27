@@ -4,11 +4,11 @@ footerBlocks:
  -
   title: {en: "Links", es: "Links", pt: "Links"}
   links:
-   - {link: "http://47jaiio.sadio.org.ar/index.php?q=node/125", text: {en: "Web JAIIO", es: "Web JAIIO", pt: "Web JAIIO"}}
+   # - {link: "http://47jaiio.sadio.org.ar/index.php?q=node/125", text: {en: "Web JAIIO", es: "Web JAIIO", pt: "Web JAIIO"}}
  -
   title: {en: "Contact", es: "Contacto", pt: "Contato"}
   links:
-   - {link: "mailto:latinr@47jaiio.sadio.org.ar", text: {en: "latinr@47jaiio.sadio.org.ar", es: "latinr@47jaiio.sadio.org.ar", pt: "latinr@47jaiio.sadio.org.ar" }}
+   # - {link: "mailto:latinr@47jaiio.sadio.org.ar", text: {en: "latinr@47jaiio.sadio.org.ar", es: "latinr@47jaiio.sadio.org.ar", pt: "latinr@47jaiio.sadio.org.ar" }}
  -
   title: {en: "FAQ", es: "FAQ", pt: "FAQ"}
   links:
@@ -24,7 +24,7 @@ en:
   team: Team
   logistics: Logistics
   inscribite: Register
-  eventDate: September 4th & 5th 2018
+  eventDate: September 25 to 27 2019
   description: Latinamerican Conference About the Use of R in R&D
   metaKeywords: "event, R, conference, statistics, dataviz"
   tweetsFeedTitle: What's up?
@@ -40,18 +40,18 @@ en:
   # Navigation
   navigationLinks:
    - {permalink: "/en", text: "Home" }
-   - {permalink: "/schedule/", text: "Schedule"}
+  # - {permalink: "/schedule/", text: "Schedule"}
   # - {permalink: "/speakers/", text: "Speakers"}
-   - {permalink: "/team/", text: "Team"}
-   - {permalink: "/logistics/", text: "Logistics"}
+  # - {permalink: "/team/", text: "Team"}
+  # - {permalink: "/logistics/", text: "Logistics"}
    - {permalink: "/blog-en/", text: "News"}
   bottomNavigationLinks:
-   - {permalink: "/registration", text: "Register"}
+   - {permalink: "/blog/call-for-papers", text: "Call for papers"}
   rightNavigationButtons:
-   - {permalink: "/registration", text: "Register"}
+   - {permalink: "/blog/call-for-papers", text: "Call for papers"}
   heroButtons:
-   - {permalink: "/schedule", text: "Schedule"}
-   - {permalink: "/registration", text: "Register"}
+  # - {permalink: "/schedule", text: "Schedule"}
+   - {permalink: "/blog/call-for-papers", text: "Call for papers"}
 
   aboutJAIIO: 'We are part of <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organised by <a href = "http://www.sadio.org.ar/">SADIO</a> and <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
@@ -92,7 +92,7 @@ en:
 
   # team
   teamBlockTitle: "About us"
-  aboutUs: "On October 25, 2017, an announcement was made by Heather Turner on the R User Group (RUG) Organizers Slack: the R Foundation Conference Committee was interested in the emergence of academic-focused R events in regions not currently covered by useR! In less than a week, we had organized our first videoconference to start thinking about how to face the challenge. This quick response was not the result of mere luck, but the consequence of a year in which the R community — through its local RUGs and social media presence— grew stronger in South America. By mid November everything was set up: a name, a place, a date, and a motivated international organizing committee. Key in this process was the trust in the part of SADIO of welcoming a new proposal in the programming of an event with the trajectory of the JAIIO."
+  aboutUs: "On October 25, 2017, an announcement was made by Heather Turner on the R User Group (RUG) Organizers Slack: the R Foundation Conference Committee was interested in the emergence of academic-focused R events in regions not currently covered by useR! In less than a week, we had organized our first videoconference to start thinking about how to face the challenge. This quick response was not the result of mere luck, but the consequence of a year in which the R community — through its local RUGs and social media presence— grew stronger in South America. By mid November everything was set up: a name, a place, a date, and a motivated international organizing committee."
   chairs: "Chairs"
   organizerCommittee: "Organizer committee"
   scientificCommittee: "Scientific committee"
@@ -115,7 +115,7 @@ es:
   team: Equipo
   logistics: Logística
   inscribite: Inscribite
-  eventDate: 4 y 5 de septiembre 2018
+  eventDate: 24 a 27 de septiembre 2019
   description: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
   metaKeywords: "evento, R, conferencia, estadística, dataviz"
   latestNewsTitle: "Novedades"
@@ -128,18 +128,18 @@ es:
   # Navigation
   navigationLinks:
    - {permalink: "/", text: "Principal" }
-   - {permalink: "/cronograma/", text: "Cronograma"}
+  # - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
-   - {permalink: "/equipo/", text: "Equipo"}
-   - {permalink: "/logistica/", text: "Logística"}
+  # - {permalink: "/equipo/", text: "Equipo"}
+  # - {permalink: "/logistica/", text: "Logística"}
    - {permalink: "/blog/", text: "Novedades"}
   bottomNavigationLinks:
-   - {permalink: "/registro", text: "Registrate"}
+   - {permalink: "/blog/presentacion-trabajos", text: "Presentación de trabajos"}
   rightNavigationButtons:
-   - {permalink: "/registro", text: "Registrate"}
+   - {permalink: "/blog/presentacion-trabajos", text: "Presentación de trabajos"}
   heroButtons:
-   - {permalink: "/cronograma", text: "Cronograma"}
-   - {permalink: "/registro", text: "Registrate"}
+  # - {permalink: "/cronograma", text: "Cronograma"}
+   - {permalink: "/blog/presentacion-trabajos", text: "Presentación de trabajos"}
 
   # about
   aboutJAIIO: 'Somos parte de las <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizadas por <a href = "http://www.sadio.org.ar/">SADIO</a> y co-organizadas por <a href = "http://www.palermo.edu/">UP</a>.'
@@ -185,7 +185,7 @@ es:
 
   # team
   teamBlockTitle: "Quiénes somos"
-  aboutUs: "El 25 de octubre de 2017, Heather Turner anunció en el Slack de Organizadores de Grupos de Usuarios de R (RUG) que el Comité de Conferencias de la R Foundation estaba interesado en la aparición de eventos sobre R con un enfoque académico en regiones que no se encuentran actualmente cubiertas por useR!. En menos de una semana ya teníamos organizada nuestra primera videoconferencia para pensar cómo enfrentar el desafío. Esta rápida respuesta no fue solo suerte, sino la consecuencia de un año en el que la comunidad de R --a través de los RUGs locales y la presencia en redes sociales-- creció significativamente en Sudamérica. Para mediados de noviembre ya estaba todo definido: un nombre, un lugar, una fecha y un comité organizador internacional motivado. Fue clave en este proceso la confianza por parte de SADIO de acoger una propuesta nueva en la programación de un evento con la trayectoria de las JAIIO."    
+  aboutUs: "El 25 de octubre de 2017, Heather Turner anunció en el Slack de Organizadores de Grupos de Usuarios de R (RUG) que el Comité de Conferencias de la R Foundation estaba interesado en la aparición de eventos sobre R con un enfoque académico en regiones que no se encuentran actualmente cubiertas por useR!. En menos de una semana ya teníamos organizada nuestra primera videoconferencia para pensar cómo enfrentar el desafío. Esta rápida respuesta no fue solo suerte, sino la consecuencia de un año en el que la comunidad de R --a través de los RUGs locales y la presencia en redes sociales-- creció significativamente en Sudamérica. Para mediados de noviembre ya estaba todo definido: un nombre, un lugar, una fecha y un comité organizador internacional motivado."    
   chairs: "Chairs"
   organizerCommittee: "Comité organizador"
   scientificCommittee: "Comité científico"
@@ -208,7 +208,7 @@ pt:
   team: Equipe
   logistics: Logística
   inscribite: Inscreva-se
-  eventDate: 4 e 5 de setembro 2018
+  eventDate: 25 a 27 de setembro 2019
   description: Conferência Latino-Americana sobre Uso de R em  Pesquisa + Desenvolvimento
   latestNewsTitle: "Notícias"
   blog: Blog
@@ -222,15 +222,15 @@ pt:
    - {permalink: "/pt", text: "Principal" }
   # - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
-   - {permalink: "/equipe/", text: "Equipe"}
-   - {permalink: "/logistica-pt/", text: "Logística"}
+  # - {permalink: "/equipe/", text: "Equipe"}
+  # - {permalink: "/logistica-pt/", text: "Logística"}
    - {permalink: "/blog-pt/", text: "Notícias"}
   bottomNavigationLinks:
    - {permalink: "/registro-pt", text: "Registre-se"}
   rightNavigationButtons:
    - {permalink: "/registro-pt", text: "Registre-se"}
   heroButtons:
-   - {permalink: "blog/apresentação-trabalhos", text: "Apresentação de Trabalhos"}
+  # - {permalink: "blog/apresentação-trabalhos", text: "Apresentação de Trabalhos"}
    - {permalink: "/registro-pt", text: "Registre-se"}
 
   # about
