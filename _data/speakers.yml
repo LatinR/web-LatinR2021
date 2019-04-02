@@ -2,42 +2,28 @@
 
 - 
   id: 1
-  name: "Jenny"
-  surname: "Bryan"
-  title: {en: "Software Engineer", es: "Ingeniera de Software", pt: "Engenheira de Software"}
+  name: "Hadley"
+  surname: "Wickham"
+  title: {en: "Chief Scientist", es: "Científico principal"}
   company: "RStudio"
-  bio: {en: "Jennifer Bryan (PhD, UC Berkeley) is a Software Engineer at RStudio and Associate Professor at the University of British Columbia. She is an internationally recognized reference of the R community and an Ordinary Member of the R Foundation and part of the rOpenSci Leadership Committee.",
-            es: "Jennifer Bryan (PhD, UC Berkeley) es Ingeniera de Software en RStudio y Profesora Asociada de la University of British Columbia. Es una referente internacionalmente reconocida de la comunidad R dentro de la cual es integrante ordinaria de la R Foundation y parte del Comité de Liderazgo de rOpenSci.",
-            pt: "Engenheira de Software na RStudio </br>
-                 Professora Associada de Estatística - University of British Columbia </br>
-                 rstudio::conf </br>
-                 Palestrante principal na useR!2018"}
-  thumbnailUrl: jennybryan.jpg
+  bio: {en: "Hadley Wickham is a Chief Scientist at RStudio, and an Adjunct Professor of Statistics at the University of Auckland, Stanford University, and Rice University. He build tools (computational and cognitive) that make data science easier, faster, and more fun.",
+        es: "Hadley Wickham un Científico Prinicipal en RStudio y un Profesor Adjunto en estadística en la Universidad de Auckland, Universidad de Stanford y Universidad de RIce. Crea herramientas (computacionales y cognitivas) que hacen que la ciencia de datos sea más fácil, rápida y divertida."}
+  thumbnailUrl: hadleywickham.jpeg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/JennyBryan"}
+    - {name: "twitter", link: "https://twitter.com/hadleywickham"}
 - 
   id: 2
-  name: "Walter"
-  surname: "Sosa Escudero"
+  name: "Mine"
+  surname: "Çetinkaya-Runde"
   title: {en: "Principal Investigator", es: "Investigador Principal", pt: "Pesquisador principal"}
   company: "UdeSA-CONICET"
-  bio: {en: "CONICET Principal Investigator </br> 
-                 Professor and Director of the Economics department - Universidad de San Andrés </br>
-                 TEDxRiodelaPlata </br>
-                 Author of What is (and what is not) statistics? and The dark side of econometrics </br>",
-            es: 'Investigador Principal de CONICET </br>
-                 Profersor y Director del departamento de Economía - Universidad de San Andrés </br>
-                 TEDxRiodelaPlata </br>
-                 Autor de ¿Qué es (y qué no es) la estadística? y El lado oscuro de la econometría',
-            pt: "Pesquisador principal de CONICET </br>
-                 Professor e Diretor do Departamento de Economia - Universidade de San Andrés </br>
-                 TEDxRiodelaPlata</br>
-                 Autor de O que é (e o que não é) a Estatística? e O lado obscuro da econometria"}
-  thumbnailUrl: waltersosaescudero.jpg
+  bio: {en: "She is the Director of Undergraduate Studies and an Associate Professor of the Practice in the Department of Statistical Science at Duke University. Her work focuses on innovation in statistics pedagogy, with an emphasis on student-centered learning, computation, reproducible research, and open-source education.",
+            es: 'Es la Directora de Estudios de Grado y Profesor Asociado de la Práctica en el Departamento de Ciencias Estadísticas de la Universidad de Duke. Su trabajo se centra en la innovación en la pedagogía de la estadística, con énfasis en el aprendizaje centrado en el estudiante, computación, investigación reproducible y educación con código abierto.'}
+  thumbnailUrl: minarunde.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/wsosaescudero"}
+    - {name: "twitter", link: "https://twitter.com/minebocek"}
 
 
 - id: 3

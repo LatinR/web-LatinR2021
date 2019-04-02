@@ -43,6 +43,22 @@
       social:
         - {name: "twitter", link: "https://twitter.com/rivaquiroga"}
 
+- level: encargados-cientifico
+  name: {es: "Encargados Comité Científico", en: "Heads of Scientific Committee"}
+  color: "#386CB0"
+  people:
+  - id: 3
+    name: Carmen
+    surname: Le Foulon
+    level: encargados-cientifico
+    titles:
+      - Instituto de Ciencia Política, Universidad Católica de Chile
+  - id: 4
+    name: Ricardo
+    surname: Olea
+    level: encargados-cientifico
+    titles:
+      - Departamento de Estadística, Universidad Católica de Chile
 
 # - level: cientifico
 #   name: {es: "Comité Científico", en: "Scientific Committee", pt: "Comitê científico"}

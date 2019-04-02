@@ -42,7 +42,7 @@ en:
    - {permalink: "/en", text: "Home" }
   # - {permalink: "/schedule/", text: "Schedule"}
   # - {permalink: "/speakers/", text: "Speakers"}
-  # - {permalink: "/team/", text: "Team"}
+   - {permalink: "/team/", text: "Team"}
   # - {permalink: "/logistics/", text: "Logistics"}
    - {permalink: "/blog-en/", text: "News"}
   bottomNavigationLinks:
@@ -130,7 +130,7 @@ es:
    - {permalink: "/", text: "Principal" }
   # - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
-  # - {permalink: "/equipo/", text: "Equipo"}
+   - {permalink: "/equipo/", text: "Equipo"}
   # - {permalink: "/logistica/", text: "Logística"}
    - {permalink: "/blog/", text: "Novedades"}
   bottomNavigationLinks:
