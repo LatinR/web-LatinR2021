@@ -72,7 +72,7 @@ El envío de propuestas para mesas temáticas debe incluir:
 
 **Inicio recepción de trabajos:** 15 de marzo de 2019
 
-**Fecha límite para la recepción de trabajos:** 15 de abril de 2019
+**Fecha límite para la recepción de trabajos:** 30 de abril de 2019
 
 **Notificación aceptación:** junio de 2019
 

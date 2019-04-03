@@ -62,7 +62,7 @@ Submissions must include:
 
 **Abstract submission start:** March 15 2019
 
-**Abstract submission deadline:** April 15 2019
+**Abstract submission deadline:** April 30 2019
 
 **Abstract acceptance notification:** June 2019
 
