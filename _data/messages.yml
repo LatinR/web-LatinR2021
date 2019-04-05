@@ -31,7 +31,7 @@ en:
   blogTitle: "Blog"
   latestNewsTitle: "Latest News"
   locationBlockTitle: Location
-  eventLocationName: University of Palermo - Engineering School 
+  eventLocationName: Catholic University Extension Centre
   partnersTitle: "With support from"
   partnersC4sponsorsButton: "Become a sponsor"
   c4sponsorsUrl: blog/sponsor-latinr
@@ -124,7 +124,7 @@ es:
   blog: Blog
   tweetsFeedTitle: "Twitter"
   locationBlockTitle: "Lugar"
-  eventLocationName: "Universidad de Palermo - Facultad de Ingeniería "
+  eventLocationName: "Centro de Extensión de la Universidad Católica"
 
 
   # Navigation

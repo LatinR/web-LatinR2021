@@ -7,7 +7,7 @@
   title: {en: "Chief Scientist", es: "Científico principal"}
   company: "RStudio"
   bio: {en: "Hadley Wickham is a Chief Scientist at RStudio, and an Adjunct Professor of Statistics at the University of Auckland, Stanford University, and Rice University. He build tools (computational and cognitive) that make data science easier, faster, and more fun.",
-        es: "Hadley Wickham un Científico Prinicipal en RStudio y un Profesor Adjunto en estadística en la Universidad de Auckland, Universidad de Stanford y Universidad de RIce. Crea herramientas (computacionales y cognitivas) que hacen que la ciencia de datos sea más fácil, rápida y divertida."}
+        es: "Hadley Wickham es el Científico Principal en RStudio y Profesor Adjunto en Estadística en la Universidad de Auckland, la Universidad de Stanford y la Universidad de Rice. Su trabajo se centra en crear herramientas (computacionales y cognitivas) que hagan que la ciencia de datos sea más fácil, rápida y divertida."}
   thumbnailUrl: hadleywickham.jpeg
   rockstar: true
   social: 
@@ -15,11 +15,11 @@
 - 
   id: 2
   name: "Mine"
-  surname: "Çetinkaya-Runde"
+  surname: "Çetinkaya-Rundel"
   title: {en: "Principal Investigator", es: "Investigador Principal", pt: "Pesquisador principal"}
   company: "UdeSA-CONICET"
-  bio: {en: "She is the Director of Undergraduate Studies and an Associate Professor of the Practice in the Department of Statistical Science at Duke University. Her work focuses on innovation in statistics pedagogy, with an emphasis on student-centered learning, computation, reproducible research, and open-source education.",
-            es: 'Es la Directora de Estudios de Grado y Profesor Asociado de la Práctica en el Departamento de Ciencias Estadísticas de la Universidad de Duke. Su trabajo se centra en la innovación en la pedagogía de la estadística, con énfasis en el aprendizaje centrado en el estudiante, computación, investigación reproducible y educación con código abierto.'}
+  bio: {en: "She is the Director of Undergraduate Studies and an Associate Professor of the Practice in the Department of Statistical Science at Duke University. Her work focuses on innovation in statistics pedagogy, with an emphasis on student-centered learning, computation, reproducible research, and open-source education. She is also a Professional Educator at RStudio.",
+            es: 'Es Directora de Estudios de Grado y Profesora Asociada de Práctica en el Departamento de Ciencias Estadísticas de la Universidad de Duke. Su trabajo se centra en la innovación pedagógica en Estadística, con énfasis en el aprendizaje centrado en el estudiante, la computación, la investigación reproducible y la educación con código abierto. Se desempeña también como Educadora Profesional en RStudio.'}
   thumbnailUrl: minarunde.jpg
   rockstar: true
   social: 
