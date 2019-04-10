@@ -57,7 +57,9 @@ en:
   aboutBlock:
    - {title: "Conferences", image: "conference.png", text: "Talks by leaders of the use in R in various areas." }
    - {title: "Oral presentations", image: "presentation.png", text: "Presentations of research results and demonstrations of applications created with R." }
+   - {title: "Round Tables", image: "mesa_redonda.png", text: "Stimulating discussion sessions about speciffic topics." }
    - {title: "Posters", image: "posters.png", text: "Discuss ideas, ongoing research, experiences and challenges in the use of R." }
+
 
 
   subscribeTitle: "Subscribe"
@@ -146,6 +148,7 @@ es:
   aboutBlock:
    - {title: "Presentaciones Orales", image: "presentation.png", text: "Presentación de resultados de trabajos de investigación y demostración de aplicaciones creadas en R." }
    - {title: "Conferencias", image: "conference.png", text: "Charlas de referentes en el uso de R en distintas áreas." }
+   - {title: "Mesas Temáticas", image: "mesa_redonda.png", text: "Debates estimulantes sobre temas específicos." }
    - {title: "Pósters", image: "posters.png", text: "Discusión sobre ideas, investigaciones en curso, experiencias y desafíos en el uso de R." }
 
 
