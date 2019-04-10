@@ -87,7 +87,7 @@ El envío de propuestas para mesas temáticas debe incluir:
 
 * Todos los trabajos deberán enviarse en formato PDF, sin autores ni filiación, a través de la plataforma EasyChair. 
 
-* Los envíos deben hacerse a través [del siguiente enlace](https://easychair.org/conferences/?conf=latinr2019) a partir del día 15 de marzo y hasta el lunes 15 de abril. 
+* Los envíos deben hacerse a través [del siguiente enlace](https://easychair.org/conferences/?conf=latinr2019) a partir del día 15 de marzo y hasta el martes 30 de abril. 
 
 * Los resúmenes deben elaborarse en tamaño carta en fuente Arial 11 a espacio simple. 
 

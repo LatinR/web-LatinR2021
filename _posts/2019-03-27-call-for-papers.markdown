@@ -75,7 +75,7 @@ Submissions must include:
 
 * The official languages of the conference are Spanish, Portuguese and English. Abstracts must be written in the same language of the oral presentation or poster. 
 
-* Submissions must be sent in PDF format without author name or institution through the EasyChair platform following [this link](https://easychair.org/conferences/?conf=latinr2019) from March 15 to April 15. 
+* Submissions must be sent in PDF format without author name or institution through the EasyChair platform following [this link](https://easychair.org/conferences/?conf=latinr2019) from March 15 to April 30. 
 
 * Submissions must be prepared in Arial 11, single-spaced letter size. 
 
