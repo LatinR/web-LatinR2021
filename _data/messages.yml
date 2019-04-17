@@ -45,6 +45,8 @@ en:
    - {permalink: "/team/", text: "Team"}
   # - {permalink: "/logistics/", text: "Logistics"}
    - {permalink: "/blog-en/", text: "News"}
+   - {permalink: "/previous-editions", text: "Previous Editions"}
+
   bottomNavigationLinks:
    - {permalink: "/blog/call-for-papers", text: "Call for papers"}
   rightNavigationButtons:
@@ -135,6 +137,7 @@ es:
    - {permalink: "/equipo/", text: "Equipo"}
   # - {permalink: "/logistica/", text: "Logística"}
    - {permalink: "/blog/", text: "Novedades"}
+   - {permalink: "/ediciones-anteriores/", text: "Ediciones Anteriores"}
   bottomNavigationLinks:
    - {permalink: "/blog/presentacion-trabajos", text: "Presentación de trabajos"}
   rightNavigationButtons:
