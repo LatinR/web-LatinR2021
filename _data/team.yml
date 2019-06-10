@@ -76,30 +76,12 @@
     level: cientifico
     titles:
       - Universidad de la República-IESTA, Uruguay
-#   - id: 17
-#     name: Luis
-#     surname: Argerich
-#     level: cientifico
-#     titles:
-#       - Universidad de Buenos Aires, Argentina
   - id: 17
     name: Stephan
     surname: Arndt
     level: cientifico
     titles:
       - University of Iowa, Estados Unidos
-#   - id: 18
-#     name: Lucas
-#     surname: Bali
-#     level: cientifico
-#     titles:
-#       - Universidad de Buenos Aires, Argentina
-#   - id: 19
-#     name: Ana
-#     surname: Bianco
-#     level: cientifico
-#     titles:
-#       - CONICET-Universidad de Buenos Aires, Argentina
   - id: 20
     name: Mathias
     surname: Bourel
@@ -112,18 +94,6 @@
     level: cientifico
     titles:
       - Universidad Politécnica de Madrid, ETSI Ingenieros de Minas y Energía, España
-#   - id: 21
-#     name: Inés
-#     surname: Caridi
-#     level: cientifico
-#     titles:
-#       - CONICET-Universidad de Buenos Aires, Argentina
-#   - id: 22
-#     name: Ariel
-#     surname: Chernomoretz
-#     level: cientifico
-#     titles:
-#       - CONICET-Fundación Instituto Leloir, Argentina
   - id: 23
     name: Elena
     surname: Chicaiza
@@ -142,18 +112,6 @@
     level: cientifico
     titles:
       - University College London, Reino Unido
-#   - id: 24
-#     name: Gustavo
-#     surname: Denicolay
-#     level: cientifico
-#     titles:
-#       - Universidad Austral, Argentina
-#   - id: 25
-#     name: Carlos
-#     surname: Diuk
-#     level: cientifico
-#     titles:
-#       - Facebook, USA
   - id: 26
     name: Andrés
     surname: Farall
@@ -172,12 +130,6 @@
     level: cientifico
     titles:
       - CONICET-INTA - La Pampa, Argentina
-#   - id: 28
-#     name: María José
-#     surname: García Zattera
-#     level: cientifico
-#     titles:
-#       - Pontificia Universidad Católica de Chile, Chile
   - id: 29
     name: Adriana
     surname: Gil
@@ -196,18 +148,6 @@
     level: cientifico
     titles:
       - H2O.ai, Estados Unidos
-#   - id: 30
-#     name: Leandro
-#     surname: Lombardi
-#     level: cientifico
-#     titles:
-#       - CONICET-Universidad de Buenos Aires, Fundación Sadosky, Argentina
-#   - id: 31
-#     name: Diana
-#     surname: Kelmansky
-#     level: cientifico
-#     titles:
-#       - Universidad de Buenos Aires, Argentina
   - id: 32
     name: Estefanía
     surname: Mancini
@@ -220,42 +160,18 @@
     level: cientifico
     titles:
       - 3iA-UNSAM, Argentina
-#   - id: 33
-#     name: Monica
-#     surname: Mendes
-#     level: cientifico
-#     titles:
-#        - Universidade Federal de Campina Grande, Brasil
   - id: 33
     name: Leonardo
     surname: Moreno
     level: cientifico
     titles:
       - Universidad de la República-IESTA, Uruguay
-#   - id: 34
-#     name: Adriana
-#     surname: Pérez
-#     level: cientifico
-#     titles:
-#       - Universidad de Buenos Aires, Argentina
-#   - id: 35
-#     name: Marcelo
-#     surname: Risk
-#     level: cientifico
-#     titles:
-#       - CONICET-Universidad de Buenos Aires, Argentina
   - id: 29
     name: Germán
     surname: Rosati
     level: cientifico
     titles:
       - IDAES-UNSAM / CONICET, Argentina
-#   - id: 35
-#     name: Cecilia
-#     surname: Ruz
-#     level: cientifico
-#     titles:
-#       - Universidad de Buenos Aires, Argentina
   - id: 36
     name: Marcelo
     surname: Soria
@@ -274,12 +190,6 @@
     level: cientifico
     titles:
       - Instituto Pasteur Montevideo, Uruguay
-#   - id: 37
-#     name: Nicolás
-#     surname: Stier Moses
-#     level: cientifico
-#     titles:
-#       - Facebook, Estados Unidos; Universidad Torcuato Di Tella, Argentina
   - id: 14
     name: Melina
     surname: Vidoni
@@ -292,20 +202,100 @@
 #     level: cientifico
 #     titles:
 #       - Practia, Argentina
-
+#   - id: 17
+#     name: Luis
+#     surname: Argerich
+#     level: cientifico
+#     titles:
+#       - Universidad de Buenos Aires, Argentina
+#   - id: 37
+#     name: Nicolás
+#     surname: Stier Moses
+#     level: cientifico
+#     titles:
+#       - Facebook, Estados Unidos; Universidad Torcuato Di Tella, Argentina
+#   - id: 35
+#     name: Cecilia
+#     surname: Ruz
+#     level: cientifico
+#     titles:
+#       - Universidad de Buenos Aires, Argentina
+#   - id: 34
+#     name: Adriana
+#     surname: Pérez
+#     level: cientifico
+#     titles:
+#       - Universidad de Buenos Aires, Argentina
+#   - id: 35
+#     name: Marcelo
+#     surname: Risk
+#     level: cientifico
+#     titles:
+#       - CONICET-Universidad de Buenos Aires, Argentina
+#   - id: 33
+#     name: Monica
+#     surname: Mendes
+#     level: cientifico
+#     titles:
+#        - Universidade Federal de Campina Grande, Brasil
+#   - id: 30
+#     name: Leandro
+#     surname: Lombardi
+#     level: cientifico
+#     titles:
+#       - CONICET-Universidad de Buenos Aires, Fundación Sadosky, Argentina
+#   - id: 31
+#     name: Diana
+#     surname: Kelmansky
+#     level: cientifico
+#     titles:
+#       - Universidad de Buenos Aires, Argentina
+#   - id: 28
+#     name: María José
+#     surname: García Zattera
+#     level: cientifico
+#     titles:
+#       - Pontificia Universidad Católica de Chile, Chile
+#   - id: 24
+#     name: Gustavo
+#     surname: Denicolay
+#     level: cientifico
+#     titles:
+#       - Universidad Austral, Argentina
+#   - id: 25
+#     name: Carlos
+#     surname: Diuk
+#     level: cientifico
+#     titles:
+#       - Facebook, USA
+#   - id: 18
+#     name: Lucas
+#     surname: Bali
+#     level: cientifico
+#     titles:
+#       - Universidad de Buenos Aires, Argentina
+#   - id: 19
+#     name: Ana
+#     surname: Bianco
+#     level: cientifico
+#     titles:
+#       - CONICET-Universidad de Buenos Aires, Argentina
+#   - id: 21
+#     name: Inés
+#     surname: Caridi
+#     level: cientifico
+#     titles:
+#       - CONICET-Universidad de Buenos Aires, Argentina
+#   - id: 22
+#     name: Ariel
+#     surname: Chernomoretz
+#     level: cientifico
+#     titles:
+#       - CONICET-Fundación Instituto Leloir, Argentina
  - level: organizer
    name: {es: "Comité Organizador", en: "Organizer Committee", pt: "Comitê Organizador"}
    color: "#BEAED4"
    people:
-#   - id: 3
-#     level: organizer
-#     thumbnailUrl: default.jpg
-#     color: "#666666"
-#     name: Mónica
-#     surname: Alonso
-#     titles:
-#      - Banco Ciudad
-#      - R-Ladies Buenos Aires, Argentina
    - id: 3
      level: organizer
      thumbnailUrl: default.jpg
@@ -341,6 +331,15 @@
      titles:
       - CONICET-INTA
       - R-Ladies Buenos Aires, Argentina
+#   - id: 3
+#     level: organizer
+#     thumbnailUrl: default.jpg
+#     color: "#666666"
+#     name: Mónica
+#     surname: Alonso
+#     titles:
+#      - Banco Ciudad
+#      - R-Ladies Buenos Aires, Argentina
 #   - id: 7
 #     level: organizer
 #     thumbnailUrl: default.jpg
@@ -422,7 +421,6 @@
 #     titles:
 #       - UNAM, México
 #       - Universidad Austral de Chile, Chile
-
 #   - id: 15
 #     level: organizer
 #     thumbnailUrl: default.jpg
