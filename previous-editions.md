@@ -7,6 +7,6 @@ ref: prev-ed
 lang: en
 ---
 
-Presentations and posters from previous editions of the confference can be foundin the following repositories:
+Presentations and posters from previous editions of the conference can be found in the following repository:
 
-* [Latinr2018](https://github.com/LatinR/presentaciones-LatinR2018) 
+* [Latinr2018](https://github.com/LatinR/presentaciones-LatinR2018)

@@ -65,29 +65,29 @@
   color: "#386CB0"
   people:
   - id: 15
-     name: Marcela
-     surname: Alfaro Córdoba
-     level: cientifico
-     titles:
-       - Universidad de Costa Rica, Costa Rica
+    name: Marcela
+    surname: Alfaro Córdoba
+    level: cientifico
+    titles:
+      - Universidad de Costa Rica, Costa Rica
   - id: 16
-      name: Ignacio
-      surname: Álvarez-Castro
-      level: cientifico
-      titles:
-        - Universidad de la República-IESTA, Uruguay
+    name: Ignacio
+    surname: Álvarez-Castro
+    level: cientifico
+    titles:
+      - Universidad de la República-IESTA, Uruguay
 #   - id: 17
 #     name: Luis
 #     surname: Argerich
 #     level: cientifico
 #     titles:
 #       - Universidad de Buenos Aires, Argentina
-    - id: 17
-      name: Stephan
-      surname: Arndt
-      level: cientifico
-      titles:
-        - University of Iowa, Estados Unidos
+  - id: 17
+    name: Stephan
+    surname: Arndt
+    level: cientifico
+    titles:
+      - University of Iowa, Estados Unidos
 #   - id: 18
 #     name: Lucas
 #     surname: Bali
@@ -100,18 +100,18 @@
 #     level: cientifico
 #     titles:
 #       - CONICET-Universidad de Buenos Aires, Argentina
-    - id: 20
-      name: Mathias
-      surname: Bourel
-      level: cientifico
-      titles:
-        - Universidad de la República-IESTA-FING, Uruguay
-    - id: 20
-      name: Xavier
-      surname: Buenaño
-      level: cientifico
-      titles:
-        - Universidad Politécnica de Madrid, ETSI Ingenieros de Minas y Energía, España
+  - id: 20
+    name: Mathias
+    surname: Bourel
+    level: cientifico
+    titles:
+      - Universidad de la República-IESTA-FING, Uruguay
+  - id: 20
+    name: Xavier
+    surname: Buenaño
+    level: cientifico
+    titles:
+      - Universidad Politécnica de Madrid, ETSI Ingenieros de Minas y Energía, España
 #   - id: 21
 #     name: Inés
 #     surname: Caridi
@@ -124,24 +124,24 @@
 #     level: cientifico
 #     titles:
 #       - CONICET-Fundación Instituto Leloir, Argentina
-    - id: 23
-      name: Elena
-      surname: Chicaiza
-      level: cientifico
-      titles:
-        - Instituto Panamericano de Geografía e Historia, Ecuador
-    - id: 23
-      name: Marina
-      surname: Cock
-      level: cientifico
-      titles:
-        - CONICET-La Pampa, Argentina
-    - id: 23
-      name: Mario
-      surname: Cortina Borja
-      level: cientifico
-      titles:
-        - University College London, Reino Unido
+  - id: 23
+    name: Elena
+    surname: Chicaiza
+    level: cientifico
+    titles:
+      - Instituto Panamericano de Geografía e Historia, Ecuador
+  - id: 23
+    name: Marina
+    surname: Cock
+    level: cientifico
+    titles:
+      - CONICET-La Pampa, Argentina
+  - id: 23
+    name: Mario
+    surname: Cortina Borja
+    level: cientifico
+    titles:
+      - University College London, Reino Unido
 #   - id: 24
 #     name: Gustavo
 #     surname: Denicolay
@@ -154,48 +154,48 @@
 #     level: cientifico
 #     titles:
 #       - Facebook, USA
-    - id: 26
-      name: Andrés
-      surname: Farall
-      level: cientifico
-      titles:
-        - Universidad de Buenos Aires, EcoClimaSol, Argentina
-    - id: 27
-      name: María Inés
-      surname: Fariello
-      level: cientifico
-      titles:
-        - Universidad de la República-FING & Instituto Pasteur de Montevideo, Uruguay
-    - id: 28
-      name: Ileana
-      surname: Frasier
-      level: cientifico
-      titles:
-        - CONICET-INTA - La Pampa, Argentina
+  - id: 26
+    name: Andrés
+    surname: Farall
+    level: cientifico
+    titles:
+      - Universidad de Buenos Aires, EcoClimaSol, Argentina
+  - id: 27
+    name: María Inés
+    surname: Fariello
+    level: cientifico
+    titles:
+      - Universidad de la República-FING & Instituto Pasteur de Montevideo, Uruguay
+  - id: 28
+    name: Ileana
+    surname: Frasier
+    level: cientifico
+    titles:
+      - CONICET-INTA - La Pampa, Argentina
 #   - id: 28
 #     name: María José
 #     surname: García Zattera
 #     level: cientifico
 #     titles:
 #       - Pontificia Universidad Católica de Chile, Chile
-    - id: 29
-      name: Adriana
-      surname: Gil
-      level: cientifico
-      titles:
-        - Universidad de la Pampa, Argentina
-    - id: 29
-      name: Juan José
-      surname: Goyeneche
-      level: cientifico
-      titles:
-        - Universidad de la República-IESTA, Uruguay
-    - id: 29
-      name: Erin
-      surname: LeDell
-      level: cientifico
-      titles:
-        - H2O.ai, Estados Unidos
+  - id: 29
+    name: Adriana
+    surname: Gil
+    level: cientifico
+    titles:
+      - Universidad de la Pampa, Argentina
+  - id: 29
+    name: Juan José
+    surname: Goyeneche
+    level: cientifico
+    titles:
+      - Universidad de la República-IESTA, Uruguay
+  - id: 29
+    name: Erin
+    surname: LeDell
+    level: cientifico
+    titles:
+      - H2O.ai, Estados Unidos
 #   - id: 30
 #     name: Leandro
 #     surname: Lombardi
@@ -208,30 +208,30 @@
 #     level: cientifico
 #     titles:
 #       - Universidad de Buenos Aires, Argentina
-    - id: 32
-      name: Estefanía
-      surname: Mancini
-      level: cientifico
-      titles:
-        - Centre for Genomic Regulation, España
-    - id: 33
-      name: Priscilla
-      surname: Minotti
-      level: cientifico
-      titles:
-        - 3iA-UNSAM, Argentina
+  - id: 32
+    name: Estefanía
+    surname: Mancini
+    level: cientifico
+    titles:
+      - Centre for Genomic Regulation, España
+  - id: 33
+    name: Priscilla
+    surname: Minotti
+    level: cientifico
+    titles:
+      - 3iA-UNSAM, Argentina
 #   - id: 33
 #     name: Monica
 #     surname: Mendes
 #     level: cientifico
 #     titles:
 #        - Universidade Federal de Campina Grande, Brasil
-    - id: 33
-      name: Leonardo
-      surname: Moreno
-      level: cientifico
-      titles:
-        - Universidad de la República-IESTA, Uruguay
+  - id: 33
+    name: Leonardo
+    surname: Moreno
+    level: cientifico
+    titles:
+      - Universidad de la República-IESTA, Uruguay
 #   - id: 34
 #     name: Adriana
 #     surname: Pérez
@@ -244,36 +244,36 @@
 #     level: cientifico
 #     titles:
 #       - CONICET-Universidad de Buenos Aires, Argentina
-    - id: 29
-      name: Germán
-      surname: Rosati
-      level: cientifico
-      titles:
-        - IDAES-UNSAM / CONICET, Argentina
+  - id: 29
+    name: Germán
+    surname: Rosati
+    level: cientifico
+    titles:
+      - IDAES-UNSAM / CONICET, Argentina
 #   - id: 35
 #     name: Cecilia
 #     surname: Ruz
 #     level: cientifico
 #     titles:
 #       - Universidad de Buenos Aires, Argentina
-   - id: 36
-      name: Marcelo
-      surname: Soria
-      level: cientifico
-      titles:
-        - CONICET-Universidad de Buenos Aires, Argentina
-    - id: 37
-      name: Walter
-      surname: Sosa Escudero
-      level: cientifico
-      titles:
-        - CONICET-Universidad de San Andrés, Argentina
-    - id: 37
-      name: Lucía
-      surname: Spangenberg
-      level: cientifico
-      titles:
-        - Instituto Pasteur Montevideo, Uruguay
+  - id: 36
+    name: Marcelo
+    surname: Soria
+    level: cientifico
+    titles:
+      - CONICET-Universidad de Buenos Aires, Argentina
+  - id: 37
+    name: Walter
+    surname: Sosa Escudero
+    level: cientifico
+    titles:
+      - CONICET-Universidad de San Andrés, Argentina
+  - id: 37
+    name: Lucía
+    surname: Spangenberg
+    level: cientifico
+    titles:
+      - Instituto Pasteur Montevideo, Uruguay
 #   - id: 37
 #     name: Nicolás
 #     surname: Stier Moses
@@ -292,10 +292,6 @@
 #     level: cientifico
 #     titles:
 #       - Practia, Argentina
-
-
-
-
 
  - level: organizer
    name: {es: "Comité Organizador", en: "Organizer Committee", pt: "Comitê Organizador"}
