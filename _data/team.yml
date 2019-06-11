@@ -292,10 +292,10 @@
 #     level: cientifico
 #     titles:
 #       - CONICET-Fundación Instituto Leloir, Argentina
- - level: organizer
-   name: {es: "Comité Organizador", en: "Organizer Committee", pt: "Comitê Organizador"}
-   color: "#BEAED4"
-   people:
+- level: organizer
+  name: {es: "Comité Organizador", en: "Organizer Committee", pt: "Comitê Organizador"}
+  color: "#BEAED4"
+  people:
    - id: 3
      level: organizer
      thumbnailUrl: default.jpg
@@ -331,6 +331,7 @@
      titles:
       - CONICET-INTA
       - R-Ladies Buenos Aires, Argentina
+
 #   - id: 3
 #     level: organizer
 #     thumbnailUrl: default.jpg
