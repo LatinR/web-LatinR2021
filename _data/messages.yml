@@ -34,7 +34,7 @@ en:
   eventLocationName: Catholic University Extension Centre
   partnersTitle: "With support from"
   partnersC4sponsorsButton: "Become a sponsor"
-  c4sponsorsUrl: blog/sponsor-latinr
+  c4sponsorsUrl: /assets/Sponsors_en.pdf
   links: "Links"
   contact: "Contact"
   # Navigation
@@ -159,7 +159,7 @@ es:
   organizersTitle: "Organizadores"
   partnersTitle: "Con apoyo de"
   partnersC4sponsorsButton: "Sé un sponsor"
-  c4sponsorsUrl: blog/patrocinar-latinr
+  c4sponsorsUrl: /assets/Sponsors_es.pdf
   subscribeTitle: "Subscribirse a novedades"
 
 
