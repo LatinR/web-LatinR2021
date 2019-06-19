@@ -331,7 +331,14 @@
      titles:
       - CONICET-INTA
       - R-Ladies Buenos Aires, Argentina
-
+   - id: 7
+     level: organizer
+     thumbnailUrl: default.jpg
+     color: "#F0027F"
+     name: Patricio
+     surname: Cofré
+     titles:
+      - Metrics Arts, Chile
 #   - id: 3
 #     level: organizer
 #     thumbnailUrl: default.jpg
