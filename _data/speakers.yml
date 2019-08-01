@@ -25,6 +25,20 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/minebocek"}
 
+- 
+  id: 200
+  name: "Erin"
+  surname: "LeDell"
+  title: {en: "Chief Machine Learning Scientist", es: "Scientífica Principal en Machine Learning", pt: "Pesquisador principal"}
+  company: "H20.ai"
+
+  bio: {en: "She is the chief Machine Learning Scientist at H2O.ai, founder of Women+ in Machine Learning and co-founder of Rladies Global.",
+            es: "Es científica principal en machine learning en H2o.ai, fundadora de Women+ in Machine Learning y co-fundadora de Rladies Global."}
+  thumbnailUrl: erinledell.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ledell"}
+
 
 - id: 3
   name: "Natalia"
