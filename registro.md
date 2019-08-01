@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cómo inscribirse en las 47 JAIIO
+title: Cómo inscribirse en LatinR2019
 permalink: /registro
 lang: es
 ref: registration
@@ -8,36 +8,42 @@ ref: registration
 
 ## Instrucciones
 
-Deberán ingresar a [https://tinyurl.com/yazlu5s3](https://tinyurl.com/yazlu5s3) y completar el formulario de pre-inscripción. Una vez completo, le llegará por mail un formulario en formato PDF con los datos cargados previamente que deberá enviar por mail a [jaiio@sadio.org.ar](mailto:jaiio@sadio.org.ar) o por fax al +54 (11) 4372-3950 junto con la documentación que avale la categoría en la que se inscribió y la documentación correspondiente al pago.
+A partir del 12 de agosto se encontrará disponible en esta misma página el enlace para el registro. Este se hará a través del plataforma Welcu.  
 
-Le pedimos que en el Asunto del mail coloque su "Apellido y nombre - Nombre del congreso" y cada archivo enviado tenga el formato de "Apellido y nombre – pago" o "Apellido y nombre – categoría"
+## Valores
 
-Todos aquellos que quieran acceder a los aranceles de la inscripción temprana deberán enviar la ficha de inscripción y abonar el arancel de la categoría que corresponda antes del 09/07/2018. 
+El 50% de las entradas se venderá a un valor reducido por venta anticipada. La venta regular comenzará una vez que esas entradas se agoten. Además, existe un descuento para personas cuyo trabajo principal es como docentes o funcionarios en la Academia, para estudiantes de pregrado, máster o doctorado, y para personas que trabajan en el servicio público. Se solicitará acreditar esta condición para poder acceder al descuento.
 
- 
-### Autores
+A continuación se detallan los valores para esta edición de LatinR. Cabe señalar que los cupos para los tutoriales están destinados a las personas que participan en la conferencia. Es decir, no es posible adquirir entradas para los tutoriales de manera aislada.
 
-Los autores deberán inscribirse y abonar su inscripción antes del 09/07/2018, para que el trabajo pueda ser expuesto. A todos los autores que hayan expuesto su trabajo durante las 47 JAIIO se les enviará por mail un certificado de "expositor" en formato PDF y su trabajo será publicado.
+**PREVENTA**
 
-Quienes sólo presenten trabajos en el "“"Concurso de Trabajos Estudiantiles", serán los únicos autores que podrán inscribirse en la categoría de "Estudiantes de grado Autor del EST".
+| categoría | academia / servicio público | general |
+|---|---|---|
+| conferencia | 40.000 CLP | 70.000 CLP |
+| tutorial (c/u) | 35.000 CLP | 60.000 CLP |
 
 
-### Formas de pago
+**VENTA REGULAR**
 
-La información sobre los aranceles se encuentra [acá](/blog/aranceles).
+| categoría | academia / servicio público | general |
+|---|---|---|
+| conferencia | 50.000 CLP | 90.000 CLP |
+| tutorial (c/u) | 55.000 CLP | 80.000 CLP |
 
-- Efectivo, a abonar en SADIO (Uruguay 252 - 2º "D" - CABA - Argentina) de lunes a viernes de 12 a 18hs.
 
-- Transferencia/depósito bancario (solo para residentes en Argentina)   
-Titular de la cuenta: SADIO   
-BBVA - Bco. Francés   
-Sucursal 330 Tribunales   
-Cta. Cte. Pesos: 502/7   
-CBU: 0170330420000000050276   
-CUIT: 30-64931218-0   
+### Participantes con comunicación oral o póster
 
-- VISA o MASTER
+Para asegurar su cupo en el programa, quienes participan como autores deberán registrarse antes del 14 de agosto. En caso de necesitar hacer el pago por transferencia electrónica (porque, por ejemplo, es su institución la que pagará la entrada), por favor contactarse con la organización al correo: latinr2019@easychair.org.
 
-SE ACEPTARAN INSCRIPCIONES PARA ABONAR CON TARJETA DE CREDITO HASTA EL 15/08/2018. Luego de esa fecha se podrá abonar en efectivo o con tarjeta de crédito en las 47 JAIIO.
+### Política de reembolso
 
-Por favor considere que para que la inscripción quede completa debe enviar el email y aguardar la confirmación. Así podrá asegurarse la vacante en las actividades de cupo limitado como los tutoriales.
+- Hasta 30 días antes del inicio de la conferencia es posible optar por un reembolso completo, menos 10% por cargos administrativos del sistema de venta de entradas.
+
+- Hasta 15 días antes del inicio de la conferencia: reembolso del 50%. El reembolso se hará efectivo 5 días hábiles luego de terminada la conferencia. A partir de ese plazo, ya no es posible optar por la devolución.
+
+La entrada es transferible a otra persona sin cargo. En caso de que no puedas participar y quieras transferir tu cupo a otra persona, escríbenos a latinr2019@easychair.org para gestionar le traspaso.
+
+### Modificaciones en el programa
+
+La organización se reserva el derecho de modificar el programa por motivos de caso fortuito o fuerza mayor.

@@ -1,6 +1,6 @@
 # No se usa, por ahora
 
-- 
+-
   id: 1
   name: "Hadley"
   surname: "Wickham"
@@ -10,22 +10,21 @@
         es: "Hadley Wickham es el Científico Principal en RStudio y Profesor Adjunto en Estadística en la Universidad de Auckland, la Universidad de Stanford y la Universidad de Rice. Su trabajo se centra en crear herramientas (computacionales y cognitivas) que hagan que la ciencia de datos sea más fácil, rápida y divertida."}
   thumbnailUrl: hadleywickham.jpeg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/hadleywickham"}
-- 
+-
   id: 2
   name: "Mine"
   surname: "Çetinkaya-Rundel"
   title: {en: "Principal Investigator", es: "Investigador Principal", pt: "Pesquisador principal"}
   company: "UdeSA-CONICET"
-  bio: {en: "She is the Director of Undergraduate Studies and an Associate Professor of the Practice in the Department of Statistical Science at Duke University. Her work focuses on innovation in statistics pedagogy, with an emphasis on student-centered learning, computation, reproducible research, and open-source education. She is also a Professional Educator at RStudio.",
+  bio: {en: "Mine Çetinkaya-Rundel is the Director of Undergraduate Studies and an Associate Professor of the Practice in the Department of Statistical Science at Duke University. Her work focuses on innovation in statistics pedagogy, with an emphasis on student-centered learning, computation, reproducible research, and open-source education. She is also a Professional Educator at RStudio.",
             es: 'Es Directora de Estudios de Grado y Profesora Asociada de Práctica en el Departamento de Ciencias Estadísticas de la Universidad de Duke. Su trabajo se centra en la innovación pedagógica en Estadística, con énfasis en el aprendizaje centrado en el estudiante, la computación, la investigación reproducible y la educación con código abierto. Se desempeña también como Educadora Profesional en RStudio.'}
   thumbnailUrl: minarunde.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/minebocek"}
-
-- 
+-
   id: 200
   name: "Erin"
   surname: "LeDell"
@@ -49,9 +48,9 @@
   bio: {en: 'Natalia da Silva (PhD, Iowa State University) is an Assistant Professor in the Department of Statistics of the University of the Republic in Montevideo (UDELAR-IESTA). She works in research on supervised learning methods, prediction, analysis of exploratory data and statistical graphs in collaboration with Di Cook and Heike Hofmann. She is co-founder of R-Ladies Ames and R-Ladies Montevideo and Chair of LatinR2018.',
             es: 'Natalia da Silva (PhD, Iowa State University) es Profesora Adjunta en el Instituto de Estadística de la Universidad de la República en Montevideo (UDELAR-IESTA). Trabaja en investigación en métodos de aprendizaje supervisado, predicción, análisis de datos exploratorios y gráficos estadísticos en colaboración con Di Cook y Heike Hofmann. Es cofundadora de R-Ladies Ames y R-Ladies Montevideo y Chair de LatinR2018.',
             pt: 'Natalia da Silva (PhD, Iowa State University) es Profesora Adjunta en el Instituto de Estadística de la Universidad de la República en Montevideo (UDELAR-IESTA). Trabaja en investigación en métodos de aprendizaje supervisado, predicción, análisis de datos exploratorios y gráficos estadísticos en colaboración con Di Cook y Heike Hofmann. Es cofundadora de R-Ladies Ames y R-Ladies Montevideo y Chair de LatinR2018.'}
-  
+
 - id: 4
-  name: Andrés 
+  name: Andrés
   surname: Farall
   thumbnailUrl: andresfarral.jpg
   title: {en: "Postgraduate Proefessor", es: "Profesor de Postgrado", pt: "Profesor de Postgrado "}
@@ -62,10 +61,10 @@
 
 
 - id: 5
-  name: Lucas 
+  name: Lucas
   surname: Pogorelsky
   title: {es: "Coordinador de la Escuela de Ciencia de Datos", en: "Data Science School Coordinator", pt: "Coordinador de la Escuela de Ciencia de Datos"}
-  company: Escuela Argentina de Nuevas Tecnologías 
+  company: Escuela Argentina de Nuevas Tecnologías
   thumbnailUrl: lucaspogorelsky.jpg
 
 
@@ -75,15 +74,15 @@
   thumbnailUrl: guzmánlópez.jpg
 
 - id: 7
-  name: Pablo Nicolás 
+  name: Pablo Nicolás
   surname: Alfaro Piñeyro
   thumbnailUrl: pabloalfaro.jpg
 
 - id: 8
-  name: Leonardo 
+  name: Leonardo
   surname: Moreno
 
-- id: 9 
+- id: 9
   name: Marco
   surname: Scavino
 
@@ -104,7 +103,7 @@
   surname: Catillo Moine
 
 - id: 14
-  name: Priscilla 
+  name: Priscilla
   surname: Gail Minotti
 
 - id: 15
@@ -133,7 +132,7 @@
   surname: Fernández
 
 - id: 21
-  name: Ignacio Martin 
+  name: Ignacio Martin
   surname: Sarmiento-Barbieri
 
 - id: 22
@@ -166,7 +165,7 @@
   thumbnailUrl: stevenross.png
 
 - id: 29
-  name: Alexandre 
+  name: Alexandre
   surname: Sousa da Silva
 
 - id: 30
@@ -174,11 +173,11 @@
   surname: Serrano Barbosa
 
 - id: 31
-  name: Luciane 
+  name: Luciane
   surname: de Souza Velasque
 
 - id: 32
-  name: Luciane 
+  name: Luciane
   surname: Ferreira Alcoforado
 
 - id: 33
@@ -191,7 +190,7 @@
   thumbnailUrl: fernandoalmeidabarbalho.jpg
 
 - id: 35
-  name: Bea 
+  name: Bea
   surname: Hernández
   thumbnailUrl: beahernandez.jpg
   company: "R-Ladies"
@@ -219,7 +218,7 @@
   thumbnailUrl: florenciadandrea.jpg
 
 - id: 39
-  name: Maëlle 
+  name: Maëlle
   surname: Salmon
   thumbnailUrl: maellesalmon.jpg
 
@@ -236,11 +235,11 @@
   surname: Rapesta
 
 - id: 44
-  name: Lautaro Martin 
+  name: Lautaro Martin
   surname: Miguel Ramos
 
 - id: 45
-  name: Anabella Cecilia 
+  name: Anabella Cecilia
   surname: De Battista
 
 - id: 46
@@ -251,18 +250,18 @@
   name: Sebastian
   surname: Varela
 
-- id: 48 
+- id: 48
   name: Diego
   surname: Kozlowski
   thumbnailUrl: diegokozlowski.jpg
 
 - id: 49
   name: Ariel Olaf
-  surname: Salgado Corrado 
+  surname: Salgado Corrado
   thumbnailUrl: arielsalgado.jpg
 
 - id: 50
-  name: Inés 
+  name: Inés
   surname: Caridi
 
 - id: 53
@@ -276,7 +275,7 @@
   thumbnailUrl: aldovecchietti.jpg
 
 - id: 55
-  name: Yuriko 
+  name: Yuriko
   surname: Sosa Paredes
   thumbnailUrl: yurikososa.jpg
 
@@ -285,15 +284,15 @@
   surname: Alvarez-Castro
 
 - id: 57
-  name: Juan José 
+  name: Juan José
   surname: Goyeneche Capeluto
 
 - id: 58
-  name: Cecilia 
+  name: Cecilia
   surname: Marconi Ferrari
 
 - id: 59
-  name: Ana 
+  name: Ana
   surname: Coimbra Marfetán
 
 - id: 60
@@ -301,7 +300,7 @@
   surname: Costabel Artus
 
 - id: 61
-  name: Alejandra Mercedes 
+  name: Alejandra Mercedes
   surname: Martínez
   thumbnailUrl: alejandramartinez.jpg
 
@@ -336,7 +335,7 @@
   surname: Taie
 
 - id: 69
-  name: Cecilia 
+  name: Cecilia
   surname: Paciel López
 
 - id: 70
@@ -387,12 +386,12 @@
   thumbnailUrl: nicolasschmidt.jpg
 
 - id: 81
-  name: Javier 
+  name: Javier
   surname: Luraschi
   thumbnailUrl: javierluraschi.jpg
 
 - id: 82
-  name: Carolina 
+  name: Carolina
   surname: Golia
   thumbnailUrl: carolinagolia.jpg
   title: {es: "Arquitecta de Inteligencia Artificial", en: "Artificial Intelligence Architect", pt: "Arquiteta de Inteligência Artificial"}
@@ -400,50 +399,50 @@
   bio: {es: "Arquitecta de Soluciones Cognitivas e Inteligencia Artificial para las industrias de Salud y Seguros. Carolina cuenta con más de 15 años de experiencia en manejo de datos y tecnología analítica en diversas industrias. Durante sus roles en IBM, ha participado en el diseño de soluciones complejas de software adaptándolas a las múltiples necesidades de clientes en varios países de la región sudamericana. Carolina es Ingeniera en Sistemas, graduada en la UTN y cuenta con un MBA realizado en la Universidad del CEMA.",
         en: "Cognitive Solutions and Artificial Intelligence architect for the health and insurance industry. Caolina has more than 15 year of experience in data management and analytic techonology in many industries. In her roles at IBM, she has been involved in the design of complex software solutions, adapting them to the needs of multiple clients in several south american countries. She is a Systems engineer from Universidad Tecnológica Nacional and has an MBA from Universidad del CEMA",
         pt: "Arquitecta de Soluciones Cognitivas e Inteligencia Artificial para las industrias de Salud y Seguros. Carolina cuenta con más de 15 años de experiencia en manejo de datos y tecnología analítica en diversas industrias. Durante sus roles en IBM, ha participado en el diseño de soluciones complejas de software adaptándolas a las múltiples necesidades de clientes en varios países de la región sudamericana. Carolina es Ingeniera en Sistemas, graduada en la UTN y cuenta con un MBA realizado en la Universidad del CEMA."}
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/CarolGolia"}
     - {name: "linkedin", link: "linkedin.com/in/carolina-golia-7955b88"}
 
 
 - id: 83
-  name: Diana 
+  name: Diana
   surname: Kelmansky
   thumbnailUrl: dianakelmansky.jpg
   title: {es: "Directora de la Carrera de Especialzación en Estadística para Ciencias de la Salud",
-          en: " Head of the Posgraduate Degree in Statistics for Health Sciences", 
+          en: " Head of the Posgraduate Degree in Statistics for Health Sciences",
           pt: "Directora de la Carrera de Especialzación en Estadística para Ciencias de la Salud"}
   company: "Instituto de Cálculo, FCEN, UBA"
   bio: {es: "La Dra. Diana Kelmansky es Doctora en Matemática, área Estadística (UBA-1991) con intereses en Crecimiento y Desarrollo Humano, Biología Molecular y Epidemiología. Desde 2012 es Directora  de la  Carrera de Especialización en Estadística para Ciencias de la Salud FCEN-UBA. En 2005 fue elegida Embajadora Educativa de la American Statistical Association. Ha sido profesora del Instituto de Cálculo- de 1994 a 2012. Ocupó diversos cargos como consultora nacional e internacional: Instituto Nacional de Estadística y Censos (INDEC) de Argentina, la Autoridad Matanza Riachuelo (ACUMAR) de Argentina, la Secretaría de Planificación  (DEIN) de Ecuador y la Organización Mundial de la Salud (OMS) en Ginebra. Dio cursos y conferencias sobre análisis de datos de microarrays en Argentina, México, Chile y España. Ha publicado resultados de investigación en revistas especializadas nacionales e internacionales relacionadas con estadísticas teóricas y aplicaciones en biología, economía y medicina.",
         en: "Dr. Diana Kelmansky is PhD in Mathematics, area Statistics (UBA-1991)with interests in Human Growth and Development, Molecular Biology and Epidemiology. Since 2012 she is Head of the Posgraduate Degree in Statistics for Health Sciences (Carrera de Especialización en Estadística para Ciencias de la Salud) at the Instituto de Cálculo FCEN-UBA. In 2005 she was elected as Educational Ambassador of the American Statistical Association. She has been Professor at the Instituto de Cálculo form 1994 to 2012. She held various positions as national and international consultant: the National Institute of Statistics and Census (INDEC) of Argentina, Autoridad Matanza Riachuelo (ACUMAR) of Argentina, the Secretary of Planification (DEIN) of Ecuador and  the World Health Organization (WHO) in Geneva. Gave courses and conferences on microarray data analysis in Argentina, México, Chile and Spain.  She has published research results in specialized national and international journals regarding theoretical statistics as well as applications in biology, economy and medicine.",
         pt: "La Dra. Diana Kelmansky es Doctora en Matemática, área Estadística (UBA-1991) con intereses en Crecimiento y Desarrollo Humano, Biología Molecular y Epidemiología. Desde 2012 es Directora  de la  Carrera de Especialización en Estadística para Ciencias de la Salud   FCEN-UBA. En 2005 fue elegida Embajadora Educativa de la American Statistical Association. Ha sido profesora del Instituto de Cálculo- de 1994 a 2012. Ocupó diversos cargos como consultora nacional e internacional: Instituto Nacional de Estadística y Censos (INDEC) de Argentina, la Autoridad Matanza Riachuelo (ACUMAR) de Argentina, la Secretaría de Planificación  (DEIN) de Ecuador y la Organización Mundial de la Salud (OMS) en Ginebra. Dio cursos y conferencias sobre análisis de datos de microarrays en Argentina, México, Chile y España. Ha publicado resultados de investigación en revistas especializadas nacionales e internacionales relacionadas con estadísticas teóricas y aplicaciones en biología, economía y medicina."}
-  social: 
+  social:
     - {name: "site", link: " https://www.researchgate.net/profile/Diana_Kelmansky1"}
 
 - id: 84
-  name: Consuelo  
+  name: Consuelo
   surname: López
   thumbnailUrl: consuelolopez.jpg
   title: {es: "Coordinadora", en: "Coordinator", pt: "Coordenador"}
   company: "Chicas en Tecnología"
-  bio: {es: "Consuelo forma parte del equipo de Programas y Tecnología de Chicas en Tecnología, una organización sin fines de lucro que busca incentivar, motivar y formar a la nueva generación de mujeres innovadoras y emprendedoras. Es Ingeniera en Sistemas de Información, egresada de la UTN Córdoba, y M.S. en Software Engineering por de la Universidad de California (USA). Tiene más de 10 años en el rubro tecnológico, habiendo trabajado dentro y fuera del país tanto en la industria del desarrollo de software (ocupando roles técnicos y de liderazgo) como en la academia (ambos en el docencia y en la investigación).", en: "Consuelo is part of the Technology and Programs team of Chicas en Tecnología, a non-profit organization that seeks to encourage, motivate and train the new generation of innovative and enterprising women. She is an Information Systems Engineer, graduated from UTN Córdoba, and M.S. in Software Engineering from the University of California (USA). She has more than 10 years in the technology field, having worked inside and outside the country both in the software development industry (occupying technical and leadership roles) and in academia (both in teaching and research).", 
+  bio: {es: "Consuelo forma parte del equipo de Programas y Tecnología de Chicas en Tecnología, una organización sin fines de lucro que busca incentivar, motivar y formar a la nueva generación de mujeres innovadoras y emprendedoras. Es Ingeniera en Sistemas de Información, egresada de la UTN Córdoba, y M.S. en Software Engineering por de la Universidad de California (USA). Tiene más de 10 años en el rubro tecnológico, habiendo trabajado dentro y fuera del país tanto en la industria del desarrollo de software (ocupando roles técnicos y de liderazgo) como en la academia (ambos en el docencia y en la investigación).", en: "Consuelo is part of the Technology and Programs team of Chicas en Tecnología, a non-profit organization that seeks to encourage, motivate and train the new generation of innovative and enterprising women. She is an Information Systems Engineer, graduated from UTN Córdoba, and M.S. in Software Engineering from the University of California (USA). She has more than 10 years in the technology field, having worked inside and outside the country both in the software development industry (occupying technical and leadership roles) and in academia (both in teaching and research).",
     pt: "Consuelo forma parte del equipo de Programas y Tecnología de Chicas en Tecnología, una organización sin fines de lucro que busca incentivar, motivar y formar a la nueva generación de mujeres innovadoras y emprendedoras. Es Ingeniera en Sistemas de Información, egresada de la UTN Córdoba, y M.S. en Software Engineering por de la Universidad de California (USA). Tiene más de 10 años en el rubro tecnológico, habiendo trabajado dentro y fuera del país tanto en la industria del desarrollo de software (ocupando roles técnicos y de liderazgo) como en la academia (ambos en el docencia y en la investigación)."}
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/consu_L"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/lopezconsuelo/"}
 
 - id: 85
-  name: Celeste   
+  name: Celeste
   surname: Medina
   thumbnailUrl: celestemedina.jpg
   title: {es: "Fundadora", en: "Founder", pt: "Fundador"}
   company: "ADA ITW"
   # bio: {es: "xx", en: "xx", pt: "xx"}
-  #social: 
+  #social:
   #  - {name: "twitter", link: "https://twitter.com/CarolGolia"}
   #  - {name: "linkedin", link: "linkedin.com/in/carolina-golia-7955b88"}
 
 - id: 86
-  name: Guillermina    
+  name: Guillermina
   surname: Yansen
   thumbnailUrl: guillerminayansen.jpg
   title: {es: "Becaria posdoctoral", en: "Postdoctoral fellow", pt: "Bolseiro de pós-doutorado"}
@@ -451,7 +450,7 @@
   bio: {es: 'Dra. en Ciencias Sociales (UBA). Mg. en Ciencia Política y Sociología (FLACSO Argentina). Licenciada en Sociología (Facultad de Ciencias Sociales, UBA).  Forma parte del grupo de investigación "Equipo de estudios sobre tecnología, Capitalismo y Sociedad" (e-TCS), a cargo del Dr. Mariano Zukerfeld, en el marco del Centro de Ciencia, Tecnología y Sociedad (CCTS- Universidad Maimónides), dirigido por el Dr. Pablo Kreimer.  Ejerce actualmente la docencia (JTP) en "Sociología especial Informática y Relaciones Sociales", a cargo de Emilio Cafassi (Carrera de Sociología- UBA). Ha sido becaria CLACSO (2012) y participó en diversos proyectos acreditados, orientados de manera general al estudio de las transformaciones actuales del sistema capitalista ligadas a las tecnologías digitales. Entre ellos se destacan "Aproximaciones al Sector Información: los Procesos Productivos de Software en la Ciudad de Buenos Aires" (PRI-UBA-2010);  "La baja presencia femenina en el ámbito de la informática" (Fundación Sadosky - 2013);  "Flujos de conocimientos, tecnologías digitales y actores sociales en las escuelas secundarias. Un análisis socio-técnico de las capas del Programa Conectar Igualdad" (CIECTI-MINCYT 2015).',
       en: 'Dr. in Social Sciences (UBA). M.Sc. in Political Science and Sociology (FLACSO Argentina). Degree in Sociology (Faculty of Social Sciences, UBA). She is part of the research group "Equipo de estudios sobre tecnología, Capitalismo y Sociedad" (e-TCS), in charge of Dr. Mariano Zukerfeld, within the framework of the Centro de Ciencia, Tecnología y Sociedad (CCTS- Universidad Maimónides), directed by Dr. Pablo Kreimer.  She is currently teaching in "Sociología especial Informática y Relaciones Sociales", under the direction of Emilio Cafassi (Sociology Career - UBA). She has been a CLACSO scholarship holder (2012) and participated in several accredited projects, generally oriented to the study of the current transformations of the capitalist system linked to digital technologies. Among them are "Approaches to the Information Sector: the Software Production Processes in the City of Buenos Aires" (PRI-UBA-2010); "The low female presence in the field of information technology" (Sadosky Foundation - 2013); "Knowledge flows, digital technologies and social actors in secondary schools. A socio-technical analysis of the layers of the Connecting Equality Programme" (CIECTI-MINCYT 2015).',
       pt: 'Dra. en Ciencias Sociales (UBA). Mg. en Ciencia Política y Sociología (FLACSO Argentina). Licenciada en Sociología (Facultad de Ciencias Sociales, UBA).  Forma parte del grupo de investigación "Equipo de estudios sobre tecnología, Capitalismo y Sociedad" (e-TCS), a cargo del Dr. Mariano Zukerfeld, en el marco del Centro de Ciencia, Tecnología y Sociedad (CCTS- Universidad Maimónides), dirigido por el Dr. Pablo Kreimer.  Ejerce actualmente la docencia (JTP) en "Sociología especial Informática y Relaciones Sociales", a cargo de Emilio Cafassi (Carrera de Sociología- UBA). Ha sido becaria CLACSO (2012) y participó en diversos proyectos acreditados, orientados de manera general al estudio de las transformaciones actuales del sistema capitalista ligadas a las tecnologías digitales. Entre ellos se destacan "Aproximaciones al Sector Información: los Procesos Productivos de Software en la Ciudad de Buenos Aires" (PRI-UBA-2010);  "La baja presencia femenina en el ámbito de la informática" (Fundación Sadosky - 2013);  "Flujos de conocimientos, tecnologías digitales y actores sociales en las escuelas secundarias. Un análisis socio-técnico de las capas del Programa Conectar Igualdad" (CIECTI-MINCYT 2015).'}
-  social: 
+  social:
     - {name: "email", link: "mailto: guillerminayansen@gmail.com"}
     - {name: "site", link: "http://e-tcs.org/"}
     - {name: "site", link: "http://conicet-ar.academia.edu/GuillerminaYansen"}
@@ -503,7 +502,7 @@
   bio: {es: 'Nació en Santa Rosa, La Pampa, en 1990. Obtuvo sus títulos de Licenciada en Ciencias de la Comunicación y Profesora en Enseñanza Media y Superior en Ciencias de la Comunicación Social en 2015, en la Universidad de Buenos Aires (UBA). Se incorporó al INTA en 2017 como agente del programa ProHuerta en la provincia de La Pampa. Participó de investigaciones relativas a las áreas de salud y educación. Asimismo, cuenta con experiencia laboral en medios de comunicación y sectores de prensa de organismos públicos. En la actualidad se encarga de realizar tareas y proyectos de comunicación para el programa ProHuerta La Pampa, y colabora con las acciones del Área de Comunicación de la Estación Experimental Agropecuaria (EEA) INTA de Anguil. Se encuentra realizando una Maestría en Ciencias Sociales y Humanidades en la Universidad Nacional de Quilmes, y una Especialización en Políticas Socioeducativas brindada por el Ministerio de Educación de la Nación.',
       en: "Born in Santa Rosa, La Pampa, in 1990. She obtained her Bachelor's degree in Communication Sciences and Professor of Secondary and Higher Education in Social Communication Sciences in 2015 at the University of Buenos Aires (UBA). She joined INTA in 2017 as an agent of the ProHuerta program in La Pampa. She participated in research in the areas of health and education. She also has experience working in the media and press sectors of public bodies. She is currently in charge of carrying out communication tasks and projects for the ProHuerta La Pampa programme, and collaborates with the Communication Area of the INTA Agricultural Experimental Station (EEA) in Anguil. She is currently completing a Master's Degree in Social Sciences and Humanities at the National University of Quilmes, and a Specialization in Socio-Educational Policies offered by the National Ministry of Education.",
       pt: ''}
-  social: 
+  social:
     - {name: "site", link: "https://inta.gob.ar/personas/lagomarsino.andrea"}
 
 - id: 96
@@ -518,9 +517,9 @@
   company: "IBM Argentina"
 
 - id: 98
-  name: Ramón 
+  name: Ramón
   surname: Álvarez-Vaz
 
 - id: 99
-  name: Virginia Estragó 
+  name: Virginia Estragó
   surname: Mérola Correo
