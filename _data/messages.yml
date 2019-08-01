@@ -48,12 +48,12 @@ en:
    - {permalink: "/previous-editions", text: "Previous Editions"}
 
   bottomNavigationLinks:
-   - {permalink: "/blog/registration", text: "Registration"}
+   - {permalink: "/registration", text: "Registration"}
   rightNavigationButtons:
-   - {permalink: "/blog/registration", text: "Registration"}
+   - {permalink: "/registration", text: "Registration"}
   heroButtons:
   # - {permalink: "/schedule", text: "Schedule"}
-   - {permalink: "/blog/registration", text: "Registration"}
+   - {permalink: "/registration", text: "Registration"}
 
   aboutJAIIO: 'We are part of <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organised by <a href = "http://www.sadio.org.ar/">SADIO</a> and <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
@@ -139,12 +139,12 @@ es:
    - {permalink: "/blog/", text: "Novedades"}
    - {permalink: "/ediciones-anteriores/", text: "Ediciones Anteriores"}
   bottomNavigationLinks:
-   - {permalink: "/blog/inscripcion", text: "Inscripción"}
+   - {permalink: "/registro", text: "Inscripción"}
   rightNavigationButtons:
-   - {permalink: "/blog/inscripcion", text: "Inscripción"}
+   - {permalink: "/registro", text: "Inscripción"}
   heroButtons:
   # - {permalink: "/cronograma", text: "Cronograma"}
-   - {permalink: "/blog/inscripcion", text: "Inscripción"}
+   - {permalink: "/registro", text: "Inscripción"}
 
   # about
   aboutJAIIO: 'Somos parte de las <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizadas por <a href = "http://www.sadio.org.ar/">SADIO</a> y co-organizadas por <a href = "http://www.palermo.edu/">UP</a>.'

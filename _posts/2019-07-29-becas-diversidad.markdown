@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Becas Diversidad"
+title:  "Becas de Diversidad"
 isStaticPost: false
 lang: es
 ref: becas-diversidad
 ---
 
 #### Becas de Diversidad LatinR2019
-<br>
-<br>
+
+
 Gracias al apoyo de nuestros sponsors, en esta edición de LatinR podremos ofrecer becas de asistencia que buscan fomentar la participación de grupos menos representados. Las becas incluyen:
 
 - la entrada a la conferencia para los días 26 y 27 de septiembre

@@ -30,9 +30,8 @@
   surname: "LeDell"
   title: {en: "Chief Machine Learning Scientist", es: "Scientífica Principal en Machine Learning", pt: "Pesquisador principal"}
   company: "H20.ai"
-
-  bio: {en: "She is the chief Machine Learning Scientist at H2O.ai, founder of Women+ in Machine Learning and co-founder of Rladies Global.",
-            es: "Es científica principal en machine learning en H2o.ai, fundadora de Women+ in Machine Learning y co-fundadora de Rladies Global."}
+  bio: {en: "Erin LeDell is the Chief Machine Learning Scientist at H2O.ai, the company that produces the open source, distributed machine learning platform, H2O. She received her Ph.D. from UC Berkeley where her research focused on machine learning and computational statistics. She is de founder of Women+ in Machine Learning & Data Science, and one of the co-founders of RLadies Global",
+            es: 'Erin LeDell es Chief Machine Learning Scientist en H2O.ai, la compañía que produce la plataforma open source de machine lerning H2O. Realizó su doctorado en UC Berkeley, donde enfocó su investigación en machine learning y estadística computacional. Es la fundadora de Women+ in Machine Learning & Data Science y una de las co-fundadoras de RLadies Global '}
   thumbnailUrl: erinledell.jpg
   rockstar: true
   social: 
