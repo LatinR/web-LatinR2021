@@ -16,8 +16,8 @@ faculty designing new courses/programs and those interested in adding or improvi
 
 
 
-##### Fast and Scalable Machine Learnings with H20
-Erin Ledell
+##### Fast and Scalable Machine Learning with H20
+Erin LeDell
 
 This workshop will provide an in-depth, hands-on, introduction to the H2O machine learning library in R.  H2O is an open source, distributed machine learning platform designed for speed and scalability.  The core machine learning algorithms of H2O are implemented in high-performance Java, however, fully-featured APIs are available in R, Python, Scala, and also through a web interface. Since H2O's algorithm implementations are distributed, this allows the software to scale to very large datasets that may not fit into RAM on a single machine. H2O currently features distributed implementations of Generalized Linear Models, Gradient Boosting Machines, Random Forest, Deep Neural Nets, Stacked Ensembles (aka "Super Learners"), dimensionality reduction methods (PCA, GLRM), clustering algorithms (K-means), anomaly detection methods, among others as well as a fully automated machine learning algorithm ("AutoML").   
 Topics covered in the workshop include: training and tuning machine learning algorithms (supervised and unsupervised), cross-validation, prediction, model evaluation, grid search as well as a special section on deep learning.  We will also provide tips for encoding high-cardinality categorical features and text data.  The workshop will end with a tutorial on the "AutoML" algorithm in H2O, which provides a fully automated algorithm for supervised learning. 
@@ -28,7 +28,7 @@ Topics covered in the workshop include: training and tuning machine learning alg
 #### Bloque tarde
 
 ##### Visualización de Datos con Highcharter
-Joshua Kunts
+Joshua Kunst
 
 En este taller revisaremos la importancia de la visualización, aprenderemos de elementos técnicos como tipos de gráficos, correcto uso de colores, etiquetas y otros elementos; además de revisar buenas prácticas a considerar al momento de realizar una visualización. Luego, con R aprenderemos a realizar simples, interactivos y efectivos gráficos usando solo la función `hchart`, para después estudiar las funciones para configurar cada elemento del gráfico tales como los ejes, títulos, tooltips. Aprenderemos a graficar datos provenientes data.frames y otras fuentes de información, como datos espaciales. Finalizaremos aprendiendo cómo es como es la integración de highcharter con los paquetes Shiny y RMarkdown.
 
