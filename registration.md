@@ -8,7 +8,18 @@ ref: registration
 
 #### Instructions
 
-The registration link will be available here from Auguts 12th. Registration will be through the Welcu platform.
+Tickets are available throu [Welcu](https://welcu.com/latinr/latinr2019)
+
+<div id="welcu_embed_sale_3278033010" class="welcu_embed">
+<center><img src="https://assets.welcu.com/images/loading.gif" width="50" height="50"></center>
+</div>
+<script type="text/javascript" charset="utf-8">
+(function() {
+  var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
+  embed.src = "https://welcu.com/latinr/latinr2019/sales/a7cfca09.embed?currency_id=clp&locale=es";
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
+  })();
+  </script>
 
 #### Price
 
