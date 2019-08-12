@@ -8,7 +8,18 @@ ref: registration
 
 #### Instrucciones
 
-A partir del 12 de agosto se encontrará disponible en esta misma página el enlace para el registro. Este se hará a través del plataforma Welcu.  
+La venta de entradas está disponible a través de [Welcu](https://welcu.com/latinr/latinr2019)
+
+<div id="welcu_embed_sale_3278033010" class="welcu_embed">
+<center><img src="https://assets.welcu.com/images/loading.gif" width="50" height="50"></center>
+</div>
+<script type="text/javascript" charset="utf-8">
+(function() {
+  var embed = document.createElement('script'); embed.type = 'text/javascript'; embed.async = true;
+  embed.src = "https://welcu.com/latinr/latinr2019/sales/a7cfca09.embed?currency_id=clp&locale=es";
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
+  })();
+  </script>
 
 #### Valores
 
@@ -45,7 +56,9 @@ Para asegurar su cupo en el programa, quienes participan como autores deberán r
 
 - Hasta 30 días antes del inicio de la conferencia es posible optar por un reembolso completo, menos 10% por cargos administrativos del sistema de venta de entradas.
 
-- Hasta 15 días antes del inicio de la conferencia: reembolso del 50%. El reembolso se hará efectivo 5 días hábiles luego de terminada la conferencia. A partir de ese plazo, ya no es posible optar por la devolución.
+- Hasta 15 días antes del inicio de la conferencia: reembolso del 50%. A partir de ese plazo, ya no es posible optar por la devolución.
+
+El reembolso se hará efectivo 5 días hábiles luego de terminada la conferencia. 
 
 La entrada es transferible a otra persona sin cargo. En caso de que no puedas participar y quieras transferir tu cupo a otra persona, escríbenos a latinr2019@easychair.org para gestionar le traspaso.
 
