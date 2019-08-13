@@ -3,6 +3,10 @@
   elements:
     - {name: "Data UC", description: "Data UC", link: "https://twitter.com/datauc_chile", imageUrl: "datauc.png"}
 -
+  group: {es: "Sponsor", en: "Sponsor"}
+  elements:
+    - {name: "Facultad de Ingeniería y Ciencias, UAI", description: "Facultad de Ingeniería y Ciencias, UAI", link: "https://ingenieria.uai.cl/postgrados/", imageUrl: "uai.png"}
+-
   group: {es: "Sponsors", en: "Sponsors"}
   elements:
     - {name: "H2O.ai", description: "H2O.ai", link: "https://www.h2o.ai", imageUrl: "h20.png"}
