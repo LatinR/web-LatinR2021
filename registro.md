@@ -20,8 +20,9 @@ La venta de entradas está disponible a través de la plataforma [Welcu](https:/
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
   })();
   </script>
+<br/>
 
-**PAGO VÍA TRANSFERENCIA BANCARIA **
+**PAGO VÍA TRANSFERENCIA BANCARIA**
 
 Es posible cancelar el ticket a través de una transferencia bancaria en pesos chilenos o dólares y acceder a un 10% de descuento. Sin embargo, debes considerar que **si tu banco no está ubicado en Chile o EEUU el banco receptor cobra una comisión por transferencia internacional** que oscila entre 10 y 22 dólares, dependiendo del ticket que adquieras.  
 
