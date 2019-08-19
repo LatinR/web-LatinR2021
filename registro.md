@@ -8,7 +8,7 @@ ref: registration
 
 #### Instrucciones
 
-La venta de entradas está disponible a través de [Welcu](https://welcu.com/latinr/latinr2019)
+La venta de entradas está disponible a través de la plataforma [Welcu](https://welcu.com/latinr/latinr2019). También es posible realizar una trasferencia bancaria a una cuenta corriente en Chile o EE.UU. Esta opción tiene un descuento, pero si tu banco no está ubicado en uno de estos dos países puede tener un costo adicional. Revisa los detalles más abajo. 
 
 <div id="welcu_embed_sale_3278033010" class="welcu_embed">
 <center><img src="https://assets.welcu.com/images/loading.gif" width="50" height="50"></center>
@@ -20,6 +20,12 @@ La venta de entradas está disponible a través de [Welcu](https://welcu.com/lat
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(embed, s);
   })();
   </script>
+
+**PAGO VÍA TRANSFERENCIA BANCARIA **
+
+Es posible cancelar el ticket a través de una transferencia bancaria en pesos chilenos o dólares y acceder a un 10% de descuento. Sin embargo, debes considerar que **si tu banco no está ubicado en Chile o EEUU el banco receptor cobra una comisión por transferencia internacional** que oscila entre 10 y 22 dólares, dependiendo del ticket que adquieras.  
+
+> Si deseas realizar una transferencia, escríbenos a latinr2019@easychair.org. 
 
 #### Valores
 
