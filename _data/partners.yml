@@ -17,7 +17,11 @@
   elements:
     - {name: "R Consortium", description: "R Consortium", link: "https://www.r-consortium.org/", imageUrl: "RConsortium_Icon.png"}
     - {name: "CEP", description: "CEP", link: "http://www.cepchile.cl", imageUrl: "cep.png"}
+-
+  group: {es: "", en: ""}
+  elements:
     - {name: "Metric Arts", description: "Metric Arts", link: "https://metricarts.com/", imageUrl: "metricarts.png"}
+    - {name: "Cienciambiental", description: "Cienciambiental Consultores", link: "http://www.cienciambiental.cl/", imageUrl: "cienciambiental.png"}
 -
   group: {es: "Medios", en: "Media"}
   elements:
