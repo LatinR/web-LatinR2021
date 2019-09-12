@@ -40,7 +40,7 @@ en:
   # Navigation
   navigationLinks:
    - {permalink: "/en", text: "Home" }
-  # - {permalink: "/schedule/", text: "Schedule"}
+   - {permalink: "/schedule/", text: "Schedule"}
   # - {permalink: "/speakers/", text: "Speakers"}
    - {permalink: "/team/", text: "Team"}
   # - {permalink: "/logistics/", text: "Logistics"}
@@ -132,7 +132,7 @@ es:
   # Navigation
   navigationLinks:
    - {permalink: "/", text: "Principal" }
-  # - {permalink: "/cronograma/", text: "Cronograma"}
+   - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
    - {permalink: "/equipo/", text: "Equipo"}
   # - {permalink: "/logistica/", text: "Logística"}
