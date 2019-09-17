@@ -82,6 +82,7 @@ Participants should bring a laptop setup to build R packages. Detailed instructi
 - id: 9
   title: {en: 'Roundtable: Data science for public policies',
           es: 'Mesa temática: Ciencia de datos para las políticas públicas '}
+  speakers: [107, 108, 55 ,109, 7]
 
 
 - id: 10

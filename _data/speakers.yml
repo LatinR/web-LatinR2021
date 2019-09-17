@@ -63,6 +63,7 @@
 - id: 5
   name: Ignacio
   surname: Agloni
+  thumbnailUrl: IgnacioAgloni.jpg
 
 - id: 6
   name: Klaus
@@ -79,6 +80,7 @@
 - id: 9
   name: Marilina
   surname: Santero
+  thumbnailUrl: MarilinaSantero.jpg
 
 - id: 10
   name: Carolina
@@ -108,14 +110,17 @@
 - id: 16
   name: Richard
   surname: Detomasi
+  thumbnailUrl: RichardDetomasi.jpg
 
 - id: 17
   name: Gabriela
   surname: Mathieu
+  thumbnailUrl: GabrielaMathieu.jpg
 
 - id: 18
   name: Richard
   surname: Vogg
+  thumbnailUrl: RichardVogg.png
 
 - id: 19
   name: Andrés
@@ -132,10 +137,12 @@
 - id: 22
   name: Luis D.
   surname: Verde Arregoitia
+  thumbnailUrl: LuisVerde.jpeg
 
 - id: 23
   name: Juan Pablo
   surname: Sokil
+  thumbnailUrl: JuanPabloSokil.jpg
 
 - id: 24
   name: Laura
@@ -164,6 +171,7 @@
 - id: 30
   name: Juan
   surname: Cruz Rodriguez
+  thumbnailUrl: JuanCruzRodriguez.jpg
 
 - id: 31
   name: Javier
@@ -196,6 +204,7 @@
 - id: 38
   name: Fernando
   surname: Barbalho
+  thumbnailUrl: FernandoBarbalho.jpg
 
 - id: 39
   name: Lucas
@@ -213,10 +222,12 @@
 - id: 42
   name: Elio
   surname: Campitelli
+  thumbnailUrl: eliocampitelli.jpg
 
 - id: 43
   name: Juan Pablo
   surname: Ruiz Nicolini
+  thumbnailUrl: JuanPabloRuizNicolini .JPG
 
 - id: 44
   name: Juan Pablo
@@ -265,6 +276,7 @@
 - id: 55
   name: Mauricio
   surname: Vargas
+  thumbnailUrl: MauricioVargas.png
 
 - id: 56
   name: Sara
@@ -341,10 +353,12 @@
 - id: 74
   name: Laura
   surname: Acion
+  thumbnailUrl: LauraAcion.jpg
 
 - id: 75
   name: Javier
   surname: Fajardo
+  thumbnailUrl: JavierFajardo.jpg
 
 - id: 76
   name: Derek
@@ -365,10 +379,12 @@
 - id: 80
   name: Pablo
   surname: Picardo
+  thumbnailUrl: PabloPicardo.png
 
 - id: 81
   name: Paola
   surname: Corrales
+  thumbnailUrl: paolacorrales.jpg
 
 - id: 82
   name: Francisco
@@ -386,6 +402,7 @@
 - id: 85
   name: Brenda V.
   surname: Canizo
+  thumbnailUrl: Brenda_Canizo.jpg
 
 
 - id: 86
@@ -407,6 +424,7 @@
 - id: 90
   name: Antonio
   surname: Vazquez Brust
+  thumbnailUrl: AntonioVazquezBrust.jpg
 
 - id: 91
   name: Tomás
@@ -432,6 +450,7 @@
 - id: 96
   name: Jan
   surname: Strappa Figueroa
+  thumbnailUrl: janstrappa.jpg
 
 - id: 97
   name: Facundo
@@ -473,3 +492,15 @@
   name: Esteban
   surname: López
 
+- id: 107
+  name: Germán 
+  surname: Mondragón
+
+- id: 108
+  name: Pablo 
+  surname: León
+
+- id: 109
+  name: Patricio
+  surname: Cofré
+  thumbnailUrl: PatricioCofre.png
