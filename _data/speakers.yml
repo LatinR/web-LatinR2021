@@ -68,10 +68,12 @@
 - id: 6
   name: Klaus
   surname: Lehmann
+  thumbnailUrl: KlausLehmann.jpg
 
 - id: 7
   name: Verónica
   surname: Canales
+  thumbnailUrl: VeronicaCanales.jpg
 
 - id: 8
   name: Santiago
@@ -147,6 +149,7 @@
 - id: 24
   name: Laura
   surname: Osorio Gómez
+  thumbnailUrl: lauragomez.jpg
 
 - id: 25
   name: Luciane
@@ -227,7 +230,7 @@
 - id: 43
   name: Juan Pablo
   surname: Ruiz Nicolini
-  thumbnailUrl: JuanPabloRuizNicolini .JPG
+  thumbnailUrl: JuanPabloRuizNicolini.jpg
 
 - id: 44
   name: Juan Pablo
@@ -437,10 +440,12 @@
 - id: 93
   name: Yuriko
   surname: Sosa Paredes
+  thumbnailUrl: YurikoSosa.jpg
 
 - id: 94
   name: Andrés
   surname: Burga León
+  thumbnailUrl: AndrésBurga.jpg
 
 
 - id: 95
