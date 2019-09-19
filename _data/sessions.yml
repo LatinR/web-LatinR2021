@@ -76,8 +76,9 @@ Participants should bring a laptop setup to build R packages. Detailed instructi
 
 
 - id: 8
-  title: {en: 'Roundtable: Communities',
-          es: 'Mesa temática: Comunidades'}
+  title: {en: 'Roundtable: Communities - rOpenSci, The Carpentries, R-Ladies and other RUGs, SatRdays, LatinR',
+          es: 'Mesa temática: Comunidades - rOpenSci, The Carpentries, R-Ladies y otros RUGs, SatRdays, LatinR'}
+  speakers: [110, 110, 20, 83, 42, 17, 4, 111, 112, 74]
 
 - id: 9
   title: {en: 'Roundtable: Data science for public policies',
