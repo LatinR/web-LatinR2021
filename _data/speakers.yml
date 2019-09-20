@@ -264,6 +264,7 @@
 - id: 51
   name: Daniela
   surname: Vazquez
+  thumbnailUrl: danielavazquez.jpg
 
 - id: 52
   name: Ana Laura
@@ -397,6 +398,7 @@
 - id: 83
   name: Marcos
   surname: Prunello
+  thumbnailUrl: marcosprunello.png
 
 - id: 84
   name: Lyncoln
