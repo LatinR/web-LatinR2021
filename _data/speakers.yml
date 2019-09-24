@@ -17,7 +17,7 @@
   name: "Mine"
   surname: "Çetinkaya-Rundel"
   title: {en: "Principal Investigator", es: "Investigador Principal", pt: "Pesquisador principal"}
-  company: "UdeSA-CONICET"
+  company: "University of Edinburg & RStudio."
   bio: {en: "Mine Çetinkaya-Rundel is the Director of Undergraduate Studies and an Associate Professor of the Practice in the Department of Statistical Science at Duke University. Her work focuses on innovation in statistics pedagogy, with an emphasis on student-centered learning, computation, reproducible research, and open-source education. She is also a Professional Educator at RStudio.",
             es: 'Es Directora de Estudios de Grado y Profesora Asociada de Práctica en el Departamento de Ciencias Estadísticas de la Universidad de Duke. Su trabajo se centra en la innovación pedagógica en Estadística, con énfasis en el aprendizaje centrado en el estudiante, la computación, la investigación reproducible y la educación con código abierto. Se desempeña también como Educadora Profesional en RStudio.'}
   thumbnailUrl: minarunde.jpg
