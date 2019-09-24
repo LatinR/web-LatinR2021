@@ -32,7 +32,25 @@
   # complexity: {en: "Basic/Intermediate", es: "Básico/Intermedio", pt: "Básico/Médio"}
   language: en
   speakers: [200]
-  description: 'El taller mostrará herramientas de “Deep Learning” aplicadas a problemas de Regresión, Clasificación y “Novelty Detection”. Se utilizará la interfaz KERAS basada en TensorFlow, tecnología de código abierto creada por Google para el desarrollo del aprendizaje automático. Se enseñarán a lo largo del taller los conceptos fundamentales de los métodos tratados, y se darán ejemplos de caso mediante el uso del entorno de desarrollo integrado Rstudio. <br> <br>No es obligatorio traer notebook.'
+  description: 'El taller mostrará herramientas de “Deep Learning” aplicadas a problemas de Regresión, Clasificación y “Novelty Detection”. Se utilizará la interfaz KERAS basada en TensorFlow, tecnología de código abierto creada por Google para el desarrollo del aprendizaje automático. Se enseñarán a lo largo del taller los conceptos fundamentales de los métodos tratados, y se darán ejemplos de caso mediante el uso del entorno de desarrollo integrado Rstudio. <br>
+<p>Quienes concurran al tutorial de Erin deberán tener instalado:</p>
+
+<ol>
+  <li>
+    <p>Java versión 7 a 11 (la ultima versión de Java, la 12, no funciona). Para quienes tienen Linux, deberán tener instalado openJDK. La versión 11 de Java se puede bajar de <a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html">aquí</a>. Oracle pide registrarse, pero se puede evitar usando usuarios comunitarios de <a href="https://t.co/psn0YfNTaP?amp=1">este link</a>.</p>
+  </li>
+  <li>
+    <p>h2o desde CRAN o desde <a href="http://h2o-release.s3.amazonaws.com/h2o/rel-yau/3/index.html">este link</a>.</p>
+  </li>
+</ol>
+
+<p>Otras cosas a tener en cuenta:</p>
+<ul>
+  <li>Si hay usuaries de Python, pueden instalar, además de Java, el paquete h2o usando Pip. El tutorial tendrá código tanto para R como para Python.</li>
+  <li>h2o.xgboost no esta implementado para Windows y no funcionará en estos casos.</li>
+  <li>Cualquier problema con la instalación de h2o, puede usarse desde rstudio.cloud donde todo h2o funciona independientemente del sistema operativo de la maquina de cada estudiante.</li>
+  <li>Mas tips de debugging o detalles sobre la instalación de Java en <a href="https://twitter.com/ledell/status/1148512123083010048">este hilo</a>.</li>
+</ul>'
 
 - id: 003
   title: {en: 'Visualización de Datos con Highcharter',

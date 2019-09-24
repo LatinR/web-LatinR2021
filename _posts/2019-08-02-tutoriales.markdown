@@ -22,7 +22,17 @@ Erin LeDell
 This workshop will provide an in-depth, hands-on, introduction to the H2O machine learning library in R.  H2O is an open source, distributed machine learning platform designed for speed and scalability.  The core machine learning algorithms of H2O are implemented in high-performance Java, however, fully-featured APIs are available in R, Python, Scala, and also through a web interface. Since H2O's algorithm implementations are distributed, this allows the software to scale to very large datasets that may not fit into RAM on a single machine. H2O currently features distributed implementations of Generalized Linear Models, Gradient Boosting Machines, Random Forest, Deep Neural Nets, Stacked Ensembles (aka "Super Learners"), dimensionality reduction methods (PCA, GLRM), clustering algorithms (K-means), anomaly detection methods, among others as well as a fully automated machine learning algorithm ("AutoML").   
 Topics covered in the workshop include: training and tuning machine learning algorithms (supervised and unsupervised), cross-validation, prediction, model evaluation, grid search as well as a special section on deep learning.  We will also provide tips for encoding high-cardinality categorical features and text data.  The workshop will end with a tutorial on the "AutoML" algorithm in H2O, which provides a fully automated algorithm for supervised learning.
 
+Quienes concurran al tutorial de Erin deberán tener instalado:
 
+1. Java versión 7 a 11 (la ultima versión de Java, la 12, no funciona). Para quienes tienen Linux, deberán tener instalado openJDK. La versión 11 de Java se puede bajar de [aquí](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html). Oracle pide registrarse, pero se puede evitar usando usuarios comunitarios de [este link](https://t.co/psn0YfNTaP?amp=1).
+
+2. h2o desde CRAN o desde [este link](http://h2o-release.s3.amazonaws.com/h2o/rel-yau/3/index.html).
+
+Otras cosas a tener en cuenta:
+* Si hay usuaries de Python, pueden instalar, además de Java, el paquete h2o usando Pip. El tutorial tendrá código tanto para R como para Python.   
+* h2o.xgboost no esta implementado para Windows y no funcionará en estos casos.
+* Cualquier problema con la instalación de h2o, puede usarse desde rstudio.cloud donde todo h2o funciona independientemente del sistema operativo de la maquina de cada estudiante.
+* Mas tips de debugging o detalles sobre la instalación de Java en [este hilo](https://twitter.com/ledell/status/1148512123083010048).
 
 
 #### Bloque tarde
