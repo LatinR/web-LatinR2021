@@ -296,3 +296,15 @@ Participants should bring a laptop setup to build R packages. Detailed instructi
   title: {en: "Closing",
           es: "Cierre"}
   service: true
+
+
+- id: 55
+  title: Utilizar R como un Sistema de Información Geográfica y hacer análisis reproducible.
+  speakers: [114]
+
+
+- id: 56
+  title: Evaluación y monitoreo de plataformas educativas
+  speakers: [115, 116, 117, 118]
+
+  
