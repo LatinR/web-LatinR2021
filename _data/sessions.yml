@@ -307,4 +307,6 @@ Participants should bring a laptop setup to build R packages. Detailed instructi
   title: Evaluación y monitoreo de plataformas educativas
   speakers: [115, 116, 117, 118]
 
-  
+- id: 57
+  title: Herramientas web para limpieza y visualización de datos
+  speakers: [119, 120]
