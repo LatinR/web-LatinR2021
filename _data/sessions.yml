@@ -268,7 +268,7 @@ Participants should bring a laptop setup to build R packages. Detailed instructi
   speakers: [95]
 
 - id: 48
-  title: "Log-linear models structure comparison"
+  title: "Comparación de estructuras de modelos loglineales"
   speakers: [96, 97]
 
 - id: 49
@@ -285,7 +285,7 @@ Participants should bring a laptop setup to build R packages. Detailed instructi
   description: "26: Explorando o ENADE com o R na Visão de Gestor de Curso - Guilherme Souza, Ariel Levy, Orlando Celso Longo and Luciane Ferreira Alcoforado<br>55: Análisis de comentarios de la página de Facebook del Centro de Admisión y Promoción de la Universidad Nacional Agraria La Molina - Jesús Eduardo Gamboa Unsihuay<br>80: Procesamiento eficiente de series de tiempo de raster espacio temporales en R - Matías Alejando Castillo Moine and Mónica Balzarini<br>10: Data analysis using R of a Trauma Registry at 14 hospitals in Buenos Aires, Argentina. - Ezequiel Monteverde, Santiago Donikian, Marilina Santero, Laura Bosque and Jorge Alberto Neira<br>27: Visualizing Discriminative Power of Symbol-based Network Traffic Models - Carlos Catania and Jorge Guerra<br>23: Desarrollo e implementación de un Observatorio de Susceptibilidad Antimicrobiana en un hospital de alta complejidad en Chile. - Ignacio Castro, Gonzalo Nuñez and María Simian<br>42: Desafíos de la enseñanza de R en contextos hispanoparlantes: una herramienta interactiva para el campo de las ciencias sociales - Giorgio Boccardo and Felipe Ruiz<br>44: Herramientas de Análisis en Educación Superior - Claudia Cifuentes Donald<br>52: Metodología para la estimación espacio-temporal de la demanda de riego (Evapotranspiración real) mediante algoritmos de reproyección y paralelización web. - David Morales, David Morales and Stephanie Orellana<br>53: Sistema de soporte de decisiones en Shiny para el balanceo de bicicletas en una red de bicicletas compartidas - Juan Francisco Venegas Gutiérrez and Rodrigo Barraza Alonso<br>74: El imaginario social asociado con la Feria Nacional de San Marcos en Aguascalientes - Driselda Patricia Sánchez Aguirre and Luis Domingo Martínez Vázquez<br>9: Usos del paquete xgboost en R: Índice de trauma -vs-TRISS para predicción de mortalidad en pacientes traumatizados. - Ezequiel Monteverde, Santiago Donikian,\n                 Marilina Santero, Laura Bosque and Jorge Alberto Neira<br>36: Evangelización en el uso y manejo de información espacial para servicios educativos en ámbitos de contextos bilingües, en lengua originaria e interculturalidad en el Perú, utilizando R y QGIS. - Luis Eduardo Ferrer Cruz<br>56: Análisis de Redes: ¿una nueva forma de comprender como la percepción de la (in)seguridad frente al delito afecta a la calidad de vida de las personas? - Patricia Caro, Teresa Braicovich and Casullo Fernando Miguel<br>81: ¿El auge de un \"precariado\" ?: Patrón de inversión en capital humano avanzado en Chile. - Pablo A Cortés, Carla N Rivera and Manuel Muñoz<br>2: Use of R to work with public data in data journalism - Gabriel Zanlorenssi<br>84: Reglas de Asociación, una aplicación en retail del mercado outdoor. - Gabriela Sandoval"
 
 - id: 52
-  title: "TBA"
+  title: "Noticias desde R4DS_es"
 
 - id: 53
   title: {en: "Keynote: The many backends of dplyr",
@@ -308,5 +308,5 @@ Participants should bring a laptop setup to build R packages. Detailed instructi
   speakers: [115, 116, 117, 118]
 
 - id: 57
-  title: Herramientas web para limpieza y visualización de datos
+  title: Datascketch: Herramientas web para limpieza y visualización de datos
   speakers: [119, 120]
