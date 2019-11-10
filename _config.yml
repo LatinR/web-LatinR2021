@@ -15,7 +15,7 @@ email: ""
 baseurl: ""
 url: "https://latinr.github.io/"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: ""
+googleAnalyticsTrackingId: "UA-151884692-1"
 googleAnalyticsSiteUrl: ""
 siteVerification: ""
 
