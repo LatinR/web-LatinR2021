@@ -7,11 +7,13 @@ ref: call-for-papers
 ---
 
 
-#### LatinR2019 <- Latin American Conference about the Use of R in Research + Development
+#### LatinR2020 <- Latin American Conference about the Use of R in Research + Development
 <br>
 <br>
 
-After the first version in Buenos Aires in 2018, LatinR will continue visiting the continent in 2019. This year, the second instance of the conference will take place in Santiago de Chile between September 25 and 27. As with last year, the first day will be taken up with workshops and the las two, the conference proper.
+This 2020 LatinR keeps on wantering through the contintn. This year, the third edition of the confernece will take place in Montevideo, Uguruay on the first weeks of October (exact dates forthcomming). Following previous schedules, it will consist of a first day for workshops and two days for the conference proper.
+
+In this first announcement we outline topics of interest, presentation guidelines and important dates for proposal submission.
 
 ##### Topics of interest
 
@@ -39,9 +41,9 @@ Communications about research results, progress reports, or specific development
 
 Submissions must include a summary of no more than two pages including text, tables and figures. For the case of projects including Shiny applications or other interactive formats, they must also include the URL in which the application is available.
 
-###### Posters
+###### Posters/Lightning talks
 
-Posters allow researchers and professionals to present and discuss their latest advances, ideas, ongoing research, and experiences or challenges related to the topics of interest of LatinR.
+Posters allow researchers and professionals to present and discuss their latest advances, ideas, ongoing research, and experiences or challenges related to the topics of interest of LatinR. Presenters should choose between poster format or a 5 minutes lightning talk. 
 
 Submissions must include a summary of no more than two pages including text, tables and figures.
 
@@ -60,24 +62,26 @@ Submissions must include:
 
 ##### Important dates
 
-**Abstract submission start:** March 15 2019
+**Abstract submission start:** March 2nd 2020
 
-**Abstract submission deadline:** April 30 2019
+**Abstract submission deadline:** April 30th 2020
 
-**Abstract acceptance notification:** June 2019
+**Abstract acceptance notification:** June 2020
 
-**Abstract final version submission and author registration deadlines:** June 2019
+**Abstract final version submission and author registration deadlines:** June 2020
 
-**LatinR 2019:** September 25 to 27 2019
+**LatinR 2019:** Octobre 2020
 
 ##### Submission guidelines
 
 
 * The official languages of the conference are Spanish, Portuguese and English. Abstracts must be written in the same language of the oral presentation or poster.
 
-* Submissions must be sent in PDF format without author name or institution through the EasyChair platform following [this link](https://easychair.org/conferences/?conf=latinr2019) from March 15 to April 30.
+* Submissions must be sent in PDF format without author name or institution through the EasyChair platform following [this link](https://easychair.org/conferences/?conf=latinr2019) from March 2nd to April 30th.
 
-* Submissions must be prepared in Arial 11, single-spaced letter size.
+* Submissions must respect the oficla conference format. You can use the Word or LaTeX template, or use the [latinr](https://github.com/LatinR/latinr) to ensure a correct submission.
+
+* Submissions must be send in PDF format withouth author or affiliation information through the EasyChair platform.
 
 * For round tables, presentation summaries must be included in the same file.
 
@@ -90,4 +94,4 @@ At least one author from each oral communication, poster or round table presenta
 
 ###### Presentations and posters from 2018
 
-In [this repository](https://github.com/LatinR/presentaciones-LatinR2018) you can find the titles of every presentation and posters from the previous edition of LatinR and the content of some of them.
+In [this repository](https://github.com/LatinR/presentaciones-LatinR2018) you can find the titles of every presentation and posters from the 2018 edition and in [this repository](https://github.com/LatinR/presentaciones-LatinR2019), all works from the 2019 version. Use it to get a feel for the themes and submissions accepted in previous editions. 

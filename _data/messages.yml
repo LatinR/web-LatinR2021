@@ -24,23 +24,23 @@ en:
   team: Team
   logistics: Logistics
   inscribite: Register
-  eventDate: September 25 to 27 2019
+  eventDate: Octubre 2020
   description: Latinamerican Conference About the Use of R in R&D
   metaKeywords: "event, R, conference, statistics, dataviz"
   tweetsFeedTitle: What's up?
   blogTitle: "Blog"
   latestNewsTitle: "Latest News"
   locationBlockTitle: Location
-  eventLocationName: Catholic University Extension Centre
+  eventLocationName: Universidad de la República
   partnersTitle: "With support from"
-  partnersC4sponsorsButton: "Become a sponsor"
-  c4sponsorsUrl: /assets/Sponsors_en.pdf
+  partnersC4sponsorsButton: "If you want to sponsor us send us <br/> an email to latinr2020@gmail.com"
+  c4sponsorsUrl: "mailto:latinr2020@gmail.com"
   links: "Links"
   contact: "Contact"
   # Navigation
   navigationLinks:
    - {permalink: "/en", text: "Home" }
-   - {permalink: "/schedule/", text: "Schedule"}
+   # - {permalink: "/schedule/", text: "Schedule"}
   # - {permalink: "/speakers/", text: "Speakers"}
    - {permalink: "/team/", text: "Team"}
   # - {permalink: "/logistics/", text: "Logistics"}
@@ -48,20 +48,19 @@ en:
    - {permalink: "/previous-editions", text: "Previous Editions"}
 
   bottomNavigationLinks:
-   - {permalink: "/registration", text: "Registration"}
+   - {permalink: "/blog/call-for-papers", text: "Call for papers"}
   rightNavigationButtons:
-   - {permalink: "/registration", text: "Registration"}
+   - {permalink: "/blog/call-for-papers", text: "Call for papers"}
   heroButtons:
   # - {permalink: "/schedule", text: "Schedule"}
-   - {permalink: "/registration", text: "Registration"}
+   - {permalink: "/blog/call-for-papers", text: "Call for papers"}
 
   aboutJAIIO: 'We are part of <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organised by <a href = "http://www.sadio.org.ar/">SADIO</a> and <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
    - {title: "Conferences", image: "conference.png", text: "Talks by leaders of the use in R in various areas." }
    - {title: "Oral presentations", image: "presentation.png", text: "Presentations of research results and demonstrations of applications created with R." }
    - {title: "Round Tables", image: "mesa_redonda.png", text: "Stimulating discussion sessions about speciffic topics." }
-   - {title: "Posters", image: "posters.png", text: "Discuss ideas, ongoing research, experiences and challenges in the use of R." }
-
+   - {title: "Posters/Lightning talks", image: "posters.png", text: "Discuss ideas, ongoing research, experiences and challenges in the use of R." }
 
 
   subscribeTitle: "Subscribe"
@@ -96,7 +95,7 @@ en:
 
   # team
   teamBlockTitle: "About us"
-  aboutUs: "On October 25, 2017, an announcement was made by Heather Turner on the R User Group (RUG) Organizers Slack: the R Foundation Conference Committee was interested in the emergence of academic-focused R events in regions not currently covered by useR! In less than a week, we had organized our first videoconference to start thinking about how to face the challenge. This quick response was not the result of mere luck, but the consequence of a year in which the R community — through its local RUGs and social media presence— grew stronger in South America. By mid November everything was set up: a name, a place, a date, and a motivated international organizing committee."
+  aboutUs: "On October 25, 2017, an announcement was made by Heather Turner on the R User Group (RUG) Organizers Slack: the R Foundation Conference Committee was interested in the emergence of academic-focused R events in regions not currently covered by useR! In less than a week, we had organized our first videoconference to start thinking about how to face the challenge. This quick response was not the result of mere luck, but the consequence of a year in which the R community — through its local RUGs and social media presence— grew stronger in South America. By mid November everything was set up: a name, a place, a date, and a motivated international organizing committee. The first edition took place in Buenos Aires, Argentina and the second in Santiago de Chile, Chile. This year, the latinamerican R community will meet up in Montevideo, Uruguay."
   chairs: "Chairs"
   organizerCommittee: "Organizer committee"
   scientificCommittee: "Scientific committee"
@@ -119,7 +118,7 @@ es:
   team: Equipo
   logistics: Logística
   inscribite: Inscribite
-  eventDate: 25 a 27 de septiembre 2019
+  eventDate: Octubre 2020
   description: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
   metaKeywords: "evento, R, conferencia, estadística, dataviz"
   latestNewsTitle: "Novedades"
@@ -132,19 +131,19 @@ es:
   # Navigation
   navigationLinks:
    - {permalink: "/", text: "Principal" }
-   - {permalink: "/cronograma/", text: "Cronograma"}
+   # - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
    - {permalink: "/equipo/", text: "Equipo"}
   # - {permalink: "/logistica/", text: "Logística"}
    - {permalink: "/blog/", text: "Novedades"}
    - {permalink: "/ediciones-anteriores/", text: "Ediciones Anteriores"}
   bottomNavigationLinks:
-   - {permalink: "/registro", text: "Inscripción"}
+   - {permalink: "/blog/presentacion-trabajos", text: "llamado a presentación de trabajos"}
   rightNavigationButtons:
-   - {permalink: "/registro", text: "Inscripción"}
+   - {permalink: "/blog/presentacion-trabajos", text: "llamado a presentación de trabajos"}
   heroButtons:
   # - {permalink: "/cronograma", text: "Cronograma"}
-   - {permalink: "/registro", text: "Inscripción"}
+   - {permalink: "/blog/presentacion-trabajos", text: "llamado a presentación de trabajos"}
 
   # about
   aboutJAIIO: 'Somos parte de las <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizadas por <a href = "http://www.sadio.org.ar/">SADIO</a> y co-organizadas por <a href = "http://www.palermo.edu/">UP</a>.'
@@ -152,14 +151,14 @@ es:
    - {title: "Presentaciones Orales", image: "presentation.png", text: "Presentación de resultados de trabajos de investigación y demostración de aplicaciones creadas en R." }
    - {title: "Conferencias", image: "conference.png", text: "Charlas de referentes en el uso de R en distintas áreas." }
    - {title: "Mesas Temáticas", image: "mesa_redonda.png", text: "Debates estimulantes sobre temas específicos." }
-   - {title: "Pósters", image: "posters.png", text: "Discusión sobre ideas, investigaciones en curso, experiencias y desafíos en el uso de R." }
+   - {title: "Pósters/Charlas relámpago", image: "posters.png", text: "Discusión sobre ideas, investigaciones en curso, experiencias y desafíos en el uso de R." }
 
 
   # Partners Block
   organizersTitle: "Organizadores"
   partnersTitle: "Con apoyo de"
-  partnersC4sponsorsButton: "Sé un sponsor"
-  c4sponsorsUrl: /assets/Sponsors_es.pdf
+  partnersC4sponsorsButton: "Si querés ser un sponsor <br/> envia un mail a latinr2020@gmail.com"
+  c4sponsorsUrl: "mailto:latinr2020@gmail.com"
   subscribeTitle: "Subscribirse a novedades"
 
 
@@ -191,7 +190,7 @@ es:
 
   # team
   teamBlockTitle: "Quiénes somos"
-  aboutUs: "El 25 de octubre de 2017, Heather Turner anunció en el Slack de Organizadores de Grupos de Usuarios de R (RUG) que el Comité de Conferencias de la R Foundation estaba interesado en la aparición de eventos sobre R con un enfoque académico en regiones que no se encuentran actualmente cubiertas por useR!. En menos de una semana ya teníamos organizada nuestra primera videoconferencia para pensar cómo enfrentar el desafío. Esta rápida respuesta no fue solo suerte, sino la consecuencia de un año en el que la comunidad de R --a través de los RUGs locales y la presencia en redes sociales-- creció significativamente en Sudamérica. Para mediados de noviembre ya estaba todo definido: un nombre, un lugar, una fecha y un comité organizador internacional motivado."    
+  aboutUs: "El 25 de octubre de 2017, Heather Turner anunció en el Slack de Organizadores de Grupos de Usuarios de R (RUG) que el Comité de Conferencias de la R Foundation estaba interesado en la aparición de eventos sobre R con un enfoque académico en regiones que no se encuentran actualmente cubiertas por useR!. En menos de una semana ya teníamos organizada nuestra primera videoconferencia para pensar cómo enfrentar el desafío. Esta rápida respuesta no fue solo suerte, sino la consecuencia de un año en el que la comunidad de R --a través de los RUGs locales y la presencia en redes sociales-- creció significativamente en Sudamérica. Para mediados de noviembre ya estaba todo definido: un nombre, un lugar, una fecha y un comité organizador internacional motivado. La primera edición se realizó en Buenos Aires, Argentina y la segunda en Santiago de Chile, Chile. Este año, la comunidad de R en Latinomérica se junta en Montevideo, Uruguay."   
   chairs: "Chairs"
   organizerCommittee: "Comité organizador"
   scientificCommittee: "Comité científico"

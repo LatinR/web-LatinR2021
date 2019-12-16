@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 encoding: UTF-8
 # Site Settings
-title: "LatinR 2019"
+title: "LatinR 2020"
 email: ""
 baseurl: ""
 url: "https://latinr.github.io/"
@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "LatinR 2019"
+heroTitle: "LatinR 2020"
 typeoutTextValues: '""'
 typeoutFallback: ""
 
@@ -54,18 +54,18 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-eventLocationLink: "http://centroeventos.uc.cl/en/"
-eventStreetAddress: "Alameda 390"
-eventAddressLocality: " Santiago de Chile"
+eventLocationLink: ""
+eventStreetAddress: ""
+eventAddressLocality: "Montevideo"
 eventAddressLocalityRegion: ""
 eventPostalCode: ""
-eventAddressCountry: "Chile"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "-33.441128,-70.640793"
-mapCenterCoordinates: "-33.441128,-70.640793"
-mapMobileCenterCoordinates: "-33.441128,-70.640793"
+eventAddressCountry: "Uruguay"
+eventStartTime: ""
+eventDoorTime: ""
+eventEndTime: ""
+eventPlaceCoordinates: ""
+mapCenterCoordinates: ""
+mapMobileCenterCoordinates: ""
 
 
 # Tweets Feed Block
@@ -96,7 +96,7 @@ ticketsOffers:
   ribbon: "-20%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Buy Now"#602267
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
@@ -119,6 +119,8 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/LatinR_Conf", icon: "twitter"}
  - {link: "https://www.facebook.com/LatinR_Conf", icon: "facebook"}
+ - {link: "https://www.linkedin.com/company/latinrconf", icon: "linkedin"}
+ - {link: "https://latin-r.slack.com/join/shared_invite/enQtNDA3MjM3MTQwOTM1LTg3ZWMyNWU3MGI2MGM5YzU0MGU4NWE5NjYwMjBhMGZmYTQzYTA0ODZlOTE1NDc0YzIwM2NhYTJiNDQyZjMzZjc", icon: "slack"}
 
 # Blog
 blogTitle: "Latest news"
