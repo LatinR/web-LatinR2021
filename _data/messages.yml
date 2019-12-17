@@ -33,8 +33,8 @@ en:
   locationBlockTitle: Location
   eventLocationName: Universidad de la República
   partnersTitle: "With support from"
-  partnersC4sponsorsButton: "If you want to sponsor us send us <br/> an email to latinr2020@gmail.com"
-  c4sponsorsUrl: "mailto:latinr2020@gmail.com"
+  partnersC4sponsorsButton: "If you want to sponsor us send us <br/> an email to latinrconf@gmail.com
+  c4sponsorsUrl: "mailto:latinrconf@gmail.com"
   links: "Links"
   contact: "Contact"
   # Navigation
@@ -157,8 +157,8 @@ es:
   # Partners Block
   organizersTitle: "Organizadores"
   partnersTitle: "Con apoyo de"
-  partnersC4sponsorsButton: "Si querés ser un sponsor <br/> envia un mail a latinr2020@gmail.com"
-  c4sponsorsUrl: "mailto:latinr2020@gmail.com"
+  partnersC4sponsorsButton: "Si querés ser un sponsor <br/> envia un mail a latinrconf@gmail.com"
+  c4sponsorsUrl: "mailto:latinrconf@gmail.com"
   subscribeTitle: "Subscribirse a novedades"
 
 
