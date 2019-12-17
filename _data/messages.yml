@@ -24,7 +24,7 @@ en:
   team: Team
   logistics: Logistics
   inscribite: Register
-  eventDate: Octubre 2020
+  eventDate: "Montevideo 2020"
   description: Latinamerican Conference About the Use of R in R&D
   metaKeywords: "event, R, conference, statistics, dataviz"
   tweetsFeedTitle: What's up?
@@ -43,7 +43,7 @@ en:
    # - {permalink: "/schedule/", text: "Schedule"}
   # - {permalink: "/speakers/", text: "Speakers"}
    - {permalink: "/team/", text: "Team"}
-  # - {permalink: "/logistics/", text: "Logistics"}
+   - {permalink: "/logistics/", text: "Logistics"}
    - {permalink: "/blog-en/", text: "News"}
    - {permalink: "/previous-editions", text: "Previous Editions"}
 
@@ -67,11 +67,13 @@ en:
 
 
   # Logistics Direction Details Block
-  directionDetailsTitle: "Getting around in Buenos Aires"
+  directionDetailsTitle: "Getting around in Montevideo"
   directionDetailsCards:
-   - {title: "Choose your airport", information: '<a href="http://www.aa2000.com.ar/aeroparque">Jorge Newbery Airfield</a> is located on the cost of the La Plata River whithin the city, and the <a href="http://www.aa2000.com.ar/ezeiza" >Ministro Pistrani Airport</a> is in the Ezeiza partido, 35km (22mi) to the city.'}
-   - {title: "Public transport", information: 'Buenos Aires has a  tiene una extensive public tansport network. You can see how to get to your desintation using an <a href="http://mapa.buenosaires.gov.ar" >Interactive Map of Buenos Aires</a> or with Google Maps. There are also cabs and Uber/Cabify services and a bike lane network.'}
-   - {title: "Lodging", information: 'There are several hotels and hostels <a href="https://www.google.com.ar/maps/search/hostel%2Bhotel/@-34.5954308,-58.418691,15z">just a few blocks</a> from the venue.'}
+   # - {title: "Choose your airport", information: '<a href="http://www.aa2000.com.ar/aeroparque">Jorge Newbery Airfield</a> is located on the cost of the La Plata River whithin the city, and the <a href="http://www.aa2000.com.ar/ezeiza" >Ministro Pistrani Airport</a> is in the Ezeiza partido, 35km (22mi) to the city.'}
+    - {title: "What to do there?", information: "Besides enjoying LatinR, there's lots to do and see in Montevideo. Start <a href = http://www.uruguaynatural.com/index.php/en/places-to-go/south-central-region/cities/montevideo>here</a>!"}
+    - {title: "Getting there", information: 'You can move around using public transit. To find your way to the venue, you can use the <a href = https://moovitapp.com/index/en/public_transit-Facultad_de_Ingenier%C3%ADa_UdelaR-Montevideo-efsite_4b98e6e2f964a5203b5535e3-1672>Moovit app</a>. If you are on car, get directions using the <a href = https://www.waze.com/es/livemap/directions?latlng=-34.9181706%2C-56.1665725&navigate=yes>Waze app</a>.'}
+
+   # - {title: "Lodging", information: 'There are several hotels and hostels <a href="https://www.google.com.ar/maps/search/hostel%2Bhotel/@-34.5954308,-58.418691,15z">just a few blocks</a> from the venue.'}
   # directionDetailsWideCards:
   # -
   #  title: "Questions?"
@@ -118,7 +120,7 @@ es:
   team: Equipo
   logistics: Logística
   inscribite: Inscribite
-  eventDate: Octubre 2020
+  eventDate: "Montevideo 2020"
   description: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
   metaKeywords: "evento, R, conferencia, estadística, dataviz"
   latestNewsTitle: "Novedades"
@@ -134,7 +136,7 @@ es:
    # - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
    - {permalink: "/equipo/", text: "Equipo"}
-  # - {permalink: "/logistica/", text: "Logística"}
+   - {permalink: "/logistica/", text: "Logística"}
    - {permalink: "/blog/", text: "Novedades"}
    - {permalink: "/ediciones-anteriores/", text: "Ediciones Anteriores"}
   bottomNavigationLinks:
@@ -163,11 +165,13 @@ es:
 
 
   # Logistics Direction Details Block
-  directionDetailsTitle: "Movete por Buenos Aires"
+  directionDetailsTitle: "Movete por Montevideo."
   directionDetailsCards:
-   - {title: "Elegí tu aeropuerto", information: 'El <a href="http://www.aa2000.com.ar/aeroparque">Aeroparque Jorge Newbery</a> está ubicado en la costanera de la ciudad, mientras que el <a href="http://www.aa2000.com.ar/ezeiza" >Aeropuerto Ministro Pistrani</a> está ubicado en el partido de Ezeiza, a 35km de la ciudad.'}
-   - {title: "Transporte público", information: 'Buenos Aires tiene una extensa red de tranpsorte público que puede consultarse desde el <a href="http://mapa.buenosaires.gov.ar" >Mapa Interactivo de Buenos Aires</a> o con Google Maps. Además, hay taxis y Uber/Cabify y una red de ciclovías para andar en bicicleta.'}
-   - {title: "Alojamiento", information: 'Hay muchos hoteles y hostels <a href="https://www.google.com.ar/maps/search/hostel%2Bhotel/@-34.5954308,-58.418691,15z">a pocas cuadras</a> del congreso.'}
+    - {title: "Qué hacer allá", information: "Además de disfrutar de LatinR, hay un montón de cosas para ver y hacer en Montevideo. Empezá <a href = http://www.uruguaynatural.com/index.php/lugares-para-ir/region-metropolitana/ciudades/montevideo>acá</a>!."}
+    - {title: "Cómo llegar", information: 'Para ver cómo llegar al lugar en transporte público podés seguir las direcciones en la app <a href = https://moovitapp.com/index/en/public_transit-Facultad_de_Ingenier%C3%ADa_UdelaR-Montevideo-efsite_4b98e6e2f964a5203b5535e3-1672>Moovit</a>. Si estás con coche, recomendamos usar <a href = https://www.waze.com/es/livemap/directions?latlng=-34.9181706%2C-56.1665725&navigate=yes>Waze</a>.'}
+   # - {title: "Elegí tu aeropuerto", information: 'El <a href="http://www.aa2000.com.ar/aeroparque">Aeroparque Jorge Newbery</a> está ubicado en la costanera de la ciudad, mientras que el <a href="http://www.aa2000.com.ar/ezeiza" >Aeropuerto Ministro Pistrani</a> está ubicado en el partido de Ezeiza, a 35km de la ciudad.'}
+   # - {title: "Transporte público", information: 'Buenos Aires tiene una extensa red de tranpsorte público que puede consultarse desde el <a href="http://mapa.buenosaires.gov.ar" >Mapa Interactivo de Buenos Aires</a> o con Google Maps. Además, hay taxis y Uber/Cabify y una red de ciclovías para andar en bicicleta.'}
+   # - {title: "Alojamiento", information: 'Hay muchos hoteles y hostels <a href="https://www.google.com.ar/maps/search/hostel%2Bhotel/@-34.5954308,-58.418691,15z">a pocas cuadras</a> del congreso.'}
   # directionDetailsWideCards:
   # -
   #  title: "Questions?"

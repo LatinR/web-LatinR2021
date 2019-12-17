@@ -11,7 +11,7 @@ ref: call-for-papers
 <br>
 <br>
 
-This 2020 LatinR keeps on wantering through the contintn. This year, the third edition of the confernece will take place in Montevideo, Uguruay on the first weeks of October (exact dates forthcomming). Following previous schedules, it will consist of a first day for workshops and two days for the conference proper.
+This 2020 LatinR keeps on wantering through the contintn. This year, the third edition of the confernece will take place in Montevideo, Uguruay on October-November 2020 (exact dates forthcomming). Following previous schedules, it will consist of a first day for workshops and two days for the conference proper.
 
 In this first announcement we outline topics of interest, presentation guidelines and important dates for proposal submission.
 
@@ -79,7 +79,9 @@ Submissions must include:
 
 * Submissions must be sent in PDF format without author name or institution through the EasyChair platform following [this link](https://easychair.org/conferences/?conf=latinr2019) from March 2nd to April 30th.
 
-* Submissions must respect the oficla conference format. You can use the Word or LaTeX template, or use the [latinr](https://github.com/LatinR/latinr) to ensure a correct submission.
+* Submissions must respect the oficla conference format. You can use the Word or [LaTeX template](https://github.com/LatinR/latinr/raw/master/inst/rmarkdown/templates/latinr_article/latinr_article.zip), or use the [latinr](https://github.com/LatinR/latinr) to ensure a correct submission.
+
+* The submission process will be handled through the EasyChair platform from March 2nd through April 20th.
 
 * Submissions must be send in PDF format withouth author or affiliation information through the EasyChair platform.
 
@@ -92,6 +94,6 @@ Submissions must include:
 At least one author from each oral communication, poster or round table presentation must be registered for participating in the conference.
 
 
-###### Presentations and posters from 2018
+###### Presentations and posters from previous versions
 
 In [this repository](https://github.com/LatinR/presentaciones-LatinR2018) you can find the titles of every presentation and posters from the 2018 edition and in [this repository](https://github.com/LatinR/presentaciones-LatinR2019), all works from the 2019 version. Use it to get a feel for the themes and submissions accepted in previous editions. 

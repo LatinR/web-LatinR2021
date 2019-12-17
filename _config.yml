@@ -54,18 +54,18 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-eventLocationLink: ""
-eventStreetAddress: ""
+eventLocationLink: "https://www.fing.edu.uy/"
+eventStreetAddress: "Ave Julio Herrera y Reissig 565, 11300 Montevideo, Departamento de Montevideo, Uruguay"
 eventAddressLocality: "Montevideo"
-eventAddressLocalityRegion: ""
+eventAddressLocalityRegion: "Uruguay"
 eventPostalCode: ""
 eventAddressCountry: "Uruguay"
 eventStartTime: ""
 eventDoorTime: ""
 eventEndTime: ""
-eventPlaceCoordinates: ""
-mapCenterCoordinates: ""
-mapMobileCenterCoordinates: ""
+eventPlaceCoordinates: "-34.9180792,-56.1669343"
+mapCenterCoordinates: "-34.9180792,-56.1669343"
+mapMobileCenterCoordinates: "-34.9180792,-56.1669343"
 
 
 # Tweets Feed Block
@@ -142,8 +142,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "-34.9180792,-56.1669343"
+logisticsMapMobileCenterCoordinates: "-34.9180792,-56.1669343"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block

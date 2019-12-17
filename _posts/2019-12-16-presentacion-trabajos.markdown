@@ -9,7 +9,7 @@ ref: call-for-papers
 #### LatinR2020 <- Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
 <br>
 <br>
-Este  2020 LatinR sigue su itinerancia por el continente. Este año, la tercera versión de la conferencia se realizará en Montevideo, Uruguay durante las primeras semanas de Octubre (en breve confirmaremos la fecha). Al igual que el año anterior, considera un primer día de talleres y dos de conferencia.
+Este 2020 LatinR sigue su itinerancia por el continente. Este año, la tercera versión de la conferencia se realizará en Montevideo, Uruguay durante Octubre-Noviembre de 2020 (en breve confirmaremos la fecha). Al igual que el año anterior, considera un primer día de talleres y dos de conferencia.
 
 En esta primera convocatoria, se informa sobre los tópicos de interés, las modalidades de presentación y las fechas relevantes para el envío de propuestas.
 
@@ -49,7 +49,7 @@ Comunicaciones sobre resultados de trabajos de investigación, estados de avance
 
 El envío debe incluir un resumen de una extensión máxima de 2 páginas, incluyendo texto, tablas y figuras. En el caso de proyectos que incluyan aplicaciones en Shiny (u otros formatos interactivos), se debe incluir la url en la que la aplicación se encuentra disponible.
 
-##### Pósters/Charlas relámpago
+###### Pósters/Charlas relámpago
 
 Los pósters proporcionan una oportunidad para que investigadores y profesionales presenten y discutan sus más recientes avances, ideas, investigaciones en curso, experiencias y desafíos relacionados a los ejes temáticos de LatinR.  Quienes participen de esta modalidad podrán indicar si quieren presentar su poster en formato papel o como una charla relámpago. Para la charla dispondrán de 5 minutos para la presentación oral.
 
@@ -84,9 +84,9 @@ El envío de propuestas para mesas temáticas debe incluir:
 
 * Los idiomas oficiales de la conferencia son español, portugués e inglés. El resumen debe escribirse en el idioma en que se realizará la presentación oral o en que estará escrito el póster.
 
-* Todos los trabajos deberán respetar el formato oficial de la conferencia. Se pueden utilizar las plantillas de Word, Latex o el paquete [latinr](https://github.com/LatinR/latinr) para aplicar el formato correcto.
+* Todos los trabajos deberán respetar el formato oficial de la conferencia. Se pueden utilizar las plantillas de Word, [LaTeX](https://github.com/LatinR/latinr/raw/master/inst/rmarkdown/templates/latinr_article/latinr_article.zip) o el paquete [latinr](https://github.com/LatinR/latinr) para aplicar el formato correcto.
 
-* Los envíos deben hacerse a través [del siguiente enlace](https://easychair.org/conferences/?conf=latinr2019) a partir del día 2 de marzo y hasta el martes 30 de abril. 
+* Los envíos deben hacerse a través de la plataforma EasyChair a partir del día 2 de marzo y hasta el martes 30 de abril.
 
 * Todos los trabajos deberán enviarse en formato PDF, sin autores ni filiación, a través de la plataforma EasyChair.
 
@@ -98,6 +98,6 @@ El envío de propuestas para mesas temáticas debe incluir:
 
 Para asegurar su inclusión en el programa, una vez aceptada la propuesta, al menos un/a autor/a de cada comunicación oral, póster o presentación dentro de una mesa temática deberá inscribirse para confirmar la participación en la conferencia.
 
-###### Presentaciones y pósters versión 2018
+###### Presentaciones y pósters versiones anteriores
 
 En [este repositorio](https://github.com/LatinR/presentaciones-LatinR2018) es posible acceder a  los títulos de todas las presentaciones y pósters de la versión 2018 y en [este repositorio](https://github.com/LatinR/presentaciones-LatinR2019) a todos los trabajos de la versión 2019 con el fin de hacerse una idea de las temáticas consideradas en las dos ediciones anteriores.
