@@ -70,7 +70,7 @@ Submissions must include:
 
 **Abstract final version submission and author registration deadlines:** June 2020
 
-**LatinR 2019:** Octobre 2020
+**LatinR 2020:** Octobre 2020
 
 ##### Submission guidelines
 
