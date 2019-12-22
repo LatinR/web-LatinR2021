@@ -31,9 +31,8 @@
       name: "Yanina"
       surname: "Bellini Saibene"
       titles:
-        - INTA
-        - R-Ladies Santa Rosa, Argentina
-        - R-Ladies Global Team
+        - Instituto Nacional de Tecnología Agropecuaria
+        - R-Ladies Santa Rosa, Argentina + Global Team
       thumbnailUrl: OlehZasadnyy.jpg
       color: "#F0027F"
       team: true
@@ -45,9 +44,8 @@
       name: "Maria Florencia"
       surname: "D'Andrea"
       titles:
-        - CONICET - INTA
-        - R-Ladies Buenos Aires, Argentina
-        - R-Ladies Global Team
+        - CONICET - Instituto Nacional de Tecnología Agropecuaria
+        - R-Ladies BsAs, Argentina + Global Team
         - R en Buenos Aires, Argentina
       thumbnailUrl: OlehZasadnyy.jpg
       color: "#F0027F"
@@ -91,6 +89,7 @@
      surname: Campitelli
      titles:
       - Universidad de Buenos Aires, Argentina
+      - R en Buenos Aires, Argentina
    - id: 5
      level: organizer
      thumbnailUrl: default.jpg
@@ -99,7 +98,7 @@
      surname: Corrales
      titles:
       - Universidad de Buenos Aires, Argentina
-      - R-Ladies Buenos Aires, Argentina
+      - R-Ladies BsAs, Argentina
    - id: 7
      level: organizer
      thumbnailUrl: default.jpg
@@ -148,7 +147,7 @@
 #     surname: Alonso
 #     titles:
 #      - Banco Ciudad
-#      - R-Ladies Buenos Aires, Argentina
+#      - R-Ladies BsAs, Argentina
 #   - id: 7
 #     level: organizer
 #     thumbnailUrl: default.jpg

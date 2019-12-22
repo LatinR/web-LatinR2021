@@ -77,7 +77,7 @@ El envío de propuestas para mesas temáticas debe incluir:
 
 **Recepción de versiones finales e inscripción de autores:** junio de 2020
 
-**LatinR 2019:** octubre de 2020
+**LatinR 2020:** octubre de 2020
 
 
 ##### Sobre los envíos

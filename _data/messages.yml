@@ -24,7 +24,7 @@ en:
   team: Team
   logistics: Logistics
   inscribite: Register
-  eventDate: "Montevideo 2020"
+  eventDate: "November 7th through 9th 2020 - Montevideo"
   description: Latinamerican Conference About the Use of R in R&D
   metaKeywords: "event, R, conference, statistics, dataviz"
   tweetsFeedTitle: What's up?
@@ -120,14 +120,14 @@ es:
   team: Equipo
   logistics: Logística
   inscribite: Inscribite
-  eventDate: "Montevideo 2020"
+  eventDate: "7 al 9 de noviembre 2020 - Montevideo"
   description: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
   metaKeywords: "evento, R, conferencia, estadística, dataviz"
   latestNewsTitle: "Novedades"
   blog: Blog
   tweetsFeedTitle: "Twitter"
   locationBlockTitle: "Lugar"
-  eventLocationName: "Centro de Extensión de la Universidad Católica"
+  eventLocationName: "Universidad de la República"
 
 
   # Navigation
