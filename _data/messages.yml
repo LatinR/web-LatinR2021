@@ -207,3 +207,99 @@ es:
   complexity: "Nivel"
   language: "Idioma"
   day: "Día"
+
+## Portugues
+pt: 
+  about: Sobre
+  home: Início
+  schedule: Programação
+  speakers: Palestrantes
+  team: Equipe
+  logistics: Logística
+  inscribite: Inscrever
+  eventDate: "7 a 9 de novembro de 2020 - Montevideo"
+  description: Conferência Latino-Americana sobre o Uso de R em P&D
+  metaKeywords: "evento, R, conferência, estatística, visualização de dados"
+  tweetsFeedTitle: Novidades
+  blogTitle: "Blog"
+  latestNewsTitle: "Últimas noticias"
+  locationBlockTitle: Local
+  eventLocationName: Universidad de la República
+  partnersTitle: "Apoiadores"
+  partnersC4sponsorsButton: "Se tiver interesse em patrocinar favor enviar <br/> um email para latinrconf@gmail.com"
+  c4sponsorsUrl: "mailto:latinrconf@gmail.com"
+  links: "Links"
+  contact: "Contato"
+  # Navigation
+  navigationLinks:
+   - {permalink: "/pt", text: "Início" }
+   # - {permalink: "/programacao/", text: "Programação"}
+  # - {permalink: "/palestrantes/", text: "Palestrantes"}
+   - {permalink: "/pt/equipe/", text: "Equipe"}
+   - {permalink: "/pt/logistica/", text: "Logística"}
+   - {permalink: "/pt/blog/", text: "Notícias"}
+   # - {permalink: "/pt/edicoes-anteriores", text: "Edições anteriores"}
+
+  bottomNavigationLinks:
+   - {permalink: "/blog/chamada-de-trabalhos", text: "Chamada de trabalhos"}
+  rightNavigationButtons:
+   - {permalink: "/blog/chamada-de-trabalhos", text: "Chamada de trabalhos"}
+  heroButtons:
+  # - {permalink: "/programacao", text: "Programação"}
+   - {permalink: "/blog/chamada-de-trabalhos", text: "Chamada de trabalhos"}
+
+  aboutJAIIO: 'Somos parte da <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizado por <a href = "http://www.sadio.org.ar/">SADIO</a> e <a href = "http://www.palermo.edu/">UP</a>.'
+  aboutBlock:
+   - {title: "Conferências", image: "conference.png", text: "Palestras por líderes sobre o uso de R em áreas diversas." }
+   - {title: "Apresentações oral", image: "presentation.png", text: "Apresentações sobre resultados de pesquisas e demonstração de aplicações criadas no R." }
+   - {title: "Mesas redonda", image: "mesa_redonda.png", text: "Discussão sobre assuntos específicos." }
+   - {title: "Posters/Conversas relâmpago", image: "posters.png", text: "Discutir ideias, pesquisas em desenvolvimento, experiências e desafios no uso de R." }
+
+
+  subscribeTitle: "Cadastre-se"
+
+
+  # Logistics Direction Details Block
+  directionDetailsTitle: "Movimentando-se em Montevideo"
+  directionDetailsCards:
+   # - {title: "Escolha seu aeroporto", information: '<a href="http://www.aa2000.com.ar/aeroparque">Campo de Pouso Jorge Newbery</a> está localizado na costa do Rio La Plata dentro da cidade, e o <a href="http://www.aa2000.com.ar/ezeiza" >Aeroporto Ministro Pistrani</a> está localizado em Ezeiza, 35km (22mi) da cidade.'}
+    - {title: "O que tem para fazer?", information: "Além de curtir o LatinR, tem muita coisa para ver e fazer em Montevideo. Comece <a href = http://www.uruguaynatural.com/index.php/en/places-to-go/south-central-region/cities/montevideo>aqui</a>!"}
+    - {title: "Chegando lá", information: 'Você pode se deslocar utilizando transporte público. Para encontrar um caminho para o local do evento, você pode usar o <a href = https://moovitapp.com/index/en/public_transit-Facultad_de_Ingenier%C3%ADa_UdelaR-Montevideo-efsite_4b98e6e2f964a5203b5535e3-1672>aplicativo Moovit</a>. Se estiver de carro, obter trajeto usando o <a href = https://www.waze.com/es/livemap/directions?latlng=-34.9181706%2C-56.1665725&navigate=yes>aplicativo Waze</a>.'}
+
+   # - {title: "Estadia", information: 'Há muitos hoteis e hostels <a href="https://www.google.com.ar/maps/search/hostel%2Bhotel/@-34.5954308,-58.418691,15z">a poucas quadras</a> do local do evento.'}
+  # directionDetailsWideCards:
+  # -
+  #  title: "Perguntas?"
+  #  subCards:
+  #   -
+  #    title: "Hotéis"
+  #    links:
+  #     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+
+  # Logistics Find Way Block
+  findWayTitle: "Encontre seu caminho até aqui"
+  findWayDistance: "Distância"
+  findWayDriving: "DIRIGINDO"
+  findWayWalking: "ANDANDO"
+  findWayBicycling: "BICICLETA"
+  findWayTransit: "TRANSPORTE PÚBLICO"
+  findWayFindFlight: "Encontre vôos"
+  viewOnMap: "Veja no Google Maps"
+  yourLocation: "Sua localização"
+  toLatinR: "até LatinR"
+
+  # team
+  teamBlockTitle: "Sobre nós"
+  aboutUs: "Em 25 de outubro de 2017, Heather Turner fez um anúncio no Slack R User Group (RUG) Organizers: o Comitê da Conferência da R Foundation estava interessada na ascensão de eventos sobre R focado na academia nas regiões não cobertas pelo useR! Em menos de uma semana, nós organizamos nossa primeira video conferência para começar a pensar como lidar com este desafio. Esta resposta rápida não foi um resultado de mera sorte, mas a consequência de um ano no qual a comunidada R através de seus RUGs locais e presença em mídias sociais se fortaleceu na América do Sul. Até meados de novembro tudo estava preparado: um nome, um local, uma data e um comitê organizacional internacional motivado. A primeira edição foi em Buenos Aires, Argentina e a segunda em Santiago de Chile, Chile. Este ano, a comunidade R da América Latina se reunirá em Montevideo, Uruguai."
+  chairs: "Chairs"
+  organizerCommittee: "Comitê Organizador"
+  scientificCommittee: "Comitê Científico"
+
+  posted: "Publicado:"
+  scientificComittee2: 'Todo trabalho enviado será avaliado pelo nosso renomado <a href = "/team/">Comitê Científico.</a>'
+  continueReading: Continuar lendo
+
+  rockstarSpeakersTitle: "Palestrantes Keynote"
+  complexity: "Complexidade"
+  language: "Língua"
+  day: "Dia"
