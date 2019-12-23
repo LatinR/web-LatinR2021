@@ -136,7 +136,11 @@
      surname: Etchart
      titles:
       - INTA Anguil
-
+   - id: 13
+     name: Fernando
+     surname: Hannaka
+     titles:
+      - Blue Economic Solutions
 
 
 #   - id: 3
