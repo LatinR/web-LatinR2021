@@ -241,12 +241,12 @@ pt:
    # - {permalink: "/pt/edicoes-anteriores", text: "Edições anteriores"}
 
   bottomNavigationLinks:
-   - {permalink: "/blog/chamada-de-trabalhos", text: "Chamada de trabalhos"}
+   - {permalink: "/blog/chamada-trabalhos", text: "Chamada de trabalhos"}
   rightNavigationButtons:
-   - {permalink: "/blog/chamada-de-trabalhos", text: "Chamada de trabalhos"}
+   - {permalink: "/blog/chamada-trabalhos", text: "Chamada de trabalhos"}
   heroButtons:
   # - {permalink: "/programacao", text: "Programação"}
-   - {permalink: "/blog/chamada-de-trabalhos", text: "Chamada de trabalhos"}
+   - {permalink: "/blog/chamada-trabalhos", text: "Chamada de trabalhos"}
 
   aboutJAIIO: 'Somos parte da <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizado por <a href = "http://www.sadio.org.ar/">SADIO</a> e <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
