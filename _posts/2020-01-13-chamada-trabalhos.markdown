@@ -11,7 +11,7 @@ ref: call-for-papers
 <br>
 <br>
 
-Em 2020 o LatinR continua sua jornada itinerante pelo continente. Este ano, a terceira edição da conferência ocorrerá em Montevidéu, Uruguai em outubro-novembro de 2020 (datas exatas a serem definidas). Conforme programações anteriores, consistirá de um dia para workshops e dois dias para a conferência propriamente dita.
+Em 2020 o LatinR continua sua jornada itinerante pelo continente. Este ano, a terceira edição da conferência ocorrerá em Montevidéu, Uruguai em 7 a 9 de outubro de 2020. Conforme programações anteriores, consistirá de um dia para workshops e dois dias para a conferência propriamente dita.
 
 Neste primeiro comunicado estaremos descrevendo os tópicos de interesse, modalidades de apresentações e datas importantes para envio das propostas.
 
@@ -67,13 +67,13 @@ Entregas deverão incluir:
 
 **Prazo para versão final do resumo e inscrição do autor:** junho 2020
 
-**LatinR 2020:** outubro 2020
+**LatinR 2020:** 7 a 9 de outubro de 2020
 
 ##### Guia para envío
 
 * Os idiomas oficiais da conferência serão espanhol, português e inglês. Os resumos devem ser escritos no mesmo idioma da apresentação oral ou pôster.
 * Os envios deverão estar de acordo com o formato oficial da conferência. Você pode utilizar o Word ou [LaTeX template](https://github.com/LatinR/latinr/raw/master/inst/rmarkdown/templates/latinr_article/latinr_article.zip), ou usar o [latinr](https://github.com/LatinR/latinr) para assegurar o correto envio.
-* O processo de envio será realizado através da plataforma EasyChair [neste link](https://easychair.org/conferences/?conf=latinr2019) de 2 de março até 20 de abril.
+* O processo de envio será realizado através da plataforma EasyChair [neste link](http://bit.ly/latinr2020-easychair) de 2 de março até 20 de abril.
 * Os envios deverão ser no formato em PDF sem o nome do autor ou informação de filiação através da plataforma EasyChair neste link.
 * Em casos de mesas redondas, a apresentação de todos os resumos deverão ser incluídos em um mesmo arquivo.
 * Cada envio será avaliado criteriosamente pelo comitê científico (será anunciado) em relação à sua originalidade, contribuição, qualidade técnica e clareza.
