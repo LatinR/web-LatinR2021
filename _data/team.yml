@@ -65,17 +65,103 @@
 #     titles:
 #       - Instituto de Ciencia Política, Universidad Católica de Chile
 
-# - level: cientifico
-#   name: {es: "Comité Científico", en: "Scientific Committee", pt: "Comitê científico"}
-#   color: "#386CB0"
-#   people:
-#   - id: 15
-#     name: Marcela
-#     surname: Alfaro Córdoba
-#     level: cientifico
-#     titles:
-#       - Universidad de Costa Rica, Costa Rica
-
+- level: cientifico
+  name:
+    es: Comité Científico
+    en: Scientific Committee
+    pt: Comitê científico
+  color: '#386CB0'
+  people:
+  - id: 1
+    name: Marcela
+    surname: Alfaro
+    level: cientifico
+    titles: ''
+  - id: 2
+    name: Ignacio
+    surname: Alverez-Castro
+    level: cientifico
+    titles: ''
+  - id: 3
+    name: Steve
+    surname: Arndt
+    level: cientifico
+    titles: ''
+  - id: 4
+    name: Mathias
+    surname: Bourel
+    level: cientifico
+    titles: ''
+  - id: 6
+    name: Mariana
+    surname: Cock
+    level: cientifico
+    titles: ''
+  - id: 7
+    name: Mario
+    surname: Cortina Borja
+    level: cientifico
+    titles: ''
+  - id: 8
+    name: Maria
+    surname: Inés Fariello
+    level: cientifico
+    titles: ''
+  - id: 9
+    name: Ileana
+    surname: Frasier
+    level: cientifico
+    titles: ''
+  - id: 10
+    name: Adriana
+    surname: Gili
+    level: cientifico
+    titles: ''
+  - id: 11
+    name: Juan
+    surname: José Goyeneche
+    level: cientifico
+    titles: ''
+  - id: 13
+    name: Leonardo
+    surname: Moreno
+    level: cientifico
+    titles: ''
+  - id: 14
+    name: Priscilla
+    surname: Minotti
+    level: cientifico
+    titles: ''
+  - id: 15
+    name: Germán
+    surname: Rosati
+    level: cientifico
+    titles: ''
+  - id: 16
+    name: Marcelo
+    surname: Soria
+    level: cientifico
+    titles: ''
+  - id: 17
+    name: Walter
+    surname: Sosa Escudero
+    level: cientifico
+    titles: ''
+  - id: 20
+    name: Vianey
+    surname: Leos
+    level: cientifico
+    titles: ''
+  - id: 21
+    name: Jairo
+    surname: Cugliari
+    level: cientifico
+    titles: ''
+  - id: 22
+    name: Lucia
+    surname: Rodriguez Planes
+    level: cientifico
+    titles: ''
 
 - level: organizer
   name: {es: "Comité Organizador", en: "Organizer Committee", pt: "Comitê Organizador"}

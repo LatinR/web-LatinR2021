@@ -9,7 +9,7 @@ ref: call-for-papers
 #### LatinR2020 <- Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
 <br>
 <br>
-Este 2020 LatinR sigue su itinerancia por el continente. Este año, la tercera versión de la conferencia se realizará en Montevideo, Uruguay durante Octubre-Noviembre de 2020 (en breve confirmaremos la fecha). Al igual que el año anterior, considera un primer día de talleres y dos de conferencia.
+Este 2020 LatinR sigue su itinerancia por el continente. Este año, la tercera versión de la conferencia se realizará en Montevideo, Uruguay del 7 al 9 de Octubre de 2020. Al igual que el año anterior, considera un primer día de talleres y dos de conferencia.
 
 En esta primera convocatoria, se informa sobre los tópicos de interés, las modalidades de presentación y las fechas relevantes para el envío de propuestas.
 
@@ -77,7 +77,7 @@ El envío de propuestas para mesas temáticas debe incluir:
 
 **Recepción de versiones finales e inscripción de autores:** junio de 2020
 
-**LatinR 2020:** octubre de 2020
+**LatinR 2020:** 7 al 9 de Octubre de 2020.
 
 
 ##### Sobre los envíos
@@ -86,7 +86,7 @@ El envío de propuestas para mesas temáticas debe incluir:
 
 * Todos los trabajos deberán respetar el formato oficial de la conferencia. Se pueden utilizar las plantillas de Word, [LaTeX](https://github.com/LatinR/latinr/raw/master/inst/rmarkdown/templates/latinr_article/latinr_article.zip) o el paquete [latinr](https://github.com/LatinR/latinr) para aplicar el formato correcto.
 
-* Los envíos deben hacerse a través de la plataforma EasyChair a partir del día 2 de marzo y hasta el martes 30 de abril.
+* Los envíos deben hacerse a través de la plataforma EasyChair siguiendo [este link](http://bit.ly/latinr2020-easychair) a partir del día 2 de marzo y hasta el martes 30 de abril.
 
 * Todos los trabajos deberán enviarse en formato PDF, sin autores ni filiación, a través de la plataforma EasyChair.
 

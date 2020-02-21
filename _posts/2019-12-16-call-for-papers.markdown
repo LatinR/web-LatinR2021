@@ -11,7 +11,7 @@ ref: call-for-papers
 <br>
 <br>
 
-This 2020 LatinR keeps on wantering through the contintn. This year, the third edition of the confernece will take place in Montevideo, Uguruay on October-November 2020 (exact dates forthcomming). Following previous schedules, it will consist of a first day for workshops and two days for the conference proper.
+This 2020 LatinR keeps on wantering through the contintn. This year, the third edition of the confernece will take place in Montevideo, Uguruay October 7th through 9th 2020. Following previous schedules, it will consist of a first day for workshops and two days for the conference proper.
 
 In this first announcement we outline topics of interest, presentation guidelines and important dates for proposal submission.
 
@@ -70,14 +70,14 @@ Submissions must include:
 
 **Abstract final version submission and author registration deadlines:** June 2020
 
-**LatinR 2020:** Octobre 2020
+**LatinR 2020:** October 7th through 9th 2020
 
 ##### Submission guidelines
 
 
 * The official languages of the conference are Spanish, Portuguese and English. Abstracts must be written in the same language of the oral presentation or poster.
 
-* Submissions must be sent in PDF format without author name or institution through the EasyChair platform following [this link](https://easychair.org/conferences/?conf=latinr2019) from March 2nd to April 30th.
+* Submissions must be sent in PDF format without author name or institution through the EasyChair platform following [this link](http://bit.ly/latinr2020-easychair) from March 2nd to April 30th.
 
 * Submissions must respect the oficla conference format. You can use the Word or [LaTeX template](https://github.com/LatinR/latinr/raw/master/inst/rmarkdown/templates/latinr_article/latinr_article.zip), or use the [latinr](https://github.com/LatinR/latinr) to ensure a correct submission.
 
