@@ -7,7 +7,7 @@ ref: call-for-papers
 ---
 
 
-### LatinR2020 <- Conferência Latinoamericana sobre o uso do R em Pesquisa e Desenvolvimento
+#### LatinR2020 <- Conferência Latinoamericana sobre o uso do R em Pesquisa e Desenvolvimento
 <br>
 <br>
 
