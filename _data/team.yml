@@ -92,11 +92,6 @@
     surname: Bourel
     level: cientifico
     titles: IMERL-Universidad de la República
-  - id: 5
-    name: Xavier
-    surname: Buenaño
-    level: cientifico
-    titles: Universidad Politécnica de Madrid,
   - id: 6
     name: Marina
     surname: Cock
@@ -127,11 +122,6 @@
     surname: José Goyeneche
     level: cientifico
     titles: IESTA-Universidad de la República
-  - id: 12
-    name: Estefanía
-    surname: Marcini
-    level: cientifico
-    titles: Centre for Genomic Regulation, España
   - id: 13
     name: Leonardo
     surname: Moreno
@@ -157,16 +147,6 @@
     surname: Sosa Escudero
     level: cientifico
     titles: CONICET-Universidad de San Andrés
-  - id: 18
-    name: Francisco
-    surname: Urdinez
-    level: cientifico
-    titles: ''
-  - id: 19
-    name: Melina
-    surname: Vidoni
-    level: cientifico
-    titles: ''
   - id: 20
     name: Vianey
     surname: Leos
@@ -182,6 +162,7 @@
     surname: Rodriguez Planes
     level: cientifico
     titles: Universidad Nacional de Tierra del Fuego - CONICET
+
 
 
 
