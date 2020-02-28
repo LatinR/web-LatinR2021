@@ -76,254 +76,259 @@
     name: Marcela
     surname: Alfaro
     level: cientifico
-    titles: ''
+    titles: Universidad de Costa Rica
   - id: 2
     name: Ignacio
     surname: Alverez-Castro
     level: cientifico
-    titles: ''
+    titles: IESTA-Universidad de la República
   - id: 3
     name: Steve
     surname: Arndt
     level: cientifico
-    titles: ''
+    titles: University of Iowa, Estados Unidos
   - id: 4
     name: Mathias
     surname: Bourel
     level: cientifico
-    titles: ''
+    titles: IMERL-Universidad de la República
+  - id: 5
+    name: Xavier
+    surname: Buenaño
+    level: cientifico
+    titles: Universidad Politécnica de Madrid,
   - id: 6
-    name: Mariana
+    name: Marina
     surname: Cock
     level: cientifico
-    titles: ''
+    titles: Universidad Nacional de La Pampa - CONICET
   - id: 7
     name: Mario
     surname: Cortina Borja
     level: cientifico
-    titles: ''
+    titles: University College London
   - id: 8
     name: Maria
     surname: Inés Fariello
     level: cientifico
-    titles: ''
+    titles: IMERL-Universidad de la República
   - id: 9
     name: Ileana
     surname: Frasier
     level: cientifico
-    titles: ''
+    titles: INTA - CONICET
   - id: 10
     name: Adriana
     surname: Gili
     level: cientifico
-    titles: ''
+    titles: Univsersidad Nacional de La Pampa
   - id: 11
     name: Juan
     surname: José Goyeneche
     level: cientifico
-    titles: ''
+    titles: IESTA-Universidad de la República
+  - id: 12
+    name: Estefanía
+    surname: Marcini
+    level: cientifico
+    titles: Centre for Genomic Regulation, España
   - id: 13
     name: Leonardo
     surname: Moreno
     level: cientifico
-    titles: ''
+    titles: IESTA-Universidad de la República
   - id: 14
     name: Priscilla
     surname: Minotti
     level: cientifico
-    titles: ''
+    titles: Universidad Nacional de San Martín
   - id: 15
     name: Germán
     surname: Rosati
     level: cientifico
-    titles: ''
+    titles: IDAES-UNSAM / CONICET, Argentina
   - id: 16
     name: Marcelo
     surname: Soria
     level: cientifico
-    titles: ''
+    titles: CONICET-Universidad de Buenos Aires
   - id: 17
     name: Walter
     surname: Sosa Escudero
+    level: cientifico
+    titles: CONICET-Universidad de San Andrés
+  - id: 18
+    name: Francisco
+    surname: Urdinez
+    level: cientifico
+    titles: ''
+  - id: 19
+    name: Melina
+    surname: Vidoni
     level: cientifico
     titles: ''
   - id: 20
     name: Vianey
     surname: Leos
     level: cientifico
-    titles: ''
+    titles: North Carolina State Universuty
   - id: 21
     name: Jairo
     surname: Cugliari
     level: cientifico
-    titles: ''
+    titles: ERIC-Université Lumière Lyon 2
   - id: 22
     name: Lucia
     surname: Rodriguez Planes
     level: cientifico
-    titles: ''
+    titles: Universidad Nacional de Tierra del Fuego - CONICET
+
+
 
 - level: organizer
-  name: {es: "Comité Organizador", en: "Organizer Committee", pt: "Comitê Organizador"}
-  color: "#BEAED4"
+  name:
+    es: Comité Organizador
+    en: Organizer Committee
+    pt: Comitê Organizador
+  color: '#BEAED4'
   people:
-   - id: 4
-     level: organizer
-     thumbnailUrl: default.jpg
-     color: "#7FC97F"
-     name: Elio
-     surname: Campitelli
-     titles:
-      - Universidad de Buenos Aires, Argentina
-      - R en Buenos Aires, Argentina
-   - id: 5
-     level: organizer
-     thumbnailUrl: default.jpg
-     color: "#F0027F"
-     name: Paola
-     surname: Corrales
-     titles:
-      - Universidad de Buenos Aires, Argentina
-      - R-Ladies BsAs, Argentina
-   - id: 7
-     level: organizer
-     thumbnailUrl: default.jpg
-     color: "#F0027F"
-     name: Patricio
-     surname: Cofré
-     titles:
-      - Metrics Arts, Chile
-   - id: 8
-     name: Roxana Noelia
-     surname: Villafañe
-     titles:
-      - R-Ladies Resistencia Corrientes, Argentina
-      - R en NEA, Argentina
-      - LEMyP (IQUIBA-NEA) CONICET
-   - id: 9
-     name: Patricia
-     surname: Loto
-     titles:
-      - R-Ladies Resistencia Corrientes, Argentina
-      - Universidad Nacional del Nordeste
-   - id: 10
-     name: Gabriela
-     surname: Sandoval
-     titles:
-      - R-Ladies Santiago, Chile
-   - id: 11
-     name: Daniela
-     surname: Vazquez
-     titles:
-      - R-Ladies Montevideo, Uruguay
-      - GURU 
-   - id: 12
-     name: Francisco
-     surname: Etchart
-     titles:
-      - INTA Anguil
-   - id: 13
-     name: Fernando
-     surname: Hannaka
-     titles:
-      - Blue Economic Solutions
-
-
-#   - id: 3
-#     level: organizer
-#     thumbnailUrl: default.jpg
-#     color: "#666666"
-#     name: Mónica
-#     surname: Alonso
-#     titles:
-#      - Banco Ciudad
-#      - R-Ladies BsAs, Argentina
-#   - id: 7
-#     level: organizer
-#     thumbnailUrl: default.jpg
-#     color: "#FDC086"
-#     name: Gabriela
-#     surname: de Queiroz
-#     titles:
-#      - SelfScore
-#      - R-Ladies Global y San Francisco, EEUU
-#   - id: 8
-#     level: organizer
-#     thumbnailUrl: default.jpg
-#     color: "#386CB0"
-#     name: Flavia
-#     surname: Fernández
-#     titles:
-#      - "Diseñadora Gráfica, UBA"
-#     social:
-#       - {name: "site", link: "https://www.behance.net/flaviafernandez"}
-#   - id: 9
-#     level: organizer
-#     thumbnailUrl: default.jpg
-#     color: "#7FC97F"
-#     name: Fabiana
-#     surname: Flores
-#     titles:
-#      - INTI
-#      - R-Ladies Buenos Aires, Argentina
-#   - id: 10
-#     level: organizer
-#     thumbnailUrl: default.jpg
-#     color: "#BEAED4"
-#     name: Lourdes Milagros
-#     surname: Mendoza Villavicencio
-#     titles:
-#      - UFRN
-#      - R-Ladies Natal, Brasil
-#   - id: 11
-#     level: organizer
-#     thumbnailUrl: default.jpg
-#     color: "#BEAED4"
-#     name: Iara
-#     surname: Passos
-#     titles:
-#      - UFRGS
-#      - R-Ladies Porto Alegre, Brasil
-#   - id: 12
-#     level: organizer
-#     thumbnailUrl: default.jpg
-#     color: "#F0027F"
-#     name: Celina
-#     surname: Rebello
-#     titles:
-#      - R-Ladies Rio de Janeiro, Brasil)
-#   - id: 13
-#     level: organizer
-#     thumbnailUrl: default.jpg
-#     color: "#666666"
-#     name: Gabriela
-#     surname: Sandoval
-#     titles:
-#      - Pontificia Universidad Católica de Chile
-#      - R-Ladies Santiago, Chile
-#   - id: 14
-#     level: organizer
-#     thumbnailUrl: default.jpg
-#     color: "#BF5B17"
-#     name: Daniela
-#     surname: Vázquez
-#     titles:
-#       - Idatha
-#       - R-Ladies Montevideo, Uruguay
-#   - id: 14
-#     level: organizer
-#     thumbnailUrl: default.jpg
-#     color: "#BF5B17"
-#     name: Luis Darcy
-#     surname: Verde Arregoitia
-#     titles:
-#       - UNAM, México
-#       - Universidad Austral de Chile, Chile
-#   - id: 15
-#     level: organizer
-#     thumbnailUrl: default.jpg
-#     color: "#BF5B17"
-#     name: Andrea María
-#     surname: Lagomarsino
-#     titles:
-#       - INTA
+  - id: 1
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Elio
+    surname: Campitelli
+    titles:
+    - 'Universidad de Buenos Aires, Argentina '
+    - R en Buenos Aires, Argentina
+  - id: 2
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Paola
+    surname: Corrales
+    titles:
+    - Universidad de Buenos Aires, Argentina
+    - R-Ladies BsAs, Argentina
+  - id: 3
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Patricio
+    surname: Cofré
+    titles: Metrics Arts, Chile
+  - id: 4
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Roxana Noelia
+    surname: Villafañe
+    titles:
+    - R-Ladies Resistencia Corrientes, Argentina
+    - R en NEA, Argentina
+    - LEMyP (IQUIBA-NEA) CONICET
+  - id: 5
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Patricia
+    surname: Loto
+    titles:
+    - R-Ladies Resistencia Corrientes, Argentina
+    - Universidad Nacional del Nordeste
+  - id: 6
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Gabriela
+    surname: Sandoval
+    titles: R-Ladies Santiago, Chile
+  - id: 7
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Daniela
+    surname: Vazquez
+    titles:
+    - R-Ladies Montevideo, Uruguay
+    - GURU
+  - id: 8
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Francisco
+    surname: Etchart
+    titles: INTA Anguil
+  - id: 9
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Fernando
+    surname: Hannaka
+    titles: Blue Economic Solutions
+  - id: 10
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: María
+    surname: Nanton
+    titles:
+    - iMettrics
+    - Universidad de Buenos Aires, Argentina
+    - R Ladies Buenos Aires
+  - id: 11
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Andrea
+    surname: Gómez Vargas
+    titles:
+    - Universidad de Buenos Aires
+    - R Ladies Buenos Aires
+  - id: 12
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Beatriz
+    surname: Milz
+    titles:
+    - Universidad de São Paulo
+    - R-Ladies São Paulo
+  - id: 13
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Cintia
+    surname: Callamullo León
+    titles:
+    - Fundación Dr. Manuel Sadosky -  Universidad de Buenos Aires
+    - R en Buenos Aires
+  - id: 14
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Maine
+    surname: Fariello
+    titles:
+    - Universidad de la República
+    - R-Ladies Montevideo, Uruguay
+    - URU
+  - id: 15
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Paula
+    surname: Pereda
+    titles:
+    - Secretaría de Transformación Productiva y Competitividad
+    - R-Ladies Montevideo, Uruguay
+    - GURU
+  - id: 16
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Haydee
+    surname: Svab
+    titles:
+    - ASK-AR Data Consultancy
+    - RLadies São Paulo
