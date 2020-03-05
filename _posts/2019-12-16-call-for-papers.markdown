@@ -35,7 +35,7 @@ Economy, Data Journalism, etc...)
 
 ##### Presentation guidelines
 
-###### Oral communications
+###### Oral presentations
 
 Communications about research results, progress reports, or specific developments that, because their originality or potential applications in the use or development of R in academia or industry, is of interest to the regional community of R users. Presenters will have 15 minutes + 5 minutes for Q&A. 
 

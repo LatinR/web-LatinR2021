@@ -11,7 +11,7 @@ ref: call-for-papers
 <br>
 <br>
 
-Em 2020 o LatinR continua sua jornada itinerante pelo continente. Este ano, a terceira edição da conferência ocorrerá em Montevidéu, Uruguai em 7 a 9 de outubro de 2020. Conforme programações anteriores, consistirá de um dia para workshops e dois dias para a conferência propriamente dita.
+Em 2020 o LatinR continua sua jornada itinerante pelo continente. Este ano, a terceira edição da conferência ocorrerá em Montevidéu, Uruguai de 7 a 9 de outubro de 2020. Conforme programações anteriores, consistirá de um dia para workshops e dois dias para a conferência propriamente dita.
 
 Neste primeiro comunicado estaremos descrevendo os tópicos de interesse, modalidades de apresentações e datas importantes para envio das propostas.
 
@@ -37,13 +37,13 @@ Tópicos sugeridos para esta edição são:
 
 Apresentações sobre resultados de pesquisas, relatório de progresso, ou desenvolvimento específicos que, devido a sua originalidade e potenciais aplicações no uso ou desenvolvimento de R na área acadêmica ou industrial, é de interesse para a comunidade regional de usuarios de R. Apresentadores terão 15 minutos + 5 minutos para perguntas e respostas.
 
-As entregas deverão incluir um resumo de não mais que duas páginas incluindo texto, tabelas e figuras. Para projetos que incluam aplicações em Shiny ou outros formatos interativos, deve também incluir o URL no qual a aplicação está disponível.
+As propostas deverão incluir um resumo de não mais que duas páginas incluindo texto, tabelas e figuras. Para projetos que incluam aplicações em Shiny ou outros formatos interativos, deve também incluir o URL no qual a aplicação está disponível.
 
 ###### Pôsteres/Palestras relâmpago
 
 Pôsteres permite que pesquisadores e profissionais apresentem e discutam os últimos avanços, ideias, pesquisas em andamento e experiências ou desafios relacionados a tópicos de interesse da LatinR. Apresentadores deverão escolher entre formato de pôster ou até 5 minutos de palestra relâmpago.
 
-As entregas deverão incluir um resumo de não mais que duas páginas incluindo texto, tabelas e figuras.
+As propostas deverão incluir um resumo de não mais que duas páginas incluindo texto, tabelas e figuras.
 
 ###### Mesas redondas
 
@@ -53,7 +53,7 @@ O formato será conforme o seguinte. Primeiro, uma apresentação introdutória 
 
 Estamos particularmente interessados mesas que incluam apresentadores de diversas áreas (diferentes instituições, países, áreas de pesquisas, gênero, etc.) e mostrar diferentes metodologias e enfoques sobre o assunto.
 
-Entregas deverão incluir:
+Propostas deverão incluir:
 * Uma descrição geral da mesa redonda com no máximo 150 palavras.
 * Um resumo de cada apresentação com no máximo uma página incluindo texto, tabelas e figuras.
 
