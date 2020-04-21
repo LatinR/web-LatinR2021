@@ -64,11 +64,11 @@ Submissions must include:
 
 **Abstract submission start:** March 2nd 2020
 
-**Abstract submission deadline:** April 30th 2020
+**Abstract submission deadline:** May 30th 2020
 
-**Abstract acceptance notification:** June 2020
+**Abstract acceptance notification:** July 2020
 
-**Abstract final version submission and author registration deadlines:** June 2020
+**Abstract final version submission and author registration deadlines:** July 2020
 
 **LatinR 2020:** October 7th through 9th 2020
 

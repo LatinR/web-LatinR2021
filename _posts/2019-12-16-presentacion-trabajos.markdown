@@ -71,11 +71,11 @@ El envío de propuestas para mesas temáticas debe incluir:
 
 **Inicio recepción de trabajos:** 2 de marzo de 2020
 
-**Fecha límite para la recepción de trabajos:** 30 de abril de 2020
+**Fecha límite para la recepción de trabajos:** 30 de mayo de 2020
 
-**Notificación aceptación:** junio de 2020
+**Notificación aceptación:** julio de 2020
 
-**Recepción de versiones finales e inscripción de autores:** junio de 2020
+**Recepción de versiones finales e inscripción de autores:** julio de 2020
 
 **LatinR 2020:** 7 al 9 de Octubre de 2020.
 

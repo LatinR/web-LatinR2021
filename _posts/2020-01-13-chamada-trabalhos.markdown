@@ -61,11 +61,11 @@ Propostas deverão incluir:
 
 **Início do envio do resumo:** 2 de março de 2020
 
-**Data final para envio do resumo:** 30 de abril de 2020
+**Data final para envio do resumo:** 30 de mayo de 2020
 
-**Notificação de aceitação dos resumos:** junho 2020
+**Notificação de aceitação dos resumos:** julio 2020
 
-**Prazo para versão final do resumo e inscrição do autor:** junho 2020
+**Prazo para versão final do resumo e inscrição do autor:** julio 2020
 
 **LatinR 2020:** 7 a 9 de outubro de 2020
 
