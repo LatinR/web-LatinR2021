@@ -37,5 +37,4 @@ La comunidad de R en América Latina está creciendo rápidamente y también la 
 
 **¡Muchas gracias! Por favor checa nuestro video de useR!2020 en [YouTube](https://youtu.be/gtRntU2J3Cg).**
 
-![](/img/postslatam-communities-authors.png)
-
+![](/img/posts/latam-communities-authors.png)

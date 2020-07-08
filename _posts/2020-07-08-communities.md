@@ -38,5 +38,5 @@ The Latin American R community is growing fast and so does the responsibility to
 
 **Thank you! Please watch our useR! 2020 video on [YouTube](https://youtu.be/gtRntU2J3Cg).**
 
-![](/img/postslatam-communities-authors.png)
+![](/img/posts/latam-communities-authors.png)
 
