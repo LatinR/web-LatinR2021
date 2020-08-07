@@ -190,6 +190,11 @@
     surname: Bazurto Blacio
     level: cientifico
     titles: Universidad de Guayaquil
+  - id: 28
+    name: Victoria
+    surname: O'Donell
+    level: cientifico
+    titles: Universidad de Buenos Aires
 
 
 - level: organizer
