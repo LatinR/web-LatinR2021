@@ -1,258 +1,100 @@
 -
-  date: "2019-09-25"
-  dateReadable: {en: "September 25th", es: "25 de septiembre", pt: "25 de septiembre"}
+  date: "2020-09-29"
+  dateReadable: {en: "September 29th", es: "29 de septiembre", pt: "29 de septiembre"}
   tracks:
-    - {title: {en: "Tutorials", es: "Tutoriales", pt: "Tutoriales"} , color: "#90be4e"}
+    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
   timeslots:
     - {
-      startTime: "09:00",
-      endTime: "10:30",
-      sessionIds: [1, 2]
+      startTime: "10:00",
+      endTime: "12:00",
+      sessionIds: [001]
     }
     - {
-      startTime: "10:30",
-      endTime: "11:00",
-      sessionIds: [999]
+      startTime: "18:00",
+      endTime: "20:00",
+      sessionIds: [002]
     }
-
+   
+-
+  date: "2020-09-30"
+  dateReadable: {en: "September 30th", es: "30 de septiembre", pt: "30 de septiembre"}
+  tracks:
+    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+  timeslots:
     - {
-      startTime: "11:00",
-      endTime: "12:30",
-      sessionIds: [1, 2]
+      startTime: "18:00",
+      endTime: "20:00",
+      sessionIds: [003]
     }
 
-    - {
-      startTime: "12:30",
-      endTime: "14:00",
-      sessionIds: [998]
-    }
-
+-
+  date: "2020-10-01"
+  dateReadable: {en: "October 1st", es: "1 de octubre", pt: "1 de outubro"}
+  tracks:
+    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+  timeslots:
     - {
       startTime: "14:00",
-      endTime: "15:30",
-      sessionIds: [3, 4]
-    }
-
-    - {
-      startTime: "15:30",
       endTime: "16:00",
-      sessionIds: [999]
+      sessionIds: [004]
     }
-
-    - {
-      startTime: "16:00",
-      endTime: "17:30",
-      sessionIds: [3, 4]
-    }
-
-    - {
-      startTime: "17:30",
-      endTime: "18:00",
-      sessionIds: [997]
-    }
-
-
-
+        
 -
-  date: "2019-09-26"
-  dateReadable: {en: "September 26th", es: "26 de septiembre", pt: "26 de septiembre"}
+  date: "2020-10-02"
+  dateReadable: {en: "October 2nd", es: "2 de octubre", pt: "2 de outubro"}
+  tracks:
+    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
   timeslots:
-    - {
-      startTime: "08:30",
-      endTime: "09:00",
-      sessionIds: [996]
-    }
     - {
       startTime: "09:00",
-      endTime: "09:15",
-      sessionIds: [5]
+      endTime: "12:00",
+      sessionIds: [005]
     }
-    - {
-      startTime: "09:15",
-      endTime: "09:35",
-      sessionIds: [6]
-    }
-
-    - {
-      startTime: "09:35",
-      endTime: "10:25",
-      sessionIds: [7]
-    }
-    - {
-      startTime: "10:25",
-      endTime: "11:00",
-      sessionIds: [999]
-    }
-    - {
-      startTime: "11:00",
-      endTime: "12:40",
-      sessionIds: [8, 9]
-    }
-    - {
-      startTime: "12:40",
-      endTime: "14:00",
-      sessionIds: [998]
-    }
-    - {
-      startTime: "14:00",
-      endTime: "14:20",
-      sessionIds: [10, 11]
-    }
-    - {
-      startTime: "14:20",
-      endTime: "14:40",
-      sessionIds: [12, 13]
-    }
-    - {
-      startTime: "14:40",
-      endTime: "15:10",
-      sessionIds: [14, 15]
-    }
-    - {
-      startTime: "15:10",
-      endTime: "15:30",
-      sessionIds: [16, 17]
-    }
-    - {
-      startTime: "15:30",
-      endTime: "15:50",
-      sessionIds: [18, 19]
-    }
-    - {
-      startTime: "15:50",
-      endTime: "16:20",
-      sessionIds: [999]
-    }
-    - {
-      startTime: "16:20",
-      endTime: "16:40",
-      sessionIds: [20, 21]
-    }
-    - {
-      startTime: "16:40",
-      endTime: "17:00",
-      sessionIds: [22, 23]
-    }
-    - {
-      startTime: "17:00",
-      endTime: "17:20",
-      sessionIds: [24, 25]
-    }
-    - {
-      startTime: "17:20",
-      endTime: "17:40",
-      sessionIds: [26, 27]
-    }
-    - {
-      startTime: "17:40",
-      endTime: "18:00",
-      sessionIds: [28, 29]
-    }
-
 
 -
-  date: "2019-09-27"
-  dateReadable: {en: "September 27th", es: "27 de septiembre", pt: "27 de septiembre"}
+  date: "2020-10-03"
+  dateReadable: {en: "October 3rd", es: "3 de octubre", pt: "3 de outubro"}
+  tracks:
+    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
   timeslots:
-      - {
-        startTime: "08:30",
-        endTime: "09:00",
-        sessionIds: [996]
-      }
-      - {
-          startTime: "09:00",
-          endTime: "09:05",
-          sessionIds: [30]
-        }
-      - {
-          startTime: "09:05",
-          endTime: "09:25",
-          sessionIds: [31]
-        }
-      - {
-          startTime: "09:25",
-          endTime: "10:15",
-          sessionIds: [32]
-        }
-      - {
-          startTime: "10:15",
-          endTime: "11:00",
-          sessionIds: [999]
-        }
-      - {
-        startTime: "11:00",
-        endTime: "11:20",
-        sessionIds: [33, 34]
-      }
-      - {
-        startTime: "11:20",
-        endTime: "11:40",
-        sessionIds: [35, 57]
-      }
-      - {
-        startTime: "11:40",
-        endTime: "12:00",
-        sessionIds: [37, 38]
-      }
+    - {
+      startTime: "11:00",
+      endTime: "13:00",
+      sessionIds: [009]
+    }
 
-      - {
-        startTime: "11:00",
-        endTime: "12:20",
-        sessionIds: [39, 40]
-      }
-      - {
-        startTime: "12:20",
-        endTime: "12:40",
-        sessionIds: [41, 42]
-      }
-      - {
-          startTime: "12:40",
-          endTime: "14:10",
-          sessionIds: [998]
-        }
-      - {
-        startTime: "14:10",
-        endTime: "14:30",
-        sessionIds: [43, 44]
-      }
-      - {
-        startTime: "14:30",
-        endTime: "14:50",
-        sessionIds: [45, 46]
-      }
-      - {
-        startTime: "14:50",
-        endTime: "15:10",
-        sessionIds: [47, 48]
-      }
-      - {
-        startTime: "15:10",
-        endTime: "15:30",
-        sessionIds: [55, 56]
-      }      
+-
+  date: "2020-10-05"
+  dateReadable: {en: "October 5th", es: "5 de octubre", pt: "5 de outubro"}
+  tracks:
+    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "15:00",
+      endTime: "17:00",
+      sessionIds: [006]
+    }
 
-      - {
-        startTime: "15:30",
-        endTime: "15:50",
-        sessionIds: [49, 50]
-      }
-      - {
-        startTime: "15:50",
-        endTime: "16:50",
-        sessionIds: [51]
-      }
-      - {
-        startTime: "16:50",
-        endTime: "17:00",
-        sessionIds: [52]
-      }
-      - {
-        startTime: "17:00",
-        endTime: "17:50",
-        sessionIds: [53]
-      }
-      - {
-        startTime: "17:50",
-        endTime: "18:00",
-        sessionIds: [54]
-      }
+-
+  date: "2020-10-06"
+  dateReadable: {en: "October 6th", es: "6 de octubre", pt: "6 de outubro"}
+  tracks:
+    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "12:00",
+      sessionIds: [007]
+    }
+
+-
+  date: "2020-10-10"
+  dateReadable: {en: "October 10th", es: "10 de octubre", pt: "10 de outubro"}
+  tracks:
+    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "15:00",
+      endTime: "16:00",
+      sessionIds: [008]
+    }

@@ -14,299 +14,123 @@
   title: {en: "Accreditation", es: "Acreditación", pt: "Cierre"}
   service: true
 
-
 - id: 001
-  title: {en: 'Teaching Data Science',
-          es: 'Teaching Data Science',
-          pt: 'Teaching Data Science'}
-  #cupo: 50
-  language: en
-  # complexity: {en: "Basic", es: "Básico", pt: "Básico"}
-  speakers: [2]
-  description: 'Success in data science and statistics is dependent on the development of both analytical and computational skills. As statistics educators we are more familiar and comfortable with teaching the former, but the latter is becoming increasingly important. The goal of this workshop is to equip educators with concrete information on content and infrastructure for painlessly introducing modern computation into a data science and/or statistics curriculum. In addition to gaining technical knowledge, participants will engage in discussion around the decisions that go into choosing infrastructure and developing curriculum. Workshop attendees will work through several exercises from existing courses and get first-hand experience with using relevant tool-chains and techniques, including R/RStudio, literate programming with R Markdown, and collaboration, version control, and automated feedback with Git/GitHub. We will also discuss best practices for configuring and deploying classroom infrastructures to support these tools. This workshop is aimed at participants who are interested in the role of computing in either a Statistics or Data Science curriculum, including faculty designing new courses/programs and those interested in adding or improving a computational component to an existing course. A basic knowledge of R is assumed and familiarity with Git is preferred.'
+  title: Expresiones regulares para la limpieza y transformación de datos
+  language: es
+  speakers: [1, 2]
+  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-09-29/09:00/>Horario</a> <br/>
+  Este taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como "regex"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del "Tidyverse". Los ejemplos prácticos se enfocarán en el trabajo con dataframes y archivos de texto y en cómo utilizar expresiones regulares en conjunto con funciones de los paquetes {stringr}, {dplyr} y {tidyr} <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por RLadies Talca, RLadies Galápagos, RLadies Ciudad de México, RLadies Valparaíso y RLadies Santiago. Puedes inscribirte a través de cualquiera de estos enlaces:
+  <ul>
+    <li> <a href = https://www.meetup.com/es/rladies-talca/events/273486730/>RLadies Talca</a> </li>
+    <li> <a href = https://www.meetup.com/es/rladies-galapagos-islands/events/273493704/>RLadies Galápagos</a> </li>
+    <li> <a href = https://www.meetup.com/es/rladies-cdmx/events/273511609/>RLadies CDMX</a> </li>
+    <li> <a href = https://www.meetup.com/es/rladies-valparaiso/events/273511476/>RLadies Valparaíso</a> </li>
+    <li> <a href = https://www.meetup.com/es/rladies-scl/events/273511502/>RLadies Santiago</a> </li>
+  </ul>'
+
 
 - id: 002
-  title: {en: 'Fast and Scalable Machine Learning with H2O',
-          es: 'Fast and Scalable Machine Learning with H2O',
-          pt: 'Fast and Scalable Machine Learning with H2O'}
-  # complexity: {en: "Basic/Intermediate", es: "Básico/Intermedio", pt: "Básico/Médio"}
-  language: en
-  speakers: [200]
-  description: 'El taller mostrará herramientas de “Deep Learning” aplicadas a problemas de Regresión, Clasificación y “Novelty Detection”. Se utilizará la interfaz KERAS basada en TensorFlow, tecnología de código abierto creada por Google para el desarrollo del aprendizaje automático. Se enseñarán a lo largo del taller los conceptos fundamentales de los métodos tratados, y se darán ejemplos de caso mediante el uso del entorno de desarrollo integrado Rstudio. <br>
-<p>Quienes concurran al tutorial de Erin deberán tener instalado:</p>
-
-<ol>
-  <li>
-    <p>Java versión 7 a 11 (la ultima versión de Java, la 12, no funciona). Para quienes tienen Linux, deberán tener instalado openJDK. La versión 11 de Java se puede bajar de <a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html">aquí</a>. Oracle pide registrarse, pero se puede evitar usando usuarios comunitarios de <a href="https://t.co/psn0YfNTaP?amp=1">este link</a>.</p>
-  </li>
-  <li>
-    <p>h2o desde CRAN o desde <a href="http://h2o-release.s3.amazonaws.com/h2o/rel-yau/3/index.html">este link</a>.</p>
-  </li>
-</ol>
-
-<p>Otras cosas a tener en cuenta:</p>
-<ul>
-  <li>Si hay usuaries de Python, pueden instalar, además de Java, el paquete h2o usando Pip. El tutorial tendrá código tanto para R como para Python.</li>
-  <li>h2o.xgboost no esta implementado para Windows y no funcionará en estos casos.</li>
-  <li>Cualquier problema con la instalación de h2o, puede usarse desde rstudio.cloud donde todo h2o funciona independientemente del sistema operativo de la maquina de cada estudiante.</li>
-  <li>Mas tips de debugging o detalles sobre la instalación de Java en <a href="https://twitter.com/ledell/status/1148512123083010048">este hilo</a>.</li>
-</ul>'
+  title: Aplicaciones web interactivas con Shiny
+  language: es
+  speakers: [3, 4, 5]
+  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-09-29/18:00/>Horario</a> <br/>
+  ¿Quieres generar una página web interactiva a partir de tu código de R? Con el paquete Shiny, resulta sencillo tomar tu trabajo en R y exponerlo a través de un navegador web para que cualquiera pueda usarlo.En este taller inicial desarrollaremos una Shiny app de principio a fin. Te acompañaremos para que puedas generar la interfaz de usuario y el código del servidor. Brindaremos a la par algunas prácticas y tips al momento de su construcción así como recomendaciones de paquetes que pueden mejorar sustancialmente la app.Para finalizar te mostraremos formas gratuitas en las que podrás compartir la misma. <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por RLadies Querétaro y RLadies Concepción. Puedes inscribirte a través de cualquiera de estos enlaces:
+  <ul>
+    <li> <a href = https://www.meetup.com/es/rladies-queretaro/events/273508288/>RLadies Querétaro</a> </li>
+    <li> <a href = https://www.meetup.com/es/rladies-concepcion/events/273495052/>RLadies Concepción</a> </li>
+  </ul>'
 
 - id: 003
-  title: {en: 'Visualización de Datos con Highcharter',
-          es: 'Visualización de Datos con Highcharter',
-          pt: 'Visualización de Datos con Highcharter'}
-  # complexity: {en: "Intermediate", es: "Intermedio", pt: "Médio"}
-  language: es
-  speakers: [4]
-  description: "En este taller revisaremos la importancia de la visualización, aprenderemos de elementos técnicos como tipos de gráficos, correcto uso de colores, etiquetas y otros elementos; además de revisar buenas prácticas a considerar al momento de realizar una visualización. Luego, con R aprenderemos a realizar simples, interactivos y efectivos gráficos usando solo la función hchart, para después estudiar las funciones para configurar cada elemento del gráfico tales como los ejes, títulos, tooltips. Aprenderemos a graficar datos provenientes data.frames y otras fuentes de información, como datos espaciales. Finalizaremos aprendiendo cómo es como es la integración de highcharter con los paquetes Shiny y RMarkdown."
+  title: Escrevendo manuscritos acadêmicos usando rmarkdown
+  language: pt
+  speakers: [6, 7]
+  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-09-30/18:00/>Horario</a> <br/>
+  Esta oficina vai mostrar os diferentes passos e ferramentas para escrever manuscritos acadêmicos ou relatórios técnicos de forma automatizada e reprodutível usando R e rmarkdown. Iremos abordar os seguintes temas: estrutura de um documento de rmarkdown, estrutura de pastas, fluxos de trabalho de um projeto de escrita, boas práticas de programação em R, citação (arquivos .bib) e gestores de bibliografia, formatação e integração com editores de texto tradicionais e LaTeX. A oficina será dividida em uma parte conceitual e uma parte prática. O objetivo é que todas as pessoas participantes finalizem a oficina com um documento de texto gerado a partir de um arquivo Rmd contendo texto, uma figura, uma tabela e referências bibliográficas. <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por RLadies Natal y RLadies Rio de Janeiro. Puedes inscribirte a través de cualquiera de estos enlaces:
+  <ul>
+    <li> <a href = https://www.meetup.com/es/rladies-natal/events/273508552/>RLadies Natal</a> </li>
+    <li> <a href = https://www.meetup.com/pt-BR/rladies-rio/events/273511481/>RLadies Rio de Janeiro</a> </li>
+  </ul>'
 
 - id: 004
-  title: {en: 'Package Development',
-          es: 'Package Development',
-          pt: 'Package Development'}
-  # complexity: {en: "Intermediate", es: "Intermedio", pt: "Médio"}
-  language: en
-  place: {en: "Room 2", es: "Auditorio 2", pt: "Planta baixa"}
-  speakers: [1]
-  description: "The key to well-documented, well-tested and easily-distributed R code is the package. This half day class will teach you how to make package development as easy as possible with devtools and usethis. You’ll also learn roxygen2 to document your code so others (including future you!) can understand what’s going on, and testthat to avoid future breakages. The class will consist of a series of demonstrations and hands on exercises.
-
-Participants should bring a laptop setup to build R packages. Detailed instructions are available <a href = 'https://r-pkgs.org/intro.html#intro-prep'>here</a>."
-
-
+  title: Importando datos desde hojas de cálculo
+  language: es
+  speakers: [8]
+  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-01/14:00/>Horario</a> <br/>
+  Importando datos desde hojas de cálculo | Luis D. Verde Arregoitia | A menudo se comparten hojas de cálculo con información poco estructurada, o codificada como formato del texto y/o de las celdas que no se trasladan directamente a un objeto de R (ej. celdas de colores para denotar categorías). Ésto resulta en pérdida de información potencialmente relevante, o bien, pérdida de tiempo al tener que interpretar y limpiar manualmente los valores de las celdas. En este taller se enseñará a importar y manejar este tipo de datos a R. Además, se demostrará la lectura y escritura de archivos .xls y .xlsx (paquetes readxl y writexl), el manejo de archivos con múltiples pestañas (paquete purrr), celdas con formato (paquetes tidyxl y unheadr), y la nueva funcionalidad del paquete googlesheets4 que permite leer y escribir en hojas de cálculo en línea, facilitando la colaboración de manera reproducible. Al final del taller, los asistentes serán capaces de compatibilizar el uso de R con las hojas de cálculo en sus flujos de trabajo y colaboraciones.
+  <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por capítulos de RLadies de México y Colombia y el grupo de R de Rosario. Puedes inscribirte a través de cualquiera de estos enlaces:
+  <ul>
+    <li> <a href = https://www.meetup.com/es/rladies-puebla/events/273492185/>RLadies Puebla</a> </li>
+    <li> <a href = https://www.meetup.com/es/rladies-xalapa/events/273488216/>RLadies Xalapa</a> </li>
+    <li> <a href = https://www.meetup.com/es-ES/rladies-barranquilla/events/273513946/>RLadies Barranquilla</a> </li>
+    <li> <a href = https://www.meetup.com/es/R-en-Rosario/events/273492270/>R en Rosario</a> </li>
+  </ul>'
 
 - id: 005
-  title: {en: 'Opening',
-          es: 'Inauguración',
-          pt: 'Inauguración'}
-  service: true
+  title: Introducción al ABC para enseñar on-line
+  language: es
+  speakers: [9, 19, 20]
+  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-02/09:00/>Horario</a> <br/>
+  Vamos a introducir buenas prácticas básicas para manejo del aula presencial online. Cada detalle del taller, empezando por el formulario de pre-inscripción hasta el pedido de devolución finalizado el taller, pasando por la ejecución del mismo, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier tarea docente que sucede interactuando en simultáneo con estudiantes. Durante el taller tendremos una demostración de cómo contactar y preparar estudiantes para sumarse a la clase sincrónica, cómo manejar un aula virtual de 20 personas usando Zoom, veremos ejemplos para crear un ambiente positivo y tendremos una introducción a conceptos pedagógicos de diseño de clases con foco en la audiencia, esquematización de contenidos con mapas conceptuales, evaluación formativa con poder diagnóstico, participación en un documento colaborativo para tomar notas y resolver evaluaciones formativas y otras herramientas pedagógicas basadas en evidencia y fáciles de implementar.
+  <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido en forma conjunta por:
+  <ul>
+    <li> <a href = https://www.meetup.com/es/rladies-general-pico/events/273509840/>R-Ladies General Pico</a> </li>
+    <li> <a href = https://www.meetup.com/es/rladies-santa-rosa/events/273506766/>R-Ladies Santa Rosa</a> </li>
+  </ul>
+  Puedes inscribirte a través de <a href = "https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form">este formulario</a> usando la palabra clave LatinR en los comentarios del formulario. '
+
+- id: 009
+  title:  Generando tutoriales interactivos con el paquete learnr
+  language: es
+  speakers: [9, 10]
+  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-03/11:00/>Horario</a> <br/>
+En este tutorial presentamos al paquete learnr para generar tutoriales interactivos. La idea de un documento rmarkdown que permita recorrer un contenido, contestar preguntas y ejecutar código para recibir feedback inmediato es muy poderosa. Especialmente si ese tutorial puede estar disponible como un paquete o como un sitio web o en RStudio. Si tenes clases remotas o asincrónicas, si tenes un paquete y queres llevar la ayuda a otro nivel, si tenes alumnos iniciales y no queres que sufran la instalación de las herramientas un tutorial interactivo te puede ayudar
+  <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido en forma conjunta por:
+  <ul>
+    <li> <a href = https://www.meetup.com/es-ES/rladies-general-pico/events/273547213/>R-Ladies General Pico</a> </li>
+    <li> <a href = https://www.meetup.com/es-ES/rladies-santa-rosa/events/273513242/>R-Ladies Santa Rosa</a> </li>
+  </ul>'
+
 
 - id: 006
-  title: {en: 'UAI sponsored talk',
-          es: 'Charla Sponsor UAI',
-          pt: 'Charla Sponsor UAI'}
+  title: Introducción a Machine Learning con Tidymodels
+  language: es
+  speakers: [11, 12, 13]
+  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-02/09:00/>Horario</a> <br/>
+  Este taller es introductorio y permitirá dar los primeros pasos en el universo tidymodels, el cual está formado por un conjunto de paquetes creados para aprendizaje automático siguiendo la filosofía tidyverse. El curso tendrá una breve introducción teórica y luego nos centraremos en entrenar y evaluar modelos de machine learning para resolver problemas de predicción y clasificación utilizando algunos de los paquetes como rsample, parsnip, yardstick, entre otros. El asistente luego del curso podrá ejecutar modelos de predicción y clasificación y evaluar su performance.
+  <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por los siguientes RLadies Cuernavaca y RLadies Mendoza. Puedes inscribirte a través de cualquiera de estos enlaces:
+  <ul>
+    <li> <a href = https://www.meetup.com/es/rladies-cuernavaca>RLadies Cuernavaca</a> </li>
+    <li> <a href = https://www.meetup.com/es/rladies-mendoza/events/273489088/>RLadies Mendoza</a> </li>
+  </ul>'
+
 
 - id: 007
-  title: {en: 'Keynote: R 4 All: Welcoming and inclusive practices for teaching R',
-          es: 'Charla Plenaria: R 4 All: Welcoming and inclusive practices for teaching R',
-          pt: 'Charla Plenaria: R 4 All: Welcoming and inclusive practices for teaching R'}
-  speakers: [2]
+  title: 'Shiny: zero to hero'
+  language: pt
+  speakers: [14, 15, 16]
+  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-06/10:00/>Horario</a> <br/>
+  Nesse workshop falaremos de shiny apps com ideias contemporâneas. Além de uma introdução, falaremos sobre produção de shiny em pacotes com {golem}, autenticação com {auth0} e alguns pacotes interessantes para customização, como {bs4Dash}, {esquisse} e outras novidades.
+  <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido por RLadies Niterói. Puedes inscribirte a travś de estos enlaces:
+  <ul>
+    <li> <a href = https://www.meetup.com/es/rladies-niteroi>RLadies Niterói.</a></li>
+  </ul>'  
 
-
-- id: 8
-  title: {en: 'Roundtable: Communities - rOpenSci, The Carpentries, R-Ladies and other RUGs, SatRdays, LatinR',
-          es: 'Mesa temática: Comunidades - rOpenSci, The Carpentries, R-Ladies y otros RUGs, SatRdays, LatinR'}
-  speakers: [110, 111, 20, 83, 42, 17, 4, 112, 113, 74]
-
-- id: 9
-  title: {en: 'Roundtable: Data science for public policies',
-          es: 'Mesa temática: Ciencia de datos para las políticas públicas '}
-  speakers: [107, 108, 55 ,109, 7]
-
-
-- id: 10
-  title: "Codificación automatizada de textos aplicada a la producción de estadísticas oficiales"
-  speakers: [5, 6, 7]
-
-- id: 11
-  title: "Using the ‘nasapower’ package to merge open source meteorological data to individual-level health data from the CESCAS I cohort study in Argentina, Chile, and Uruguay."
-  speakers: [8, 9, 10, 11, 12, 13, 14, 15]
-
-- id: 12
-  title: "Sistema para gestión de zonas a relevar en campo usando R."
-  speakers: [16, 17]
-
-- id: 13
-  title: "Fuzzy merging with company names"
-  speakers: [18]
-
-- id: 14
-  title: "rECH: una caja de herramientas para procesar la Encuesta Continua de Hogares (ECH) de Uruguay usando R"
-  speakers: [16, 17]
-
-- id: 15
-  title: "inexact: un addin de RStudio para supervisar la unión fuzzy de bases de datos"
-  speakers: [19]
-
-
-- id: 16
-  title: "Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina"
-  speakers: [20, 21]
-
-- id: 17
-  title: "De la zoología a las aplicaciones generales, unheadR: un paquete para estructurar datos no ordenados"
-  speakers: [22]
-
-- id: 18
-  title: "¿Quienes investigan sobre género?"
-  speakers: [23, 24]
-
-- id: 19
-  title: "AHP implementada em R"
-  speakers: [25, 26, 27, 28, 29]
-
-- id: 20
-  title: "Auto-Keras: An R easily accessible deep learning library"
-  speakers: [30, 31]
-
-- id: 21
-  title: "Reproducible Analysis in the UK Government"
-  speakers: [32, 33, 34, 35]
-
-- id: 22
-  title: "alicer: Creando un paquete con soluciones analíticas para Walmart Chile"
-  speakers: [36, 37]
-
-- id: 23
-  title: "Story-telling interativo com dados de despesa pública: uma análise sobre os Estados brasileiros."
-  speakers: [38, 39, 40, 41]
-
-- id: 24
-  title: "Si te gusta la estadística, bancate los metámeros"
-  speakers: [42]
-
-- id: 25
-  title: "Inteligencia Electoral: comportamiento y campañas"
-  speakers: [43, 44]
-
-- id: 26
-  title: "Uso de R en ambiente productivos"
-  speakers: [45]
-
-- id: 27
-  title: 'Package "lobbyR"'
-  speakers: [46, 47]
-
-- id: 28
-  title: "GeoModels: un paquete para el análisis de datos geoestadísticos gaussianos y no-gaussianos"
-  speakers: [48, 49, 50]
-
-- id: 29
-  title: "Abriendo y analizando los Diarios de Sesiones del Parlamento uruguayo con R"
-  speakers: [51]
-
-
-
-- id: 30
-  title: {en: 'Wellcome',
-          es: 'Bienvenida',
-          pt: 'Bienvenida'}
-  service: true
-
-- id: 31
-  title: {en: 'Data UC sponsored talk',
-          es: 'Charla Sponsor Data UC',
-          pt: 'Charla Sponsor Data UC'}
-
-
-- id: 32
-  title: {en: 'Keynote: Automatic Machine Learning with H2O',
-          es: 'Charla Plenaria: Automatic Machine Learning with H2O',
-          pt: 'Charla Plenaria: Automatic Machine Learning with H2O'}
-  speakers: [200]
-
-- id: 33
-  title: "Predicción de heladas usando aprendizaje automático e internet de las cosas"
-  speakers: [52, 53, 54]
-
-- id: 34
-  title: "Open Trade Statistics: Database, API, Dashboard and Utility Program made with R"
-  speakers: [55]
-
-
-- id: 35
-  title: "Uso de R y Shiny en el desarrollo de modelos predictivos aplicados a ciencias del suelo"
-  speakers: [56, 57, 58, 59, 60]
-
-- id: 36
-  title: "PulmonDB is a database of integrated and curated public gene expression data of lung diseases with an accessible web interface and R package"
-  speakers: [61, 62, 63, 64, 65, 66, 67, 68, 69, 70]
-
-
-- id: 37
-  title: "Uso de un enfoque de aprendizaje automático para predecir éxito en el tratamiento de adicciones"
-  speakers: [71, 72, 73, 74]
-
-- id: 38
-  title: "GCM compareR: una aplicación web para evaluar escenarios de cambio climático"
-  speakers: [75, 76, 77, 78, 79]
-
-- id: 39
-  title: "Predicción de precios de la vivienda. Aprendizaje estadístico con precios de oferta y transacción"
-  speakers: [80]
-
-- id: 40
-  title: "rvad: perfiles verticales de viento a patir de datos de radares meteorológicos"
-  speakers: [81, 42]
-
-- id: 41
-  title: "Predicción de la sequía agrícola en Chile: regresión lineal vs deep learning"
-  speakers: [82]
-
-- id: 42
-  title: "InHostShiny: aplicación Shiny para el ajuste y análisis de modelos compartimentales in-host para infecciones virales en poblaciones celulares"
-  speakers: [83]
-
-- id: 43
-  title: "Shiny Smart City: A cidade inteligente em tempo real"
-  speakers: [28, 26, 25, 84]
-
-- id: 44
-  title: "Determinación del origen geográfico de mieles de Mendoza (Argentina) mediante análisis multielemental y árboles de decisión en R"
-  speakers: [85, 52, 86, 87, 88, 89]
-
-- id: 45
-  title: "Mapeando la Vulnerabilidad Sanitaria en Argentina con R"
-  speakers: [90, 91, 92]
-
-- id: 46
-  title: "Análisis de patrones de respuesta en una evaluación estandarizada bajo el marco del análisis forense de datos"
-  speakers: [93, 94]
-
-- id: 47
-  title: "Extracción de datos de redes sociales para monitorear el servicio de transporte de la Ciudad de Buenos Aires"
-  speakers: [95]
-
-- id: 48
-  title: "Comparación de estructuras de modelos loglineales"
-  speakers: [96, 97]
-
-- id: 49
-  title: "R en movimiento: una revisión de los paquetes para analizar movimiento dirigida a usuarios y desarrolladores"
-  speakers: [98, 99, 100 ,101, 102, 103]
-
-- id: 50
-  title: "Eficiencia de los gobiernos locales en educación: Un enfoque desde el espacio para el caso chileno"
-  speakers: [104, 105, 106]
-
-- id: 51
-  title: {en: "Poster session and coffee break",
-          es: "Sesión de pósters y café"}
-  description: "26: Explorando o ENADE com o R na Visão de Gestor de Curso - Guilherme Souza, Ariel Levy, Orlando Celso Longo and Luciane Ferreira Alcoforado<br>55: Análisis de comentarios de la página de Facebook del Centro de Admisión y Promoción de la Universidad Nacional Agraria La Molina - Jesús Eduardo Gamboa Unsihuay<br>80: Procesamiento eficiente de series de tiempo de raster espacio temporales en R - Matías Alejando Castillo Moine and Mónica Balzarini<br>10: Data analysis using R of a Trauma Registry at 14 hospitals in Buenos Aires, Argentina. - Ezequiel Monteverde, Santiago Donikian, Marilina Santero, Laura Bosque and Jorge Alberto Neira<br>27: Visualizing Discriminative Power of Symbol-based Network Traffic Models - Carlos Catania and Jorge Guerra<br>23: Desarrollo e implementación de un Observatorio de Susceptibilidad Antimicrobiana en un hospital de alta complejidad en Chile. - Ignacio Castro, Gonzalo Nuñez and María Simian<br>42: Desafíos de la enseñanza de R en contextos hispanoparlantes: una herramienta interactiva para el campo de las ciencias sociales - Giorgio Boccardo and Felipe Ruiz<br>44: Herramientas de Análisis en Educación Superior - Claudia Cifuentes Donald<br>52: Metodología para la estimación espacio-temporal de la demanda de riego (Evapotranspiración real) mediante algoritmos de reproyección y paralelización web. - David Morales, David Morales and Stephanie Orellana<br>53: Sistema de soporte de decisiones en Shiny para el balanceo de bicicletas en una red de bicicletas compartidas - Juan Francisco Venegas Gutiérrez and Rodrigo Barraza Alonso<br>74: El imaginario social asociado con la Feria Nacional de San Marcos en Aguascalientes - Driselda Patricia Sánchez Aguirre and Luis Domingo Martínez Vázquez<br>9: Usos del paquete xgboost en R: Índice de trauma -vs-TRISS para predicción de mortalidad en pacientes traumatizados. - Ezequiel Monteverde, Santiago Donikian,\n                 Marilina Santero, Laura Bosque and Jorge Alberto Neira<br>36: Evangelización en el uso y manejo de información espacial para servicios educativos en ámbitos de contextos bilingües, en lengua originaria e interculturalidad en el Perú, utilizando R y QGIS. - Luis Eduardo Ferrer Cruz<br>56: Análisis de Redes: ¿una nueva forma de comprender como la percepción de la (in)seguridad frente al delito afecta a la calidad de vida de las personas? - Patricia Caro, Teresa Braicovich and Casullo Fernando Miguel<br>81: ¿El auge de un \"precariado\" ?: Patrón de inversión en capital humano avanzado en Chile. - Pablo A Cortés, Carla N Rivera and Manuel Muñoz<br>2: Use of R to work with public data in data journalism - Gabriel Zanlorenssi<br>84: Reglas de Asociación, una aplicación en retail del mercado outdoor. - Gabriela Sandoval"
-
-- id: 52
-  title: "Noticias desde R4DS_es"
-
-- id: 53
-  title: {en: "Keynote: The many backends of dplyr",
-          es: "Charla plenaria: The many backends of dplyr"}
-  speakers: [1]
-
-- id: 54
-  title: {en: "Closing",
-          es: "Cierre"}
-  service: true
-
-
-- id: 55
-  title: Utilizar R como un Sistema de Información Geográfica y hacer análisis reproducible.
-  speakers: [114]
-
-
-- id: 56
-  title: Evaluación y monitoreo de plataformas educativas
-  speakers: [115, 116, 117, 118]
-
-- id: 57
-  title: "Datascketch: Herramientas web para limpieza y visualización de datos"
-  speakers: [119, 120]
+- id: 008
+  title: 'Comunicando seus resultados com R: aprenda a criar apresentações reprodutíveis'
+  language: pt
+  speakers: [17, 18]
+  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-10/15:00/>Horario</a> <br/>
+  O xaringan é um pacote que tem como objetivo possibilitar a criação de apresentações em HTML com R. Sob o contexto de programação em R, a combinação entre os pacotes RMarkdown e xaringan nos oferece uma elegante forma de criar slides usando R e RStudio. Com isso, a proposta deste minicurso consiste no ensino da criação de apresentações usando os pacotes mencionados, realizando uma atividade prática sobre a criação de apresentações do zero. O público alvo deste minicurso são pessoas de todas as áreas, que tenham interesse em aprender como criar slides inteiramente reprodutíveis usando R.
+  <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido por RLadies Goiania. Puedes inscribirte a travś de estos enlaces:
+  <ul>
+    <li> <a href = https://www.meetup.com/rladies-goiania/events/273531145/>RLadies Goiania</a></li>
+  </ul>'    

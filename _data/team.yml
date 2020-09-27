@@ -72,129 +72,116 @@
     pt: Comitê científico
   color: '#386CB0'
   people:
-  - id: 1
-    name: Marcela
-    surname: Alfaro
-    level: cientifico
-    titles: Universidad de Costa Rica
-  - id: 2
-    name: Ignacio
-    surname: Alverez-Castro
-    level: cientifico
-    titles: IESTA-Universidad de la República
-  - id: 3
-    name: Steve
-    surname: Arndt
-    level: cientifico
-    titles: University of Iowa, Estados Unidos
-  - id: 4
-    name: Mathias
-    surname: Bourel
-    level: cientifico
-    titles: IMERL-Universidad de la República
-  - id: 6
-    name: Marina
-    surname: Cock
-    level: cientifico
-    titles: Universidad Nacional de La Pampa - CONICET
-  - id: 7
-    name: Mario
-    surname: Cortina Borja
-    level: cientifico
-    titles: University College London
-  - id: 8
-    name: Maria
-    surname: Inés Fariello
-    level: cientifico
-    titles: IMERL-Universidad de la República
-  - id: 9
-    name: Ileana
-    surname: Frasier
-    level: cientifico
-    titles: INTA - CONICET
   - id: 10
     name: Adriana
     surname: Gili
     level: cientifico
     titles: Univsersidad Nacional de La Pampa
-  - id: 11
-    name: Juan
-    surname: José Goyeneche
+  - id: 100
+    name: Alejandra
+    surname: Tapia
     level: cientifico
-    titles: IESTA-Universidad de la República
-  - id: 13
-    name: Leonardo
-    surname: Moreno
+    titles: ""
+  - id: 26
+    name: Carmen
+    surname: Le Foulon
     level: cientifico
-    titles: IESTA-Universidad de la República
-  - id: 14
-    name: Priscilla
-    surname: Minotti
+    titles: Centro de Estudios Públicos (CEP)    
+  - id: 101
+    name: Francisco
+    surname: Urdinez
     level: cientifico
-    titles: Universidad Nacional de San Martín
+    titles: ""
   - id: 15
     name: Germán
     surname: Rosati
     level: cientifico
     titles: IDAES-UNSAM / CONICET, Argentina
-  - id: 16
-    name: Marcelo
-    surname: Soria
+  - id: 2
+    name: Ignacio
+    surname: Alverez-Castro
     level: cientifico
-    titles: CONICET-Universidad de Buenos Aires
-  - id: 17
-    name: Walter
-    surname: Sosa Escudero
-    level: cientifico
-    titles: CONICET-Universidad de San Andrés
-  - id: 20
-    name: Vianey
-    surname: Leos
-    level: cientifico
-    titles: North Carolina State Universuty
+    titles: IESTA-Universidad de la República
   - id: 21
     name: Jairo
     surname: Cugliari
     level: cientifico
     titles: ERIC-Université Lumière Lyon 2
-  - id: 22
-    name: Lucia
-    surname: Rodriguez Planes
-    level: cientifico
-    titles: Universidad Nacional de Tierra del Fuego - CONICET
-  - id: 23
-    name: Laura
-    surname: Ación
-    level: cientifico
-    titles: LatinR Inaugural Local Chair / UBA-CONICET, Argentina
-
-  - id: 24
-    name: Sara R. 
-    surname: Mara
-    level: cientifico
-    titles: Researcher at International Institute for Sustainability (IIS-Rio), Rio de Janeiro, Brazil
-
   - id: 25
     name: Juan Cruz 
     surname: Rodriguez
     level: cientifico
     titles: FAMAF - Universidad Nacional de Córdoba
-
-  - id: 26
-    name: Carmen
-    surname: Le Foulon
+  - id: 11
+    name: Juan
+    surname: José Goyeneche
     level: cientifico
-    titles: Centro de Estudios Públicos (CEP)
-  - id: 27
-    name: Zulema
-    surname: Bazurto Blacio
+    titles: IESTA-Universidad de la República
+  - id: 23
+    name: Laura
+    surname: Ación
     level: cientifico
-    titles: Universidad de Guayaquil
+    titles: LatinR Inaugural Local Chair / UBA-CONICET, Argentina                        
+  - id: 13
+    name: Leonardo
+    surname: Moreno
+    level: cientifico
+    titles: IESTA-Universidad de la República
+  - id: 22
+    name: Lucia
+    surname: Rodriguez Planes
+    level: cientifico
+    titles: Universidad Nacional de Tierra del Fuego - CONICET
+  - id: 1
+    name: Marcela
+    surname: Alfaro
+    level: cientifico
+    titles: Universidad de Costa Rica
+  - id: 6
+    name: Marina
+    surname: Cock
+    level: cientifico
+  - id: 8
+    name: Maria
+    surname: Inés Fariello
+    level: cientifico
+    titles: IMERL-Universidad de la República
+  - id: 103
+    name: Natalia
+    surname: Gattinoni
+    level: cientifico
+    titles: ""
+  - id: 104
+    name: Paloma
+    surname: Rojas Saunero
+    level: cientifico
+    titles: ""  
+  - id: 14
+    name: Priscilla
+    surname: Minotti
+    level: cientifico
+    titles: Universidad Nacional de San Martín    
+  - id: 24
+    name: Sara 
+    surname: Mortara
+    level: cientifico
+    titles: ""
+  - id: 20
+    name: Vianey
+    surname: Leos
+    level: cientifico
+    titles: North Carolina State Universuty
   - id: 28
     name: Victoria
     surname: O'Donell
     level: cientifico
     titles: Universidad de Buenos Aires
+  - id: 27
+    name: Zulema
+    surname: Bazurto Blacio
+    level: cientifico
+    titles: Universidad de Guayaquil            
+ 
 
 
 - level: organizer
