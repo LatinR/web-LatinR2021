@@ -87,6 +87,31 @@
       sessionIds: [007]
     }
 
+# -
+#   date: "2020-10-07"
+#   dateReadable: {en: "October 7th", es: "7 de octubre", pt: "7 de outubro"}
+#   tracks:
+#     - {title: {en: "Guest talk", es: "Charla invitada", pt: "Palestrante convidada"} , color: "#90be4e"}
+#   timeslots:
+#     - {
+#       startTime: "14:00",
+#       endTime: "15:00",
+#       sessionIds: [011]
+#     }
+
+
+-
+  date: "2020-10-09"
+  dateReadable: {en: "October 9th", es: "9 de octubre", pt: "9 de outubro"}
+  tracks:
+    - {title: {en: "Guest talk", es: "Charla invitada", pt: "Palestrante convidada"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "9:00",
+      endTime: "11:00",
+      sessionIds: [010]
+    }
+
 -
   date: "2020-10-10"
   dateReadable: {en: "October 10th", es: "10 de octubre", pt: "10 de outubro"}
