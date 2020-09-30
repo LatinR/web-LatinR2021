@@ -195,7 +195,17 @@ Si todo va bien al final del curso te sentirás capaz de crear un blog Rmd con e
   title: Repro Hack
   # language: en
   # speakers: 
-  # description: 
+  description: "Inscribite en: <a href=http://reprohack_latinr2020.eventbrite.com/>http://reprohack_latinr2020.eventbrite.com/</a><br/>
+ Cronograma: <br/>
+  10:00 – Presentación del evento <br/>
+10:20 – ¿Por qué es importante la reproducibilidad computacional? - Daniela Ballari. Universidad de Azuay, Ecuador.<br/>
+10:40 – Trucos y consejos para reproducir un paper - Florencia D'Andrea. INTA-CONICET, Argentina.<br/>
+11:00 – Hackatón - Primera ronda<br/>
+12:15 – Contribuyendo al código libre en R - Juan Cruz Rodíguez. Data Scientist.<br/>
+12:30 – ALMUERZO<br/>
+13:30 – Cómo escribir manuscritos reproducibles - Francisco Rodriguez-Sanchez. Universidad de Sevilla, España.<br/>
+14:00 – Hackatón - Segunda ronda.<br/>
+16:00 – Reproducibilidad entorno a una aplicación web -  Pablo Bernabeu. Universidad de Lancaster, UK."
 
 - id: 017
   title: {en: Shiny and data visualisation, es: Shiny y visualización de datos, pt: Shiny e visualização de dados}
