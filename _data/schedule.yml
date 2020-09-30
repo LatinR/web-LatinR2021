@@ -91,28 +91,78 @@
   date: "2020-10-07"
   dateReadable: {en: "October 7th", es: "7 de octubre", pt: "7 de outubro"}
   tracks:
-    - {title: {en: "Guest talk", es: "Charla invitada", pt: "Palestrante convidada"} , color: "#90be4e"}
+    - {title: {en: "Single track", es: "Track único", pt: "Track única"} , color: "#90be4e"}
   timeslots:
+    - {
+      startTime: "13:45",
+      endTime: "14:00",
+      sessionIds: [015]  #inaguracion
+    }
     - {
       startTime: "14:00",
       endTime: "15:00",
       sessionIds: [011]
     }
+    - {
+      startTime: "15:30",
+      endTime: "16:15",
+      sessionIds: [012]  # minería de textos
+    }
+    - {
+      startTime: "16:30",
+      endTime: "17:00",
+      sessionIds: [013]  # datos espaciales
+    }
+    - {
+      startTime: "17:15",
+      endTime: "18:15",
+      sessionIds: [014]  # modelos y aplicaciones
+    }
 
 
-
+-
+  date: "2020-10-08"
+  dateReadable: {en: "October 8th", es: "8 de octubre", pt: "8 de outubro"}
+  tracks:
+    - {title: {en: "Sessions", es: "Sesiones", pt: "Sessões"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime: "10:00",
+      endTime: "17:00",
+      sessionIds: [016]  # reprohaxk
+    }
+    - {
+      startTime: "17:30",
+      endTime: "18:15",
+      sessionIds: [017]  # shiny
+    }
+   
 -
   date: "2020-10-09"
   dateReadable: {en: "October 9th", es: "9 de octubre", pt: "9 de outubro"}
   tracks:
-    - {title: {en: "Guest talk", es: "Charla invitada", pt: "Palestrante convidada"} , color: "#90be4e"}
+    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
   timeslots:
     - {
       startTime: "9:00",
       endTime: "11:00",
-      sessionIds: [010]
+      sessionIds: [010]  # maëlle
     }
-
+    - {
+      startTime: "11:30",
+      endTime: "12:15",
+      sessionIds: [018]  # desarrollo de paquetes
+    }
+    - {
+      startTime: "12:30",
+      endTime: "13:15",
+      sessionIds: [019]  # políticas sociales
+    }
+    - {
+      startTime: "15:00",
+      endTime: "16:30",
+      sessionIds: [020]  # panel accesibilidady
+    }
 -
   date: "2020-10-10"
   dateReadable: {en: "October 10th", es: "10 de octubre", pt: "10 de outubro"}

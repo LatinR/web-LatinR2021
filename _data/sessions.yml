@@ -157,3 +157,80 @@ Si todo va bien al final del curso te sentirás capaz de crear un blog Rmd con e
   language: en
   speakers: [22]
   description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>'      
+
+
+- id: 012
+  title: {en: Text mining and web scraping, es: Minería de Textos y Web Scraping, pt: Mineração de Texto e Web Scraping}
+  # language: en
+  # speakers: 
+  description: {en: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKlNKVfiwHoGR3pHpg7x8Uzt>Youtube Playlist</a>',
+                es: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKlNKVfiwHoGR3pHpg7x8Uzt>Lista de reproducción en Youtube</a>',
+                pt: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKlNKVfiwHoGR3pHpg7x8Uzt>Lista de reprodução do Youtube</a>'}
+
+- id: 013
+  title: {en: Spatial data, es: Datos espaciales, pt: Dados espaciais}
+  # language: en
+  # speakers: 
+  description: {en: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKnBz_y5KCOdYa3HCOgLUq9U>Youtube Playlist</a>',
+                es: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKnBz_y5KCOdYa3HCOgLUq9U>Lista de reproducción en Youtube</a>',
+                pt: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKnBz_y5KCOdYa3HCOgLUq9U>Lista de reprodução do Youtube</a>'}
+
+
+- id: 014
+  title: {en: Models and applications, es: Modelos y aplicaciones, pt: Modelos e aplicativos}
+  # language: en
+  # speakers: 
+  description: {en: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKke60wxog3-9ecmOKY1cA01>Youtube Playlist</a>',
+                es: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKke60wxog3-9ecmOKY1cA01>Lista de reproducción en Youtube</a>',
+                pt: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKke60wxog3-9ecmOKY1cA01>Lista de reprodução do Youtube</a>'}
+
+
+- id: 015
+  title: {en: Inauguration and welcome, es: Inauguración y bienvenida, pt: Inauguração e boas-vindas}
+  # language: en
+  # speakers: 
+  # description: 
+
+- id: 016
+  title: Repro Hack
+  # language: en
+  # speakers: 
+  # description: 
+
+- id: 017
+  title: {en: Shiny and data visualisation, es: Shiny y visualización de datos, pt: Shiny e visualização de dados}
+  # language: en
+  # speakers: 
+  description: {en: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKnixQ0u36DgCsGvOkOIo5D1>Youtube Playlist</a>',
+                es: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKnixQ0u36DgCsGvOkOIo5D1>Lista de reproducción en Youtube</a>',
+                pt: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKnixQ0u36DgCsGvOkOIo5D1>Lista de reprodução do Youtube</a>'}
+
+
+- id: 018
+  title: {en: Package development, es: Desarrollo de paquetes, pt: Desenvolvimento de pacote}
+  # language: en
+  # speakers: 
+  description: {en: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKkxsS3dkaFTvmh24kPpkE-->Youtube Playlist</a>',
+                es: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKkxsS3dkaFTvmh24kPpkE-->Lista de reproducción en Youtube</a>',
+                pt: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKkxsS3dkaFTvmh24kPpkE-->Lista de reprodução do Youtube</a>'}
+
+
+- id: 019
+  title: {en: Applications with educational data and social policy, es: Aplicaciones con datos educativos y políticas sociales, pt: Aplicativos com dados educacionais e políticas sociais}
+  # language: en
+  # speakers: 
+  description: {en: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKlkjEb7wFN_lAeO72sLFY3D>Youtube Playlist</a>',
+                es: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKlkjEb7wFN_lAeO72sLFY3D>Lista de reproducción en Youtube</a>',
+                pt: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKlkjEb7wFN_lAeO72sLFY3D>Lista de reprodução do Youtube</a>'}
+
+- id: 020
+  title: {en: Accessibility and inclusion panel, es: Panel de accesibilidad e inclusión, pt: Painel de acessibilidade e inclusão}
+  # language: en
+  # speakers: 
+  # description: 
+
+
+
+
+
+
