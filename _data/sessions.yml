@@ -237,7 +237,7 @@ Si todo va bien al final del curso te sentirás capaz de crear un blog Rmd con e
   title: {en: Accessibility and inclusion panel, es: Panel de accesibilidad e inclusión, pt: Painel de acessibilidade e inclusão}
   language: es
   # speakers: 
-  description: "¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología? <br/>
+  description: {es: "¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología? <br/>
 En esta ocasión reunimos a integrantes de diferentes comunidades Latinoamericanas que promueven y trabajan por la inclusión y accesibilidad en el mundo de la tecnología para que den a conocer su trabajo, sus objetivos, logros y desafíos a la hora de lograr una inclusión y accesibilidad real. Queremos generar un espacio de reflexión, donde podamos pensar en conjunto sobre la importancia de que la tecnología sea más inclusiva y accesible a todes  y pensar a las comunidades como actores principales para llevar a cabo este objetivo.<br/>
 Modera: 
 <ul>
@@ -252,13 +252,45 @@ Participan:
     <li>Fernanda Kelly - R-Ladies Goiânia - Brasil</li>
     <li>Lupe Canaviri Maydana - Laboratoria & PyLadies El Alto - Bolivia</li>
   </ul>
-  <br/>"
+  <br/>
+Para registrarse: <a href=https://panel-2020.eventbrite.cl>https://panel-2020.eventbrite.cl</a>  ",
 
+   en: "What are we talking about when we talk about inclusion and accessibility in the world of technology? <br/>
+On this occasion, we brought together members of different Latin American communities that promote and work for inclusion and accessibility in the technology world so that they can share their work, their objectives, achievements and challenges in bringing about real inclusion and accessibility. We want to generate a space for reflection, where we can think together about the importance of making technology more inclusive and accessible to everyone and think of communities as the main actors to carry out this objective.<br/>
 
+Moderated by:
+<ul>
+    <li>Andrea Gómez Vargas - LatinR & Rladies Buenos Aires co-organizer</li>
+</ul>
+Panelists: 
+  <ul>
+    <li>DALAT  - Latin American Accessible Development</li>
+    <li>Abe y Coi - Transistemas Argentina</li>
+    <li>Joselyn Chávez - R-Ladies Cuernavaca & R-Ladies México</li>
+    <li>Milagros Villavicencio - R-Ladies Natal - Brasil </li>
+    <li>Fernanda Kelly - R-Ladies Goiânia - Brasil</li>
+    <li>Lupe Canaviri Maydana - Laboratoria & PyLadies El Alto - Bolivia</li>
+  </ul>
+  <br/>
+Registration at: <a href=https://panel-2020.eventbrite.cl>https://panel-2020.eventbrite.cl</a>",
 
-
-
-
+pt: "¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología? <br/>
+En esta ocasión reunimos a integrantes de diferentes comunidades Latinoamericanas que promueven y trabajan por la inclusión y accesibilidad en el mundo de la tecnología para que den a conocer su trabajo, sus objetivos, logros y desafíos a la hora de lograr una inclusión y accesibilidad real. Queremos generar un espacio de reflexión, donde podamos pensar en conjunto sobre la importancia de que la tecnología sea más inclusiva y accesible a todes  y pensar a las comunidades como actores principales para llevar a cabo este objetivo.<br/>
+Modera: 
+<ul>
+    <li>Andrea Gómez Vargas - LatinR & Rladies Buenos Aires co-organizadora</li>
+</ul>
+Participan: 
+  <ul>
+    <li>DALAT  - Desarrollo Accesible Latinoamericano</li>
+    <li>Abe y Coi - Transistemas Argentina</li>
+    <li>Joselyn Chávez - R-Ladies Cuernavaca & R-Ladies México</li>
+    <li>Milagros Villavicencio - R-Ladies Natal - Brasil </li>
+    <li>Fernanda Kelly - R-Ladies Goiânia - Brasil</li>
+    <li>Lupe Canaviri Maydana - Laboratoria & PyLadies El Alto - Bolivia</li>
+  </ul>
+  <br/>
+Para registrarse: <a href=https://panel-2020.eventbrite.cl>https://panel-2020.eventbrite.cl</a> "}
 
 
 
