@@ -156,7 +156,8 @@ Si todo va bien al final del curso te sentirás capaz de crear un blog Rmd con e
   title: 'Learning without a net'
   language: en
   speakers: [22]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>'      
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  I'll plan to talk about my experiences learning new data science skills on my own, and some broader strategies for learning when you have to do it by yourself."
 
 
 - id: 012
