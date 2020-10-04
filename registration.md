@@ -49,7 +49,7 @@ The following tables show prices for this edition of LatinR. Note that tutorials
 
 #### Participants with oral communication or poster
 
-To ensure their place in the program, those who attend as authors must register before August 14th. If you need to make the payment by electronic transfer (e.g. if it is your institution that will pay the entrance fee), please contact the organization at: latinr2019@easychair.org.
+To ensure their place in the program, those who attend as authors must register before August 14th. If you need to make the payment by electronic transfer (e.g. if it is your institution that will pay the entrance fee), please contact the organization at: latinrconf@gmail.com.
 
 
 #### Refund Policy
@@ -58,7 +58,7 @@ To ensure their place in the program, those who attend as authors must register 
 
 - Up to 15 days before the start of the conference: 50% refund. The refund will be effective in 5 business days after the end of the conference. After that time, you can no longer opt for a refund.
 
-The ticket is transferable to another person free of charge. If you are unable to attend and would like to transfer your seat to another person, please write to latinr2019@easychair.org to arrange the transfer.
+The ticket is transferable to another person free of charge. If you are unable to attend and would like to transfer your seat to another person, please write to latinrconf@gmail.com to arrange the transfer.
 
 
 #### Program modifications

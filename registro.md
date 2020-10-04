@@ -26,7 +26,7 @@ La venta de entradas está disponible a través de la plataforma [Welcu](https:/
 
 Es posible cancelar el ticket a través de una transferencia bancaria en pesos chilenos o dólares y acceder a un 10% de descuento. Sin embargo, debes considerar que **si tu banco no está ubicado en Chile o EEUU el banco receptor cobra una comisión por transferencia internacional** que oscila entre 10 y 22 dólares, dependiendo del ticket que adquieras.  
 
-> Si deseas realizar una transferencia, escríbenos a latinr2019@easychair.org. 
+> Si deseas realizar una transferencia, escríbenos a latinrconf@gmail.com. 
 
 #### Valores
 
@@ -57,7 +57,7 @@ A continuación se detallan los valores para esta edición de LatinR. Cabe seña
 
 #### Participantes con comunicación oral o póster
 
-Para asegurar su cupo en el programa, quienes participan como autores deberán registrarse antes del 14 de agosto. En caso de necesitar hacer el pago por transferencia electrónica (porque, por ejemplo, es su institución la que pagará la entrada), por favor contactarse con la organización al correo: latinr2019@easychair.org.
+Para asegurar su cupo en el programa, quienes participan como autores deberán registrarse antes del 14 de agosto. En caso de necesitar hacer el pago por transferencia electrónica (porque, por ejemplo, es su institución la que pagará la entrada), por favor contactarse con la organización al correo: latinrconf@gmail.com.
 
 #### Política de reembolso
 
@@ -67,7 +67,7 @@ Para asegurar su cupo en el programa, quienes participan como autores deberán r
 
 El reembolso se hará efectivo 5 días hábiles luego de terminada la conferencia. 
 
-La entrada es transferible a otra persona sin cargo. En caso de que no puedas participar y quieras transferir tu cupo a otra persona, escríbenos a latinr2019@easychair.org para gestionar le traspaso.
+La entrada es transferible a otra persona sin cargo. En caso de que no puedas participar y quieras transferir tu cupo a otra persona, escríbenos a latinrconf@gmail.com para gestionar le traspaso.
 
 #### Modificaciones en el programa
 
