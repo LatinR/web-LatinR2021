@@ -50,10 +50,10 @@ en:
   bottomNavigationLinks:
   # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
   rightNavigationButtons:
-  # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
+   - {permalink: "https://latinr2020.eventbrite.com", text: "Register here!"}
   heroButtons:
    - {permalink: "/schedule", text: "Schedule"}
-  # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
+   - {permalink: "https://latinr2020.eventbrite.com", text: "Register here!"}
 
   aboutJAIIO: 'We are part of <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organised by <a href = "http://www.sadio.org.ar/">SADIO</a> and <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
@@ -142,10 +142,10 @@ es:
   bottomNavigationLinks:
   # - {permalink: "/blog/presentacion-trabajos", text: "llamado a presentación de trabajos"}
   rightNavigationButtons:
-  # - {permalink: "/blog/presentacion-trabajos", text: "llamado a presentación de trabajos"}
+   - {permalink: "https://latinr2020.eventbrite.com", text: "Registrate acá!"}
   heroButtons:
    - {permalink: "/cronograma", text: "Cronograma"}
-  # - {permalink: "/blog/presentacion-trabajos", text: "llamado a presentación de trabajos"}
+   - {permalink: "https://latinr2020.eventbrite.com", text: "Registrate acá!"}
 
   # about
   aboutJAIIO: 'Somos parte de las <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizadas por <a href = "http://www.sadio.org.ar/">SADIO</a> y co-organizadas por <a href = "http://www.palermo.edu/">UP</a>.'
@@ -243,10 +243,10 @@ pt:
   bottomNavigationLinks:
    # - {permalink: "/blog/chamada-trabalhos", text: "Chamada de trabalhos"}
   rightNavigationButtons:
-   # - {permalink: "/blog/chamada-trabalhos", text: "Chamada de trabalhos"}
+   - {permalink: "https://latinr2020.eventbrite.com", text: "Assine aqui!"}
   heroButtons:
    - {permalink: "/programacao", text: "Programação"}
-   # - {permalink: "/blog/chamada-trabalhos", text: "Chamada de trabalhos"}
+   - {permalink: "https://latinr2020.eventbrite.com", text: "Assine aqui!"}
 
   aboutJAIIO: 'Somos parte da <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizado por <a href = "http://www.sadio.org.ar/">SADIO</a> e <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
