@@ -4,11 +4,11 @@ footerBlocks:
  -
   title: {en: "Links", es: "Links", pt: "Links"}
   links:
-   # - {link: "http://47jaiio.sadio.org.ar/index.php?q=node/125", text: {en: "Web JAIIO", es: "Web JAIIO", pt: "Web JAIIO"}}
+   - {link: "https://github.com/LatinR", text: {en: "repository", es: "repositorio", pt: "repositório"}}
  -
   title: {en: "Contact", es: "Contacto", pt: "Contato"}
   links:
-   # - {link: "mailto:latinr@47jaiio.sadio.org.ar", text: {en: "latinr@47jaiio.sadio.org.ar", es: "latinr@47jaiio.sadio.org.ar", pt: "latinr@47jaiio.sadio.org.ar" }}
+   - {link: "mailto:latinr.conf@gmail.com", text: {en: "latinr.conf@gmail.com", es: "latinr.conf@gmail.com", pt: "latinr.conf@gmail.com" }}
  -
   title: {en: "FAQ", es: "FAQ", pt: "FAQ"}
   links:
@@ -19,12 +19,12 @@ footerBlocks:
 en: 
   about: About
   home: Home
-  schedule: Schedule
+  #schedule: Schedule
   speakers: Speakers
   team: Team
   logistics: Logistics
   inscribite: Register
-  eventDate: "October 7th through 9th 2020 - Virtually"
+  eventDate: "November 11-13, 2021 - Online"
   description: Latinamerican Conference About the Use of R in R&D
   metaKeywords: "event, R, conference, statistics, dataviz"
   tweetsFeedTitle: What's up?
@@ -40,27 +40,27 @@ en:
   # Navigation
   navigationLinks:
    - {permalink: "/en", text: "Home" }
-   - {permalink: "/schedule/", text: "Schedule"}
+  # - {permalink: "/schedule/", text: "Schedule"}
   # - {permalink: "/speakers/", text: "Speakers"}
    - {permalink: "/team/", text: "Team"}
-   - {permalink: "/logistics/", text: "Logistics"}
+  # - {permalink: "/logistics/", text: "Logistics"}
    - {permalink: "/blog-en/", text: "News"}
    - {permalink: "/previous-editions", text: "Previous Editions"}
 
   bottomNavigationLinks:
-  # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
-  rightNavigationButtons:
-   - {permalink: "https://latinr2020.eventbrite.com", text: "Register here!"}
+   - {permalink: "/blog/call-for-papers", text: "Call for papers"}
+  #rightNavigationButtons:
+  # - {permalink: "https://latinr2020.eventbrite.com", text: "Register here!"}
   heroButtons:
-   - {permalink: "/schedule", text: "Schedule"}
-   - {permalink: "https://latinr2020.eventbrite.com", text: "Register here!"}
+  # - {permalink: "/schedule", text: "Schedule"}
+  # - {permalink: "https://latinr2020.eventbrite.com", text: "Register here!"}
 
-  aboutJAIIO: 'We are part of <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organised by <a href = "http://www.sadio.org.ar/">SADIO</a> and <a href = "http://www.palermo.edu/">UP</a>.'
+  #aboutJAIIO: 'We are part of <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organised by <a href = "http://www.sadio.org.ar/">SADIO</a> and <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
-   - {title: "Conferences", image: "conference.png", text: "Talks by leaders of the use in R in various areas." }
-   - {title: "Oral presentations", image: "presentation.png", text: "Presentations of research results and demonstrations of applications created with R." }
+   - {title: "Talks", image: "conference.png", text: "Talks by leaders of the use in R in various areas." }
+   - {title: "Presentations", image: "presentation.png", text: "Presentations of research results and demonstrations of applications created with R." }
    - {title: "Round Tables", image: "mesa_redonda.png", text: "Stimulating discussion sessions about speciffic topics." }
-   - {title: "Posters/Lightning talks", image: "posters.png", text: "Discuss ideas, ongoing research, experiences and challenges in the use of R." }
+   - {title: "Lightning talks", image: "posters.png", text: "Discuss ideas, ongoing research, experiences and challenges in the use of R." }
 
 
   subscribeTitle: "Subscribe"
@@ -115,12 +115,12 @@ en:
 es: 
   about: Acerca de 
   home: Principal
-  schedule: Cronograma
-  speakers: Oradores
+  #schedule: Cronograma
+  # speakers: Oradores
   team: Equipo
   logistics: Logística
-  inscribite: Inscribite
-  eventDate: "7 al 9 de octubre 2020 - Virtual"
+  inscribite: Inscríbete
+  eventDate: "11 al 13 de noviembre de 2021 - Virtual"
   description: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
   metaKeywords: "evento, R, conferencia, estadística, dataviz"
   latestNewsTitle: "Novedades"
@@ -133,33 +133,33 @@ es:
   # Navigation
   navigationLinks:
    - {permalink: "/", text: "Principal" }
-   - {permalink: "/cronograma/", text: "Cronograma"}
+  # - {permalink: "/cronograma/", text: "Cronograma"}
   # - {permalink: "/oradores/", text: "Oradores"}
    - {permalink: "/equipo/", text: "Equipo"}
-   - {permalink: "/logistica/", text: "Logística"}
+  # - {permalink: "/logistica/", text: "Logística"}
    - {permalink: "/blog/", text: "Novedades"}
    - {permalink: "/ediciones-anteriores/", text: "Ediciones Anteriores"}
   bottomNavigationLinks:
-  # - {permalink: "/blog/presentacion-trabajos", text: "llamado a presentación de trabajos"}
+   - {permalink: "/blog/presentacion-trabajos-2021", text: "llamado a presentación de trabajos"}
   rightNavigationButtons:
-   - {permalink: "https://latinr2020.eventbrite.com", text: "Registrate acá!"}
+   #- {permalink: "https://latinr2020.eventbrite.com", text: "Registrate acá!"}
   heroButtons:
-   - {permalink: "/cronograma", text: "Cronograma"}
-   - {permalink: "https://latinr2020.eventbrite.com", text: "Registrate acá!"}
+   #- {permalink: "/cronograma", text: "Cronograma"}
+   #- {permalink: "https://latinr2020.eventbrite.com", text: "Registrate acá!"}
 
   # about
   aboutJAIIO: 'Somos parte de las <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizadas por <a href = "http://www.sadio.org.ar/">SADIO</a> y co-organizadas por <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
-   - {title: "Presentaciones Orales", image: "presentation.png", text: "Presentación de resultados de trabajos de investigación y demostración de aplicaciones creadas en R." }
-   - {title: "Conferencias", image: "conference.png", text: "Charlas de referentes en el uso de R en distintas áreas." }
+   - {title: "Comunicaciones orales", image: "presentation.png", text: "Presentación de resultados de trabajos de investigación y demostración de aplicaciones creadas en R." }
+   - {title: "Presentaciones", image: "conference.png", text: "Charlas de referentes en el uso de R en distintas áreas." }
    - {title: "Mesas Temáticas", image: "mesa_redonda.png", text: "Debates estimulantes sobre temas específicos." }
-   - {title: "Pósters/Charlas relámpago", image: "posters.png", text: "Discusión sobre ideas, investigaciones en curso, experiencias y desafíos en el uso de R." }
+   - {title: "Charlas relámpago", image: "posters.png", text: "Discusión sobre ideas, investigaciones en curso, experiencias y desafíos en el uso de R." }
 
 
   # Partners Block
   organizersTitle: "Organizadores"
   partnersTitle: "Con apoyo de"
-  partnersC4sponsorsButton: "Si querés ser un sponsor <br/> envia un mail a latinrconf@gmail.com"
+  partnersC4sponsorsButton: "Si quieres ser un sponsor <br/> envia un mail a latinrconf@gmail.com"
   c4sponsorsUrl: "mailto:latinrconf@gmail.com"
   subscribeTitle: "Subscribirse a novedades"
 
@@ -213,11 +213,11 @@ pt:
   about: Sobre
   home: Início
   schedule: Programação
-  speakers: Palestrantes
+  #speakers: Palestrantes
   team: Equipe
-  logistics: Logística
+  #logistics: Logística
   inscribite: Inscrever
-  eventDate: "7 a 9 de outubro de 2020 - Virtual"
+  eventDate: "11 a 13 de novembro de 2020 - Virtual"
   description: Conferência Latino-Americana sobre o Uso de R em P&D
   metaKeywords: "evento, R, conferência, estatística, visualização de dados"
   tweetsFeedTitle: Novidades
@@ -233,10 +233,10 @@ pt:
   # Navigation
   navigationLinks:
    - {permalink: "/pt", text: "Início" }
-   - {permalink: "/programacao/", text: "Programação"}
+   #- {permalink: "/programacao/", text: "Programação"}
   # - {permalink: "/palestrantes/", text: "Palestrantes"}
    - {permalink: "/pt/equipe/", text: "Equipe"}
-   - {permalink: "/pt/logistica/", text: "Logística"}
+  # - {permalink: "/pt/logistica/", text: "Logística"}
    - {permalink: "/pt/blog/", text: "Notícias"}
    # - {permalink: "/pt/edicoes-anteriores", text: "Edições anteriores"}
 
