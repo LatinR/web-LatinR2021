@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 encoding: UTF-8
 # Site Settings
-title: "LatinR 2020"
+title: "LatinR 2021"
 email: ""
 baseurl: ""
 url: "https://latinr.github.io/"
