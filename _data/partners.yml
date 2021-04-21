@@ -8,10 +8,10 @@
 #     - {name: "H2O.ai", description: "H2O.ai", link: "https://www.h2o.ai", imageUrl: "h20.png"}
 #     - {name: "Microsoft", description: "Microsoft", link: "https://www.microsoft.com/es-cl", imageUrl: "microsoft.png"}
 #     - {name: "RStudio", description: "RStudio", link: "https://www.rstudio.com/", imageUrl: "RStudio.png"}
--
-  group: {es: "", en: ""}
-  elements:
-    - {name: "R Consortium", description: "R Consortium", link: "https://www.r-consortium.org/", imageUrl: "RConsortium_Icon.png"}
+# -
+#   group: {es: "", en: ""}
+#   elements:
+#     - {name: "R Consortium", description: "R Consortium", link: "https://www.r-consortium.org/", imageUrl: "RConsortium_Icon.png"}
     # - {name: "CEP", description: "CEP", link: "http://www.cepchile.cl", imageUrl: "cep.png"}
 # -
 #   group: {es: "", en: ""}

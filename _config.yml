@@ -25,7 +25,7 @@ defaultColor: "#3C3888"
 organizerName: "LatinR"
 organizerAlternateName: ""
 organizerDescription: ""
-# organizerEmail: "latinr@47jaiio.sadio.org.ar"
+organizerEmail: "latinr.conf@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://latinr.github.io/"
 
@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "LatinR 2020"
+heroTitle: "LatinR 2021"
 typeoutTextValues: '""'
 typeoutFallback: ""
 
