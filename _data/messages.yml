@@ -16,7 +16,7 @@ footerBlocks:
 
 
 ## Inglés
-en: 
+en:
   about: About
   home: Home
   #schedule: Schedule
@@ -24,7 +24,7 @@ en:
   team: Team
   logistics: Logistics
   inscribite: Register
-  eventDate: "November 11-13, 2021 - Online"
+  eventDate: "November 10-12, 2021 - Online"
   description: Latinamerican Conference About the Use of R in R&D
   metaKeywords: "event, R, conference, statistics, dataviz"
   tweetsFeedTitle: What's up?
@@ -113,15 +113,15 @@ en:
   day: "Day"
 
 ## Español
-es: 
-  about: Acerca de 
+es:
+  about: Acerca de
   home: Principal
   #schedule: Cronograma
   # speakers: Oradores
   team: Equipo
   logistics: Logística
   inscribite: Inscríbete
-  eventDate: "11 al 13 de noviembre de 2021 - Virtual"
+  eventDate: "10 al 12 de noviembre de 2021 - Virtual"
   description: Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
   metaKeywords: "evento, R, conferencia, estadística, dataviz"
   latestNewsTitle: "Novedades"
@@ -196,7 +196,7 @@ es:
 
   # team
   teamBlockTitle: "Quiénes somos"
-  aboutUs: "El 25 de octubre de 2017, Heather Turner anunció en el Slack de Organizadores de Grupos de Usuarios de R (RUG) que el Comité de Conferencias de la R Foundation estaba interesado en la aparición de eventos sobre R con un enfoque académico en regiones que no se encuentran actualmente cubiertas por useR!. En menos de una semana ya teníamos organizada nuestra primera videoconferencia para pensar cómo enfrentar el desafío. Esta rápida respuesta no fue solo suerte, sino la consecuencia de un año en el que la comunidad de R --a través de los RUGs locales y la presencia en redes sociales-- creció significativamente en Sudamérica. Para mediados de noviembre ya estaba todo definido: un nombre, un lugar, una fecha y un comité organizador internacional motivado. La primera edición se realizó en Buenos Aires, Argentina y la segunda en Santiago de Chile, Chile. Este año, la comunidad de R en Latinomérica se junta en Montevideo, Uruguay."   
+  aboutUs: "El 25 de octubre de 2017, Heather Turner anunció en el Slack de Organizadores de Grupos de Usuarios de R (RUG) que el Comité de Conferencias de la R Foundation estaba interesado en la aparición de eventos sobre R con un enfoque académico en regiones que no se encuentran actualmente cubiertas por useR!. En menos de una semana ya teníamos organizada nuestra primera videoconferencia para pensar cómo enfrentar el desafío. Esta rápida respuesta no fue solo suerte, sino la consecuencia de un año en el que la comunidad de R --a través de los RUGs locales y la presencia en redes sociales-- creció significativamente en Sudamérica. Para mediados de noviembre ya estaba todo definido: un nombre, un lugar, una fecha y un comité organizador internacional motivado. La primera edición se realizó en Buenos Aires, Argentina y la segunda en Santiago de Chile, Chile. Este año, la comunidad de R en Latinomérica se junta en Montevideo, Uruguay."
   chairs: "Chairs"
   organizerCommittee: "Comité organizador"
   scientificCommittee: "Comité científico"
@@ -211,7 +211,7 @@ es:
   day: "Día"
 
 ## Portugues
-pt: 
+pt:
   about: Sobre
   home: Início
   schedule: Programação
@@ -219,7 +219,7 @@ pt:
   team: Equipe
   #logistics: Logística
   inscribite: Inscrever
-  eventDate: "11 a 13 de novembro de 2020 - Virtual"
+  eventDate: "10 a 12 de novembro de 2020 - Virtual"
   description: Conferência Latino-Americana sobre o Uso de R em P&D
   metaKeywords: "evento, R, conferência, estatística, visualização de dados"
   tweetsFeedTitle: Novidades
