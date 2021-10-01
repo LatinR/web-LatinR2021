@@ -1,7 +1,8 @@
 #-
-#   group: {es: "Partner", en: "Partner"}
-#   elements:
-#     - {name: "Data UC", description: "Data UC", link: "https://twitter.com/datauc_chile", imageUrl: "datauc.png"}
+group: {es: "Partner", en: "Partner"}
+elements:
+   - {name: "R Consortium", description: "R Consortium", link: "https://www.r-consortium.org/", imageUrl: "RConsortium_Icon.png"}
+   - {name: "Appsilon", description: "Appsilon", link: "https://appsilon.com/", imageUrl: "Appsilon_2020_RGB_svg-COLOR.svg"}
 
 #   group: {es: "", en: ""}
 #   elements:
@@ -11,6 +12,7 @@
 # -
 #   group: {es: "", en: ""}
 #   elements:
+#     - {name: "Data UC", description: "Data UC", link: "https://twitter.com/datauc_chile", imageUrl: "datauc.png"}
 #     - {name: "R Consortium", description: "R Consortium", link: "https://www.r-consortium.org/", imageUrl: "RConsortium_Icon.png"}
     # - {name: "CEP", description: "CEP", link: "http://www.cepchile.cl", imageUrl: "cep.png"}
 # -
