@@ -45,25 +45,25 @@ Para visualizar la presentación, puedes utilizar la función inf_mr() del paque
 
 El theme latinR incluye una diapositiva de título:
 
-![Diapositiva de título, incluida en el theme latinR. Se muestra una diapositiva con el color de fondo gris usado en el logo de LatinR. Se muestra el logo de LatinR en la esquina superior izquierda, que incluye una representación del mapa de latinoamérica y la frase 'LATINR Conferencia Latinoamericana sobre el uso de R en Investigación y Desarrollo'. En el cuerpo de la diapositiva se muestra el texto centrado en color negro 'Título de tu presentación \n usando xaringan \n Tu nombre \n LatinR 2021 \n 10-12 de noviembre de 2021'](/img/posts/title_slide.png)
+![Diapositiva de título, incluida en el theme latinR. Se muestra una diapositiva con el color de fondo gris usado en el logo de LatinR. Se muestra el logo de LatinR en la esquina superior izquierda, que incluye una representación del mapa de latinoamérica y la frase 'LATINR Conferencia Latinoamericana sobre el uso de R en Investigación y Desarrollo'. En el cuerpo de la diapositiva se muestra el texto centrado en color negro 'Título de tu presentación \n usando xaringan \n Tu nombre \n LatinR 2021 \n 10-12 de noviembre de 2021'](/img/posts/title_slide.png){width=75%}
 
 <br>
 
 Diapositivas de contenido:
 
-![Diapositiva de contenido, incluida en el theme latinR. Se muestra una diapositiva con color de fondo blanco y tres niveles de encabezado en color morado. El texto de la diapositiva es 'Header 1: Agrega algo de texto aquí. Header 2: Agrega algo de texto aquí. Header 3: Chunk de código en R con el texto Agrega tu código seq(1:5)'](/img/posts/body_slide.png)
+![Diapositiva de contenido, incluida en el theme latinR. Se muestra una diapositiva con color de fondo blanco y tres niveles de encabezado en color morado. El texto de la diapositiva es 'Header 1: Agrega algo de texto aquí. Header 2: Agrega algo de texto aquí. Header 3: Chunk de código en R con el texto Agrega tu código seq(1:5)'](/img/posts/body_slide.png){width=75%}
 
 <br>
 
 Y una diapositiva para separar por capítulos la presentación:
 
-![Diapositiva de capítulo, incluida en el theme latinR. Se muestra una diapositiva con el color de fondo morado usado en el logo de LatinR y letras en color blanco con la frase 'Capítulo nuevo'](/img/posts/chapter_slide.png)
+![Diapositiva de capítulo, incluida en el theme latinR. Se muestra una diapositiva con el color de fondo morado usado en el logo de LatinR y letras en color blanco con la frase 'Capítulo nuevo'](/img/posts/chapter_slide.png){width=75%}
 
 <br>
 
 Si deseas incluir gráficos generados con ggplot2, te sugerimos utilizar escalas de color amigables con las personas con dificultades visuales; por ejemplo, la escala viridis.
 
-![Diapositiva de ejemplo mostrando el uso de la escala viridis para generar gráficas con colores amigables. Se muestran gráficas de densidad con los datos de la masa corporal de pinguinos de las especies Adelie, Chinstrap y Gentoo del conjunto de datos pinguinos del paquete en español datos separados por color de acuerdo con la especie, con ayuda de la escala viridis. En la columna izquierda se están utilizando los colores morado, esmeralda y amarillo. En la columna derecha se muestra la simulación de cómo se vería la gráfica de la izquierda considerando cuatro deficiencias visuales: Deutanomalía,Protanomalía, Tritanomalía y Desaturado](/img/posts/viridis.png)
+![Diapositiva de ejemplo mostrando el uso de la escala viridis para generar gráficas con colores amigables. Se muestran gráficas de densidad con los datos de la masa corporal de pinguinos de las especies Adelie, Chinstrap y Gentoo del conjunto de datos pinguinos del paquete en español datos separados por color de acuerdo con la especie, con ayuda de la escala viridis. En la columna izquierda se están utilizando los colores morado, esmeralda y amarillo. En la columna derecha se muestra la simulación de cómo se vería la gráfica de la izquierda considerando cuatro deficiencias visuales: Deutanomalía,Protanomalía, Tritanomalía y Desaturado](/img/posts/viridis.png){width=75%}
 
 <br>
 
