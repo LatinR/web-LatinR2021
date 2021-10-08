@@ -8,6 +8,10 @@
   elements:
     - {name: "R Consortium", description: "R Consortium", link: "https://www.r-consortium.org/", imageUrl: "RConsortium_Icon.png"}
 
+-
+  group: {es: "", en: ""}
+  elements:
+    - {name: "RStudio", description: "RStudio", link: "https://www.rstudio.com/", imageUrl: "RStudio.png"}
 
 #   group: {es: "", en: ""}
 #   elements:
