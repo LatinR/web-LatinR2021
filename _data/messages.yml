@@ -48,13 +48,13 @@ en:
    - {permalink: "/previous-editions", text: "Previous Editions"}
 
   bottomNavigationLinks:
-   - {permalink: "/blog/call-for-papers", text: "Call for papers"}
-  #rightNavigationButtons:
-  # - {permalink: "https://latinr2020.eventbrite.com", text: "Register here!"}
+  # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
+  rightNavigationButtons:
+   - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Register here!"}
   heroButtons:
-   - {permalink: "https://easychair.org/cfp/latinr2021", text: "Call for Papers"}
+  # - {permalink: "https://easychair.org/cfp/latinr2021", text: "Call for Papers"}
   # - {permalink: "/schedule", text: "Schedule"}
-  # - {permalink: "https://latinr2020.eventbrite.com", text: "Register here!"}
+   - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Register here!"}
 
   #aboutJAIIO: 'We are part of <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organised by <a href = "http://www.sadio.org.ar/">SADIO</a> and <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
@@ -141,16 +141,16 @@ es:
    - {permalink: "/blog/", text: "Novedades"}
    - {permalink: "/ediciones-anteriores/", text: "Ediciones Anteriores"}
   bottomNavigationLinks:
-   - {permalink: "/blog/presentacion-trabajos-2021", text: "llamado a presentación de trabajos"}
+  # - {permalink: "/blog/presentacion-trabajos-2021", text: "llamado a presentación de trabajos"}
   rightNavigationButtons:
-   #- {permalink: "https://latinr2020.eventbrite.com", text: "Registrate acá!"}
+   - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Registrate acá!"}
   heroButtons:
-   - {permalink: "https://easychair.org/cfp/latinr2021", text: "Convocatoria a presentar trabajos"}
+   #- {permalink: "https://easychair.org/cfp/latinr2021", text: "Convocatoria a presentar trabajos"}
    #- {permalink: "/cronograma", text: "Cronograma"}
-   #- {permalink: "https://latinr2020.eventbrite.com", text: "Registrate acá!"}
+   - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Registrate acá!"}
 
   # about
-  aboutJAIIO: 'Somos parte de las <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizadas por <a href = "http://www.sadio.org.ar/">SADIO</a> y co-organizadas por <a href = "http://www.palermo.edu/">UP</a>.'
+  # aboutJAIIO: 'Somos parte de las <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizadas por <a href = "http://www.sadio.org.ar/">SADIO</a> y co-organizadas por <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
    - {title: "Comunicaciones orales", image: "presentation.png", text: "Presentación de resultados de trabajos de investigación y demostración de aplicaciones creadas en R." }
    - {title: "Presentaciones", image: "conference.png", text: "Charlas de referentes en el uso de R en distintas áreas." }
@@ -245,13 +245,13 @@ pt:
   bottomNavigationLinks:
    # - {permalink: "/blog/chamada-trabalhos", text: "Chamada de trabalhos"}
   rightNavigationButtons:
-   - {permalink: "https://latinr2020.eventbrite.com", text: "Assine aqui!"}
+   - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Assine aqui!"}
   heroButtons:
-   - {permalink: "https://easychair.org/cfp/latinr2021", text: "Chamada de trabalhos"}
+   # - {permalink: "https://easychair.org/cfp/latinr2021", text: "Chamada de trabalhos"}
    - {permalink: "/programacao", text: "Programação"}
-   - {permalink: "https://latinr2020.eventbrite.com", text: "Assine aqui!"}
+   - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Assine aqui!"}
 
-  aboutJAIIO: 'Somos parte da <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizado por <a href = "http://www.sadio.org.ar/">SADIO</a> e <a href = "http://www.palermo.edu/">UP</a>.'
+  # aboutJAIIO: 'Somos parte da <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizado por <a href = "http://www.sadio.org.ar/">SADIO</a> e <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
    - {title: "Conferências", image: "conference.png", text: "Palestras por líderes sobre o uso de R em áreas diversas." }
    - {title: "Apresentações oral", image: "presentation.png", text: "Apresentações sobre resultados de pesquisas e demonstração de aplicações criadas no R." }
