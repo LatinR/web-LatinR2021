@@ -1,3 +1,4 @@
+### Strings ###
 - id: 999
   title: 'Coffee break'
   service: true
@@ -7,295 +8,468 @@
   service: true
 
 - id: 997
-  title: {en: "Closing", es: "Cierre", pt: "Cierre"}
+  title: {en: "Closing", es: "Cierre", pt: "Encerramento"}
   service: true
 
 - id: 996
-  title: {en: "Accreditation", es: "Acreditación", pt: "Cierre"}
+  title: {en: "Accreditation", es: "Acreditación", pt: "Vínculo"}
   service: true
 
+- id: 995
+  # blank entry
+  title: ""
+  # language:
+  # speakers:
+  # description:
+
+- id: 994
+  title: {en: "Inauguration", es: "Inauguración", pt: "Inauguração"}
+  service: true
+
+- id: 993
+# keynote
+  title: "R development guide: motivation, first draft, and the way forward"
+  language: en
+  # speakers:
+  service: true
+
+
+
+### Tutorials ###
 - id: 001
-  title: Expresiones regulares para la limpieza y transformación de datos
+  title: "gg+: paquetes para extender las capacidades de ggplot2"
   language: es
-  speakers: [1, 2]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-09-29/10:00/>Horario</a> <br/>
-  Este taller tiene por objetivo que sus participantes se familiaricen con el uso de expresiones regulares (conocidas también como "regex"). Específicamente, abordaremos el potencial que tienen como parte del proceso de limpieza y transformación de datos usando paquetes del "Tidyverse". Los ejemplos prácticos se enfocarán en el trabajo con dataframes y archivos de texto y en cómo utilizar expresiones regulares en conjunto con funciones de los paquetes {stringr}, {dplyr} y {tidyr} <br/>
-  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por RLadies Talca, RLadies Galápagos, RLadies Ciudad de México, RLadies Valparaíso y RLadies Santiago. Puedes inscribirte a través de cualquiera de estos enlaces:
+  speakers: [8]
+  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-09-29/18:00/>Horario</a> <br/>
+  Descripción del taller (próximamente). <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por RLadies Buenos Aires. Puedes inscribirte a través de cualquiera de estos enlaces:
   <ul>
-    <li> <a href = https://www.meetup.com/es/rladies-talca/events/273486730/>RLadies Talca</a> </li>
-    <li> <a href = https://www.meetup.com/es/rladies-galapagos-islands/events/273493704/>RLadies Galápagos</a> </li>
-    <li> <a href = https://www.meetup.com/es/rladies-cdmx/events/273511609/>RLadies CDMX</a> </li>
-    <li> <a href = https://www.meetup.com/es/rladies-valparaiso/events/273511476/>RLadies Valparaíso</a> </li>
-    <li> <a href = https://www.meetup.com/es/rladies-scl/events/273511502/>RLadies Santiago</a> </li>
+    <li> <a href = >RLadies Buenos Aires</a> </li>
   </ul>'
 
-
 - id: 002
-  title: Aplicaciones web interactivas con Shiny
-  language: es
-  speakers: [3, 4, 5]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-09-29/18:00/>Horario</a> <br/>
-  ¿Quieres generar una página web interactiva a partir de tu código de R? Con el paquete Shiny, resulta sencillo tomar tu trabajo en R y exponerlo a través de un navegador web para que cualquiera pueda usarlo.En este taller inicial desarrollaremos una Shiny app de principio a fin. Te acompañaremos para que puedas generar la interfaz de usuario y el código del servidor. Brindaremos a la par algunas prácticas y tips al momento de su construcción así como recomendaciones de paquetes que pueden mejorar sustancialmente la app.Para finalizar te mostraremos formas gratuitas en las que podrás compartir la misma. <br/>
-  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por RLadies Querétaro y RLadies Concepción. Puedes inscribirte a través de cualquiera de estos enlaces:
+  title: Modelos de equações estruturais (Structural Equation Models; SEM) in R
+  language: pt
+  speakers: [23]
+  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-09-29/10:00/>Horario</a> <br/>
+  Modelos de equações estruturais são um conjunto de técnicas usados para representar hipóteses acerca de um estudo/conjunto de dados em termos de parâmetros estruturais e com base num embasamento teórico. Estas técnicas são bastante usadas em Ciências Sociais e Biológicas ou em Psicologia, a exemplo por meio de "path analysis" (análise de caminhos), "mediation analysis" (análise de mediação) ou "latent variable analysis" (análise de variáveis latentes). Neste tutorial, será feita uma breve introdução no tópico, junto a exemplos de estudos prévios. Logo, o participante terá a oportunidade de aprender na prática como produzir e interpretar tais models em R, com diferentes exercícios. Participantes podem trazer seus próprios dados e compartilhar suas próprias experiências. <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por RLadies Rio de Janeiro. Puedes inscribirte a través de cualquiera de estos enlaces:
   <ul>
-    <li> <a href = https://www.meetup.com/es/rladies-queretaro/events/273508288/>RLadies Querétaro</a> </li>
-    <li> <a href = https://www.meetup.com/es/rladies-concepcion/events/273495052/>RLadies Concepción</a> </li>
+    <li> <a href = >RLadies Rio de Janeiro</a> </li>
   </ul>'
 
 - id: 003
-  title: Escrevendo manuscritos acadêmicos usando rmarkdown
-  language: pt
-  speakers: [6, 7]
+  title: Desarrollo de aplicaciones de shiny a nivel comercial
+  language: es
+  speakers: [25, 24, 26]
   description: '<a href = https://arewemeetingyet.com/Montevideo/2020-09-30/18:00/>Horario</a> <br/>
-  Esta oficina vai mostrar os diferentes passos e ferramentas para escrever manuscritos acadêmicos ou relatórios técnicos de forma automatizada e reprodutível usando R e rmarkdown. Iremos abordar os seguintes temas: estrutura de um documento de rmarkdown, estrutura de pastas, fluxos de trabalho de um projeto de escrita, boas práticas de programação em R, citação (arquivos .bib) e gestores de bibliografia, formatação e integração com editores de texto tradicionais e LaTeX. A oficina será dividida em uma parte conceitual e uma parte prática. O objetivo é que todas as pessoas participantes finalizem a oficina com um documento de texto gerado a partir de um arquivo Rmd contendo texto, uma figura, uma tabela e referências bibliográficas. <br/>
-  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por RLadies Natal y RLadies Rio de Janeiro. Puedes inscribirte a través de cualquiera de estos enlaces:
+  Descripción del taller (próximamente). <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por RenBaires. Puedes inscribirte a través de cualquiera de estos enlaces:
   <ul>
-    <li> <a href = https://www.meetup.com/es/rladies-natal/events/273508552/>RLadies Natal</a> </li>
-    <li> <a href = https://www.meetup.com/pt-BR/rladies-rio/events/273511481/>RLadies Rio de Janeiro</a> </li>
+    <li> <a href = >RenBaires</a> </li>
   </ul>'
 
 - id: 004
-  title: Importando datos desde hojas de cálculo
+  title: Introducción al análisis de redes con R
   language: es
-  speakers: [8]
+  speakers: [27]
   description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-01/14:00/>Horario</a> <br/>
-  Importando datos desde hojas de cálculo | Luis D. Verde Arregoitia | A menudo se comparten hojas de cálculo con información poco estructurada, o codificada como formato del texto y/o de las celdas que no se trasladan directamente a un objeto de R (ej. celdas de colores para denotar categorías). Ésto resulta en pérdida de información potencialmente relevante, o bien, pérdida de tiempo al tener que interpretar y limpiar manualmente los valores de las celdas. En este taller se enseñará a importar y manejar este tipo de datos a R. Además, se demostrará la lectura y escritura de archivos .xls y .xlsx (paquetes readxl y writexl), el manejo de archivos con múltiples pestañas (paquete purrr), celdas con formato (paquetes tidyxl y unheadr), y la nueva funcionalidad del paquete googlesheets4 que permite leer y escribir en hojas de cálculo en línea, facilitando la colaboración de manera reproducible. Al final del taller, los asistentes serán capaces de compatibilizar el uso de R con las hojas de cálculo en sus flujos de trabajo y colaboraciones.
-  <br/>
-  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por capítulos de RLadies de México y Colombia y el grupo de R de Rosario. Puedes inscribirte a través de cualquiera de estos enlaces:
+  Descripción del taller (próximamente). <br/>
+  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por capítulos de RLadies de Ecuador. Puedes inscribirte a través de cualquiera de estos enlaces:
   <ul>
-    <li> <a href = https://www.meetup.com/es/rladies-puebla/events/273492185/>RLadies Puebla</a> </li>
-    <li> <a href = https://www.meetup.com/es/rladies-xalapa/events/273488216/>RLadies Xalapa</a> </li>
-    <li> <a href = https://www.meetup.com/es-ES/rladies-barranquilla/events/273513946/>RLadies Barranquilla</a> </li>
-    <li> <a href = https://www.meetup.com/es/R-en-Rosario/events/273492270/>R en Rosario</a> </li>
-  </ul>'
-
-- id: 005
-  title: Introducción al ABC para enseñar on-line
-  language: es
-  speakers: [9, 19, 20]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-02/09:00/>Horario</a> <br/>
-  Vamos a introducir buenas prácticas básicas para manejo del aula presencial online. Cada detalle del taller, empezando por el formulario de pre-inscripción hasta el pedido de devolución finalizado el taller, pasando por la ejecución del mismo, son una demostración de estrategias que pueden ser adoptadas o adaptadas a cualquier tarea docente que sucede interactuando en simultáneo con estudiantes. Durante el taller tendremos una demostración de cómo contactar y preparar estudiantes para sumarse a la clase sincrónica, cómo manejar un aula virtual de 20 personas usando Zoom, veremos ejemplos para crear un ambiente positivo y tendremos una introducción a conceptos pedagógicos de diseño de clases con foco en la audiencia, esquematización de contenidos con mapas conceptuales, evaluación formativa con poder diagnóstico, participación en un documento colaborativo para tomar notas y resolver evaluaciones formativas y otras herramientas pedagógicas basadas en evidencia y fáciles de implementar.
-  <br/>
-  <b>Cómo inscribirse</b>: Este taller será ofrecido en forma conjunta por:
-  <ul>
-    <li> <a href = https://www.meetup.com/es/rladies-general-pico/events/273509840/>R-Ladies General Pico</a> </li>
-    <li> <a href = https://www.meetup.com/es/rladies-santa-rosa/events/273506766/>R-Ladies Santa Rosa</a> </li>
-  </ul>
-  Puedes inscribirte a través de <a href = "https://docs.google.com/forms/d/e/1FAIpQLSddnptIAMdRgJYH0Vm6cNrk63x5f969Rd4pbuoGKmDgN02xFw/viewform?usp=send_form">este formulario</a> usando la palabra clave LatinR en los comentarios del formulario. '
-
-- id: 009
-  title:  Generando tutoriales interactivos con el paquete learnr
-  language: es
-  speakers: [9, 10]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-03/11:00/>Horario</a> <br/>
-En este tutorial presentamos al paquete learnr para generar tutoriales interactivos. La idea de un documento rmarkdown que permita recorrer un contenido, contestar preguntas y ejecutar código para recibir feedback inmediato es muy poderosa. Especialmente si ese tutorial puede estar disponible como un paquete o como un sitio web o en RStudio. Si tenes clases remotas o asincrónicas, si tenes un paquete y queres llevar la ayuda a otro nivel, si tenes alumnos iniciales y no queres que sufran la instalación de las herramientas un tutorial interactivo te puede ayudar
-  <br/>
-  <b>Cómo inscribirse</b>: Este taller será ofrecido en forma conjunta por:
-  <ul>
-    <li> <a href = https://www.meetup.com/es-ES/rladies-general-pico/events/273547213/>R-Ladies General Pico</a> </li>
-    <li> <a href = https://www.meetup.com/es-ES/rladies-santa-rosa/events/273513242/>R-Ladies Santa Rosa</a> </li>
+    <li> <a href = >RLadies de Ecuador</a> </li>
   </ul>'
 
 
-- id: 006
-  title: Introducción a Machine Learning con Tidymodels
-  language: es
-  speakers: [11, 12, 13]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-02/09:00/>Horario</a> <br/>
-  Este taller es introductorio y permitirá dar los primeros pasos en el universo tidymodels, el cual está formado por un conjunto de paquetes creados para aprendizaje automático siguiendo la filosofía tidyverse. El curso tendrá una breve introducción teórica y luego nos centraremos en entrenar y evaluar modelos de machine learning para resolver problemas de predicción y clasificación utilizando algunos de los paquetes como rsample, parsnip, yardstick, entre otros. El asistente luego del curso podrá ejecutar modelos de predicción y clasificación y evaluar su performance.
-  <br/>
-  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por los siguientes RLadies Cuernavaca y RLadies Mendoza. Puedes inscribirte a través de cualquiera de estos enlaces:
-  <ul>
-    <li> <a href = https://www.meetup.com/es/rladies-cuernavaca>RLadies Cuernavaca</a> </li>
-    <li> <a href = https://www.meetup.com/es/rladies-mendoza/events/273489088/>RLadies Mendoza</a> </li>
-  </ul>'
-
-
+### Talks ###
 - id: 007
-  title: 'Shiny: zero to hero'
-  language: pt
-  speakers: [14, 15, 16]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-06/10:00/>Horario</a> <br/>
-  Nesse workshop falaremos de shiny apps com ideias contemporâneas. Além de uma introdução, falaremos sobre produção de shiny em pacotes com {golem}, autenticação com {auth0} e alguns pacotes interessantes para customização, como {bs4Dash}, {esquisse} e outras novidades.
-  <br/>
-  <b>Cómo inscribirse</b>: Este taller será ofrecido por RLadies Niterói. Puedes inscribirte a travś de estos enlaces:
-  <ul>
-    <li> <a href = https://www.meetup.com/es/rladies-niteroi>RLadies Niterói.</a></li>
-  </ul>'  
-
-- id: 008
-  title: 'Comunicando seus resultados com R: aprenda a criar apresentações reprodutíveis'
-  language: pt
-  speakers: [17, 18]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-10/15:00/>Horario</a> <br/>
-  O xaringan é um pacote que tem como objetivo possibilitar a criação de apresentações em HTML com R. Sob o contexto de programação em R, a combinação entre os pacotes RMarkdown e xaringan nos oferece uma elegante forma de criar slides usando R e RStudio. Com isso, a proposta deste minicurso consiste no ensino da criação de apresentações usando os pacotes mencionados, realizando uma atividade prática sobre a criação de apresentações do zero. O público alvo deste minicurso são pessoas de todas as áreas, que tenham interesse em aprender como criar slides inteiramente reprodutíveis usando R.
-  <br/>
-  <b>Cómo inscribirse</b>: Este taller será ofrecido por RLadies Goiania. Puedes inscribirte a travś de estos enlaces:
-  <ul>
-    <li> <a href = https://www.meetup.com/rladies-goiania/events/273531145/>RLadies Goiania</a></li>
-  </ul>'    
-
-- id: 010
-  title: 'Blogueo con R Markdown'
+  title: "missMSPC: un paquete de herramientas gráficas para aplicar MSPC con datos faltantes"
   language: es
-  speakers: [21]
-  description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-09/09:00/>Horario</a> <br/>
-  Eres un usuari@ de R y querrías compartir más contenido en linea?
-Porqué no crear un nuevo blog, con R Markdown (Rmd)?
-En esta charla-taller de 2 horas con demonstración en vivo, tendremos dos adventuras:
-<br/>
-  <ul>
-    <li>Crear un blog Rmd con el paquete Distill</li>
-    <li>Crear un blog Rmd con el paquete hugodown</li>
-  </ul>
-  <br/>
-Nos preparamos para estas aventuras definiendo lo que queremos de un blog Rmd.
-Acabaremos el curso reflecionando sobre cada aventura y explicando caminos futuros, por ejemplo cómo hacer la publicidad de tu blog.
-Si todo va bien al final del curso te sentirás capaz de crear un blog Rmd con el paquete que prefieras, y sabrás donde encontrar más recursos. </br>
-Podés encontrar el material del taller acá: <a href="https://bloguearrr.netlify.app/intro/starters/">https://bloguearrr.netlify.app/intro/starters/</a>'      
-
-- id: 011
-  title: 'Learning without a net'
-  language: en
-  speakers: [22]
+  # speakers:
   description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
-  I'll plan to talk about my experiences learning new data science skills on my own, and some broader strategies for learning when you have to do it by yourself."
-
-
-- id: 012
-  title: {en: Text mining and web scraping, es: Minería de Textos y Web Scraping, pt: Mineração de Texto e Web Scraping}
-  # language: en
-  # speakers: 
-  description: {en: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKlNKVfiwHoGR3pHpg7x8Uzt>Youtube Playlist</a>',
-                es: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKlNKVfiwHoGR3pHpg7x8Uzt>Lista de reproducción en Youtube</a>',
-                pt: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKlNKVfiwHoGR3pHpg7x8Uzt>Lista de reprodução do Youtube</a>'}
-
-- id: 013
-  title: {en: Spatial data, es: Datos espaciales, pt: Dados espaciais}
-  # language: en
-  # speakers: 
-  description: {en: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKnBz_y5KCOdYa3HCOgLUq9U>Youtube Playlist</a>',
-                es: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKnBz_y5KCOdYa3HCOgLUq9U>Lista de reproducción en Youtube</a>',
-                pt: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKnBz_y5KCOdYa3HCOgLUq9U>Lista de reprodução do Youtube</a>'}
-
-
-- id: 014
-  title: {en: Models and applications, es: Modelos y aplicaciones, pt: Modelos e aplicativos}
-  # language: en
-  # speakers: 
-  description: {en: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKke60wxog3-9ecmOKY1cA01>Youtube Playlist</a>',
-                es: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKke60wxog3-9ecmOKY1cA01>Lista de reproducción en Youtube</a>',
-                pt: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKke60wxog3-9ecmOKY1cA01>Lista de reprodução do Youtube</a>'}
-
-
-- id: 015
-  title: {en: Inauguration and welcome, es: Inauguración y bienvenida, pt: Inauguração e boas-vindas}
-  # language: en
-  # speakers: 
-  # description: 
-
-- id: 016
-  title: Repro Hack
-  # language: en
-  # speakers: 
-  description: "Inscribite en: <a href=http://reprohack_latinr2020.eventbrite.com/>http://reprohack_latinr2020.eventbrite.com/</a><br/>
- Cronograma: <br/>
-  10:00 – Presentación del evento <br/>
-10:20 – ¿Por qué es importante la reproducibilidad computacional? - Daniela Ballari. Universidad de Azuay, Ecuador.<br/>
-10:40 – Trucos y consejos para reproducir un paper - Florencia D'Andrea. INTA-CONICET, Argentina.<br/>
-11:00 – Hackatón - Primera ronda<br/>
-12:15 – Contribuyendo al código libre en R - Juan Cruz Rodíguez. Data Scientist.<br/>
-12:30 – ALMUERZO<br/>
-13:30 – Cómo escribir manuscritos reproducibles - Francisco Rodriguez-Sanchez. Universidad de Sevilla, España.<br/>
-14:00 – Hackatón - Segunda ronda.<br/>
-16:00 – Reproducibilidad entorno a una aplicación web -  Pablo Bernabeu. Universidad de Lancaster, UK."
-
-- id: 017
-  title: {en: Shiny and data visualisation, es: Shiny y visualización de datos, pt: Shiny e visualização de dados}
-  # language: en
-  # speakers: 
-  description: {en: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKnixQ0u36DgCsGvOkOIo5D1>Youtube Playlist</a>',
-                es: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKnixQ0u36DgCsGvOkOIo5D1>Lista de reproducción en Youtube</a>',
-                pt: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKnixQ0u36DgCsGvOkOIo5D1>Lista de reprodução do Youtube</a>'}
-
-
-- id: 018
-  title: {en: Package development, es: Desarrollo de paquetes, pt: Desenvolvimento de pacote}
-  # language: en
-  # speakers: 
-  description: {en: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKkxsS3dkaFTvmh24kPpkE-->Youtube Playlist</a>',
-                es: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKkxsS3dkaFTvmh24kPpkE-->Lista de reproducción en Youtube</a>',
-                pt: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKkxsS3dkaFTvmh24kPpkE-->Lista de reprodução do Youtube</a>'}
-
+  Descripción de la charla (próximamente)."
 
 - id: 019
-  title: {en: Applications with educational data and social policy, es: Aplicaciones con datos educativos y políticas sociales, pt: Aplicativos com dados educacionais e políticas sociais}
-  # language: en
-  # speakers: 
-  description: {en: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKlkjEb7wFN_lAeO72sLFY3D>Youtube Playlist</a>',
-                es: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKlkjEb7wFN_lAeO72sLFY3D>Lista de reproducción en Youtube</a>',
-                pt: '<a href = https://www.youtube.com/playlist?list=PL9-E3cL2KgKlkjEb7wFN_lAeO72sLFY3D>Lista de reprodução do Youtube</a>'}
+  title: "estimtf: paquete de R para la estimación de parámetros de múltiples distribuciones de probabilidad y modelos de regresión usando TensorFlow"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 032
+  title: "QR: un paquete para la factorización QR sin rotación"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 008
+  title: Estimación de un modelo computacional mediante computación Bayesiana Aproximada
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 063
+  title: Feature and variable selection in complex data classification
+  language: en
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 023
+  title: "Optimizando @RStatsJobsBot: un modelo de aprendizaje automático para clasificar tweets de ofertas de empleo"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 018
+  title: Algunas extensiones al modelo de segregación de Schelling
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
 
 - id: 020
-  title: {en: Accessibility and inclusion panel, es: Panel de accesibilidad e inclusión, pt: Painel de acessibilidade e inclusão}
+  title: Como implementar algunos modelos de imputación múltiple para datos de panel
   language: es
-  # speakers: 
-  description: {es: "¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología? <br/>
-En esta ocasión reunimos a integrantes de diferentes comunidades Latinoamericanas que promueven y trabajan por la inclusión y accesibilidad en el mundo de la tecnología para que den a conocer su trabajo, sus objetivos, logros y desafíos a la hora de lograr una inclusión y accesibilidad real. Queremos generar un espacio de reflexión, donde podamos pensar en conjunto sobre la importancia de que la tecnología sea más inclusiva y accesible a todes  y pensar a las comunidades como actores principales para llevar a cabo este objetivo.<br/>
-Modera: 
-<ul>
-    <li>Andrea Gómez Vargas - LatinR & Rladies Buenos Aires co-organizadora</li>
-</ul>
-Participan: 
-  <ul>
-    <li>DALAT  - Desarrollo Accesible Latinoamericano</li>
-    <li>Abe y Coi - Transistemas Argentina</li>
-    <li>Joselyn Chávez - R-Ladies Cuernavaca & R-Ladies México</li>
-    <li>Milagros Villavicencio - R-Ladies Natal - Brasil </li>
-    <li>Fernanda Kelly - R-Ladies Goiânia - Brasil</li>
-    <li>Lupe Canaviri Maydana - Laboratoria & PyLadies El Alto - Bolivia</li>
-  </ul>
-  <br/>
-Para registrarse: <a href=https://panel-2020.eventbrite.cl>https://panel-2020.eventbrite.cl</a>  ",
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
 
-   en: "What are we talking about when we talk about inclusion and accessibility in the world of technology? <br/>
-On this occasion, we brought together members of different Latin American communities that promote and work for inclusion and accessibility in the technology world so that they can share their work, their objectives, achievements and challenges in bringing about real inclusion and accessibility. We want to generate a space for reflection, where we can think together about the importance of making technology more inclusive and accessible to everyone and think of communities as the main actors to carry out this objective.<br/>
+- id: 006
+  title: Años potenciales de vida perdidos por siniestros de tránsito en Uruguay
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
 
-Moderated by:
-<ul>
-    <li>Andrea Gómez Vargas - LatinR & Rladies Buenos Aires co-organizer</li>
-</ul>
-Panelists: 
-  <ul>
-    <li>DALAT  - Latin American Accessible Development</li>
-    <li>Abe y Coi - Transistemas Argentina</li>
-    <li>Joselyn Chávez - R-Ladies Cuernavaca & R-Ladies México</li>
-    <li>Milagros Villavicencio - R-Ladies Natal - Brasil </li>
-    <li>Fernanda Kelly - R-Ladies Goiânia - Brasil</li>
-    <li>Lupe Canaviri Maydana - Laboratoria & PyLadies El Alto - Bolivia</li>
-  </ul>
-  <br/>
-Registration at: <a href=https://panel-2020.eventbrite.cl>https://panel-2020.eventbrite.cl</a>",
+- id: 026
+  title: "agromet: un paquete para el análisis de datos meteorológicos"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
 
-pt: "¿De qué hablamos cuando hablamos de inclusión y accesibilidad en el mundo de la tecnología? <br/>
-En esta ocasión reunimos a integrantes de diferentes comunidades Latinoamericanas que promueven y trabajan por la inclusión y accesibilidad en el mundo de la tecnología para que den a conocer su trabajo, sus objetivos, logros y desafíos a la hora de lograr una inclusión y accesibilidad real. Queremos generar un espacio de reflexión, donde podamos pensar en conjunto sobre la importancia de que la tecnología sea más inclusiva y accesible a todes  y pensar a las comunidades como actores principales para llevar a cabo este objetivo.<br/>
-Modera: 
-<ul>
-    <li>Andrea Gómez Vargas - LatinR & Rladies Buenos Aires co-organizadora</li>
-</ul>
-Participan: 
-  <ul>
-    <li>DALAT  - Desarrollo Accesible Latinoamericano</li>
-    <li>Abe y Coi - Transistemas Argentina</li>
-    <li>Joselyn Chávez - R-Ladies Cuernavaca & R-Ladies México</li>
-    <li>Milagros Villavicencio - R-Ladies Natal - Brasil </li>
-    <li>Fernanda Kelly - R-Ladies Goiânia - Brasil</li>
-    <li>Lupe Canaviri Maydana - Laboratoria & PyLadies El Alto - Bolivia</li>
-  </ul>
-  <br/>
-Para registrarse: <a href=https://panel-2020.eventbrite.cl>https://panel-2020.eventbrite.cl</a> "}
+- id: 051
+  title: "Rocc: gestão e análise de dados de ocorrências de espécies"
+  language: pt
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
 
+- id: 060
+  title: "Interoperabilidad y grandes volúmenes de datos: como potenciar el diseño de políticas públicas basada en evidencia"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
 
+- id: 014
+  title: Aplicación de R para analizar la perspectiva del consumidor sobre la consistencia de alimentos
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
 
+- id: 041
+  title: Ensembles conformacionales de Proteínas Intrínsecamente Desordenadas moldean las velocidades de evolución dando origen a patrones conformacionales
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
 
+- id: 011
+  title: "Divide y vencerás: de polAr al 'polArverse'"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
 
+- id: 016
+  title: Paquete Calidad, para la evaluación de la presición de estimaciones provenientes de encuestas de hogares
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 024
+  title: "The `{botmaker}`: automatically build R-based bots, the result of creating the @RStatsJobsBot Twitter bot"
+  language: en
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 030
+  title: "ENDES.PE: un paquete para descargar y utilizar la Encuesta Demográfica y de Salud Familiar en Perú"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 035
+  title: "speech: extracción, disponibilización y análisis de discursos parlamentarios en Uruguay"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 012
+  title: "AMALIA: R, shiny y minería de texto para el análisis masivo de archivos de la dictadura uruguaya"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 022
+  title: Análisis de la Red de Investigadores del IESTA
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 025
+  title: "Políticas económicas frente al COVID-19: índice de Shannon para la diversidad de agendas de gobiernos locales"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 036
+  title: Elaboración de redes analíticas interactivas con el paquete netCoin de R
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 039
+  title: Retos y R en conteos rápidos electorales
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 054
+  title: Análisis del tipo de consumo cultural según nivel socioeconómico de los beneficiarios del programa Pase Cultural
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 047
+  title: Are you watching closely? politicxsentwitteR as a magnifying glass
+  language: en
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 031
+  title: "Análise exploratória de despesas com educação: avaliando impactos em um indicador de rendimento educacional"
+  language: pt
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 034
+  title: "Desarrollo de una herramienta predictiva de calidad de agua para la gestión: modelos de machine learning + shiny"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 013
+  title: Uso se R en la validación de un modelo predictivo con aplicación a la enfermedad del asma
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 048
+  title: "Ciencia de datos con R con impacto en salud pública: una experiencia de uso de tidyverse para la detección de embarazos"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 061
+  title: ¿Por qué los funcionarios públicos de salud deberían saber R para analizar sus datos?
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 033
+  title: "Estimating remaining life expectancy free of anxiety/depression in Argentina: trends and application of an alghoritmic stepwise decomposition for demographic change, 2005-18"
+  language: pt
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 015
+  title: Scaling feedback using learnr and gradethis in a introductory R course
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 017
+  title: Enseñanza de R en la Facultad de Economía, UNAM
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 037
+  title: "Aplicaciones shiny para modelos de crecimiento de ecología de poblaciones: una propuesta simple y no simplista para animar al uso de R en cursos introductorios"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 045
+  title: "Karel la robot enseña R: un paquete para la enseñanza de programación"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 053
+  title: Un conjunto de paquetes para generar tutoriales interactivos para enseñar R
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 005
+  title: "R en producción: aprendizajes, retos y mejores prácticas"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 046
+  title: "Analogsea: using R for big data analytics"
+  language: en
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 059
+  title: IBM Cloud Functions com R
+  language: pt
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 055
+  title: "Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 010
+  title: Uso de R como front-end en un datawarehouse de gestión académica universitaria
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 057
+  title: "JFemDados: democratizando informação"
+  language: pt
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 052
+  title: "A Base dos Dados+: acesso fácil a dados públicos de qualidade"
+  language: pt
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 058
+  title: Alavancando o poder do RMarkdown com as linguagens da Web e D3.js para produzir histórias de dados envolventes sobre finanças públicas
+  language: pt
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 027
+  title: Collect and use open access World Bank data to know your country
+  language: en
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 050
+  title: "Conociendo el camino para aprender a usar R en Latinoamérica: desafíos para promover la inclusión y diversidad"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 043
+  title: Juntas podemos más, corta historia de cómo la pandemia nos incentivó a colaborar
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 044
+  title: Revisión por pares de código en R para la investigación reproducible
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 056
+  title: Tablas reproducibles, presentables y con formato numérico local con gtsummary
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 029
+  title: "Uso de R y Youtube para reporte de protocolos: experiencia en laboratorio de física de suelos"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 049
+  title: Un viaje a la ecología del movimiento a través de la minería de texto
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 038
+  title: "Tobler: um aplicativo shiny para econometria espacial"
+  language: pt
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 028
+  title: Soy naturalista y quiero pasear en mi país, ¿dónde hay más oportunidades de llenar vacíos de información?
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 042
+  title: "Un cuento digital desde R: cómo crear un relato situado con Leaflet"
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."
+
+- id: 009
+  title: Una brillante idea para medir la desigualdad y la actividad económica
+  language: es
+  # speakers:
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  Descripción de la charla (próximamente)."

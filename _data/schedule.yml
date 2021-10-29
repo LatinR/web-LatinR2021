@@ -1,176 +1,261 @@
+  # TALLERES
 -
-  date: "2020-09-29"
-  dateReadable: {en: "September 29th", es: "29 de septiembre", pt: "29 de septiembre"}
+  date: "2021-11-04"
+  dateReadable: {en: "november 4th", es: "4 de noviembre", pt: "4 de novembro"}
   tracks:
-    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+    - {title: {en: "Tutorial", es: "Taller", pt: "Tutorial"} , color: "#90be4e"}
   timeslots:
     - {
-      startTime: "10:00",
-      endTime: "12:00",
+      startTime:  "",
+      endTime:    "",
       sessionIds: [001]
     }
-    - {
-      startTime: "18:00",
-      endTime: "20:00",
-      sessionIds: [002]
-    }
-   
 -
-  date: "2020-09-30"
-  dateReadable: {en: "September 30th", es: "30 de septiembre", pt: "30 de septiembre"}
+  date: "2021-11-08"
+  dateReadable: {en: "november 8th", es: "8 de noviembre", pt: "8 de novembro"}
   tracks:
-    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+    - {title: {en: "Tutorial", es: "Taller", pt: "Tutorial"} , color: "#90be4e"}
   timeslots:
     - {
-      startTime: "18:00",
-      endTime: "20:00",
+      startTime:  "10:00",
+      endTime:    "12:30",
+      sessionIds: [002]
+    }
+    - {
+      startTime:  "",
+      endTime:    "",
+      sessionIds: [004]
+    }
+-
+  date: "2021-11-09"
+  dateReadable: {en: "november 9th", es: "9 de noviembre", pt: "9 de novembro"}
+  tracks:
+    - {title: {en: "Tutorial", es: "Taller", pt: "Tutorial"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "",
+      endTime:    "",
       sessionIds: [003]
     }
 
 -
-  date: "2020-10-01"
-  dateReadable: {en: "October 1st", es: "1 de octubre", pt: "1 de outubro"}
+  # INAUGURACIÓN
+  date: "2021-11-10"
+  dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
   tracks:
-    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+    - {title: {en: "LatinR Start", es: "Início del LatinR", pt: "Início do LatinR"} , color: "#90be4e"}
   timeslots:
     - {
-      startTime: "14:00",
-      endTime: "16:00",
-      sessionIds: [004]
-    }
-        
--
-  date: "2020-10-02"
-  dateReadable: {en: "October 2nd", es: "2 de octubre", pt: "2 de outubro"}
-  tracks:
-    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
-  timeslots:
-    - {
-      startTime: "09:00",
-      endTime: "12:00",
-      sessionIds: [005]
+      startTime:  "11:00",
+      endTime:    "11:15",
+      sessionIds: [994]
     }
 
 -
-  date: "2020-10-03"
-  dateReadable: {en: "October 3rd", es: "3 de octubre", pt: "3 de outubro"}
+  # DESARROLLO DE PAQUETES
+  date: "2021-11-10"
+  dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
   tracks:
-    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+    - {title: {en: "Package development", es: "Desarrollo de paquetes", pt: "Desenvolvimento de pacotes"} , color: "#90be4e"}
   timeslots:
     - {
-      startTime: "11:00",
-      endTime: "13:00",
-      sessionIds: [009]
+      startTime:  "11:15",
+      endTime:    "11:50",
+      sessionIds: [011,016,024,030]
+    }
+    - {
+      startTime:  "",
+      endTime:    "",
+      sessionIds: [035,995,995,995]
     }
 
 -
-  date: "2020-10-05"
-  dateReadable: {en: "October 5th", es: "5 de octubre", pt: "5 de outubro"}
+  # APLICACIONES: CIENCIAS SOCIALES / POLÍTICAS PÚBLICAS / DATOS GUBERNAMENTALES
+  date: "2021-11-10"
+  dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
   tracks:
-    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+    - {title: {en: "Packages, Models and Applications in Science", es: "Paquetes, Modelos, y Applicaciones en Ciencias", pt: "Pacotes, Modelos e Aplicações Científicas"} , color: "#90be4e"}
   timeslots:
     - {
-      startTime: "15:00",
-      endTime: "17:00",
-      sessionIds: [006]
+      startTime:  "12:00",
+      endTime:    "13:00",
+      sessionIds: [012,022,025,036]
+    }
+    - {
+      startTime:  "",
+      endTime:    "",
+      sessionIds: [039,054,047,031]
+    }
+    - {
+      startTime:  "",
+      endTime:    "",
+      sessionIds: [034,995,995,995]
     }
 
 -
-  date: "2020-10-06"
-  dateReadable: {en: "October 6th", es: "6 de octubre", pt: "6 de outubro"}
+  # APLICACIONES SALUD
+  date: "2021-11-10"
+  dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
   tracks:
-    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+    - {title: {en: "Applications in public health", es: "Applicaciones en salud pública", pt: "Aplicações em saúde pública"} , color: "#90be4e"}
   timeslots:
     - {
-      startTime: "10:00",
-      endTime: "12:00",
-      sessionIds: [007]
+      startTime:  "14:20",
+      endTime:    "14:50",
+      sessionIds: [013,048,061,033]
     }
 
 -
-  date: "2020-10-07"
-  dateReadable: {en: "October 7th", es: "7 de octubre", pt: "7 de outubro"}
+  # ENSEÑANZA
+  date: "2021-11-10"
+  dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
   tracks:
-    - {title: {en: "Single track", es: "Track único", pt: "Track única"} , color: "#90be4e"}
+    - {title: {en: "Teaching R", es: "Enseñanza de R", pt: "Ensino de R"} , color: "#90be4e"}
   timeslots:
     - {
-      startTime: "13:45",
-      endTime: "14:00",
-      sessionIds: [015]  #inaguracion
+      startTime:  "15:00",
+      endTime:    "15:30",
+      sessionIds: [015,017,037,045]
     }
     - {
-      startTime: "14:00",
-      endTime: "15:00",
-      sessionIds: [011]
-    }
-    - {
-      startTime: "15:30",
-      endTime: "16:15",
-      sessionIds: [012]  # minería de textos
-    }
-    - {
-      startTime: "16:30",
-      endTime: "17:00",
-      sessionIds: [013]  # datos espaciales
-    }
-    - {
-      startTime: "17:15",
-      endTime: "17:45",
-      sessionIds: [014]  # modelos y aplicaciones
+      startTime:  "",
+      endTime:    "",
+      sessionIds: [053,995,995,995]
     }
 
+-
+  # COMUNIDAD
+  date: "2021-11-10"
+  dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
+  tracks:
+    - {title: {en: "R community", es: "Comunidad de R", pt: "Comunidade de R"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "15:35",
+      endTime:    "16:00",
+      sessionIds: [050,043,995,995]
+    }
 
 -
-  date: "2020-10-08"
-  dateReadable: {en: "October 8th", es: "8 de octubre", pt: "8 de outubro"}
-  tracks:
-    - {title: {en: "Sessions", es: "Sesiones", pt: "Sessões"} , color: "#90be4e"}
-  timeslots:
+   # INVESTIGACIÓN Y COMUNICACIÓN DE RESULTADOS
+   date: "2021-11-10"
+   dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
+   tracks:
+     - {title: {en: "Research and communication of results", es: "Investigación y comunicación de resultados", pt: "Pesquisa e divulgação de resultados"} , color: "#90be4e"}
+   timeslots:
     - {
-      startTime: "10:00",
-      endTime: "17:00",
-      sessionIds: [016]  # reprohaxk
+      startTime:  "16:10",
+      endTime:    "16:40",
+      sessionIds: [044,056,029,049]
     }
-    - {
-      startTime: "17:30",
-      endTime: "18:15",
-      sessionIds: [017]  # shiny
-    }
-   
+
 -
-  date: "2020-10-09"
-  dateReadable: {en: "October 9th", es: "9 de octubre", pt: "9 de outubro"}
+  # DATOS ESPACIALES
+  date: "2021-11-11"
+  dateReadable: {en: "november 11th", es: "11 de noviembre", pt: "11 de novembro"}
   tracks:
-    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+    - {title: {en: "Spatial data", es: "Datos espaciales", pt: "Dados espaciais"} , color: "#90be4e"}
   timeslots:
     - {
-      startTime: "9:00",
-      endTime: "11:00",
-      sessionIds: [010]  # maëlle
+      startTime:  "10:15",
+      endTime:    "10:45",
+      sessionIds: [038,028,042,009]
     }
-    - {
-      startTime: "11:30",
-      endTime: "12:15",
-      sessionIds: [018]  # desarrollo de paquetes
-    }
-    - {
-      startTime: "12:30",
-      endTime: "13:15",
-      sessionIds: [019]  # políticas sociales
-    }
-    - {
-      startTime: "15:00",
-      endTime: "16:30",
-      sessionIds: [020]  # panel accesibilidady
-    }
+
 -
-  date: "2020-10-10"
-  dateReadable: {en: "October 10th", es: "10 de octubre", pt: "10 de outubro"}
+  # PERIODISMO DE DATOS, DATOS ABIERTOS Y VISUALIZACIÓN
+  date: "2021-11-11"
+  dateReadable: {en: "november 11th", es: "11 de noviembre", pt: "11 de novembro"}
   tracks:
-    - {title: {en: "Workshops", es: "Talleres", pt: "Tutoriales"} , color: "#90be4e"}
+    - {title: {en: "Data journalism, open data and visualization", es: "Periodismo de datos, datos abiertos y visualización", pt: "Jornalismo de dados, dados abertos e visualização"} , color: "#90be4e"}
   timeslots:
     - {
-      startTime: "15:00",
-      endTime: "16:00",
-      sessionIds: [008]
+      startTime:  "12:10",
+      endTime:    "12:40",
+      sessionIds: [057,052,058,027]
+    }
+
+-
+  # KEYNOTE
+  date: "2021-11-12"
+  dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
+  tracks:
+    - {title: {en: "Invited talk", es: "Charla invitada", pt: "Palestra convidada"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "09:00",
+      endTime:    "10:00",
+      sessionIds: [993]
+    }
+
+-
+  # R EN PRODUCCIÓN / COMPUTACIÓN / FLUJOS DE TRABAJO
+  date: "2021-11-12"
+  dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
+  tracks:
+    - {title: {en: "Production, computation and workflows", es: "R en producción, computación y flujos de trabajo", pt: "R em produção, computação e fluxos de trabalho"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "10:10",
+      endTime:    "10:50",
+      sessionIds: [005,046,059,055]
+    }
+    - {
+      startTime:  "",
+      endTime:    "",
+      sessionIds: [010,995,995,995]
+    }
+
+-
+  # DESARROLLO DE PAQUETES Y MODELOS
+  date: "2021-11-12"
+  dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
+  tracks:
+    - {title: {en: "Package development and models", es: "Desarrollo de paquetes y modelos", pt: "Desenvolvimento de pacotes e modelos"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "11:00",
+      endTime:    "12:00",
+      sessionIds: [007,019,032,008]
+    }
+    - {
+      startTime:  "",
+      endTime:    "",
+      sessionIds: [063,023,018,020]
+    }
+    - {
+      startTime:  "",
+      endTime:    "",
+      sessionIds: [006,995,995,995]
+    }
+
+-
+  # DESARROLLO DE PAQUETES Y APLICACIONES EN CIENCIAS
+  date: "2021-11-12"
+  dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
+  tracks:
+    - {title: {en: "Package development and applications in science", es: "Desarrollo de paquetes y aplicaciones en ciencias", pt: "Desenvolvimento de pacotes e aplicações em ciência"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "12:10",
+      endTime:    "12:40",
+      sessionIds: [026,051,060,014]
+    }
+    - {
+      startTime:  "",
+      endTime:    "",
+      sessionIds: [041,995,995,995]
+    }
+
+-
+  # CLOSING
+  date: "2021-11-12"
+  dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
+  tracks:
+    - {title: {en: "End of LatinR", es: "Fin de LatinR", pt: "Fim de LatinR"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "12:40",
+      endTime:    "13:00",
+      sessionIds: [997]
     }
