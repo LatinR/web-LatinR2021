@@ -54,9 +54,9 @@
   speakers: [23]
   description: '<a href = https://arewemeetingyet.com/Montevideo/2020-09-29/10:00/>Horario</a> <br/>
   Modelos de equações estruturais são um conjunto de técnicas usados para representar hipóteses acerca de um estudo/conjunto de dados em termos de parâmetros estruturais e com base num embasamento teórico. Estas técnicas são bastante usadas em Ciências Sociais e Biológicas ou em Psicologia, a exemplo por meio de "path analysis" (análise de caminhos), "mediation analysis" (análise de mediação) ou "latent variable analysis" (análise de variáveis latentes). Neste tutorial, será feita uma breve introdução no tópico, junto a exemplos de estudos prévios. Logo, o participante terá a oportunidade de aprender na prática como produzir e interpretar tais models em R, com diferentes exercícios. Participantes podem trazer seus próprios dados e compartilhar suas próprias experiências. <br/>
-  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por RLadies Rio de Janeiro. Puedes inscribirte a través de cualquiera de estos enlaces:
+  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por RLadies Rio de Janeiro. Puedes inscribirte a través de este enlace:
   <ul>
-    <li> <a href = >RLadies Rio de Janeiro</a> </li>
+    <li> <a href = https://meetu.ps/e/KxMT4/B7C1C/d >RLadies Rio de Janeiro</a> </li>
   </ul>'
 
 - id: 003
@@ -76,9 +76,10 @@
   speakers: [27]
   description: '<a href = https://arewemeetingyet.com/Montevideo/2020-10-01/14:00/>Horario</a> <br/>
   Descripción del taller (próximamente). <br/>
-  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por capítulos de RLadies de Ecuador. Puedes inscribirte a través de cualquiera de estos enlaces:
+  <b>Cómo inscribirse</b>: Este taller será ofrecido de manera conjunta por capítulos de RLadies Guayaquil y R-Ladies. Puedes inscribirte a través de cualquiera de estos enlaces:
   <ul>
-    <li> <a href = >RLadies de Ecuador</a> </li>
+    <li> <a href = https://www.meetup.com/es-ES/rladies-guayaquil/events/281860981/>R-Ladies Guayaquil</a> </li>
+    <li> <a href = https://www.meetup.com/es-ES/rladies-galapagos-islands/events/281861788/>R-Ladies Galápagos</a> </li>
   </ul>'
 
 
