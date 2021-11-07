@@ -331,6 +331,44 @@ University of California, Santa Cruz
   #   - iMettrics
   #   - Universidad de Buenos Aires, Argentina
   #   - R Ladies Buenos Aires
+  # - id: 13
+  #   level: organizer
+  #   thumbnailUrl: default.jpg
+  #   color: '#7FC97F'
+  #   name: Cintia
+  #   surname: Callamullo León
+  #   titles:
+  #   - Fundación Dr. Manuel Sadosky -  Universidad de Buenos Aires
+  #   - R en Buenos Aires
+  # - id: 14
+  #   level: organizer
+  #   thumbnailUrl: default.jpg
+  #   color: '#7FC97F'
+  #   name: Maine
+  #   surname: Fariello
+  #   titles:
+  #   - Universidad de la República
+  #   - R-Ladies Montevideo, Uruguay
+  #   - URU
+  # - id: 15
+  #   level: organizer
+  #   thumbnailUrl: default.jpg
+  #   color: '#7FC97F'
+  #   name: Paula
+  #   surname: Pereda
+  #   titles:
+  #   - Secretaría de Transformación Productiva y Competitividad
+  #   - R-Ladies Montevideo, Uruguay
+  #   - GURU
+  # - id: 16
+  #   level: organizer
+  #   thumbnailUrl: default.jpg
+  #   color: '#7FC97F'
+  #   name: Haydee
+  #   surname: Svab
+  #   titles:
+  #   - ASK-AR Data Consultancy
+  #   - RLadies São Paulo
   - id: 11
     level: organizer
     thumbnailUrl: default.jpg
@@ -396,42 +434,5 @@ University of California, Santa Cruz
 
  
 
-# - id: 13
-  #   level: organizer
-  #   thumbnailUrl: default.jpg
-  #   color: '#7FC97F'
-  #   name: Cintia
-  #   surname: Callamullo León
-  #   titles:
-  #   - Fundación Dr. Manuel Sadosky -  Universidad de Buenos Aires
-  #   - R en Buenos Aires
-  # - id: 14
-  #   level: organizer
-  #   thumbnailUrl: default.jpg
-  #   color: '#7FC97F'
-  #   name: Maine
-  #   surname: Fariello
-  #   titles:
-  #   - Universidad de la República
-  #   - R-Ladies Montevideo, Uruguay
-  #   - URU
-  # - id: 15
-  #   level: organizer
-  #   thumbnailUrl: default.jpg
-  #   color: '#7FC97F'
-  #   name: Paula
-  #   surname: Pereda
-  #   titles:
-  #   - Secretaría de Transformación Productiva y Competitividad
-  #   - R-Ladies Montevideo, Uruguay
-  #   - GURU
-  # - id: 16
-  #   level: organizer
-  #   thumbnailUrl: default.jpg
-  #   color: '#7FC97F'
-  #   name: Haydee
-  #   surname: Svab
-  #   titles:
-  #   - ASK-AR Data Consultancy
-  #   - RLadies São Paulo
+
  
