@@ -91,12 +91,6 @@
   description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
-- id: 019
-  title: "estimtf: paquete de R para la estimación de parámetros de múltiples distribuciones de probabilidad y modelos de regresión usando TensorFlow"
-  language: es
-  # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
-  Descripción de la charla (próximamente)."
 
 - id: 032
   title: "QR: un paquete para la factorización QR sin rotación"
@@ -126,12 +120,7 @@
   description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
-- id: 018
-  title: Algunas extensiones al modelo de segregación de Schelling
-  language: es
-  # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
-  Descripción de la charla (próximamente)."
+
 
 - id: 020
   title: Como implementar algunos modelos de imputación múltiple para datos de panel
