@@ -263,35 +263,35 @@
   title: Uso de R en la validación de un modelo predictivo con aplicación a la enfermedad del asma
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/14:20/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 048
   title: "Ciencia de datos con R con impacto en salud pública: una experiencia de uso de tidyverse para la detección de embarazos"
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/14:20/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 061
   title: ¿Por qué los funcionarios públicos de salud deberían saber R para analizar sus datos?
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/14:20/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 033
   title: "Estimating remaining life expectancy free of anxiety/depression in Argentina: trends and application of an alghoritmic stepwise decomposition for demographic change, 2005-18"
   language: pt
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/14:20/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 015
   title: Scaling feedback using learnr and gradethis in a introductory R course
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/15:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 
@@ -300,56 +300,56 @@
   title: "Aplicaciones shiny para modelos de crecimiento de ecología de poblaciones: una propuesta simple y no simplista para animar al uso de R en cursos introductorios"
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/15:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 045
   title: "Karel la robot enseña R: un paquete para la enseñanza de programación"
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/15:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 053
   title: Un conjunto de paquetes para generar tutoriales interactivos para enseñar R
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/15:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 005
   title: "R en producción: aprendizajes, retos y mejores prácticas"
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/10:10/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 046
   title: "Analogsea: using R for big data analytics"
   language: en
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/10:10/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 059
   title: IBM Cloud Functions com R
   language: pt
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/10:10/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 055
   title: "Más velocidad y menos colapsos: preprocesamiento de archivos con utilidades del sistema operativo"
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/10:10/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 010
   title: Uso de R como front-end en un datawarehouse de gestión académica universitaria
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/10:10/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 057
