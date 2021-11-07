@@ -303,16 +303,16 @@
   #   titles:
   #   - Fundación Dr. Manuel Sadosky -  Universidad de Buenos Aires
   #   - R en Buenos Aires
-  - id: 14
-    level: organizer
-    thumbnailUrl: default.jpg
-    color: '#7FC97F'
-    name: Maine
-    surname: Fariello
-    titles:
-    - Universidad de la República
-    - R-Ladies Montevideo, Uruguay
-    - URU
+  # - id: 14
+  #   level: organizer
+  #   thumbnailUrl: default.jpg
+  #   color: '#7FC97F'
+  #   name: Maine
+  #   surname: Fariello
+  #   titles:
+  #   - Universidad de la República
+  #   - R-Ladies Montevideo, Uruguay
+  #   - URU
   # - id: 15
   #   level: organizer
   #   thumbnailUrl: default.jpg
@@ -332,3 +332,51 @@
   #   titles:
   #   - ASK-AR Data Consultancy
   #   - RLadies São Paulo
+  - id: 16
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Luis D. 
+    surname: Verde Arregoitia
+    titles:
+    - Instituto de Ecología A.C.
+    - id: 17
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Macarena 
+    surname: Quiroga
+    titles:
+    - CIIPME-CONICET
+    - UNaHur
+    - id: 18
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Linda 
+    surname: Cabrera Orellana
+    titles:
+    - R-Ladies Guayaquil
+    - Universidad Técnica de Machala
+    - id: 19
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Samuel 
+    surname: Carleial
+    titles:
+    - University of Konstanz (GER)
+    - id: 20
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Monica 
+    surname: Alonso
+    titles:
+    - RLadies Buenos Aires
+    - Banco Ciudad 
+  
+
+ 
+
+ 
