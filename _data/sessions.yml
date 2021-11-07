@@ -179,7 +179,7 @@
   Descripción de la charla (próximamente)."
 
 - id: 016
-  title: Paquete Calidad, para la evaluación de la presición de estimaciones provenientes de encuestas de hogares
+  title: Paquete Calidad, para la evaluación de la precisión de estimaciones provenientes de encuestas de hogares
   language: es
   # speakers:
   description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
@@ -192,12 +192,7 @@
   description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
-- id: 030
-  title: "ENDES.PE: un paquete para descargar y utilizar la Encuesta Demográfica y de Salud Familiar en Perú"
-  language: es
-  # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
-  Descripción de la charla (próximamente)."
+
 
 - id: 035
   title: "speech: extracción, disponibilización y análisis de discursos parlamentarios en Uruguay"
@@ -248,12 +243,6 @@
   description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
-- id: 047
-  title: Are you watching closely? politicxsentwitteR as a magnifying glass
-  language: en
-  # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
-  Descripción de la charla (próximamente)."
 
 - id: 031
   title: "Análise exploratória de despesas com educação: avaliando impactos em um indicador de rendimento educacional"
@@ -269,8 +258,9 @@
   description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
+
 - id: 013
-  title: Uso se R en la validación de un modelo predictivo con aplicación a la enfermedad del asma
+  title: Uso de R en la validación de un modelo predictivo con aplicación a la enfermedad del asma
   language: es
   # speakers:
   description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
@@ -304,12 +294,7 @@
   description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
-- id: 017
-  title: Enseñanza de R en la Facultad de Economía, UNAM
-  language: es
-  # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
-  Descripción de la charla (próximamente)."
+
 
 - id: 037
   title: "Aplicaciones shiny para modelos de crecimiento de ecología de poblaciones: una propuesta simple y no simplista para animar al uso de R en cursos introductorios"
@@ -409,12 +394,7 @@
   description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
-- id: 044
-  title: Revisión por pares de código en R para la investigación reproducible
-  language: es
-  # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
-  Descripción de la charla (próximamente)."
+
 
 - id: 056
   title: Tablas reproducibles, presentables y con formato numérico local con gtsummary
@@ -437,12 +417,7 @@
   description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
-- id: 038
-  title: "Tobler: um aplicativo shiny para econometria espacial"
-  language: pt
-  # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
-  Descripción de la charla (próximamente)."
+
 
 - id: 028
   title: Soy naturalista y quiero pasear en mi país, ¿dónde hay más oportunidades de llenar vacíos de información?
@@ -458,9 +433,4 @@
   description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
-- id: 009
-  title: Una brillante idea para medir la desigualdad y la actividad económica
-  language: es
-  # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
-  Descripción de la charla (próximamente)."
+
