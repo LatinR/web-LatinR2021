@@ -202,13 +202,6 @@
     surname: Verde Arregoitia
     level: cientifico
     titles: Instituto de Ecología A.C.
-   
-    
-    
-  
- 
-
-
 - level: organizer
   name:
     es: Comité Organizador
@@ -399,9 +392,12 @@
     titles:
     - RLadies Buenos Aires
     - Banco Ciudad 
-  
+  - id: 21
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Pamela 
+    surname: Pairo
+    titles:
+    - 
 
- 
-
-
- 
