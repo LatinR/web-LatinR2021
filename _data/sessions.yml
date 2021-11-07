@@ -88,7 +88,7 @@
   title: "missMSPC: un paquete de herramientas gráficas para aplicar MSPC con datos faltantes"
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/11:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 
@@ -96,28 +96,28 @@
   title: "QR: un paquete para la factorización QR sin rotación"
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/11:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 008
   title: Estimación de un modelo computacional mediante computación Bayesiana Aproximada
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/11:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 063
   title: Feature and variable selection in complex data classification
   language: en
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/11:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 023
   title: "Optimizando @RStatsJobsBot: un modelo de aprendizaje automático para clasificar tweets de ofertas de empleo"
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/11:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 
@@ -126,14 +126,14 @@
   title: Como implementar algunos modelos de imputación múltiple para datos de panel
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/11:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 006
   title: Años potenciales de vida perdidos por siniestros de tránsito en Uruguay
   language: es
   # speakers:
-  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/09:00/>Horario</a> <br/>
+  description: "<a href = https://arewemeetingyet.com/Montevideo/2020-10-07/11:00/>Horario</a> <br/>
   Descripción de la charla (próximamente)."
 
 - id: 026
