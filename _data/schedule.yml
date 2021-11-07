@@ -43,7 +43,7 @@
   date: "2021-11-10"
   dateReadable: {en: "november 10th", es: "10 de noviembre", pt: "10 de novembro"}
   tracks:
-    - {title: {en: "LatinR Start", es: "Início del LatinR", pt: "Início do LatinR"} , color: "#90be4e"}
+    - {title: {en: "LatinR Start", es: "Inicio del LatinR", pt: "Inicio do LatinR"} , color: "#90be4e"}
   timeslots:
     - {
       startTime:  "11:00",
