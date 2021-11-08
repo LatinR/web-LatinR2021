@@ -399,3 +399,13 @@
     color: '#7FC97F'
     name: Pamela 
     surname: Pairo
+  - id: 22
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Jocelyn 
+    surname: Chavez
+    titles:
+    - R-Ladies Cuernavaca
+    - Bioconductor
+    - CDSB México
