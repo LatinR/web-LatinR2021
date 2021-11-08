@@ -88,120 +88,120 @@
    surname: Urdinez
    level: cientifico
    titles: Pontificia Universidad Católica de Chile
-  - id: 15
-    name: Germán
-    surname: Rosati
-    level: cientifico
-    titles: IDAES-UNSAM / CONICET, Argentina
-  - id: 2
-    name: Ignacio
-    surname: Alverez-Castro
-    level: cientifico
-    titles: IESTA-Universidad de la República
-  - id: 21
-    name: Jairo
-    surname: Cugliari
-    level: cientifico
-    titles: ERIC-Université Lumière Lyon 2
-  - id: 25
-    name: Juan Cruz
-    surname: Rodriguez
-    level: cientifico
-    titles: FAMAF - Universidad Nacional de Córdoba
-  - id: 11
-    name: Juan
-    surname: José Goyeneche
-    level: cientifico
-    titles: IESTA-Universidad de la República
-  - id: 23
-    name: Laura
-    surname: Ación
-    level: cientifico
-    titles: LatinR Inaugural Local Chair / UBA-CONICET, Argentina
-  - id: 13
-    name: Leonardo
-    surname: Moreno
-    level: cientifico
-    titles: IESTA-Universidad de la República
-  - id: 22
-    name: Lucia
-    surname: Rodriguez Planes
-    level: cientifico
-    titles: Universidad Nacional de Tierra del Fuego - CONICET
-  - id: 1
-    name: Marcela
-    surname: Alfaro
-    level: cientifico
-    titles: Department of Statistics, University of California, Santa Cruz
-  - id: 6
-    name: Marina
-    surname: Cock
-    level: cientifico
-  - id: 20
-    name: Vianey
-    surname: Leos
-    level: cientifico
-    titles: North Carolina State Universuty
-  - id: 28
-    name: Victoria
-    surname: O'Donell
-    level: cientifico
-    titles: Universidad de Buenos Aires
-  - id: 27
-    name: Zulema
-    surname: Bazurto Blacio
-    level: cientifico
-    titles: Universidad de Guayaquil
-  - id: 28
-    name: Virginia
-    surname: Alonso
-    level: cientifico
-  - id: 29
-    name: Mathias
-    surname: Bourel
-    level: cientifico
-    titles: Facultad de Ingeniería, UDELAR
-  - id: 30
-    name: Naim
-    surname: Bro
-    level: cientifico
-  - id: 31
-    name: Maria José
-    surname: García-Zattera
-    level: cientifico
-  - id: 32
-    name: Ricardo
-    surname: Olea
-    level: cientifico
-  - id: 33
-    name: Natalia
-    surname: Moradeira
-    level: cientifico
-  - id: 34
-    name: Pamela
-    surname: Pairo
-    level: cientifico
-  - id: 35
-    name: Andrés 
-    surname: Sánchez-Tapia
-    level: cientifico
-  - id: 36
-    name: Alejandra 
-    surname: Tapia
-    level: cientifico
-  - id: 37
-    name: Inés
-    surname: varas
-    level: cientifico
-  - id: 38
-    name: Inés
-    surname: Varas
-    level: cientifico
-  - id: 39
-    name:  Luis D. 
-    surname: Verde Arregoitia
-    level: cientifico
-    titles: Instituto de Ecología A.C.
+ - id: 15
+   name: Germán
+   surname: Rosati
+   level: cientifico
+   titles: IDAES-UNSAM / CONICET, Argentina
+ - id: 2
+   name: Ignacio
+   surname: Alverez-Castro
+   level: cientifico
+   titles: IESTA-Universidad de la República
+ - id: 21
+   name: Jairo
+   surname: Cugliari
+   level: cientifico
+   titles: ERIC-Université Lumière Lyon 2
+ - id: 25
+   name: Juan Cruz
+   surname: Rodriguez
+   level: cientifico
+   titles: FAMAF - Universidad Nacional de Córdoba
+ - id: 11
+   name: Juan
+   surname: José Goyeneche
+   level: cientifico
+   titles: IESTA-Universidad de la República
+ - id: 23
+   name: Laura
+   surname: Ación
+   level: cientifico
+   titles: LatinR Inaugural Local Chair / UBA-CONICET, Argentina
+ - id: 13
+   name: Leonardo
+   surname: Moreno
+   level: cientifico
+   titles: IESTA-Universidad de la República
+ - id: 22
+   name: Lucia
+   surname: Rodriguez Planes
+   level: cientifico
+   titles: Universidad Nacional de Tierra del Fuego - CONICET
+ - id: 1
+   name: Marcela
+   surname: Alfaro
+   level: cientifico
+   titles: Department of Statistics, University of California, Santa Cruz
+ - id: 6
+   name: Marina
+   surname: Cock
+   level: cientifico
+ - id: 20
+   name: Vianey
+   surname: Leos
+   level: cientifico
+   titles: North Carolina State Universuty
+ - id: 28
+   name: Victoria
+   surname: O'Donell
+   level: cientifico
+   titles: Universidad de Buenos Aires
+ - id: 27
+   name: Zulema
+   surname: Bazurto Blacio
+   level: cientifico
+   titles: Universidad de Guayaquil
+ - id: 28
+   name: Virginia
+   surname: Alonso
+   level: cientifico
+ - id: 29
+   name: Mathias
+   surname: Bourel
+   level: cientifico
+   titles: Facultad de Ingeniería, UDELAR
+ - id: 30
+   name: Naim
+   surname: Bro
+   level: cientifico
+ - id: 31
+   name: Maria José
+   surname: García-Zattera
+   level: cientifico
+ - id: 32
+   name: Ricardo
+   surname: Olea
+   level: cientifico
+ - id: 33
+   name: Natalia
+   surname: Moradeira
+   level: cientifico
+ - id: 34
+   name: Pamela
+   surname: Pairo
+   level: cientifico
+ - id: 35
+   name: Andrés 
+   surname: Sánchez-Tapia
+   level: cientifico
+ - id: 36
+   name: Alejandra 
+   surname: Tapia
+   level: cientifico
+ - id: 37
+   name: Inés
+   surname: varas
+   level: cientifico
+ - id: 38
+   name: Inés
+   surname: Varas
+   level: cientifico
+ - id: 39
+   name:  Luis D. 
+   surname: Verde Arregoitia
+   level: cientifico
+   titles: Instituto de Ecología A.C.
 
 - level: organizer
   name:
