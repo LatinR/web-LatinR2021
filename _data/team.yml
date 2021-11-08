@@ -84,10 +84,10 @@
     level: cientifico
     titles: Centro de Estudios Públicos (CEP)
  - id: 101
-    name: Francisco
-    surname: Urdinez
-    level: cientifico
-    titles: Pontificia Universidad Católica de Chile
+   name: Francisco
+   surname: Urdinez
+   level: cientifico
+   titles: Pontificia Universidad Católica de Chile
   - id: 15
     name: Germán
     surname: Rosati
@@ -152,56 +152,57 @@
     surname: Bazurto Blacio
     level: cientifico
     titles: Universidad de Guayaquil
-   - id: 28
+  - id: 28
     name: Virginia
     surname: Alonso
     level: cientifico
-   - id: 29
+  - id: 29
     name: Mathias
     surname: Bourel
     level: cientifico
     titles: Facultad de Ingeniería, UDELAR
-   - id: 30
+  - id: 30
     name: Naim
     surname: Bro
     level: cientifico
-   - id: 31
+  - id: 31
     name: Maria José
     surname: García-Zattera
     level: cientifico
-   - id: 32
+  - id: 32
     name: Ricardo
     surname: Olea
     level: cientifico
-   - id: 33
+  - id: 33
     name: Natalia
     surname: Moradeira
     level: cientifico
-   - id: 34
+  - id: 34
     name: Pamela
     surname: Pairo
     level: cientifico
-   - id: 35
+  - id: 35
     name: Andrés 
     surname: Sánchez-Tapia
     level: cientifico
-   - id: 36
+  - id: 36
     name: Alejandra 
     surname: Tapia
     level: cientifico
-   - id: 37
+  - id: 37
     name: Inés
     surname: varas
     level: cientifico
-   - id: 38
+  - id: 38
     name: Inés
     surname: Varas
     level: cientifico
-   - id: 39
+  - id: 39
     name:  Luis D. 
     surname: Verde Arregoitia
     level: cientifico
     titles: Instituto de Ecología A.C.
+
 - level: organizer
   name:
     es: Comité Organizador
@@ -398,6 +399,3 @@
     color: '#7FC97F'
     name: Pamela 
     surname: Pairo
-    titles:
-    - 
-
