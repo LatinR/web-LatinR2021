@@ -219,15 +219,15 @@
   #   titles:
   #   - 'Universidad de Buenos Aires, Argentina '
   #   - R en Buenos Aires, Argentina
-  # - id: 2
-  #   level: organizer
-  #   thumbnailUrl: default.jpg
-  #   color: '#7FC97F'
-  #   name: Paola
-  #   surname: Corrales
-  #   titles:
-  #   - Universidad de Buenos Aires, Argentina
-  #   - R-Ladies BsAs, Argentina
+  - id: 2
+    level: organizer
+    thumbnailUrl: default.jpg
+    color: '#7FC97F'
+    name: Paola
+    surname: Corrales
+    titles:
+    - Universidad de Buenos Aires, Argentina
+    - R-Ladies BsAs, Argentina
   # - id: 3
   #   level: organizer
   #   thumbnailUrl: default.jpg
