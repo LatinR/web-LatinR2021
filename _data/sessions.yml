@@ -33,6 +33,14 @@
   # speakers:
   service: true
 
+- id: 995
+# keynote
+  title: "Building beautiful tables with R and {gt}"
+  language: en
+  # speakers:
+  service: true  
+  
+
 
 
 ### Tutorials ###
