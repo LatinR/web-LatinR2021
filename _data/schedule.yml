@@ -163,6 +163,19 @@
     }
 
 -
+  # KEYNOTE
+  date: "2021-11-11"
+  dateReadable: {en: "november 11th", es: "11 de noviembre", pt: "11 de novembro"}
+  tracks:
+    - {title: {en: "Invited talk", es: "Charla invitada", pt: "Palestra convidada"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "11:00",
+      endTime:    "12:00",
+      sessionIds: [993]
+    }
+
+-
   # PERIODISMO DE DATOS, DATOS ABIERTOS Y VISUALIZACIÓN
   date: "2021-11-11"
   dateReadable: {en: "november 11th", es: "11 de noviembre", pt: "11 de novembro"}
@@ -187,7 +200,7 @@
       endTime:    "09:10",
       sessionIds: [065]
     }
-
+-
   # KEYNOTE
   date: "2021-11-12"
   dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
