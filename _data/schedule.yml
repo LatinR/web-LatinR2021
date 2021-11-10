@@ -172,7 +172,7 @@
     - {
       startTime:  "11:00",
       endTime:    "12:00",
-      sessionIds: [995]
+      sessionIds: [996]
     }
 
 -
@@ -200,6 +200,7 @@
       endTime:    "09:10",
       sessionIds: [065]
     }
+
 -
   # KEYNOTE
   date: "2021-11-12"
@@ -228,7 +229,7 @@
     - {
       startTime:  "",
       endTime:    "",
-      sessionIds: [010,995,995,995]
+      sessionIds: [010,995]
     }
 
 -
@@ -251,7 +252,7 @@
     - {
       startTime:  "",
       endTime:    "",
-      sessionIds: [006,995,995,995]
+      sessionIds: [006,995]
     }
 
 -
