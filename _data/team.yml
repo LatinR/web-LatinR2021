@@ -182,7 +182,7 @@
     surname: Pairo
     level: cientifico
   - id: 35
-    name: Andrés 
+    name: Andréa 
     surname: Sánchez-Tapia
     level: cientifico
   - id: 36
@@ -192,10 +192,6 @@
   - id: 37
     name: Inés
     surname: varas
-    level: cientifico
-  - id: 38
-    name: Inés
-    surname: Varas
     level: cientifico
   - id: 39
     name:  Luis D. 
