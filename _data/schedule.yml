@@ -176,6 +176,18 @@
     }
 
 -
+  # CHARLA SPONSOR APPSILON
+  date: "2021-11-12"
+  dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
+  tracks:
+    - {title: {en: "Sponsor talk", es: "Charla de Sponsor", pt: "Palestra Sponsor"} , color: "#90be4e"}
+  timeslots:
+    - {
+      startTime:  "09:00",
+      endTime:    "09:10",
+      sessionIds: [065]
+    }
+
   # KEYNOTE
   date: "2021-11-12"
   dateReadable: {en: "november 12th", es: "12 de noviembre", pt: "12 de novembro"}
@@ -183,7 +195,7 @@
     - {title: {en: "Invited talk", es: "Charla invitada", pt: "Palestra convidada"} , color: "#90be4e"}
   timeslots:
     - {
-      startTime:  "09:00",
+      startTime:  "09:10",
       endTime:    "10:00",
       sessionIds: [993]
     }
