@@ -54,7 +54,8 @@ en:
   heroButtons:
   # - {permalink: "https://easychair.org/cfp/latinr2021", text: "Call for Papers"}
    - {permalink: "/schedule", text: "Schedule"}
-   - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Register here!"}
+   - {permalink: "https://www.youtube.com/LatinR", text: "YouTube Streaming"}
+  # - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Register here!"}
 
   #aboutJAIIO: 'We are part of <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organised by <a href = "http://www.sadio.org.ar/">SADIO</a> and <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
@@ -147,7 +148,8 @@ es:
   heroButtons:
    #- {permalink: "https://easychair.org/cfp/latinr2021", text: "Convocatoria a presentar trabajos"}
    - {permalink: "/cronograma", text: "Cronograma"}
-   - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Registrate acá!"}
+   - {permalink: "https://www.youtube.com/LatinR", text: "Streaming a YouTube"}
+   #- {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Registrate acá!"}
 
   # about
   # aboutJAIIO: 'Somos parte de las <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizadas por <a href = "http://www.sadio.org.ar/">SADIO</a> y co-organizadas por <a href = "http://www.palermo.edu/">UP</a>.'
@@ -249,7 +251,8 @@ pt:
   heroButtons:
    # - {permalink: "https://easychair.org/cfp/latinr2021", text: "Chamada de trabalhos"}
    - {permalink: "/programacao", text: "Programação"}
-   - {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Assine aqui!"}
+   - {permalink: "https://www.youtube.com/LatinR", text: "YouTube Streaming"}
+   #- {permalink: "https://www.eventbrite.cl/e/latinr-2021-conferencia-latinoamericana-sobre-uso-de-r-en-id-tickets-198379276757", text: "Assine aqui!"}
 
   # aboutJAIIO: 'Somos parte da <a href = "http://47jaiio.sadio.org.ar/">47 JAIIO</a>, organizado por <a href = "http://www.sadio.org.ar/">SADIO</a> e <a href = "http://www.palermo.edu/">UP</a>.'
   aboutBlock:
